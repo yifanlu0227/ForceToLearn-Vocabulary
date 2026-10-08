@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Force to Learn update manifest v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "contentVersion",
+    "minAppVersionCode",
+    "publishedOn",
+    "catalog"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "contentVersion": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "minAppVersionCode": {
+      "type": "integer",
+      "minimum": 3
+    },
+    "publishedOn": {
+      "type": "string",
+      "format": "date"
+    },
+    "catalog": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256",
+        "byteLength",
+        "entryCount"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^releases/v[1-9][0-9]*-[a-f0-9]{12}\\.json$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "byteLength": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 5242880
+        },
+        "entryCount": {
+          "type": "integer",
+          "minimum": 4,
+          "maximum": 10000
+        }
+      }
+    }
+  }
+}

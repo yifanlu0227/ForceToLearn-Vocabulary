@@ -1,0 +1,469 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "locale": "en-CA",
+  "definitionLocale": "zh-CN",
+  "updatedOn": "2026-10-07",
+  "lessons": [
+    {
+      "id": "transit-driving-outdoors",
+      "title": "交通 · 驾驶 · 户外",
+      "publishedOn": "2026-10-07",
+      "entryIds": [
+        "cul-de-sac-residential",
+        "on-ramp-highway-entry",
+        "off-ramp-highway-exit",
+        "blinker-turn-signal",
+        "spare-tire-backup",
+        "crosswalk-pedestrian",
+        "fare-transit-price",
+        "bumper-to-bumper-traffic",
+        "pull-over-stop-car",
+        "one-way-street-direction",
+        "carsick-motion"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "blinker-turn-signal",
+      "revision": 1,
+      "term": "blinker",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "转向灯",
+      "explanationZh": "驾驶时用来告诉其他人你准备转弯或变道的灯。",
+      "forms": [
+        {
+          "text": "blinker",
+          "locale": "en-CA",
+          "respelling": "BLINK-er",
+          "ipa": null,
+          "speakText": "blinker",
+          "audio": null
+        },
+        {
+          "text": "turn signal",
+          "locale": "en-CA",
+          "respelling": "TURN SIG-nul",
+          "ipa": null,
+          "speakText": "turn signal",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Use your blinker before you change lanes.",
+          "zh": "变道前打转向灯。",
+          "scenarioZh": "日常驾驶"
+        }
+      ],
+      "usageNotesZh": [
+        "blinker 更口语，turn signal 较正式。动词可以用 signal：He didn't signal.（他没打灯。）"
+      ],
+      "tags": [
+        "driving"
+      ],
+      "listeningPrompt": "blinker",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "bumper-to-bumper-traffic",
+      "revision": 1,
+      "term": "bumper-to-bumper",
+      "partsOfSpeech": [
+        "adjective",
+        "adverb"
+      ],
+      "definitionZh": "车贴车的严重堵车",
+      "explanationZh": "形容车流十分拥堵，车之间几乎没有空隙。",
+      "forms": [
+        {
+          "text": "bumper-to-bumper",
+          "locale": "en-CA",
+          "respelling": "BUHM-per-tuh-BUHM-per",
+          "ipa": null,
+          "speakText": "bumper-to-bumper",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Traffic was bumper-to-bumper the whole way home.",
+          "zh": "一路回家全程堵得车贴车。",
+          "scenarioZh": "描述交通"
+        }
+      ],
+      "usageNotesZh": [
+        "常与 traffic 连用，比 traffic jam 更形象。bumper 就是汽车保险杠。"
+      ],
+      "tags": [
+        "driving",
+        "transit"
+      ],
+      "listeningPrompt": "bumper-to-bumper",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "carsick-motion",
+      "revision": 1,
+      "term": "carsick",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "晕车的",
+      "explanationZh": "坐车时头晕、恶心或想吐。",
+      "forms": [
+        {
+          "text": "carsick",
+          "locale": "en-CA",
+          "respelling": "KAR-sik",
+          "ipa": null,
+          "speakText": "carsick",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "I get carsick if I read in the car.",
+          "zh": "我在车里看书就会晕车。",
+          "scenarioZh": "出行聊天"
+        }
+      ],
+      "usageNotesZh": [
+        "seasick 是晕船，airsick 是晕机，统称 motion sickness。"
+      ],
+      "tags": [
+        "transit",
+        "daily-life"
+      ],
+      "listeningPrompt": "carsick",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "crosswalk-pedestrian",
+      "revision": 1,
+      "term": "crosswalk",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "人行横道；斑马线",
+      "explanationZh": "行人横过道路的指定区域。",
+      "forms": [
+        {
+          "text": "crosswalk",
+          "locale": "en-CA",
+          "respelling": "KRAWS-wawk",
+          "ipa": null,
+          "speakText": "crosswalk",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Wait for the light and cross at the crosswalk.",
+          "zh": "等信号灯，走人行横道过马路。",
+          "scenarioZh": "步行出门"
+        }
+      ],
+      "usageNotesZh": [
+        "北美常用 crosswalk，英式英语也会说 zebra crossing。right of way 是“先行权”的说法；实际通行要结合路口信号和当地规则。"
+      ],
+      "tags": [
+        "transit",
+        "outdoors"
+      ],
+      "listeningPrompt": "crosswalk",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "cul-de-sac-residential",
+      "revision": 1,
+      "term": "cul-de-sac",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "尽头有圆形回车道的住宅小街",
+      "explanationZh": "常见于郊区住宅区，街道没有贯通的出口，车进去后需要掉头返回。",
+      "forms": [
+        {
+          "text": "cul-de-sac",
+          "locale": "en-CA",
+          "respelling": "KUL-duh-sak",
+          "ipa": null,
+          "speakText": "cul-de-sac",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "They live in a quiet cul-de-sac, so kids can play on the street.",
+          "zh": "他们住在一条安静的尽头小街，孩子可以在街上玩。",
+          "scenarioZh": "聊居住环境"
+        }
+      ],
+      "usageNotesZh": [
+        "房产广告常把 cul-de-sac 当作安静、车少的卖点。dead end 泛指不通的路，不一定有回车圈；court 也会出现在这类街道的名称里。"
+      ],
+      "tags": [
+        "housing",
+        "driving"
+      ],
+      "listeningPrompt": "cul-de-sac",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "fare-transit-price",
+      "revision": 1,
+      "term": "fare",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "乘车费用；票价",
+      "explanationZh": "公交、地铁、出租车或网约车的乘车价格。",
+      "forms": [
+        {
+          "text": "fare",
+          "locale": "en-CA",
+          "respelling": "FAIR",
+          "ipa": null,
+          "speakText": "fare",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "The bus fare went up to three dollars.",
+          "zh": "公交车费涨到三块了。",
+          "scenarioZh": "公共交通"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：transit fare、pay your fare、fare evasion（逃票）。别和同音的 fair（公平；展会）混淆。"
+      ],
+      "tags": [
+        "transit",
+        "money"
+      ],
+      "listeningPrompt": "bus fare",
+      "homophoneGroup": "fair-fare",
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "off-ramp-highway-exit",
+      "revision": 1,
+      "term": "off-ramp",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "高速公路出口匝道",
+      "explanationZh": "驶离高速公路，通往普通道路的出口道路。",
+      "forms": [
+        {
+          "text": "off-ramp",
+          "locale": "en-CA",
+          "respelling": "OFF-ramp",
+          "ipa": null,
+          "speakText": "off-ramp",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Take the next off-ramp and turn left at the lights.",
+          "zh": "走下一个出口匝道，到红绿灯左转。",
+          "scenarioZh": "导航与驾驶"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大也常用 exit 指高速出口，比如 Take exit 12。on-ramp 是入口，off-ramp 是出口。"
+      ],
+      "tags": [
+        "driving",
+        "transit"
+      ],
+      "listeningPrompt": "off-ramp",
+      "homophoneGroup": null,
+      "confusableEntryIds": [
+        "on-ramp-highway-entry"
+      ],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "on-ramp-highway-entry",
+      "revision": 1,
+      "term": "on-ramp",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "高速公路入口匝道",
+      "explanationZh": "连接普通道路和高速公路，用来驶入高速的道路。",
+      "forms": [
+        {
+          "text": "on-ramp",
+          "locale": "en-CA",
+          "respelling": "ON-ramp",
+          "ipa": null,
+          "speakText": "on-ramp",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Use the on-ramp to get onto the highway.",
+          "zh": "从入口匝道上高速。",
+          "scenarioZh": "导航与驾驶"
+        }
+      ],
+      "usageNotesZh": [
+        "导航里可能听到 merge onto the on-ramp。英式英语常用 slip road。"
+      ],
+      "tags": [
+        "driving",
+        "transit"
+      ],
+      "listeningPrompt": "on-ramp",
+      "homophoneGroup": null,
+      "confusableEntryIds": [
+        "off-ramp-highway-exit"
+      ],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "one-way-street-direction",
+      "revision": 1,
+      "term": "one-way street",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "单行道",
+      "explanationZh": "车辆只能朝一个方向行驶的街道。",
+      "forms": [
+        {
+          "text": "one-way street",
+          "locale": "en-CA",
+          "respelling": "WUHN-way STREET",
+          "ipa": null,
+          "speakText": "one-way street",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "Careful, that's a one-way street — you can't turn there.",
+          "zh": "小心，那是单行道，不能往那拐。",
+          "scenarioZh": "市中心导航"
+        }
+      ],
+      "usageNotesZh": [
+        "one-way 也可以比喻“单方面”，比如 a one-way relationship。"
+      ],
+      "tags": [
+        "driving",
+        "transit"
+      ],
+      "listeningPrompt": "one-way street",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "pull-over-stop-car",
+      "revision": 1,
+      "term": "pull over",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "把车靠边停下",
+      "explanationZh": "把车驶向路边并停下来。",
+      "forms": [
+        {
+          "text": "pull over",
+          "locale": "en-CA",
+          "respelling": "PUUL OH-ver",
+          "ipa": null,
+          "speakText": "pull over",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "A cop signaled me to pull over.",
+          "zh": "一个警察示意我靠边停车。",
+          "scenarioZh": "日常驾驶"
+        }
+      ],
+      "usageNotesZh": [
+        "get pulled over 指被警察拦下；主动靠边停也可以说 Let's pull over and check the map."
+      ],
+      "tags": [
+        "driving"
+      ],
+      "listeningPrompt": "pull over",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    },
+    {
+      "id": "spare-tire-backup",
+      "revision": 1,
+      "term": "spare tire",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "备胎",
+      "explanationZh": "车上的轮胎出现问题时，用来临时替换的备用轮胎。",
+      "forms": [
+        {
+          "text": "spare tire",
+          "locale": "en-CA",
+          "respelling": "SPAIR TY-er",
+          "ipa": null,
+          "speakText": "spare tire",
+          "audio": null
+        }
+      ],
+      "examples": [
+        {
+          "en": "I keep a spare tire and a jack in the trunk.",
+          "zh": "我后备箱里放着备胎和千斤顶。",
+          "scenarioZh": "汽车用品"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大和美国写 tire，英式拼写为 tyre。donut 可以指小号临时备胎；spare tire 也可开玩笑形容腰间赘肉。"
+      ],
+      "tags": [
+        "driving",
+        "shopping"
+      ],
+      "listeningPrompt": "spare tire",
+      "homophoneGroup": null,
+      "confusableEntryIds": [],
+      "addedOn": "2026-10-07",
+      "updatedOn": "2026-10-07"
+    }
+  ]
+}

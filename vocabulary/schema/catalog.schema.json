@@ -1,0 +1,322 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Force to Learn vocabulary catalog v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "contentVersion",
+    "locale",
+    "definitionLocale",
+    "updatedOn",
+    "lessons",
+    "entries"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "contentVersion": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "locale": {
+      "const": "en-CA"
+    },
+    "definitionLocale": {
+      "const": "zh-CN"
+    },
+    "updatedOn": {
+      "type": "string",
+      "format": "date"
+    },
+    "lessons": {
+      "type": "array",
+      "maxItems": 10000,
+      "items": {
+        "$ref": "#/$defs/lesson"
+      }
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 10000,
+      "items": {
+        "$ref": "#/$defs/entry"
+      }
+    }
+  },
+  "$defs": {
+    "audio": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "sha256"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^audio/[a-z0-9][a-z0-9/_-]*\\.(mp3|wav|ogg)$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "form": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "locale",
+        "respelling",
+        "ipa",
+        "speakText",
+        "audio"
+      ],
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "locale": {
+          "enum": [
+            "en-CA",
+            "en-US",
+            "en-GB"
+          ]
+        },
+        "respelling": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "ipa": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "speakText": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "audio": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/audio"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "example": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "zh",
+        "scenarioZh"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "scenarioZh": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "revision",
+        "term",
+        "partsOfSpeech",
+        "definitionZh",
+        "explanationZh",
+        "forms",
+        "examples",
+        "usageNotesZh",
+        "tags",
+        "listeningPrompt",
+        "homophoneGroup",
+        "confusableEntryIds",
+        "addedOn",
+        "updatedOn"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9._-]{2,79}$"
+        },
+        "revision": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "term": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "partsOfSpeech": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "noun",
+              "verb",
+              "adjective",
+              "adverb",
+              "phrasal_verb",
+              "phrase",
+              "preposition",
+              "interjection"
+            ]
+          }
+        },
+        "definitionZh": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S",
+          "maxLength": 160
+        },
+        "explanationZh": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S",
+          "maxLength": 3000
+        },
+        "forms": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "items": {
+            "$ref": "#/$defs/form"
+          }
+        },
+        "examples": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "items": {
+            "$ref": "#/$defs/example"
+          }
+        },
+        "usageNotesZh": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S",
+            "maxLength": 3000
+          }
+        },
+        "tags": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 15,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        },
+        "listeningPrompt": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "homophoneGroup": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9._-]{2,79}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "confusableEntryIds": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9._-]{2,79}$"
+          }
+        },
+        "addedOn": {
+          "type": "string",
+          "format": "date"
+        },
+        "updatedOn": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "lesson": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "publishedOn",
+        "entryIds"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9._-]{2,79}$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "publishedOn": {
+          "type": "string",
+          "format": "date"
+        },
+        "entryIds": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9._-]{2,79}$"
+          }
+        }
+      }
+    }
+  }
+}

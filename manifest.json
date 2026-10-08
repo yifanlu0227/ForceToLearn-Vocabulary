@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "minAppVersionCode": 3,
+  "publishedOn": "2026-10-07",
+  "catalog": {
+    "path": "releases/v2-82bc26b7adbc.json",
+    "sha256": "82bc26b7adbcbc7b392f9cdd98da100bb28153d1ef1fafa9904e91506d2ac985",
+    "byteLength": 12984,
+    "entryCount": 11
+  }
+}
