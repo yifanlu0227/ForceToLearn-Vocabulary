@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-10-everyday",
+  "title": "加拿大生活：户外活动与驾驶",
+  "publishedOn": "2026-10-10",
+  "entries": [
+    {
+      "id": "rain-date",
+      "term": "rain date",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "活动因下雨而改期的备用日期",
+      "explanationZh": "组织户外活动时，提前安排的雨天备用日期。社区活动、烧烤和户外演出通知里很常见。",
+      "examples": [
+        {
+          "en": "The barbecue is on Saturday, with Sunday as the rain date.",
+          "zh": "烧烤活动定在周六，如果下雨就改到周日。",
+          "scenarioZh": "邻居通知周末烧烤活动安排"
+        }
+      ],
+      "usageNotesZh": [
+        "常见表达：The rain date is Sunday.（如果下雨，活动就改到周日。）"
+      ],
+      "tags": [
+        "events",
+        "weather"
+      ]
+    },
+    {
+      "id": "turn-signal",
+      "term": "turn signal",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "转向灯",
+      "explanationZh": "开车转弯或变道前，用来向其他驾驶者表示方向的灯。加拿大日常驾驶中也常说 blinker，两种表达都值得掌握。",
+      "examples": [
+        {
+          "en": "Use your turn signal before you change lanes.",
+          "zh": "变道前先打转向灯。",
+          "scenarioZh": "驾驶教练提醒学员变道时打灯"
+        }
+      ],
+      "usageNotesZh": [
+        "turn signal 和 blinker 都表示转向灯；signal 也可以作动词，表示打转向灯。"
+      ],
+      "tags": [
+        "driving"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-your-batch-id",
+  "title": "替换为本批次主题",
+  "publishedOn": "2026-10-10",
+  "entries": [
+    {
+      "id": "rain-date",
+      "term": "rain date",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "活动因下雨而改期的备用日期",
+      "explanationZh": "组织户外活动时，提前安排的雨天备用日期。社区活动、烧烤和户外演出通知里很常见。",
+      "examples": [
+        {
+          "en": "The barbecue is on Saturday, with Sunday as the rain date.",
+          "zh": "烧烤活动定在周六，如果下雨就改到周日。",
+          "scenarioZh": "邻居通知周末烧烤活动安排"
+        }
+      ],
+      "usageNotesZh": [
+        "常见表达：The rain date is Sunday.（如果下雨，活动就改到周日。）"
+      ],
+      "tags": [
+        "events",
+        "weather"
+      ]
+    }
+  ]
+}

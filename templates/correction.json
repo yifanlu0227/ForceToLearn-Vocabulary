@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "correctionId": "fix-your-correction-id",
+  "publishedOn": "2026-10-10",
+  "changes": [
+    {
+      "action": "update",
+      "id": "blinker-turn-signal",
+      "expectedRevision": 1,
+      "entry": {
+        "id": "blinker-turn-signal",
+        "term": "blinker",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "definitionZh": "转向灯",
+        "explanationZh": "驾驶时用来告诉其他人你准备转弯或变道的灯。",
+        "examples": [
+          {
+            "en": "Use your blinker before you change lanes.",
+            "zh": "变道前打转向灯。",
+            "scenarioZh": "日常驾驶"
+          }
+        ],
+        "usageNotesZh": [
+          "blinker 更口语，turn signal 较正式。动词可以用 signal：He didn't signal.（他没打灯。）"
+        ],
+        "tags": [
+          "driving"
+        ]
+      }
+    }
+  ]
+}

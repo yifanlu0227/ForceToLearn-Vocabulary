@@ -3,3 +3,5 @@ __pycache__/
 *.sqlite3-wal
 *.sqlite3-shm
 manifest.json.tmp
+.venv/
+vocabulary/dist/

@@ -1,0 +1,50 @@
+name: Publish vocabulary
+on:
+  push:
+    branches: [main]
+    paths:
+      - "baseline/**"
+      - "batches/**"
+      - "corrections/**"
+      - "templates/**"
+      - "vocabulary/schema/**"
+      - "scripts/**"
+      - ".github/workflows/**"
+      - "INSTRUCTIONS.md"
+      - "README.md"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: vocabulary-main
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r scripts/requirements-vocabulary.txt
+      - run: python scripts/build_vocabulary.py --check
+      - run: python -m unittest discover -s scripts/tests -v
+  publish:
+    needs: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r scripts/requirements-vocabulary.txt
+      - run: python scripts/publish_vocabulary.py
+        env:
+          GH_TOKEN: ${{ github.token }}

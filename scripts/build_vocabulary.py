@@ -171,7 +171,7 @@ def prepare_release(source, output, database=None, min_app_version=3, catalog=No
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("source", type=Path)
+    parser.add_argument("source", type=Path, nargs="?", help="旧格式完整词库或 SQLite；省略时聚合增量源文件")
     parser.add_argument("--output", type=Path, default=ROOT / "vocabulary/dist")
     parser.add_argument("--database", type=Path, help="创建一个新的本地示例词库数据库")
     parser.add_argument("--min-app-version", type=int, default=3)
@@ -179,7 +179,27 @@ def main():
     parser.add_argument("--version", type=int, help="数据库导出时的新内容版本号")
     parser.add_argument("--updated-on", help="数据库导出时的日期 YYYY-MM-DD")
     parser.add_argument("--check", action="store_true", help="仅校验，不生成文件")
+    parser.add_argument("--source-root", type=Path, default=ROOT, help="增量词库仓库目录")
+    parser.add_argument("--lookup", help="只查询匹配主词及来源，不读取整份词库到输出")
     args = parser.parse_args()
+    if args.source is None:
+        from incremental_vocabulary import compile_sources, prepare_incremental_release
+        if args.from_database or args.database or args.version is not None or args.updated_on:
+            parser.error("增量维护不需要手工填写版本号或数据库参数")
+        try:
+            if args.lookup is not None:
+                print(json_text(compile_sources(args.source_root).lookup(args.lookup)), end="")
+            elif args.check:
+                result = compile_sources(args.source_root)
+                print(f"校验通过：{len(result.active)} 个有效词条，{len(result.records) - len(result.active)} 个归档词条；查重只比较主词 term")
+            else:
+                report = prepare_incremental_release(args.source_root, args.output)
+                print(json_text(report), end="")
+        except (ValueError, OSError) as error:
+            parser.exit(1, f"词库检查失败：{error}\n")
+        return
+    if args.lookup is not None:
+        parser.error("--lookup 用于增量源文件查询，请省略 source 参数")
     if args.from_database and (args.version is None or args.updated_on is None or args.database):
         parser.error("数据库导出需指定 --version 和 --updated-on，并且不能同时创建示例数据库")
     catalog = read_database(args.source, args.version, args.updated_on) if args.from_database else None
