@@ -40,7 +40,10 @@ class Releases:
                 # them, which lets a later Actions run resume an interrupted upload.
                 pages = json.loads(self.run(["gh", "api", f"repos/{self.repository}/releases?per_page=100",
                                              "--paginate", "--slurp"], self.cwd))
-                matches = [release for page in pages for release in page if release["tag_name"] == tag]
+                expected_name = f"词库 v{tag.removeprefix('vocab-v')}"
+                matches = [release for page in pages for release in page
+                           if release["tag_name"] == tag or (release["draft"] and release["name"] == expected_name
+                                                           and release["tag_name"].startswith("untagged-"))]
                 if len(matches) > 1:
                     raise ValueError(f"{tag} 存在多个草稿，请保留一份发布记录")
                 return matches[0] if matches else None
@@ -69,10 +72,10 @@ class Releases:
             if not self.matches(existing, output, manifest):
                 raise ValueError(f"已发布的 {tag} 内容不同，不能覆盖")
             return
-        metadata = {"name": f"词库 v{manifest['contentVersion']}", "body": body,
+        metadata = {"tag_name": tag, "name": f"词库 v{manifest['contentVersion']}", "body": body,
                     "draft": True, "prerelease": False, "make_latest": "false", "target_commitish": commit}
         if existing is None:
-            release = self.api(f"repos/{self.repository}/releases", "POST", {"tag_name": tag, **metadata})
+            release = self.api(f"repos/{self.repository}/releases", "POST", metadata)
         else:
             release = self.api(f"repos/{self.repository}/releases/{existing['id']}", "PATCH", metadata)
         self.run(["gh", "release", "upload", tag, str(output / "manifest.json"),
@@ -82,7 +85,7 @@ class Releases:
         if not self.matches(release, output, manifest):
             raise ValueError(f"{tag} 的上传文件未通过回读校验；保留旧更新清单")
         self.api(f"repos/{self.repository}/releases/{release['id']}", "PATCH",
-                 {"draft": False, "make_latest": "false"})
+                 {"tag_name": tag, "draft": False, "make_latest": "false"})
 
 
 def release_notes(report, catalog, commit):

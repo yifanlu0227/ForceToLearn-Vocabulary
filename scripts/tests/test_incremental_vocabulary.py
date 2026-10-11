@@ -234,12 +234,20 @@ class MemoryReleases:
 
 class ReleaseTransportTests(unittest.TestCase):
     def test_interrupted_draft_is_found_even_when_tag_endpoint_returns_404(self):
-        draft = {"id": 42, "tag_name": "vocab-v4", "draft": True, "assets": []}
+        draft = {"id": 42, "tag_name": "vocab-v4", "name": "词库 v4", "draft": True, "assets": []}
         def run(arguments, cwd, input_text=None):
             if "/releases/tags/" in arguments[2]:
                 raise CommandError("gh: Not Found (HTTP 404)")
             self.assertEqual(["--paginate", "--slurp"], arguments[-2:])
-            return json.dumps([[{"tag_name": "app-v0.4.1"}], [draft]])
+            return json.dumps([[{"tag_name": "app-v0.4.1", "draft": False}], [draft]])
+        self.assertEqual(draft, Releases("test/repo", Path.cwd(), run).get("vocab-v4"))
+
+    def test_untagged_interrupted_draft_can_resume_by_its_vocabulary_name(self):
+        draft = {"id": 42, "tag_name": "untagged-example", "name": "词库 v4", "draft": True, "assets": []}
+        def run(arguments, cwd, input_text=None):
+            if "/releases/tags/" in arguments[2]:
+                raise CommandError("HTTP 404")
+            return json.dumps([[draft]])
         self.assertEqual(draft, Releases("test/repo", Path.cwd(), run).get("vocab-v4"))
 
     def test_permissions_failure_is_not_mistaken_for_missing_release(self):
@@ -257,6 +265,7 @@ class ReleaseTransportTests(unittest.TestCase):
                 return ""
             if input_text is not None:
                 value = json.loads(input_text)
+                self.assertEqual("vocab-v4", value["tag_name"])
                 if not value["draft"]:
                     self.assertEqual("false", value["make_latest"])
                 return json.dumps(draft)
