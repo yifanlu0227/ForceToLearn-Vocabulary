@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
-"""Validate a catalog and prepare an immutable GitHub-downloadable release.
+"""Validate JSON vocabulary and prepare an immutable GitHub-downloadable release.
 
 This is local preparation only: it does not create repositories or upload files.
-An optional fresh SQLite database demonstrates the independent editorial schema.
 """
 import argparse
 import hashlib
 import json
 import shutil
-import sqlite3
 from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
@@ -52,68 +50,7 @@ def validate_catalog(catalog):
             raise ValueError(f"{lesson['id']}: 主题引用了不存在的词条")
 
 
-def write_sample_database(path, catalog, payload, digest):
-    if path.exists():
-        raise ValueError("示例数据库已存在；请指定新的路径，避免覆盖维护中的数据库")
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with sqlite3.connect(path) as db:
-        db.executescript((ROOT / "vocabulary/schema/lexicon.sql").read_text())
-        for entry in catalog["entries"]:
-            db.execute("INSERT INTO entries VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", (
-                entry["id"], entry["revision"], entry["term"], json_text(entry["partsOfSpeech"]),
-                entry["definitionZh"], entry["explanationZh"], json_text(entry["usageNotesZh"]),
-                json_text(entry["tags"]), entry["listeningPrompt"], entry["homophoneGroup"],
-                json_text(entry["confusableEntryIds"]), entry["addedOn"], entry["updatedOn"], "published"))
-            for position, form in enumerate(entry["forms"]):
-                audio = form["audio"] or {}
-                db.execute("INSERT INTO forms VALUES (?,?,?,?,?,?,?,?,?)", (
-                    entry["id"], position, form["text"], form["locale"], form["respelling"],
-                    form["ipa"], form["speakText"], audio.get("path"), audio.get("sha256")))
-            for position, example in enumerate(entry["examples"]):
-                db.execute("INSERT INTO examples VALUES (?,?,?,?,?)", (
-                    entry["id"], position, example["en"], example["zh"], example["scenarioZh"]))
-        for lesson in catalog["lessons"]:
-            db.execute("INSERT INTO lessons VALUES (?,?,?)", (lesson["id"], lesson["title"], lesson["publishedOn"]))
-            for position, entry_id in enumerate(lesson["entryIds"]):
-                db.execute("INSERT INTO lesson_entries VALUES (?,?,?)", (lesson["id"], entry_id, position))
-        db.execute("INSERT INTO releases VALUES (?,?,?,?,?,?,?)", (
-            catalog["contentVersion"], catalog["schemaVersion"], catalog["updatedOn"], digest,
-            len(payload), len(catalog["entries"]), payload.decode("utf-8")))
-
-
-def read_database(path, version, updated_on):
-    if not path.is_file():
-        raise ValueError("词库数据库不存在")
-    with sqlite3.connect(f"{path.resolve().as_uri()}?mode=ro", uri=True) as db:
-        db.row_factory = sqlite3.Row
-        entries = []
-        for row in db.execute("SELECT * FROM entries WHERE status = 'published' ORDER BY added_on, id"):
-            forms = []
-            for form in db.execute("SELECT * FROM forms WHERE entry_id = ? ORDER BY position", (row["id"],)):
-                audio = {"path": form["audio_path"], "sha256": form["audio_sha256"]} if form["audio_path"] else None
-                forms.append({"text": form["text"], "locale": form["locale"], "respelling": form["respelling"],
-                              "ipa": form["ipa"], "speakText": form["speak_text"], "audio": audio})
-            examples = [{"en": item["english"], "zh": item["chinese"], "scenarioZh": item["scenario_zh"]}
-                        for item in db.execute("SELECT * FROM examples WHERE entry_id = ? ORDER BY position", (row["id"],))]
-            entries.append({"id": row["id"], "revision": row["revision"], "term": row["term"],
-                            "partsOfSpeech": json.loads(row["parts_of_speech_json"]), "definitionZh": row["definition_zh"],
-                            "explanationZh": row["explanation_zh"], "forms": forms, "examples": examples,
-                            "usageNotesZh": json.loads(row["usage_notes_zh_json"]), "tags": json.loads(row["tags_json"]),
-                            "listeningPrompt": row["listening_prompt"], "homophoneGroup": row["homophone_group"],
-                            "confusableEntryIds": json.loads(row["confusable_entry_ids_json"]),
-                            "addedOn": row["added_on"], "updatedOn": row["updated_on"]})
-        lessons = []
-        for row in db.execute("SELECT * FROM lessons ORDER BY published_on, id"):
-            ids = [item[0] for item in db.execute(
-                "SELECT le.entry_id FROM lesson_entries le JOIN entries e ON e.id = le.entry_id "
-                "WHERE le.lesson_id = ? AND e.status = 'published' ORDER BY le.position", (row["id"],))]
-            if ids:
-                lessons.append({"id": row["id"], "title": row["title"], "publishedOn": row["published_on"], "entryIds": ids})
-    return {"schemaVersion": 1, "contentVersion": version, "locale": "en-CA", "definitionLocale": "zh-CN",
-            "updatedOn": updated_on, "lessons": lessons, "entries": entries}
-
-
-def prepare_release(source, output, database=None, min_app_version=3, catalog=None):
+def prepare_release(source, output, min_app_version=3, catalog=None):
     if catalog is None:
         catalog = json.loads(source.read_text(encoding="utf-8"))
     validate_catalog(catalog)
@@ -153,8 +90,6 @@ def prepare_release(source, output, database=None, min_app_version=3, catalog=No
                 destination = output / audio["path"]
                 if destination.exists() and hashlib.sha256(destination.read_bytes()).hexdigest() != audio["sha256"]:
                     raise ValueError("已发布音频不可覆盖；请使用新的文件路径")
-    if database:
-        write_sample_database(database, catalog, payload, digest)
     destination = output / relative
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(payload)
@@ -171,21 +106,15 @@ def prepare_release(source, output, database=None, min_app_version=3, catalog=No
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("source", type=Path, nargs="?", help="旧格式完整词库或 SQLite；省略时聚合增量源文件")
+    parser.add_argument("source", type=Path, nargs="?", help="完整 JSON 词库；省略时聚合增量源文件")
     parser.add_argument("--output", type=Path, default=ROOT / "vocabulary/dist")
-    parser.add_argument("--database", type=Path, help="创建一个新的本地示例词库数据库")
     parser.add_argument("--min-app-version", type=int, default=3)
-    parser.add_argument("--from-database", action="store_true", help="从已维护的 SQLite 词库导出")
-    parser.add_argument("--version", type=int, help="数据库导出时的新内容版本号")
-    parser.add_argument("--updated-on", help="数据库导出时的日期 YYYY-MM-DD")
     parser.add_argument("--check", action="store_true", help="仅校验，不生成文件")
     parser.add_argument("--source-root", type=Path, default=ROOT, help="增量词库仓库目录")
     parser.add_argument("--lookup", help="只查询匹配主词及来源，不读取整份词库到输出")
     args = parser.parse_args()
     if args.source is None:
         from incremental_vocabulary import compile_sources, prepare_incremental_release
-        if args.from_database or args.database or args.version is not None or args.updated_on:
-            parser.error("增量维护不需要手工填写版本号或数据库参数")
         try:
             if args.lookup is not None:
                 print(json_text(compile_sources(args.source_root).lookup(args.lookup)), end="")
@@ -200,16 +129,12 @@ def main():
         return
     if args.lookup is not None:
         parser.error("--lookup 用于增量源文件查询，请省略 source 参数")
-    if args.from_database and (args.version is None or args.updated_on is None or args.database):
-        parser.error("数据库导出需指定 --version 和 --updated-on，并且不能同时创建示例数据库")
-    catalog = read_database(args.source, args.version, args.updated_on) if args.from_database else None
     if args.check:
-        if catalog is None:
-            catalog = json.loads(args.source.read_text(encoding="utf-8"))
+        catalog = json.loads(args.source.read_text(encoding="utf-8"))
         validate_catalog(catalog)
         print(f"校验通过：{len(catalog['entries'])} 个词条")
     else:
-        manifest = prepare_release(args.source, args.output, args.database, args.min_app_version, catalog)
+        manifest = prepare_release(args.source, args.output, min_app_version=args.min_app_version)
         print(f"本地发布包已生成：v{manifest['contentVersion']}，{manifest['catalog']['entryCount']} 个词条，{manifest['catalog']['byteLength']} 字节")
 
 
