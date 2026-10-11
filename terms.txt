@@ -17,6 +17,7 @@ antihistamine
 appetizer
 area rug
 as needed
+backorder
 backseat driver
 backsplash
 bag of milk
@@ -83,6 +84,7 @@ catch a break
 catch up
 caulk
 ceiling fan
+checkout
 checkout divider
 childproof cap
 chip in
@@ -103,6 +105,7 @@ commute
 comp
 compost bin
 concierge
+contactless payment
 conveyor belt
 core
 corkage fee
@@ -129,12 +132,14 @@ cut someone off
 cut to the chase
 cutting board
 dairy section
+damaged
 day-old
 dead battery
 deadbolt
 decaf
 decongestant
 deductible
+defective
 defroster
 deglaze
 dehumidifier
@@ -177,6 +182,7 @@ end cap
 entrée
 EOB
 ER
+exchange
 expedite
 express lane
 extension cord
@@ -190,7 +196,9 @@ faucet
 fed up
 fender bender
 fill up
+final sale
 fitted sheet
+fitting room
 flag down
 flapper
 flare-up
@@ -216,6 +224,7 @@ generic
 get the hang of it
 get towed
 ghost
+gift receipt
 give it a shot
 give or take
 give someone a shout
@@ -269,6 +278,7 @@ impulse buy
 in bulk
 in over your head
 in season
+in stock
 in the same boat
 in-network
 inhaler
@@ -356,6 +366,7 @@ on the side
 on-ramp
 one-way street
 open enrollment
+original packaging
 ottoman
 out of stock
 out-of-pocket
@@ -403,10 +414,12 @@ preheat
 premium
 price check
 price match
+price tag
 prior authorization
 prix fixe
 produce
 proof of address
+proof of purchase
 pull over
 pumped
 put your name down
@@ -417,10 +430,12 @@ rain check
 rain date
 rash
 rear-end
+receipt
 red tape
 reduce
 referral
 refill
+refund
 register
 regular
 reheat
@@ -430,6 +445,8 @@ requisition
 reschedule
 rest stop
 restock
+restocking fee
+return policy
 reusable bag
 rideshare
 right of way
@@ -455,6 +472,7 @@ scenic route
 scramble
 screen door
 script
+seal
 sear
 season
 seat yourself
@@ -479,6 +497,8 @@ side effects
 sift
 simmer
 SIN
+size down
+size up
 sketchy
 skillet
 sling
@@ -493,6 +513,7 @@ snowbank
 snowplow
 soggy
 sold loose
+sold out
 space heater
 spackle
 spare tire
@@ -520,6 +541,7 @@ stitches
 stock up
 storage locker
 store brand
+store credit
 streetcar
 stud
 stuffy nose
@@ -566,6 +588,7 @@ transfer
 transit pass
 triage
 trivet
+try on
 tub
 Tupperware
 turn signal
@@ -576,6 +599,7 @@ U-turn
 under the weather
 unfurnished
 unit price
+unopened
 up in the air
 urgent care
 utilities
@@ -587,6 +611,7 @@ void cheque
 waive
 walk-in clinic
 wall anchor
+warranty
 washer fluid
 washroom
 water heater
