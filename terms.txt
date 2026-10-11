@@ -11,6 +11,7 @@ all set
 all-you-can-eat
 Allen key
 aluminum foil
+amenity
 antibiotics
 antihistamine
 appetizer
@@ -101,6 +102,7 @@ comforter
 commute
 comp
 compost bin
+concierge
 conveyor belt
 core
 corkage fee
@@ -205,6 +207,7 @@ for sure
 free sample
 free-range
 furnace
+furnished
 garbage disposal
 garnish
 gas mileage
@@ -231,6 +234,7 @@ green onion
 gridlock
 ground beef
 grout
+guarantor
 hail a cab
 half-and-half
 half-caf
@@ -277,12 +281,18 @@ jump-start
 junk drawer
 keener
 keep someone in the loop
+key fob
 knead
 ladle
+landlord
 last call
+last month's rent
 laundry detergent
 laundry pods
+laundry room
 lean ground beef
+lease
+lease renewal
 leftovers
 let it rest
 level
@@ -299,6 +309,7 @@ long story short
 loonie
 loyalty card
 lukewarm
+maintenance request
 marinate
 marked down
 mash
@@ -312,6 +323,7 @@ mince
 mixing bowl
 mocktail
 money order
+move-in inspection
 mudroom
 my bad
 my two cents
@@ -326,6 +338,7 @@ non-perishables
 non-stick
 notarize
 notary public
+notice period
 numb
 nurse a drink
 nurse practitioner
@@ -354,6 +367,7 @@ P-trap
 painter's tape
 pantry staples
 parallel park
+parcel locker
 parchment paper
 paring knife
 parkade
@@ -411,6 +425,7 @@ register
 regular
 reheat
 reimburse
+rent increase
 requisition
 reschedule
 rest stop
@@ -424,6 +439,7 @@ road rage
 roadside assistance
 rolling pin
 room for cream
+roommate
 rotisserie chicken
 round
 roundabout
@@ -442,6 +458,7 @@ script
 sear
 season
 seat yourself
+security deposit
 seedless
 self-checkout
 sell-by date
@@ -469,6 +486,7 @@ slotted spoon
 slush
 small plates
 smoke detector
+smoke-free
 snag a table
 snow shovel
 snowbank
@@ -500,11 +518,13 @@ still or sparkling
 stir-fry
 stitches
 stock up
+storage locker
 store brand
 streetcar
 stud
 stuffy nose
 sub
+sublet
 sump pump
 sunny side up
 superintendent
@@ -520,6 +540,8 @@ takeout
 tap
 tarp
 tea towel
+tenancy
+tenant
 tenderize
 thaw
 the usual
@@ -552,12 +574,15 @@ two-four
 Tylenol
 U-turn
 under the weather
+unfurnished
 unit price
 up in the air
 urgent care
+utilities
 utility knife
 valance
 vent
+visitor parking
 void cheque
 waive
 walk-in clinic
