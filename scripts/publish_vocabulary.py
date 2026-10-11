@@ -36,7 +36,14 @@ class Releases:
             return json.loads(self.run(["gh", "api", f"repos/{self.repository}/releases/tags/{tag}"], self.cwd))
         except CommandError as error:
             if "HTTP 404" in str(error):
-                return None
+                # The tag endpoint omits drafts. Authenticated listing includes
+                # them, which lets a later Actions run resume an interrupted upload.
+                pages = json.loads(self.run(["gh", "api", f"repos/{self.repository}/releases?per_page=100",
+                                             "--paginate", "--slurp"], self.cwd))
+                matches = [release for page in pages for release in page if release["tag_name"] == tag]
+                if len(matches) > 1:
+                    raise ValueError(f"{tag} 存在多个草稿，请保留一份发布记录")
+                return matches[0] if matches else None
             raise
 
     def api(self, endpoint, method, payload):
@@ -71,7 +78,7 @@ class Releases:
         self.run(["gh", "release", "upload", tag, str(output / "manifest.json"),
                   str(output / manifest["catalog"]["path"]), str(output / "terms.txt"),
                   "--repo", self.repository, "--clobber"], self.cwd)
-        release = self.get(tag)
+        release = json.loads(self.run(["gh", "api", f"repos/{self.repository}/releases/{release['id']}"], self.cwd))
         if not self.matches(release, output, manifest):
             raise ValueError(f"{tag} 的上传文件未通过回读校验；保留旧更新清单")
         self.api(f"repos/{self.repository}/releases/{release['id']}", "PATCH",

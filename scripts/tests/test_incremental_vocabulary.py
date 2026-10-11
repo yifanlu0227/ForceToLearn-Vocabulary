@@ -10,7 +10,7 @@ import unittest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import build_vocabulary as wire
 from incremental_vocabulary import ENTRY_FIELDS, compile_sources, load_json, normalized_term, prepare_incremental_release
-from publish_vocabulary import CommandError, command, publish_repository
+from publish_vocabulary import CommandError, Releases, command, publish_repository
 
 
 def write(path, value):
@@ -230,6 +230,47 @@ class MemoryReleases:
         self.releases[tag] = {"tag_name": tag, "draft": False, "manifest": deepcopy(manifest),
                               "terms": (output / "terms.txt").read_text()}
         type(self).publishes += 1
+
+
+class ReleaseTransportTests(unittest.TestCase):
+    def test_interrupted_draft_is_found_even_when_tag_endpoint_returns_404(self):
+        draft = {"id": 42, "tag_name": "vocab-v4", "draft": True, "assets": []}
+        def run(arguments, cwd, input_text=None):
+            if "/releases/tags/" in arguments[2]:
+                raise CommandError("gh: Not Found (HTTP 404)")
+            self.assertEqual(["--paginate", "--slurp"], arguments[-2:])
+            return json.dumps([[{"tag_name": "app-v0.4.1"}], [draft]])
+        self.assertEqual(draft, Releases("test/repo", Path.cwd(), run).get("vocab-v4"))
+
+    def test_permissions_failure_is_not_mistaken_for_missing_release(self):
+        def run(arguments, cwd, input_text=None):
+            raise CommandError("HTTP 403")
+        with self.assertRaisesRegex(CommandError, "403"):
+            Releases("test/repo", Path.cwd(), run).get("vocab-v4")
+
+    def test_upload_verification_fetches_by_release_id_before_publishing(self):
+        calls = []
+        draft = {"id": 42, "tag_name": "vocab-v4", "draft": True, "assets": []}
+        def run(arguments, cwd, input_text=None):
+            calls.append((arguments, input_text))
+            if arguments[:3] == ["gh", "release", "upload"]:
+                return ""
+            if input_text is not None:
+                value = json.loads(input_text)
+                if not value["draft"]:
+                    self.assertEqual("false", value["make_latest"])
+                return json.dumps(draft)
+            self.assertEqual("repos/test/repo/releases/42", arguments[2])
+            return json.dumps(draft)
+        class VerifiedReleases(Releases):
+            def matches(self, release, output, manifest):
+                self.assert_release = release
+                return release["id"] == 42
+        releases = VerifiedReleases("test/repo", Path.cwd(), run)
+        releases.publish("vocab-v4", None, Path("/tmp/test-publication"),
+                         {"contentVersion": 4, "catalog": {"path": "releases/v4-aaaaaaaaaaaa.json"}}, "notes", "a" * 40)
+        self.assertEqual(42, releases.assert_release["id"])
+        self.assertTrue(any(args == ["gh", "api", "repos/test/repo/releases/42"] for args, _ in calls))
 
 
 class PublicationTests(unittest.TestCase):
