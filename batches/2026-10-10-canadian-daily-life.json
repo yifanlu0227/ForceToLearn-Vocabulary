@@ -1,0 +1,608 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-10-canadian-daily-life",
+  "title": "加拿大日常生活：租房与公寓生活",
+  "publishedOn": "2026-10-10",
+  "entries": [
+    {
+      "id": "lease",
+      "term": "lease",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "租约",
+      "explanationZh": "租房时签的合同，写明租期、租金和双方约定。看房、签约或讨论续租时经常用到。",
+      "examples": [
+        {
+          "en": "Could you send me a copy of the lease before I sign it?",
+          "zh": "能在我签字前发给我一份租约吗？",
+          "scenarioZh": "向房东索要合同，提前阅读条款"
+        }
+      ],
+      "usageNotesZh": [
+        "sign a lease 表示签租约；a one-year lease 表示一年期租约。",
+        "lease 也可以作动词，表示租用或出租，具体方向看上下文。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "tenant",
+      "term": "tenant",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "租客",
+      "explanationZh": "租住别人房屋的人。楼宇通知、租约和与物业沟通时，通常会把住户称为 tenants。",
+      "examples": [
+        {
+          "en": "The tenant in unit 2105 has reported a leak.",
+          "zh": "2105 室的租客报告了漏水问题。",
+          "scenarioZh": "物业记录某个出租单元的维修问题"
+        }
+      ],
+      "usageNotesZh": [
+        "复数是 tenants；a new tenant 表示新租客。",
+        "tenant 强调租赁身份，resident 更强调住在这里的人。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "landlord",
+      "term": "landlord",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "房东",
+      "explanationZh": "把房子出租给你的人或公司。公寓的业主、负责楼宇日常事务的物业人员和房东不一定是同一个人。",
+      "examples": [
+        {
+          "en": "I'll ask the landlord whether we can hang shelves.",
+          "zh": "我会问房东能不能装墙上置物架。",
+          "scenarioZh": "租客准备在墙上打孔前询问房东"
+        }
+      ],
+      "usageNotesZh": [
+        "常用搭配：contact the landlord（联系房东）。",
+        "房东是公司时也可以称 landlord。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "tenancy",
+      "term": "tenancy",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "租赁关系；租住期间",
+      "explanationZh": "说的是作为租客租住某个住所的关系或时期，常见于租房文件和正式沟通。",
+      "examples": [
+        {
+          "en": "The tenancy begins on November 1.",
+          "zh": "这段租赁关系从 11 月 1 日开始。",
+          "scenarioZh": "查看租房文件中的租住起始日期"
+        }
+      ],
+      "usageNotesZh": [
+        "the start of the tenancy 表示租住开始时。",
+        "tenancy 指租赁关系或期间，lease 通常指租约。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "sublet",
+      "term": "sublet",
+      "partsOfSpeech": [
+        "verb"
+      ],
+      "definitionZh": "转租",
+      "explanationZh": "自己仍是原租约的租客，把住处在一段时间内租给另一个人，常见于外出实习或暂时离开城市时。",
+      "examples": [
+        {
+          "en": "I'd like to sublet my room while I'm away for the summer.",
+          "zh": "我想在夏天离开期间把房间转租出去。",
+          "scenarioZh": "向房东说明暑期转租计划"
+        }
+      ],
+      "usageNotesZh": [
+        "常用结构：sublet a room to someone（把房间转租给某人）。",
+        "转租需要遵守租约和当地规定，先核实所需同意；不要与永久转让租约混为一谈。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "roommate",
+      "term": "roommate",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "室友",
+      "explanationZh": "与你一起住在同一套房子或公寓的人，不一定与你共用一个卧室。",
+      "examples": [
+        {
+          "en": "My roommate and I take turns cleaning the kitchen.",
+          "zh": "我和室友轮流打扫厨房。",
+          "scenarioZh": "与朋友说明合租时的家务安排"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：find a roommate（找室友）。",
+        "在加拿大，住不同卧室但共用客厅和厨房的人也常叫 roommate。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "guarantor",
+      "term": "guarantor",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "担保人",
+      "explanationZh": "在租房等协议中承诺承担某些责任的人。房东可能要求提供担保人，但具体承担什么责任要看担保文件。",
+      "examples": [
+        {
+          "en": "The rental application asks for the guarantor's contact information.",
+          "zh": "租房申请要求填写担保人的联系方式。",
+          "scenarioZh": "填写租房申请表里的担保人一栏"
+        }
+      ],
+      "usageNotesZh": [
+        "常见表达：act as a guarantor（担任担保人）。",
+        "不要把 guarantor 当作普通推荐人；担保责任要看所签文件。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "furnished",
+      "term": "furnished",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "带家具的",
+      "explanationZh": "房子出租时已经配有家具，通常不用从零买床和桌椅，但具体包含哪些物品仍要逐项确认。",
+      "examples": [
+        {
+          "en": "Is the apartment furnished, or do I need to bring my own bed?",
+          "zh": "这套公寓带家具吗，还是我需要自带床？",
+          "scenarioZh": "看房时询问是否提供家具"
+        }
+      ],
+      "usageNotesZh": [
+        "a furnished apartment 表示带家具的公寓。",
+        "partly furnished 表示带部分家具；不代表餐具或床上用品也包含在内。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "unfurnished",
+      "term": "unfurnished",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "不带家具的",
+      "explanationZh": "出租时不提供主要家具，通常需要自己准备床、沙发等。有没有冰箱和炉灶，要另外确认。",
+      "examples": [
+        {
+          "en": "The unit is unfurnished, but the fridge and stove are included.",
+          "zh": "这套房不带家具，但配有冰箱和炉灶。",
+          "scenarioZh": "房东解释出租单元提供的设备"
+        }
+      ],
+      "usageNotesZh": [
+        "an unfurnished unit 表示不带家具的出租单元。",
+        "unfurnished 描述家具情况，不等于没有家电。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "utilities",
+      "term": "utilities",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "水电燃气等公用事业服务或费用",
+      "explanationZh": "租房广告里用来概括水、电、燃气等服务或相关费用，具体包含哪些项目需要问清楚。",
+      "examples": [
+        {
+          "en": "Are utilities included in the monthly rent?",
+          "zh": "每月房租包含水电燃气等费用吗？",
+          "scenarioZh": "比较两套房的实际月开销"
+        }
+      ],
+      "usageNotesZh": [
+        "通常用复数 utilities；utilities included 表示包含相关费用。",
+        "互联网和停车费不要默认包含，最好分别询问。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "maintenance-request",
+      "term": "maintenance request",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "维修申请",
+      "explanationZh": "发现水龙头漏水、门锁坏了等问题后，向房东或物业正式提交的维修请求。",
+      "examples": [
+        {
+          "en": "I submitted a maintenance request because the bathroom fan stopped working.",
+          "zh": "浴室排风扇不转了，我提交了一份维修申请。",
+          "scenarioZh": "通过物业住户系统报修"
+        }
+      ],
+      "usageNotesZh": [
+        "submit a maintenance request 表示提交维修申请。",
+        "说明具体位置、故障和方便上门的时间，有助于安排维修。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "move-in-inspection",
+      "term": "move-in inspection",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "入住检查",
+      "explanationZh": "搬进去时检查房屋现状，记录已有的损坏或设备问题，方便之后说明哪些问题在入住前就存在。",
+      "examples": [
+        {
+          "en": "We took photos of the scratched floor during the move-in inspection.",
+          "zh": "入住检查时，我们拍下了地板上的划痕。",
+          "scenarioZh": "交接钥匙时记录房屋原有损坏"
+        }
+      ],
+      "usageNotesZh": [
+        "do a move-in inspection 表示进行入住检查。",
+        "move-in 作名词前的修饰语时通常带连字符。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "security-deposit",
+      "term": "security deposit",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "押金",
+      "explanationZh": "为可能发生的损坏或其他约定事项提供的保证金。租房广告可能出现这个词；用途及是否允许收取要结合当地规则核实。",
+      "examples": [
+        {
+          "en": "What is the security deposit for, and when would it be returned?",
+          "zh": "这笔押金是用来做什么的，什么时候会退还？",
+          "scenarioZh": "在交款前询问押金的用途和退还安排"
+        }
+      ],
+      "usageNotesZh": [
+        "pay a security deposit 表示交押金。",
+        "security deposit 与 last month's rent 用途不同，不要把所有预付款都理解为同一种押金。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "last-months-rent",
+      "term": "last month's rent",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "最后一个月的房租",
+      "explanationZh": "租房沟通中指租住最后一个月的租金，也常用于说明提前收取、之后抵付最后一个月租金的款项。",
+      "examples": [
+        {
+          "en": "The landlord asked me to pay the first and last month's rent before moving in.",
+          "zh": "房东让我在入住前支付第一个月和最后一个月的房租。",
+          "scenarioZh": "与朋友说明搬家前需要准备的款项"
+        }
+      ],
+      "usageNotesZh": [
+        "first and last month's rent 是租房沟通中常见的说法。",
+        "这通常说的是租金用途，不等同于用于赔偿损坏的 security deposit。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "notice-period",
+      "term": "notice period",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "提前通知期限",
+      "explanationZh": "取消或结束某项安排前，需要提前通知对方的时间长度。租房时可能用于搬走或结束租约的通知要求。",
+      "examples": [
+        {
+          "en": "What notice period applies if I want to move out?",
+          "zh": "如果我想搬走，需要提前多久通知？",
+          "scenarioZh": "向房东核实退租通知要求"
+        }
+      ],
+      "usageNotesZh": [
+        "give notice 表示发出通知；notice period 表示需要提前通知的期限。",
+        "具体期限取决于相关安排和适用规定，不要只根据词义猜天数。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "rent-increase",
+      "term": "rent increase",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "房租上涨",
+      "explanationZh": "房租金额上调，常见于房东通知或续租沟通。这个表达只说明租金变高，不说明涨幅是否符合规定。",
+      "examples": [
+        {
+          "en": "I received a notice about a rent increase starting in January.",
+          "zh": "我收到了一份通知，说房租从一月开始上涨。",
+          "scenarioZh": "查看房东发来的租金调整通知"
+        }
+      ],
+      "usageNotesZh": [
+        "a rent increase of $50 表示房租上涨 50 元。",
+        "rent increase 是名词短语；作动词时可说 increase the rent。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "lease-renewal",
+      "term": "lease renewal",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "续租；租约续签",
+      "explanationZh": "继续租住时延续或重新签订租约的安排，常见于房东或物业发来的邮件。",
+      "examples": [
+        {
+          "en": "I'd like to discuss the lease renewal before the end of the month.",
+          "zh": "我想在月底前谈一下续租的事。",
+          "scenarioZh": "发邮件给房东商量继续租住"
+        }
+      ],
+      "usageNotesZh": [
+        "renew the lease 是动词说法；lease renewal 是名词说法。",
+        "是否需要重新签约，要核实原合同与适用的租赁安排。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "key-fob",
+      "term": "key fob",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "门禁钥匙扣",
+      "explanationZh": "用于打开楼宇大门、车库或公共设施的小型电子门禁装置，通常可以挂在钥匙圈上。",
+      "examples": [
+        {
+          "en": "My key fob works at the front door but not at the gym.",
+          "zh": "我的门禁钥匙扣能开正门，但进不了健身房。",
+          "scenarioZh": "向物业说明不同门禁的访问问题"
+        }
+      ],
+      "usageNotesZh": [
+        "常说 tap your key fob（把门禁钥匙扣贴近读卡器）。",
+        "日常也常直接说 fob；普通金属钥匙叫 key。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "amenity",
+      "term": "amenity",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "配套设施",
+      "explanationZh": "公寓或社区提供的方便住户使用的设施，例如健身房、泳池或共享休息区。",
+      "examples": [
+        {
+          "en": "Does the building have any amenities besides the gym?",
+          "zh": "这栋楼除了健身房，还有其他配套设施吗？",
+          "scenarioZh": "看房时了解楼里的公共设施"
+        }
+      ],
+      "usageNotesZh": [
+        "谈多个设施时通常用复数 amenities。",
+        "access to amenities 表示使用配套设施的权限或机会。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "concierge",
+      "term": "concierge",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "礼宾；前台服务人员",
+      "explanationZh": "公寓或酒店里负责前台事务、访客接待等工作的人员。在公寓中可能帮忙处理包裹，但具体职责各楼不同。",
+      "examples": [
+        {
+          "en": "The concierge said my package is ready for pickup.",
+          "zh": "前台人员说我的包裹可以领取了。",
+          "scenarioZh": "下楼去公寓前台领取包裹"
+        }
+      ],
+      "usageNotesZh": [
+        "常用表达：ask the concierge（询问前台人员）。",
+        "concierge 不一定负责维修；报修时要找楼宇指定的联系人。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "parcel-locker",
+      "term": "parcel locker",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "包裹柜",
+      "explanationZh": "快递员放入包裹后，住户用取件码或其他验证方式领取的储物柜，公寓和社区里都可能见到。",
+      "examples": [
+        {
+          "en": "Enter the pickup code to open the parcel locker.",
+          "zh": "输入取件码就能打开包裹柜。",
+          "scenarioZh": "根据通知在公寓包裹柜取快递"
+        }
+      ],
+      "usageNotesZh": [
+        "parcel 和 package 都可以指包裹。",
+        "pickup code 表示取件码；locker 通常指可锁的储物柜。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "visitor-parking",
+      "term": "visitor parking",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "访客停车位或停车区",
+      "explanationZh": "专门供来访人员临时停车的区域，有些公寓要求登记车辆或领取停车许可。",
+      "examples": [
+        {
+          "en": "Where is the visitor parking, and do I need to register my friend's car?",
+          "zh": "访客停车区在哪里，需要登记我朋友的车吗？",
+          "scenarioZh": "朋友开车来访前询问公寓停车安排"
+        }
+      ],
+      "usageNotesZh": [
+        "visitor parking 通常整体使用，不必加复数。",
+        "不要默认免费或不限时，问清登记、收费和时间要求。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "laundry-room",
+      "term": "laundry room",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "洗衣房",
+      "explanationZh": "放置洗衣机和烘干机的房间；公寓里可能是住户共用的，也可能是自己家里的独立空间。",
+      "examples": [
+        {
+          "en": "The laundry room is in the basement next to the elevators.",
+          "zh": "洗衣房在地下室，电梯旁边。",
+          "scenarioZh": "新住户询问共用洗衣设备的位置"
+        }
+      ],
+      "usageNotesZh": [
+        "a shared laundry room 表示共用洗衣房。",
+        "in-suite laundry 表示洗衣设备在自己的住宅单元内。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    },
+    {
+      "id": "smoke-free",
+      "term": "smoke-free",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "禁烟的；无烟的",
+      "explanationZh": "表示某个空间或物业实行禁烟安排。看到租房广告里的这个词，要进一步确认适用范围。",
+      "examples": [
+        {
+          "en": "We're looking for a smoke-free building.",
+          "zh": "我们在找一栋禁烟的住宅楼。",
+          "scenarioZh": "向租房中介说明居住环境偏好"
+        }
+      ],
+      "usageNotesZh": [
+        "a smoke-free building 表示禁烟的楼宇；smoke-free 通常带连字符。",
+        "是否涵盖阳台、电子烟或其他吸烟行为，需要查看具体政策。"
+      ],
+      "tags": [
+        "housing",
+        "renting"
+      ]
+    },
+    {
+      "id": "storage-locker",
+      "term": "storage locker",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "储物间；储物柜",
+      "explanationZh": "公寓里分配或出租给住户放行李、纸箱等物品的小型储物空间，常在地下层，与包裹柜用途不同。",
+      "examples": [
+        {
+          "en": "Is a storage locker included with the unit?",
+          "zh": "这套房附带储物间吗？",
+          "scenarioZh": "看房时询问是否有额外储物空间"
+        }
+      ],
+      "usageNotesZh": [
+        "rent a storage locker 表示租用储物空间。",
+        "加拿大公寓里的 storage locker 可能是围栏隔出的空间，不一定是一个小柜子。"
+      ],
+      "tags": [
+        "housing",
+        "condo-living"
+      ]
+    }
+  ]
+}
