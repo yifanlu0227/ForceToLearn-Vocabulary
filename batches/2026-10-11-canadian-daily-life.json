@@ -1,0 +1,611 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-11-canadian-daily-life",
+  "title": "加拿大日常生活：购物、试穿与退换货",
+  "publishedOn": "2026-10-11",
+  "entries": [
+    {
+      "id": "receipt",
+      "term": "receipt",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "收据；购物小票",
+      "explanationZh": "买完东西后拿到的付款凭证，常会列出商品、税额和付款方式。纸质和电子版都可以叫 receipt。",
+      "examples": [
+        {
+          "en": "Could you email me the receipt instead of printing it?",
+          "zh": "你能把收据发到我的邮箱，而不是打印出来吗？",
+          "scenarioZh": "结账时选择电子收据"
+        }
+      ],
+      "usageNotesZh": [
+        "keep the receipt 表示保留小票；an itemized receipt 表示列有明细的收据。",
+        "receipt 是付款凭证，invoice 通常是列明应付款项的账单。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "refund",
+      "term": "refund",
+      "partsOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitionZh": "退款；退还款项",
+      "explanationZh": "商家把已经付的钱退给你。它说的是把钱退回，而不是换成另一件商品或只给店内消费额度。",
+      "examples": [
+        {
+          "en": "I'd like a refund because the item arrived damaged.",
+          "zh": "商品送来时就坏了，我想申请退款。",
+          "scenarioZh": "联系网店客服说明退款原因"
+        }
+      ],
+      "usageNotesZh": [
+        "get a refund 表示获得退款；refund the payment 表示退还款项。",
+        "a full refund 是全额退款；a partial refund 是部分退款。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "exchange",
+      "term": "exchange",
+      "partsOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitionZh": "换货；更换商品",
+      "explanationZh": "把买到的商品换成另一件，比如把不合适的尺码换掉。购物语境下，exchange 通常指换货。",
+      "examples": [
+        {
+          "en": "Can I exchange this sweater for a medium?",
+          "zh": "我能把这件毛衣换成中码吗？",
+          "scenarioZh": "带着小票到店里更换尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "exchange something for something 表示把某物换成另一物。",
+        "an exchange 是一次换货；refund 侧重退钱。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "return-policy",
+      "term": "return policy",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "退货政策",
+      "explanationZh": "商店关于能不能退、多久内退、需要什么凭证等方面的规则。线上和实体店的安排可能不同。",
+      "examples": [
+        {
+          "en": "What's your return policy for online orders?",
+          "zh": "你们网上订单的退货政策是什么？",
+          "scenarioZh": "下单前询问网购商品的退货条件"
+        }
+      ],
+      "usageNotesZh": [
+        "check the return policy 表示查看退货政策。",
+        "return window 表示允许退货的时间范围；不要只看期限，还要看商品状态等条件。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "final-sale",
+      "term": "final sale",
+      "partsOfSpeech": [
+        "phrase"
+      ],
+      "definitionZh": "最终销售，不接受退换",
+      "explanationZh": "商品标签或结账页面上的提示，通常表示买了以后不接受因改变主意等原因退换。具体适用条件要看商家的说明。",
+      "examples": [
+        {
+          "en": "Is this sweater final sale, or can I return it if it doesn't fit?",
+          "zh": "这件毛衣是不接受退换的商品，还是尺码不合适可以退？",
+          "scenarioZh": "购买折扣衣服前核实退换限制"
+        }
+      ],
+      "usageNotesZh": [
+        "常见提示：Final sale. No returns or exchanges.（最终销售，不接受退换。）",
+        "这个标签不能替代具体政策；商品有质量问题时仍应联系商家说明情况。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "store-credit",
+      "term": "store credit",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "店内消费额度",
+      "explanationZh": "商家给你一笔以后在这家店消费时可抵扣的额度，常见于退货处理。它通常不是直接退回银行账户的钱。",
+      "examples": [
+        {
+          "en": "The store offered me store credit instead of a refund.",
+          "zh": "这家店给我的是店内消费额度，而不是退款。",
+          "scenarioZh": "向朋友解释退货后收到的补偿方式"
+        }
+      ],
+      "usageNotesZh": [
+        "receive store credit 表示获得店内消费额度。",
+        "问清能在哪些门店或网站使用，以及是否有有效期。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "gift-receipt",
+      "term": "gift receipt",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "礼品收据",
+      "explanationZh": "随礼物一起提供、通常不显示价格的购物凭证，方便收礼的人按商家政策办理换货或其他售后。",
+      "examples": [
+        {
+          "en": "Could I get a gift receipt for this scarf?",
+          "zh": "这条围巾能给我开一张礼品收据吗？",
+          "scenarioZh": "买礼物时向收银员索要不显示价格的凭证"
+        }
+      ],
+      "usageNotesZh": [
+        "ask for a gift receipt 表示索要礼品收据。",
+        "gift receipt 不是礼品卡，也不代表一定能退款。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "price-tag",
+      "term": "price tag",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "价格标签",
+      "explanationZh": "商品上标示价格的标签，可能挂在衣服上，也可能贴在包装上。别与结账后的收据混淆。",
+      "examples": [
+        {
+          "en": "The price tag says $39, but it scanned at $49.",
+          "zh": "价格标签写的是 39 元，但扫码显示 49 元。",
+          "scenarioZh": "在收银台指出标价与扫码价格不一致"
+        }
+      ],
+      "usageNotesZh": [
+        "check the price tag 表示查看价格标签。",
+        "tag 也可以泛指衣服上的标签；货架上的价格标签可称 shelf label。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "fitting-room",
+      "term": "fitting room",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "试衣间",
+      "explanationZh": "商店里让你试穿衣服的空间，店员可能会问你拿了几件，或给你一个标着数量的牌子。",
+      "examples": [
+        {
+          "en": "Where are the fitting rooms?",
+          "zh": "试衣间在哪里？",
+          "scenarioZh": "在服装店拿好几件衣服后找试衣间"
+        }
+      ],
+      "usageNotesZh": [
+        "单个房间是 a fitting room，试衣区域通常说 fitting rooms。",
+        "changing room 也可用于试衣间或其他换衣场所，要结合场景理解。"
+      ],
+      "tags": [
+        "shopping",
+        "clothing"
+      ]
+    },
+    {
+      "id": "try-on",
+      "term": "try on",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "试穿；试戴",
+      "explanationZh": "把衣服、鞋或配饰穿戴上，看看尺寸和效果是否合适。",
+      "examples": [
+        {
+          "en": "Can I try these boots on in a size nine?",
+          "zh": "我能试穿一下这款靴子的九码吗？",
+          "scenarioZh": "在鞋店请店员拿合适尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "try on a jacket 和 try a jacket on 都自然。",
+        "用代词时说 try it on 或 try them on，不说 try on it。"
+      ],
+      "tags": [
+        "shopping",
+        "clothing"
+      ]
+    },
+    {
+      "id": "size-up",
+      "term": "size up",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "选大一码；换大一码",
+      "explanationZh": "选衣服或鞋时，改选比原本计划更大的尺码。这个意思常见于试穿建议和商品评论。",
+      "examples": [
+        {
+          "en": "These boots feel tight, so I might size up.",
+          "zh": "这双靴子感觉有点紧，我可能会选大一码。",
+          "scenarioZh": "试鞋后判断是否需要更大尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "购物语境下常说 size up 或 size up to a large。",
+        "size someone up 在其他语境中表示打量或评估某人，别和尺码建议混淆。"
+      ],
+      "tags": [
+        "shopping",
+        "clothing"
+      ]
+    },
+    {
+      "id": "size-down",
+      "term": "size down",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "选小一码；换小一码",
+      "explanationZh": "衣服或鞋偏大时，改选更小的尺码。不是把原来的衣服缩小，而是换一个尺码购买。",
+      "examples": [
+        {
+          "en": "This jacket is roomy, so I'd recommend sizing down.",
+          "zh": "这件夹克版型宽松，所以我建议选小一码。",
+          "scenarioZh": "店员根据试穿效果给出尺码建议"
+        }
+      ],
+      "usageNotesZh": [
+        "size down to a medium 表示改选中码。",
+        "roomy 表示空间宽裕；商品偏大时也常说 it runs large。"
+      ],
+      "tags": [
+        "shopping",
+        "clothing"
+      ]
+    },
+    {
+      "id": "in-stock",
+      "term": "in stock",
+      "partsOfSpeech": [
+        "phrase"
+      ],
+      "definitionZh": "有货；有库存",
+      "explanationZh": "商店目前有某件商品，可以销售。具体尺码、颜色或门店仍可能需要分别确认。",
+      "examples": [
+        {
+          "en": "Do you have this in stock in black?",
+          "zh": "这款黑色的有货吗？",
+          "scenarioZh": "向店员询问特定颜色是否有现货"
+        }
+      ],
+      "usageNotesZh": [
+        "be in stock 表示有货；back in stock 表示重新到货。",
+        "in stock at this location 表示这家门店有库存。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "backorder",
+      "term": "backorder",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "缺货待补的订单；延期供货",
+      "explanationZh": "商品暂时没有现货，但商家仍接受订单，等以后补货再发。预计到货日期可能变动。",
+      "examples": [
+        {
+          "en": "The chair is on backorder and won't ship until next month.",
+          "zh": "这把椅子缺货待补，要到下个月才会发货。",
+          "scenarioZh": "查看网购家具的延期发货通知"
+        }
+      ],
+      "usageNotesZh": [
+        "on backorder 表示缺货、等待补货供货。",
+        "backorder 也可以作动词；不要把接受订单误认为马上能发货。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "sold-out",
+      "term": "sold out",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "缺货；卖光了",
+      "explanationZh": "可供出售的商品已经卖完了，也常用来形容票售罄。与 out of stock 核心意思相近，但更强调售完。",
+      "examples": [
+        {
+          "en": "The medium size is sold out, but we still have large.",
+          "zh": "中码卖光了，但大码还有。",
+          "scenarioZh": "店员说明不同尺码的库存情况"
+        }
+      ],
+      "usageNotesZh": [
+        "常见结构：be sold out；sell out 是动词短语。",
+        "out of stock 也表示缺货；sold out 更突出已经卖完，是否补货要另问。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "restocking-fee",
+      "term": "restocking fee",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "退货处理费",
+      "explanationZh": "商家处理某些退货时收取的费用，可能会从退款中扣除。是否收、收多少要看具体政策。",
+      "examples": [
+        {
+          "en": "Is there a restocking fee if I return this monitor?",
+          "zh": "如果我退掉这台显示器，会收退货处理费吗？",
+          "scenarioZh": "购买电子产品前核实退货费用"
+        }
+      ],
+      "usageNotesZh": [
+        "charge a restocking fee 表示收取退货处理费。",
+        "restocking fee 不等于 return shipping fee，后者是退货运费。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "warranty",
+      "term": "warranty",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "保修；保修承诺",
+      "explanationZh": "厂家或商家就商品故障等问题提供维修、更换等安排的承诺，具体范围和期限要看保修条款。",
+      "examples": [
+        {
+          "en": "Is the repair covered under the warranty?",
+          "zh": "这次维修在保修范围内吗？",
+          "scenarioZh": "联系售后询问电器维修是否受保修覆盖"
+        }
+      ],
+      "usageNotesZh": [
+        "under warranty 表示仍在保修期或保修覆盖下。",
+        "extended warranty 表示延长保修；保修和因不喜欢商品而退货是不同安排。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "defective",
+      "term": "defective",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "有缺陷的；有故障的",
+      "explanationZh": "商品本身存在问题，导致功能或质量不符合正常预期。刚买来就无法正常工作时，这个词很实用。",
+      "examples": [
+        {
+          "en": "The charger is defective; it doesn't charge my phone at all.",
+          "zh": "这个充电器有故障，完全充不了我的手机。",
+          "scenarioZh": "向客服描述新买充电器的质量问题"
+        }
+      ],
+      "usageNotesZh": [
+        "a defective item 表示有缺陷的商品。",
+        "defective 强调产品有问题；damaged 更强调受到损坏，两者有时会重合。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "damaged",
+      "term": "damaged",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "受损的；损坏的",
+      "explanationZh": "商品因碰撞、运输等原因出现破损，例如凹痕、裂口或断裂。通常可以说明具体哪里坏了。",
+      "examples": [
+        {
+          "en": "The box arrived damaged, and the bowl inside was cracked.",
+          "zh": "送来的箱子破了，里面的碗也裂了。",
+          "scenarioZh": "向网店客服报告运输破损"
+        }
+      ],
+      "usageNotesZh": [
+        "arrive damaged 表示送到时就已受损。",
+        "damage 作名词通常不可数；描述实际破损时可说 a crack（裂口）或 a dent（凹痕）。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "seal",
+      "term": "seal",
+      "partsOfSpeech": [
+        "noun",
+        "verb"
+      ],
+      "definitionZh": "封条；封口；密封",
+      "explanationZh": "包装上用来封住开口或显示是否被打开的部分，也可以作动词表示封好或密封。退换货时可能被问到封口是否完整。",
+      "examples": [
+        {
+          "en": "The seal on the bottle was broken when I opened the box.",
+          "zh": "我打开箱子时发现瓶子的封口已经破了。",
+          "scenarioZh": "说明刚收到的商品包装异常"
+        }
+      ],
+      "usageNotesZh": [
+        "break the seal 表示打开或破坏封口；an intact seal 表示完好的封口。",
+        "seal the bag 表示把袋子封好。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "unopened",
+      "term": "unopened",
+      "partsOfSpeech": [
+        "adjective"
+      ],
+      "definitionZh": "未开封的",
+      "explanationZh": "商品包装没有被打开过。退换货政策中常用它来描述商品状态，但未开封不等于自动符合全部退货条件。",
+      "examples": [
+        {
+          "en": "The headphones are unopened, and I still have the receipt.",
+          "zh": "耳机还没开封，小票我也留着。",
+          "scenarioZh": "到店退货时说明商品和凭证状态"
+        }
+      ],
+      "usageNotesZh": [
+        "an unopened package 表示未打开的包装。",
+        "unused 表示没用过；商品打开了但没使用，可以是 unused，却不一定是 unopened。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "original-packaging",
+      "term": "original packaging",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "原包装",
+      "explanationZh": "商品出售时自带的盒子、袋子、内衬等包装。办理退换货时商家可能要求一起带回。",
+      "examples": [
+        {
+          "en": "Do I need to bring the original packaging to exchange it?",
+          "zh": "换货时需要带原包装吗？",
+          "scenarioZh": "联系客服确认退换货要带哪些东西"
+        }
+      ],
+      "usageNotesZh": [
+        "keep the original packaging 表示保留原包装。",
+        "packaging 通常不可数；一个具体的盒子可以叫 box。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "proof-of-purchase",
+      "term": "proof of purchase",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "购买凭证",
+      "explanationZh": "能够证明在某商家购买过某商品的记录，例如收据或订单信息。哪些材料可接受，要问商家。",
+      "examples": [
+        {
+          "en": "Would the order confirmation email work as proof of purchase?",
+          "zh": "订单确认邮件能作为购买凭证吗？",
+          "scenarioZh": "纸质小票丢失后向售后询问替代凭证"
+        }
+      ],
+      "usageNotesZh": [
+        "provide proof of purchase 表示提供购买凭证。",
+        "proof 通常不加 a；a receipt 可以是一种 proof of purchase。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "checkout",
+      "term": "checkout",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "结账；结账处",
+      "explanationZh": "购物结束后付款的过程或地点，网店里也指输入配送和支付信息、完成订单的环节。",
+      "examples": [
+        {
+          "en": "The discount will be applied at checkout.",
+          "zh": "折扣会在结账时扣除。",
+          "scenarioZh": "查看网店折扣的生效提示"
+        }
+      ],
+      "usageNotesZh": [
+        "checkout 是名词；check out 是动词，如 check out online（在线结账）。",
+        "proceed to checkout 是网站上的常见按钮，表示去结账。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    },
+    {
+      "id": "contactless-payment",
+      "term": "contactless payment",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "（刷卡）感应支付",
+      "explanationZh": "用支持感应支付的卡或设备靠近读卡器付款。日常常用 tap 表示感应支付这个动作；是否还需验证，以设备提示为准。",
+      "examples": [
+        {
+          "en": "Does this terminal accept contactless payment?",
+          "zh": "这台刷卡机支持感应支付吗？",
+          "scenarioZh": "付款时询问能否用银行卡或手机感应支付"
+        }
+      ],
+      "usageNotesZh": [
+        "make a contactless payment 表示进行一次感应支付。",
+        "tap 是常用的动作说法；contactless payment 是付款方式的名称。"
+      ],
+      "tags": [
+        "shopping",
+        "retail"
+      ]
+    }
+  ]
+}
