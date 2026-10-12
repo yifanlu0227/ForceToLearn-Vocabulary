@@ -33,6 +33,7 @@ batter
 beat
 bell pepper
 best before date
+bike rack
 bite the bullet
 black ice
 blanch
@@ -63,6 +64,7 @@ bunch
 bungee cord
 burner
 bus a table
+bus stop
 butcher
 buy one get one
 buzz in
@@ -105,6 +107,7 @@ commute
 comp
 compost bin
 concierge
+connecting bus
 contactless payment
 conveyor belt
 core
@@ -144,6 +147,7 @@ defroster
 deglaze
 dehumidifier
 deli
+departure board
 designated driver
 detour
 dice
@@ -178,12 +182,15 @@ e-transfer
 eavestrough
 eggplant
 eh
+elevator outage
 end cap
 entrée
 EOB
 ER
+escalator
 exchange
 expedite
+express bus
 express lane
 extension cord
 eye drops
@@ -192,6 +199,8 @@ family doctor
 family pack
 family style
 fare
+fare inspector
+farebox
 faucet
 fed up
 fender bender
@@ -221,6 +230,7 @@ garnish
 gas mileage
 gauze
 generic
+get off
 get the hang of it
 get towed
 ghost
@@ -314,6 +324,7 @@ lint roller
 lint trap
 loading zone
 loaf
+local bus
 long shot
 long story short
 loonie
@@ -339,6 +350,7 @@ my bad
 my two cents
 nasal spray
 neat
+next stop
 nightcap
 nightstand
 no biggie
@@ -354,6 +366,7 @@ nurse a drink
 nurse practitioner
 oat milk
 off the top of my head
+off-peak
 off-ramp
 oil change
 ointment
@@ -416,9 +429,11 @@ price check
 price match
 price tag
 prior authorization
+priority seating
 prix fixe
 produce
 proof of address
+proof of payment
 proof of purchase
 pull over
 pumped
@@ -481,6 +496,7 @@ seedless
 self-checkout
 sell-by date
 send back
+service disruption
 settle up
 shallot
 shoot someone a text
@@ -493,6 +509,7 @@ shower curtain liner
 shower head
 shred
 shut-off valve
+shuttle bus
 side effects
 sift
 simmer
@@ -531,6 +548,7 @@ sprain
 squeegee
 stall
 start a tab
+station entrance
 steep
 step stool
 stepladder
@@ -539,14 +557,17 @@ still or sparkling
 stir-fry
 stitches
 stock up
+stop request
 storage locker
 store brand
 store credit
 streetcar
+stroller
 stud
 stuffy nose
 sub
 sublet
+subway platform
 sump pump
 sunny side up
 superintendent
@@ -560,6 +581,8 @@ tailgate
 take a number
 takeout
 tap
+tap off
+tap on
 tarp
 tea towel
 tenancy
@@ -572,6 +595,7 @@ thermostat
 threshold
 throw blanket
 tied up
+timetable
 Timmies
 to-go box
 toll
@@ -587,6 +611,7 @@ trailhead
 transfer
 transit pass
 triage
+trip planner
 trivet
 try on
 tub
