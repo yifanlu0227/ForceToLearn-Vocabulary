@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-12-canadian-daily-life",
+  "title": "加拿大日常生活：公共交通与通勤",
+  "publishedOn": "2026-10-12",
+  "entries": [
+    {
+      "id": "bus-stop",
+      "term": "bus stop",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "公交车站；公交站牌处",
+      "explanationZh": "公交车停靠、乘客上下车的地点。路边通常会有站牌，可能同时服务多条线路。",
+      "examples": [
+        {
+          "en": "Is this the bus stop for the 94 eastbound?",
+          "zh": "这是 94 路东行方向的公交站吗？",
+          "scenarioZh": "在陌生路段向等车的人确认站点和方向"
+        }
+      ],
+      "usageNotesZh": [
+        "wait at the bus stop 表示在公交站等车。",
+        "bus stop 指具体停靠点；bus station 通常是规模更大的公交总站或枢纽。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "farebox",
+      "term": "farebox",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "投币箱；车费收取机",
+      "explanationZh": "公交车上用来投入硬币、车票或处理部分车费支付的设备，通常就在司机旁边。",
+      "examples": [
+        {
+          "en": "Put the exact fare in the farebox when you board.",
+          "zh": "上车时把正好的车费投入投币箱。",
+          "scenarioZh": "乘客用现金搭乘公交车"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：put money in the farebox（把钱投入车费箱）。",
+        "不同交通系统接受的支付方式不同；使用现金前先确认是否找零。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "fare-inspector",
+      "term": "fare inspector",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "查票员；车费稽查员",
+      "explanationZh": "在公共交通工具或车站内检查乘客是否已正确付费、是否持有有效乘车凭证的工作人员。",
+      "examples": [
+        {
+          "en": "A fare inspector asked to see my proof of payment.",
+          "zh": "一名查票员要求查看我的付款凭证。",
+          "scenarioZh": "在电车上遇到随机查票"
+        }
+      ],
+      "usageNotesZh": [
+        "fare inspection 表示查票；show your fare 表示出示有效车费凭证。",
+        "fare inspector 不一定是司机，也不一定在闸机旁固定值守。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "proof-of-payment",
+      "term": "proof of payment",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "付款凭证；乘车付费证明",
+      "explanationZh": "证明你已经支付车费的票据、电子记录或有效卡片状态。在采用随机查票的线路上尤其常见。",
+      "examples": [
+        {
+          "en": "Keep your transfer as proof of payment until the end of your trip.",
+          "zh": "行程结束前请保留换乘票作为付款凭证。",
+          "scenarioZh": "用纸质换乘票搭乘采用查票制的线路"
+        }
+      ],
+      "usageNotesZh": [
+        "常见缩写是 POP，但对话里直接说 proof of payment 更清楚。",
+        "哪些材料算有效凭证由当地交通系统规定，不能只凭扣款通知判断。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "tap-on",
+      "term": "tap on",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "上车或进站时刷卡",
+      "explanationZh": "搭乘公共交通时，把交通卡或支持的支付设备靠近读卡器，记录开始乘车或完成付费。",
+      "examples": [
+        {
+          "en": "Remember to tap on before you enter the platform.",
+          "zh": "进入站台前记得刷卡。",
+          "scenarioZh": "通过读卡器进入需要付费的乘车区域"
+        }
+      ],
+      "usageNotesZh": [
+        "tap on with a card 表示用卡刷入。",
+        "不同系统对刷卡位置和换乘规则的要求不同，应以现场提示为准。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "tap-off",
+      "term": "tap off",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "下车或出站时刷卡",
+      "explanationZh": "结束某些公共交通行程时再次感应卡片，让系统记录下车地点或计算车费。不是所有线路都要求这样做。",
+      "examples": [
+        {
+          "en": "Do I need to tap off when I get off the bus?",
+          "zh": "我下公交车时需要刷卡吗？",
+          "scenarioZh": "向司机确认下车是否需要再次感应交通卡"
+        }
+      ],
+      "usageNotesZh": [
+        "tap off 也常说 tap out，具体用法随交通系统而异。",
+        "如果系统要求 tap off，漏刷可能影响车费计算。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "service-disruption",
+      "term": "service disruption",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "服务中断；运营受影响",
+      "explanationZh": "公共交通因事故、设备故障、施工或其他原因无法按正常方式运行，可能包括延误、跳站或停运。",
+      "examples": [
+        {
+          "en": "There is a service disruption between Union and St. George.",
+          "zh": "Union 站和 St. George 站之间的服务受到影响。",
+          "scenarioZh": "查看地铁运营警报"
+        }
+      ],
+      "usageNotesZh": [
+        "due to a service disruption 表示由于运营中断。",
+        "disruption 范围较广，不一定代表整条线路完全停运。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "shuttle-bus",
+      "term": "shuttle bus",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "接驳巴士",
+      "explanationZh": "在两个地点之间往返运送乘客的巴士，常用于替代临时停运的地铁区段，或连接停车场、机场和活动场地。",
+      "examples": [
+        {
+          "en": "Shuttle buses are running between the closed subway stations.",
+          "zh": "关闭的地铁站之间有接驳巴士运行。",
+          "scenarioZh": "地铁区间停运后寻找替代交通"
+        }
+      ],
+      "usageNotesZh": [
+        "take the shuttle bus 表示乘坐接驳巴士。",
+        "在运营中断时，shuttle bus 常指替代原线路部分区段的临时巴士。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "subway-platform",
+      "term": "subway platform",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "地铁站台",
+      "explanationZh": "乘客候车、上下地铁的区域。进入站台前应确认方向，并注意站台边缘。",
+      "examples": [
+        {
+          "en": "The northbound train leaves from the other subway platform.",
+          "zh": "北行列车从另一个地铁站台发车。",
+          "scenarioZh": "在换乘站确认正确的乘车方向"
+        }
+      ],
+      "usageNotesZh": [
+        "on the subway platform 表示在地铁站台上。",
+        "platform 也可用于火车站台；加 subway 能明确是地铁。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "station-entrance",
+      "term": "station entrance",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "车站入口",
+      "explanationZh": "进入地铁站、火车站或其他交通车站的入口。大型车站可能有多个入口，通往不同街道。",
+      "examples": [
+        {
+          "en": "The station entrance on King Street is closed.",
+          "zh": "King Street 一侧的车站入口关闭了。",
+          "scenarioZh": "根据运营提示寻找另一个入口"
+        }
+      ],
+      "usageNotesZh": [
+        "use the west entrance 表示从西侧入口进入。",
+        "entrance 指进入处；exit 指出口，有些通道只允许单向通行。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "stop-request",
+      "term": "stop request",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "下车请求；停车提示",
+      "explanationZh": "公交车或电车内，乘客按按钮或拉提示绳后发出的下一站停车请求，通常会显示或播放提示。",
+      "examples": [
+        {
+          "en": "The stop request light came on after I pressed the button.",
+          "zh": "我按下按钮后，下车请求提示灯亮了。",
+          "scenarioZh": "在公交车上确认已经请求下一站停车"
+        }
+      ],
+      "usageNotesZh": [
+        "request a stop 表示请求司机在下一站停车。",
+        "Stop requested 是车内常见提示，表示已有乘客提出下车请求。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "next-stop",
+      "term": "next stop",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "下一站",
+      "explanationZh": "车辆接下来将停靠的站点。车内广播、显示屏以及问路时都会频繁使用。",
+      "examples": [
+        {
+          "en": "Is the next stop College Street?",
+          "zh": "下一站是 College Street 吗？",
+          "scenarioZh": "在车内向其他乘客确认下车站点"
+        }
+      ],
+      "usageNotesZh": [
+        "get off at the next stop 表示在下一站下车。",
+        "next station 也常用于轨道交通；公交场景更常听到 next stop。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "connecting-bus",
+      "term": "connecting bus",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "接驳下一程的公交车；换乘公交",
+      "explanationZh": "完成当前一段行程后需要换乘的另一辆公交车，通常要求你在合适的站点下车并等待。",
+      "examples": [
+        {
+          "en": "Will I have enough time to catch the connecting bus?",
+          "zh": "我有足够时间赶上换乘的那班公交吗？",
+          "scenarioZh": "规划公交换乘并担心衔接时间"
+        }
+      ],
+      "usageNotesZh": [
+        "catch a connecting bus 表示赶上换乘公交。",
+        "connection 可以泛指下一程交通，不保证两班车会等待彼此。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "trip-planner",
+      "term": "trip planner",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "行程规划工具",
+      "explanationZh": "根据出发地、目的地和时间，给出公共交通路线、换乘和预计用时的应用或网页工具。",
+      "examples": [
+        {
+          "en": "The trip planner suggests taking the streetcar and then the subway.",
+          "zh": "行程规划工具建议先坐电车，再换地铁。",
+          "scenarioZh": "出门前比较不同公共交通路线"
+        }
+      ],
+      "usageNotesZh": [
+        "use the trip planner 表示使用行程规划工具。",
+        "预计时间会受实时延误影响，出发前最好再查看运营状态。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "departure-board",
+      "term": "departure board",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "发车信息牌；出发显示屏",
+      "explanationZh": "车站内显示列车、巴士或航班发车时间、站台和延误情况的电子屏或信息牌。",
+      "examples": [
+        {
+          "en": "Check the departure board for the updated platform number.",
+          "zh": "请查看发车信息牌上更新后的站台号。",
+          "scenarioZh": "火车站临时调整发车站台"
+        }
+      ],
+      "usageNotesZh": [
+        "on the departure board 表示显示在发车信息牌上。",
+        "arrival board 显示到达信息；大型枢纽可能把两者放在同一块屏幕上。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "timetable",
+      "term": "timetable",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "时刻表",
+      "explanationZh": "列出公共交通计划发车或到站时间的表格。它反映计划安排，不一定等同于实时到站时间。",
+      "examples": [
+        {
+          "en": "The weekend timetable is different from the weekday schedule.",
+          "zh": "周末时刻表和工作日的班次安排不同。",
+          "scenarioZh": "查看假日或周末公交班次"
+        }
+      ],
+      "usageNotesZh": [
+        "check the timetable 表示查看时刻表。",
+        "timetable 在加拿大和英国很常见；schedule 在北美也非常自然。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "express-bus",
+      "term": "express bus",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "快速公交；少停站公交",
+      "explanationZh": "比普通线路停靠更少站点、用于缩短较长距离通勤时间的公交服务。具体是否加收车费要看当地规则。",
+      "examples": [
+        {
+          "en": "The express bus skips several stops downtown.",
+          "zh": "这班快速公交在市中心会跳过好几个站。",
+          "scenarioZh": "选择停站较少的通勤线路"
+        }
+      ],
+      "usageNotesZh": [
+        "take the express bus 表示乘坐快速公交。",
+        "express 描述停站方式或服务级别，不代表一定走专用车道。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "local-bus",
+      "term": "local bus",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "普通公交；各站停靠的公交",
+      "explanationZh": "与快速公交相对，通常沿途停靠更多站点，方便短距离出行或到达小站。",
+      "examples": [
+        {
+          "en": "Take the local bus if you need the stop at Bathurst Street.",
+          "zh": "如果你要在 Bathurst Street 那一站下车，请坐普通公交。",
+          "scenarioZh": "比较普通车与快速车的停站差异"
+        }
+      ],
+      "usageNotesZh": [
+        "local bus 在对比 express bus 时尤其常用。",
+        "local 这里强调停站服务，并不是说只在一个小区域内行驶。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "elevator-outage",
+      "term": "elevator outage",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "电梯停运；电梯故障停用",
+      "explanationZh": "车站电梯暂时不能使用，可能影响轮椅、婴儿车或携带重物的乘客通行。",
+      "examples": [
+        {
+          "en": "There is an elevator outage at the accessible entrance.",
+          "zh": "无障碍入口处的电梯停运了。",
+          "scenarioZh": "出发前查看车站无障碍设施状态"
+        }
+      ],
+      "usageNotesZh": [
+        "report an elevator outage 表示报告电梯停运。",
+        "需要无障碍路线时，应同时查看替代入口或相邻车站信息。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "escalator",
+      "term": "escalator",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "自动扶梯",
+      "explanationZh": "车站、商场等场所里连续运行的移动楼梯。它与 elevator（电梯）不同。",
+      "examples": [
+        {
+          "en": "The escalator is out of service, so we'll have to take the stairs.",
+          "zh": "自动扶梯停用了，所以我们得走楼梯。",
+          "scenarioZh": "在地铁站遇到自动扶梯维修"
+        }
+      ],
+      "usageNotesZh": [
+        "take the escalator 表示乘自动扶梯。",
+        "out of service 表示暂停使用；使用时遵守现场安全标志。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "off-peak",
+      "term": "off-peak",
+      "partsOfSpeech": [
+        "adjective",
+        "adverb"
+      ],
+      "definitionZh": "非高峰时段的；在非高峰时段",
+      "explanationZh": "指早晚通勤高峰之外、客流通常较少的时段。票价或班次是否不同取决于交通系统。",
+      "examples": [
+        {
+          "en": "The train is usually less crowded during off-peak hours.",
+          "zh": "火车在非高峰时段通常没那么拥挤。",
+          "scenarioZh": "选择人少一些的时间出行"
+        }
+      ],
+      "usageNotesZh": [
+        "off-peak hours 表示非高峰时段；travel off-peak 表示错峰出行。",
+        "具体哪些时间属于 off-peak，应查看运营方的定义。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "priority-seating",
+      "term": "priority seating",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "爱心座位；优先座位",
+      "explanationZh": "公共交通上优先提供给行动不便、孕妇、老年人或其他有需要乘客的座位区域。",
+      "examples": [
+        {
+          "en": "Please leave the priority seating available for passengers who need it.",
+          "zh": "请把优先座位留给有需要的乘客。",
+          "scenarioZh": "车内广播提醒乘客礼让座位"
+        }
+      ],
+      "usageNotesZh": [
+        "priority seating 通常作为整体概念使用。",
+        "offer your seat 表示主动让座；是否需要座位不一定能从外表判断。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "bike-rack",
+      "term": "bike rack",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "自行车架",
+      "explanationZh": "用于固定或运载自行车的架子。部分公交车车头装有 bike rack，车站附近也可能有停车架。",
+      "examples": [
+        {
+          "en": "How do I load my bike onto the bus's bike rack?",
+          "zh": "我该怎么把自行车放到公交车的自行车架上？",
+          "scenarioZh": "第一次带自行车搭乘有车头架的公交车"
+        }
+      ],
+      "usageNotesZh": [
+        "load a bike onto the rack 表示把自行车装上架子。",
+        "不同车辆的操作和允许时段可能不同，使用前看现场说明。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "stroller",
+      "term": "stroller",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "婴儿车",
+      "explanationZh": "推着婴幼儿出行的小车。在公交车或地铁上可能需要遵守停放、折叠或避让通道的要求。",
+      "examples": [
+        {
+          "en": "Is there enough room to board with a stroller?",
+          "zh": "有足够空间让我推着婴儿车上车吗？",
+          "scenarioZh": "带婴儿车准备搭乘拥挤的公交车"
+        }
+      ],
+      "usageNotesZh": [
+        "push a stroller 表示推婴儿车；fold the stroller 表示把婴儿车折叠起来。",
+        "stroller 是北美常用词；在英国也常听到 pushchair。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    },
+    {
+      "id": "get-off",
+      "term": "get off",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "下车；下船；离开交通工具",
+      "explanationZh": "从公交车、地铁、火车或其他公共交通工具下来，是日常问路和报站中非常高频的表达。",
+      "examples": [
+        {
+          "en": "Get off at Queen Station and walk two blocks east.",
+          "zh": "在 Queen Station 下车，然后向东走两个街区。",
+          "scenarioZh": "给朋友说明地铁下车后的步行路线"
+        }
+      ],
+      "usageNotesZh": [
+        "get off at a stop or station 表示在某站下车。",
+        "与 bus、train、subway 等搭配常用 get off；从小汽车下来通常说 get out of the car。"
+      ],
+      "tags": [
+        "public-transit",
+        "commuting"
+      ]
+    }
+  ]
+}
