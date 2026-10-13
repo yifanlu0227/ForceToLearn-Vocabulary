@@ -1,0 +1,608 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-13-canadian-daily-life",
+  "title": "加拿大日常生活：工作与办公室沟通",
+  "publishedOn": "2026-10-13",
+  "entries": [
+    {
+      "id": "onboarding",
+      "term": "onboarding",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "入职流程；新人融入培训",
+      "explanationZh": "新员工加入团队后完成账号开通、政策介绍、工具培训和认识同事等一系列安排。",
+      "examples": [
+        {
+          "en": "My onboarding includes an IT setup session and meetings with the team.",
+          "zh": "我的入职安排包括 IT 设置环节和与团队成员的会面。",
+          "scenarioZh": "查看新工作的第一周日程"
+        }
+      ],
+      "usageNotesZh": [
+        "employee onboarding 表示员工入职流程。",
+        "onboarding 比 orientation 范围更广，可能持续数天或数周。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "orientation",
+      "term": "orientation",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "岗前介绍会；入门说明",
+      "explanationZh": "学校或工作单位为新人安排的集中介绍，通常讲解环境、规则、资源和基本流程。",
+      "examples": [
+        {
+          "en": "New employee orientation starts at nine in the main conference room.",
+          "zh": "新员工入门介绍会九点在主会议室开始。",
+          "scenarioZh": "第一天到公司参加集中介绍"
+        }
+      ],
+      "usageNotesZh": [
+        "attend orientation 表示参加入门介绍会。",
+        "orientation 也常用于学校的新生说明活动，具体内容由场景决定。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "probation-period",
+      "term": "probation period",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "试用期",
+      "explanationZh": "新员工开始工作后的一段评估期，雇主和员工会在此期间确认岗位是否合适。具体权利和规则不能只凭名称判断。",
+      "examples": [
+        {
+          "en": "My probation period ends after three months.",
+          "zh": "我的试用期在三个月后结束。",
+          "scenarioZh": "查看录用信中的试用期安排"
+        }
+      ],
+      "usageNotesZh": [
+        "be on probation 表示处于试用期。",
+        "试用期长度和相关规则应以合同、公司政策和适用法律为准。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "pay-stub",
+      "term": "pay stub",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "工资单；薪资明细",
+      "explanationZh": "发薪时提供的明细，列出本期收入、税费和其他扣除项目以及实发金额。在加拿大办理租房或核对工资时很实用。",
+      "examples": [
+        {
+          "en": "I downloaded my latest pay stub for the rental application.",
+          "zh": "我下载了最新的工资单，用于租房申请。",
+          "scenarioZh": "准备收入证明材料"
+        }
+      ],
+      "usageNotesZh": [
+        "pay stub 在加拿大和美国都很常见；也可见 payslip。",
+        "gross pay 是税前收入，net pay 是实际到手金额。"
+      ],
+      "tags": [
+        "workplace",
+        "payroll"
+      ]
+    },
+    {
+      "id": "timesheet",
+      "term": "timesheet",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "工时表",
+      "explanationZh": "记录每天或每个项目工作时间的表格或电子系统，用于审批工时、计算工资或项目成本。",
+      "examples": [
+        {
+          "en": "Please submit your timesheet by Friday afternoon.",
+          "zh": "请在周五下午前提交工时表。",
+          "scenarioZh": "收到主管提醒填写本周工时"
+        }
+      ],
+      "usageNotesZh": [
+        "fill out a timesheet 表示填写工时表；submit a timesheet 表示提交。",
+        "受薪员工是否需要填 timesheet 取决于公司和岗位安排。"
+      ],
+      "tags": [
+        "workplace",
+        "payroll"
+      ]
+    },
+    {
+      "id": "clock-in",
+      "term": "clock in",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "打卡上班；记录上班时间",
+      "explanationZh": "开始班次时在系统、打卡机或应用中记录到岗时间。常见于按小时计薪或轮班工作。",
+      "examples": [
+        {
+          "en": "I clocked in five minutes before my shift started.",
+          "zh": "我在班次开始前五分钟打了上班卡。",
+          "scenarioZh": "到店后用员工系统记录出勤"
+        }
+      ],
+      "usageNotesZh": [
+        "clock in for a shift 表示为一个班次打卡上班。",
+        "clock in 不一定使用实体打卡机，也可能在手机或电脑上完成。"
+      ],
+      "tags": [
+        "workplace",
+        "payroll"
+      ]
+    },
+    {
+      "id": "clock-out",
+      "term": "clock out",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "打卡下班；记录下班时间",
+      "explanationZh": "结束班次时记录离岗时间，用来计算工时或确认出勤。",
+      "examples": [
+        {
+          "en": "Don't forget to clock out before you leave.",
+          "zh": "离开前别忘了打卡下班。",
+          "scenarioZh": "主管提醒员工结束班次时记录时间"
+        }
+      ],
+      "usageNotesZh": [
+        "clock out at 5:30 表示五点半打卡下班。",
+        "如果忘记打卡，应按公司的流程申请更正工时。"
+      ],
+      "tags": [
+        "workplace",
+        "payroll"
+      ]
+    },
+    {
+      "id": "sick-day",
+      "term": "sick day",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "病假日；因病请假的一天",
+      "explanationZh": "因生病或身体不适而不上班的一天。是否带薪、需要什么证明以及如何通知，取决于适用政策和规定。",
+      "examples": [
+        {
+          "en": "I'm taking a sick day because I woke up with a fever.",
+          "zh": "我今天发烧了，要请一天病假。",
+          "scenarioZh": "早晨通知主管因身体不适无法上班"
+        }
+      ],
+      "usageNotesZh": [
+        "take a sick day 表示请一天病假。",
+        "call in sick 强调通知单位自己因病不能上班。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "personal-day",
+      "term": "personal day",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "个人事务假；私人事假日",
+      "explanationZh": "为处理个人事务而请的一天假，可能用于预约、家庭事项或其他私人原因。公司对这类假的定义各不相同。",
+      "examples": [
+        {
+          "en": "I need to take a personal day for an appointment.",
+          "zh": "我需要请一天个人事务假去赴约。",
+          "scenarioZh": "向主管说明需要处理私人安排"
+        }
+      ],
+      "usageNotesZh": [
+        "take a personal day 表示请一天个人事务假。",
+        "不要默认 personal day 一定带薪，需查看公司政策。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "vacation-request",
+      "term": "vacation request",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "休假申请",
+      "explanationZh": "员工向主管或系统提交的休假日期申请，通常需要获批后才能视为最终确定。",
+      "examples": [
+        {
+          "en": "I submitted a vacation request for the first week of December.",
+          "zh": "我提交了十二月第一周的休假申请。",
+          "scenarioZh": "在员工系统中申请年假"
+        }
+      ],
+      "usageNotesZh": [
+        "submit a vacation request 表示提交休假申请。",
+        "approved vacation 表示已经获批的休假；request 本身不等于已批准。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "paid-time-off",
+      "term": "paid time off",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "带薪休假",
+      "explanationZh": "员工休假期间仍然获得工资的安排，可能涵盖年假、个人假或其他类别，具体结构因单位而异。",
+      "examples": [
+        {
+          "en": "How much paid time off do I have left this year?",
+          "zh": "我今年还剩多少带薪休假？",
+          "scenarioZh": "在计划旅行前查询剩余假期"
+        }
+      ],
+      "usageNotesZh": [
+        "常缩写为 PTO，尤其在北美职场。",
+        "PTO 的包含范围和累计方式应查看雇佣合同或公司政策。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "benefits",
+      "term": "benefits",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "员工福利",
+      "explanationZh": "工资之外由雇主提供的福利安排，可能包括牙科、处方药、保险或退休储蓄计划等。具体项目因岗位而异。",
+      "examples": [
+        {
+          "en": "When do my health and dental benefits start?",
+          "zh": "我的医疗和牙科福利什么时候开始生效？",
+          "scenarioZh": "入职后向人力资源部门询问福利生效日期"
+        }
+      ],
+      "usageNotesZh": [
+        "employee benefits 表示员工福利。",
+        "benefits 常用复数；coverage 表示某项福利或保险的覆盖范围。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "payroll",
+      "term": "payroll",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "薪资发放；工资系统；工资名册",
+      "explanationZh": "公司计算并发放员工工资的流程或负责该流程的部门。工资金额、扣款或账户信息有问题时常会联系 payroll。",
+      "examples": [
+        {
+          "en": "Please contact payroll if your direct deposit information changes.",
+          "zh": "如果你的直接存款信息有变，请联系薪资部门。",
+          "scenarioZh": "公司提醒员工更新收款账户"
+        }
+      ],
+      "usageNotesZh": [
+        "be on the payroll 表示列在公司工资名册中。",
+        "payroll 可指流程、系统或相关团队，要根据上下文判断。"
+      ],
+      "tags": [
+        "workplace",
+        "payroll"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "term": "supervisor",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "主管；直接管理人员",
+      "explanationZh": "负责安排、指导或审核你日常工作的人。在有些组织里 supervisor 和 manager 是同一个人，在另一些组织里层级不同。",
+      "examples": [
+        {
+          "en": "I checked with my supervisor before changing the schedule.",
+          "zh": "调整排班前，我先征求了主管的意见。",
+          "scenarioZh": "员工准备修改工作安排"
+        }
+      ],
+      "usageNotesZh": [
+        "direct supervisor 表示直接主管。",
+        "report to a supervisor 表示向某位主管汇报工作。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "coworker",
+      "term": "coworker",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "同事",
+      "explanationZh": "与你在同一单位工作的人，不一定属于同一个团队，也不一定与你级别相同。",
+      "examples": [
+        {
+          "en": "A coworker showed me how to use the booking system.",
+          "zh": "一位同事教我怎么使用预约系统。",
+          "scenarioZh": "刚入职时向同事学习内部工具"
+        }
+      ],
+      "usageNotesZh": [
+        "coworker 和 colleague 都可表示同事；coworker 更日常。",
+        "my coworker 表示我的同事，复数是 coworkers。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "workload",
+      "term": "workload",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "工作量；工作负担",
+      "explanationZh": "一段时间内需要完成的工作总量。讨论任务分配、加班风险或优先级时很常用。",
+      "examples": [
+        {
+          "en": "My workload is heavier than usual this week.",
+          "zh": "我这周的工作量比平时大。",
+          "scenarioZh": "向主管说明本周任务过多"
+        }
+      ],
+      "usageNotesZh": [
+        "a heavy workload 表示工作量大；manage your workload 表示管理工作量。",
+        "workload 通常作为不可数或单数集合概念使用。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "deadline",
+      "term": "deadline",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "截止时间；最后期限",
+      "explanationZh": "任务、申请或文件必须完成或提交的最晚时间。职场中常会同时问日期和具体几点。",
+      "examples": [
+        {
+          "en": "The deadline for the report is noon on Thursday.",
+          "zh": "报告的截止时间是周四中午。",
+          "scenarioZh": "确认项目交付的具体时间"
+        }
+      ],
+      "usageNotesZh": [
+        "meet a deadline 表示按时完成；miss a deadline 表示错过截止时间。",
+        "by Friday 表示最晚周五完成，不是从周五开始。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "deliverable",
+      "term": "deliverable",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "交付物；需要提交的成果",
+      "explanationZh": "项目中承诺在某个时间交出的具体成果，例如报告、代码、设计稿或演示文档。",
+      "examples": [
+        {
+          "en": "The final deliverable is a short report and a working prototype.",
+          "zh": "最终交付物是一份简短报告和一个可运行的原型。",
+          "scenarioZh": "项目启动会上明确要交付的成果"
+        }
+      ],
+      "usageNotesZh": [
+        "project deliverables 表示项目交付物。",
+        "deliverable 强调可检查或提交的成果，不只是泛泛的工作任务。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "meeting-invite",
+      "term": "meeting invite",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "会议邀请",
+      "explanationZh": "通过日历或邮件发送的会议信息，通常包含时间、参会人、地点或视频会议链接。",
+      "examples": [
+        {
+          "en": "I sent you a meeting invite for Tuesday afternoon.",
+          "zh": "我给你发了周二下午的会议邀请。",
+          "scenarioZh": "与同事约定讨论时间后发送日历邀请"
+        }
+      ],
+      "usageNotesZh": [
+        "accept a meeting invite 表示接受会议邀请；decline 表示拒绝。",
+        "如果时间暂时不确定，可在日历系统中选择 tentative。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "agenda",
+      "term": "agenda",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "议程；会议事项清单",
+      "explanationZh": "会议计划讨论的主题和顺序。提前共享议程可以帮助参会者准备材料并控制时间。",
+      "examples": [
+        {
+          "en": "Could you add the budget update to the agenda?",
+          "zh": "你能把预算更新加入议程吗？",
+          "scenarioZh": "会前请主持人增加讨论事项"
+        }
+      ],
+      "usageNotesZh": [
+        "meeting agenda 表示会议议程；agenda item 表示一项议题。",
+        "on the agenda 表示列在议程中。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "minutes",
+      "term": "minutes",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "会议纪要",
+      "explanationZh": "对会议讨论、决定和后续事项的正式或半正式记录。这个意思通常使用复数。",
+      "examples": [
+        {
+          "en": "I'll circulate the meeting minutes this afternoon.",
+          "zh": "我今天下午会把会议纪要发给大家。",
+          "scenarioZh": "会后向参会者发送讨论记录"
+        }
+      ],
+      "usageNotesZh": [
+        "take minutes 表示做会议记录；circulate the minutes 表示分发纪要。",
+        "minutes 在这里不是“分钟”，要结合 meeting 语境判断。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "action-item",
+      "term": "action item",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "待办事项；会后行动项",
+      "explanationZh": "会议中明确由某个人负责、需要在之后完成的具体任务，通常会配有负责人和截止时间。",
+      "examples": [
+        {
+          "en": "My action item is to update the onboarding checklist by Friday.",
+          "zh": "我的待办事项是在周五前更新入职清单。",
+          "scenarioZh": "会后确认自己负责的下一步工作"
+        }
+      ],
+      "usageNotesZh": [
+        "assign an action item 表示分配行动项。",
+        "action item 比一般的 idea 更具体，通常应能明确谁来做、何时完成。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "cover-a-shift",
+      "term": "cover a shift",
+      "partsOfSpeech": [
+        "phrase"
+      ],
+      "definitionZh": "替别人代班；顶一个班次",
+      "explanationZh": "在原本由另一名员工工作的时段替他上班，常用于零售、餐饮、医疗和其他轮班岗位。",
+      "examples": [
+        {
+          "en": "Can you cover my shift on Saturday morning?",
+          "zh": "你周六上午能替我上班吗？",
+          "scenarioZh": "临时有事时请同事代班"
+        }
+      ],
+      "usageNotesZh": [
+        "cover someone's shift 表示替某人代班。",
+        "代班前通常需要按公司流程获得主管批准。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "call-in-sick",
+      "term": "call in sick",
+      "partsOfSpeech": [
+        "phrasal_verb"
+      ],
+      "definitionZh": "打电话或发消息请病假",
+      "explanationZh": "在上班前通知主管或单位，说明自己生病、无法到岗。现在不一定真的打电话，也可能通过短信或系统报告。",
+      "examples": [
+        {
+          "en": "She called in sick and won't be at the store today.",
+          "zh": "她请了病假，今天不会到店里上班。",
+          "scenarioZh": "同事向团队说明有人因病缺勤"
+        }
+      ],
+      "usageNotesZh": [
+        "call in sick to work 表示向工作单位请病假。",
+        "这个表达强调通知行为；take a sick day 强调请病假这一天。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    },
+    {
+      "id": "performance-review",
+      "term": "performance review",
+      "partsOfSpeech": [
+        "noun"
+      ],
+      "definitionZh": "绩效评估；工作表现回顾",
+      "explanationZh": "主管与员工定期回顾工作表现、目标、反馈和发展计划的正式会议或流程。",
+      "examples": [
+        {
+          "en": "My annual performance review is scheduled for next week.",
+          "zh": "我的年度绩效评估安排在下周。",
+          "scenarioZh": "查看主管发送的年度评估邀请"
+        }
+      ],
+      "usageNotesZh": [
+        "annual performance review 表示年度绩效评估。",
+        "prepare for a performance review 表示为绩效评估做准备；通常可整理成果和问题。"
+      ],
+      "tags": [
+        "workplace",
+        "office-communication"
+      ]
+    }
+  ]
+}
