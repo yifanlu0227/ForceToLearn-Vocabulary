@@ -2,7 +2,9 @@
 a dollop of
 a pinch of
 a splash of
+action item
 Advil
+agenda
 air filter
 aisle
 al dente
@@ -32,6 +34,7 @@ baste
 batter
 beat
 bell pepper
+benefits
 best before date
 bike rack
 bite the bullet
@@ -73,6 +76,7 @@ buzzer
 by the pound
 BYOB
 cage-free
+call in sick
 call it a day
 caramelize
 carpool lane
@@ -95,6 +99,8 @@ circuit breaker
 claim
 clamshell
 clearance
+clock in
+clock out
 clog
 clothespin
 co-insurance
@@ -118,7 +124,9 @@ cottage
 cottage cheese
 cough drop
 coupon
+cover a shift
 cover charge
+coworker
 crack an egg
 crash
 cream
@@ -139,6 +147,7 @@ damaged
 day-old
 dead battery
 deadbolt
+deadline
 decaf
 decongestant
 deductible
@@ -147,6 +156,7 @@ defroster
 deglaze
 dehumidifier
 deli
+deliverable
 departure board
 designated driver
 detour
@@ -339,8 +349,10 @@ measuring cup
 meat counter
 median
 medium rare
+meeting invite
 merge
 mince
+minutes
 mixing bowl
 mocktail
 money order
@@ -377,8 +389,10 @@ on the rocks
 on the same page
 on the side
 on-ramp
+onboarding
 one-way street
 open enrollment
+orientation
 original packaging
 ottoman
 out of stock
@@ -388,6 +402,7 @@ oven mitt
 over easy
 over-the-counter
 P-trap
+paid time off
 painter's tape
 pantry staples
 parallel park
@@ -400,8 +415,12 @@ parking ticket
 party of
 pat dry
 patio
+pay stub
+payroll
 peeler
 peephole
+performance review
+personal day
 physical
 piece of cake
 pileup
@@ -431,6 +450,7 @@ price tag
 prior authorization
 priority seating
 prix fixe
+probation period
 produce
 proof of address
 proof of payment
@@ -510,6 +530,7 @@ shower head
 shred
 shut-off valve
 shuttle bus
+sick day
 side effects
 sift
 simmer
@@ -571,6 +592,7 @@ subway platform
 sump pump
 sunny side up
 superintendent
+supervisor
 surcharge
 swab
 swamped
@@ -595,6 +617,7 @@ thermostat
 threshold
 throw blanket
 tied up
+timesheet
 timetable
 Timmies
 to-go box
@@ -629,6 +652,7 @@ up in the air
 urgent care
 utilities
 utility knife
+vacation request
 valance
 vent
 visitor parking
@@ -653,6 +677,7 @@ windshield wipers
 wing it
 winter tires
 wok
+workload
 wrap up
 yield
 you bet
