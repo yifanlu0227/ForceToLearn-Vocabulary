@@ -61,6 +61,7 @@ bruised
 brutal
 buck
 bug spray
+building permit
 bulk bins
 bumper-to-bumper
 bunch
@@ -74,6 +75,7 @@ buzz in
 buzzed
 buzzer
 by the pound
+bylaw
 BYOB
 cage-free
 call in sick
@@ -96,6 +98,7 @@ childproof cap
 chip in
 cilantro
 circuit breaker
+city councillor
 claim
 clamshell
 clearance
@@ -108,7 +111,10 @@ co-pay
 coffee run
 colander
 cold cuts
+collection day
 comforter
+community centre
+community garden
 commute
 comp
 compost bin
@@ -181,10 +187,12 @@ drive-thru
 drizzle
 drop cloth
 drop the ball
+drop-in
 drowsy
 dryer sheet
 drywall
 duct tape
+due date
 dustpan
 Dutch oven
 duvet
@@ -228,6 +236,7 @@ flu shot
 flyer
 fold in
 follow-up appointment
+food bank
 food coma
 for here or to go
 for sure
@@ -235,6 +244,7 @@ free sample
 free-range
 furnace
 furnished
+garbage collection
 garbage disposal
 garnish
 gas mileage
@@ -259,6 +269,7 @@ grate
 gratuity
 grease
 greasy spoon
+green bin
 green onion
 gridlock
 ground beef
@@ -317,6 +328,7 @@ ladle
 landlord
 last call
 last month's rent
+late fee
 laundry detergent
 laundry pods
 laundry room
@@ -326,6 +338,7 @@ lease renewal
 leftovers
 let it rest
 level
+library card
 lifesaver
 lightheaded
 linen closet
@@ -362,6 +375,7 @@ my bad
 my two cents
 nasal spray
 neat
+newcomer services
 next stop
 nightcap
 nightstand
@@ -411,6 +425,7 @@ parchment paper
 paring knife
 parkade
 parking meter
+parking permit
 parking ticket
 party of
 pat dry
@@ -430,6 +445,7 @@ pint
 piping hot
 pit
 pitcher
+place a hold
 plastic wrap
 play it by ear
 PLU sticker
@@ -455,6 +471,8 @@ produce
 proof of address
 proof of payment
 proof of purchase
+proof of residency
+property tax
 pull over
 pumped
 put your name down
@@ -466,15 +484,19 @@ rain date
 rash
 rear-end
 receipt
+recreation program
+recycling bin
 red tape
 reduce
 referral
 refill
 refund
 register
+registration fee
 regular
 reheat
 reimburse
+renew
 rent increase
 requisition
 reschedule
@@ -518,6 +540,7 @@ sell-by date
 send back
 service disruption
 settle up
+settlement worker
 shallot
 shoot someone a text
 short-staffed
@@ -657,9 +680,11 @@ valance
 vent
 visitor parking
 void cheque
+waitlist
 waive
 walk-in clinic
 wall anchor
+ward
 warranty
 washer fluid
 washroom
