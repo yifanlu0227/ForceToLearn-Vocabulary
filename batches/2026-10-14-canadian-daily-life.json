@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-14-canadian-daily-life",
+  "title": "加拿大日常生活：社区服务与市政办事",
+  "publishedOn": "2026-10-14",
+  "entries": [
+    {
+      "id": "community-centre",
+      "term": "community centre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区中心",
+      "explanationZh": "由市政府或社区机构运营的公共场所，常提供健身、游泳、课程、儿童活动和场地租用等服务。加拿大也常拼作 community center。",
+      "examples": [{"en": "The community centre offers free activities for children on Saturdays.", "zh": "社区中心每周六为孩子们提供免费活动。", "scenarioZh": "家长查看周末社区活动"}],
+      "usageNotesZh": ["加拿大正式书写通常采用 centre，美式拼法 center 也能见到。", "常见搭配：local community centre、community centre membership。"],
+      "tags": ["community-services", "recreation"]
+    },
+    {
+      "id": "recreation-program",
+      "term": "recreation program",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "文体活动项目；休闲课程",
+      "explanationZh": "社区中心或市政府为居民开设的游泳、健身、艺术、球类等课程或活动项目，通常按季度报名。",
+      "examples": [{"en": "Registration for the spring recreation programs opens next Monday.", "zh": "春季文体活动项目下周一开放报名。", "scenarioZh": "查看市政府社区课程通知"}],
+      "usageNotesZh": ["register for a recreation program 表示报名参加文体活动项目。", "program 在加拿大英语中常见；英式拼法 programme 较少用于这类市政页面。"],
+      "tags": ["community-services", "recreation"]
+    },
+    {
+      "id": "drop-in",
+      "term": "drop-in",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "无需预约即可参加的活动；随到随参加的",
+      "explanationZh": "不用提前注册固定整期，按开放时段直接到场参加的活动或服务。社区中心的游泳、羽毛球和咨询服务中很常见。",
+      "examples": [{"en": "There is a drop-in badminton session tonight from seven to nine.", "zh": "今晚七点到九点有一场可直接参加的羽毛球活动。", "scenarioZh": "查询社区中心当天活动"}],
+      "usageNotesZh": ["drop-in program、drop-in swim 和 drop-in fee 都是常见搭配。", "作名词时可说 attend a drop-in；作形容词时放在名词前。"],
+      "tags": ["community-services", "recreation"]
+    },
+    {
+      "id": "registration-fee",
+      "term": "registration fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "报名费；注册费",
+      "explanationZh": "报名课程、活动或服务时需要支付的费用。付款前应确认费用是否包含材料、设备或税费。",
+      "examples": [{"en": "The registration fee includes all art supplies.", "zh": "报名费包含全部美术材料。", "scenarioZh": "报名社区美术课前确认收费内容"}],
+      "usageNotesZh": ["pay a registration fee 表示支付报名费。", "registration fee 与 membership fee 不同，后者通常是会员费。"],
+      "tags": ["community-services", "recreation"]
+    },
+    {
+      "id": "waitlist",
+      "term": "waitlist",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "候补名单；把……列入候补名单",
+      "explanationZh": "课程或服务名额已满时，用来按顺序等候空位的名单。有人取消后，工作人员会依规则联系候补者。",
+      "examples": [{"en": "The swimming class is full, but I added my daughter to the waitlist.", "zh": "游泳课已经满员，但我把女儿加入了候补名单。", "scenarioZh": "社区课程满员后登记候补"}],
+      "usageNotesZh": ["join、be on 或 get on the waitlist 都表示进入候补名单。", "也常写作 wait list；加拿大机构页面两种写法都可见。"],
+      "tags": ["community-services", "registration"]
+    },
+    {
+      "id": "proof-of-residency",
+      "term": "proof of residency",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "居住证明",
+      "explanationZh": "用于证明你住在某个城市或地址的材料，办理居民优惠、图书证、学校或市政服务时可能需要。",
+      "examples": [{"en": "Please bring proof of residency, such as a utility bill or lease.", "zh": "请携带居住证明，例如水电账单或租约。", "scenarioZh": "现场办理居民专享服务"}],
+      "usageNotesZh": ["常见材料包括近期账单、租约或带地址的政府文件，具体以办理机构要求为准。", "不要与 proof of address 机械区分；实际页面上两者常表达相近要求。"],
+      "tags": ["community-services", "documents"]
+    },
+    {
+      "id": "bylaw",
+      "term": "bylaw",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "市政附例；地方规章",
+      "explanationZh": "由城市或地方政府制定的规定，常涉及停车、噪音、垃圾、宠物和物业维护。不同城市的具体要求可能不同。",
+      "examples": [{"en": "The city bylaw limits construction noise early in the morning.", "zh": "市政附例限制清晨的施工噪音。", "scenarioZh": "邻居装修噪音过大时查询规定"}],
+      "usageNotesZh": ["常见搭配：parking bylaw、noise bylaw、bylaw officer。", "谈具体规定时应查所在市镇的官方 bylaw。"],
+      "tags": ["community-services", "municipal"]
+    },
+    {
+      "id": "parking-permit",
+      "term": "parking permit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停车许可证；停车许可",
+      "explanationZh": "允许车辆在指定街区、时段或停车区域停放的许可，居民街边停车和访客停车常会用到。",
+      "examples": [{"en": "I applied online for a temporary street parking permit.", "zh": "我在网上申请了临时街边停车许可证。", "scenarioZh": "访客车辆需要在住宅街过夜"}],
+      "usageNotesZh": ["常见搭配：residential parking permit、temporary parking permit。", "permit 不代表任何位置都能停，仍需遵守标志、禁停时段和清雪规定。"],
+      "tags": ["community-services", "parking"]
+    },
+    {
+      "id": "building-permit",
+      "term": "building permit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "建筑许可证；施工许可",
+      "explanationZh": "进行某些新建、扩建或重大装修前由市政府审批的许可，用于确认项目符合适用的建筑和安全要求。",
+      "examples": [{"en": "Check whether you need a building permit before finishing the basement.", "zh": "装修地下室前先确认是否需要建筑许可证。", "scenarioZh": "房主计划进行较大规模装修"}],
+      "usageNotesZh": ["apply for、obtain 或 get a building permit 表示申请或取得许可。", "是否需要许可取决于所在地和工程范围，应以当地政府要求为准。"],
+      "tags": ["community-services", "housing"]
+    },
+    {
+      "id": "property-tax",
+      "term": "property tax",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "房产税；物业税",
+      "explanationZh": "地方政府根据房产评估价值征收的税，用于支持道路、消防、图书馆等市政服务。租客通常不会直接收到房产税账单。",
+      "examples": [{"en": "The property tax bill can be paid in monthly instalments.", "zh": "房产税账单可以按月分期缴纳。", "scenarioZh": "房主安排市政税费付款"}],
+      "usageNotesZh": ["property tax bill 表示房产税账单。", "税率、评估和付款方式因地区而异，应查看当地政府通知。"],
+      "tags": ["community-services", "municipal"]
+    },
+    {
+      "id": "garbage-collection",
+      "term": "garbage collection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "生活垃圾收运；垃圾收集服务",
+      "explanationZh": "市政或承包商按固定时间收走居民生活垃圾的服务，可能对垃圾袋、容器、重量和数量有具体限制。",
+      "examples": [{"en": "Garbage collection is one day later this week because of the holiday.", "zh": "因为假期，本周的垃圾收运推迟一天。", "scenarioZh": "查询节假日后的收垃圾安排"}],
+      "usageNotesZh": ["garbage pickup 也是常见说法。", "遇到节假日或恶劣天气时，collection schedule 可能调整。"],
+      "tags": ["community-services", "waste"]
+    },
+    {
+      "id": "recycling-bin",
+      "term": "recycling bin",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "回收物收集箱",
+      "explanationZh": "用于投放可回收材料的容器。可接受的纸张、塑料、金属或玻璃种类因当地回收规则而异。",
+      "examples": [{"en": "Rinse the container before putting it in the recycling bin.", "zh": "把容器冲洗干净后再放进回收箱。", "scenarioZh": "在家分类处理包装容器"}],
+      "usageNotesZh": ["不要仅凭容器上的回收符号判断，应查看当地 accepted items 清单。", "公寓楼内也可能称 recycling container 或 recycling cart。"],
+      "tags": ["community-services", "waste"]
+    },
+    {
+      "id": "green-bin",
+      "term": "green bin",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "厨余及有机垃圾桶；绿色有机物箱",
+      "explanationZh": "许多加拿大城市用来收集食物残渣和其他可堆肥有机物的绿色容器，具体可投放物品按当地规定执行。",
+      "examples": [{"en": "Put the food scraps in the green bin, not the garbage.", "zh": "把食物残渣放进绿色厨余桶，不要放进普通垃圾。", "scenarioZh": "在厨房进行垃圾分类"}],
+      "usageNotesZh": ["green bin program 表示市政有机垃圾收集计划。", "是否能放可堆肥袋、纸巾或宠物废物，各地规则不同。"],
+      "tags": ["community-services", "waste"]
+    },
+    {
+      "id": "collection-day",
+      "term": "collection day",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "垃圾或回收物收运日",
+      "explanationZh": "市政服务到住宅区收取垃圾、回收物或有机垃圾的指定日期。不同类别可能每周或隔周收运。",
+      "examples": [{"en": "Set the bins at the curb before 7 a.m. on collection day.", "zh": "收运日早上七点前把垃圾桶放到路边。", "scenarioZh": "按市政时间把各类垃圾桶推出去"}],
+      "usageNotesZh": ["check your collection day 表示查询自家收运日。", "常见搭配：collection calendar、collection schedule。"],
+      "tags": ["community-services", "waste"]
+    },
+    {
+      "id": "library-card",
+      "term": "library card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "图书证；借书卡",
+      "explanationZh": "公共图书馆为符合条件的使用者办理的账户凭证，可用于借书、预约资料以及使用电子资源或馆内服务。",
+      "examples": [{"en": "You can apply for a library card with identification and proof of address.", "zh": "你可以凭身份证明和地址证明申请图书证。", "scenarioZh": "第一次到当地公共图书馆办卡"}],
+      "usageNotesZh": ["apply for 或 get a library card 表示办理图书证。", "实体卡之外，很多图书馆也提供 digital card 或账户条码。"],
+      "tags": ["community-services", "library"]
+    },
+    {
+      "id": "place-a-hold",
+      "term": "place a hold",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "预约借阅；排队预留馆藏",
+      "explanationZh": "在图书馆系统中预约一本当前不在架上或想在指定分馆领取的书，到货后再按通知取走。",
+      "examples": [{"en": "I placed a hold on the book and chose my neighbourhood branch for pickup.", "zh": "我预约了这本书，并选择在家附近的分馆取书。", "scenarioZh": "在线预约一本已被借出的书"}],
+      "usageNotesZh": ["place a hold on a book 表示预约一本书。", "hold 也可作名词，例如 Your hold is ready for pickup。"],
+      "tags": ["community-services", "library"]
+    },
+    {
+      "id": "renew",
+      "term": "renew",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "续借；续期；更新有效期",
+      "explanationZh": "延长借阅物、证件、许可或会员资格的有效期限。能否续期以及可续几次取决于具体服务规则。",
+      "examples": [{"en": "I renewed the library book online for another three weeks.", "zh": "我在网上把这本图书续借了三周。", "scenarioZh": "图书到期前登录账户续借"}],
+      "usageNotesZh": ["renew a book、permit、licence 或 membership 都很常见。", "renewal 是名词，表示续期或更新手续。"],
+      "tags": ["community-services", "library"]
+    },
+    {
+      "id": "due-date",
+      "term": "due date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "到期日；截止日期",
+      "explanationZh": "物品应归还、款项应支付或任务应完成的日期。图书借阅、账单和申请办理中都非常常见。",
+      "examples": [{"en": "The due date for these library books is October 28.", "zh": "这些图书的归还日期是 10 月 28 日。", "scenarioZh": "查看借阅账户中的还书期限"}],
+      "usageNotesZh": ["before/by the due date 表示在到期日之前或最迟于当天。", "past due 或 overdue 表示已经逾期。"],
+      "tags": ["community-services", "library"]
+    },
+    {
+      "id": "late-fee",
+      "term": "late fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "逾期费；滞纳金",
+      "explanationZh": "超过付款、归还或办理期限后可能收取的额外费用。并非所有图书馆都会对逾期书籍收费。",
+      "examples": [{"en": "The library no longer charges late fees on most children's books.", "zh": "这家图书馆对大多数儿童图书不再收取逾期费。", "scenarioZh": "确认图书逾期后的收费政策"}],
+      "usageNotesZh": ["charge a late fee 表示收取逾期费；waive a late fee 表示免除。", "fee policy 因机构和物品类型而异，应查看账户通知。"],
+      "tags": ["community-services", "library"]
+    },
+    {
+      "id": "community-garden",
+      "term": "community garden",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区共享花园；社区菜园",
+      "explanationZh": "由居民共同使用或管理的种植空间，参与者可能申请一块小园地种菜，也可能一起维护公共区域。",
+      "examples": [{"en": "We applied for a plot in the community garden near our apartment.", "zh": "我们申请了公寓附近社区菜园的一块园地。", "scenarioZh": "居民报名参与社区种植项目"}],
+      "usageNotesZh": ["garden plot 表示分配给个人或家庭的小块园地。", "有些项目名额有限，会采用 waitlist 或抽签。"],
+      "tags": ["community-services", "neighbourhood"]
+    },
+    {
+      "id": "food-bank",
+      "term": "food bank",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食物银行；食品援助机构",
+      "explanationZh": "为有需要的个人或家庭提供食品援助的社区机构，也会接受食品、资金或志愿服务。领取方式和资格要求因机构而异。",
+      "examples": [{"en": "The local food bank distributes grocery hampers on Thursday afternoons.", "zh": "当地食物银行每周四下午发放食品包。", "scenarioZh": "查询社区食品援助时间"}],
+      "usageNotesZh": ["use、visit 或 donate to a food bank 都是常见搭配。", "food bank 不等于商业银行；这里的 bank 指集中储存和分发资源的机构。"],
+      "tags": ["community-services", "support"]
+    },
+    {
+      "id": "newcomer-services",
+      "term": "newcomer services",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "新移民安居服务；新来者服务",
+      "explanationZh": "帮助新到加拿大的人了解住房、就业、语言学习、教育、医疗和社区资源的一类支持服务。",
+      "examples": [{"en": "The library hosts free newcomer services every Wednesday.", "zh": "图书馆每周三提供免费的新移民安居服务。", "scenarioZh": "新居民寻找本地生活信息和转介"}],
+      "usageNotesZh": ["newcomer 在服务语境中通常指新到加拿大的人，不一定只指某一种移民身份。", "常见搭配：newcomer centre、newcomer support、newcomer information session。"],
+      "tags": ["community-services", "settlement"]
+    },
+    {
+      "id": "settlement-worker",
+      "term": "settlement worker",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "安居服务工作人员；新移民服务顾问",
+      "explanationZh": "为新移民或新居民提供信息、需求评估和社区资源转介的工作人员，常在安居机构、学校或图书馆提供服务。",
+      "examples": [{"en": "A settlement worker helped me find an English class nearby.", "zh": "一位安居服务工作人员帮我找到了附近的英语课程。", "scenarioZh": "新来者咨询语言学习资源"}],
+      "usageNotesZh": ["speak with a settlement worker 表示向安居服务工作人员咨询。", "他们通常提供信息和转介，不一定代替律师、医生或持牌顾问的专业意见。"],
+      "tags": ["community-services", "settlement"]
+    },
+    {
+      "id": "ward",
+      "term": "ward",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "市政选区；分区",
+      "explanationZh": "城市为选举市议员和组织地方代表工作而划分的区域。居民可根据住址查询自己属于哪个 ward。",
+      "examples": [{"en": "Enter your address to find your ward and city councillor.", "zh": "输入你的地址即可查询所属市政选区和市议员。", "scenarioZh": "查找代表本社区的市议员"}],
+      "usageNotesZh": ["Ward 5 表示第五选区。", "ward 边界可能调整，办理市政事务时应使用官方地址查询工具。"],
+      "tags": ["community-services", "municipal"]
+    },
+    {
+      "id": "city-councillor",
+      "term": "city councillor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "市议员",
+      "explanationZh": "由当地选民选出的市议会成员，参与市政决策，并协助居民了解或反映道路、停车、公园等地方问题。",
+      "examples": [{"en": "I contacted my city councillor about the unsafe crosswalk.", "zh": "我联系了本区市议员，反映那个人行横道不安全。", "scenarioZh": "居民向地方民选代表反映社区问题"}],
+      "usageNotesZh": ["加拿大常拼作 councillor，注意有两个 l；美式写法常为 councilor。", "your local councillor 或 ward councillor 都指代表所在地区的市议员。"],
+      "tags": ["community-services", "municipal"]
+    }
+  ]
+}
