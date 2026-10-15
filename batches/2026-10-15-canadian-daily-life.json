@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-15-canadian-daily-life",
+  "title": "加拿大日常生活：学校与校园学习",
+  "publishedOn": "2026-10-15",
+  "entries": [
+    {
+      "id": "syllabus",
+      "term": "syllabus",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程大纲",
+      "explanationZh": "老师在课程开始时提供的说明，通常列出学习内容、评分方式、作业安排和课程政策。想知道考试占多少分时，可以先看它。",
+      "examples": [{"en": "The syllabus says the final exam is worth forty percent of our grade.", "zh": "课程大纲上说，期末考试占总成绩的百分之四十。", "scenarioZh": "开学时查看课程评分安排"}],
+      "usageNotesZh": ["check the syllabus 表示查看课程大纲。", "复数可用 syllabi 或 syllabuses。"],
+      "tags": ["education", "courses"]
+    },
+    {
+      "id": "assignment",
+      "term": "assignment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "作业；布置的任务",
+      "explanationZh": "老师布置、需要按要求完成并提交的任务，可以是习题、报告、代码或小组项目；工作中也可以指分配的任务。",
+      "examples": [{"en": "Our first assignment is due on Friday at midnight.", "zh": "我们的第一次作业周五午夜截止。", "scenarioZh": "同学确认首次作业的提交时间"}],
+      "usageNotesZh": ["submit an assignment 表示提交作业；grade an assignment 表示批改作业。", "assignment 是可数名词；泛指家庭作业的 homework 通常不可数。"],
+      "tags": ["education", "coursework"]
+    },
+    {
+      "id": "lecture",
+      "term": "lecture",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "讲课；讲座；授课",
+      "explanationZh": "以老师讲解为主的课堂或专题演讲，在大学里常与小班讨论课、实验课配合。作动词时可以表示授课，也可能表示长篇说教。",
+      "examples": [{"en": "I missed the lecture, so I watched the recording after dinner.", "zh": "我没赶上这节课，所以晚饭后看了录像。", "scenarioZh": "补看大学课程的课堂录像"}],
+      "usageNotesZh": ["attend a lecture 表示去听课；give a lecture 表示讲课或作讲座。", "lecture notes 指课堂笔记或讲义。"],
+      "tags": ["education", "classes"]
+    },
+    {
+      "id": "tutorial",
+      "term": "tutorial",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "小班辅导课；教程",
+      "explanationZh": "大学课程中的小班教学环节，常由助教带着讨论、做题或答疑。网上介绍操作方法的教学材料也叫 tutorial。",
+      "examples": [{"en": "Bring your questions about the assignment to tomorrow's tutorial.", "zh": "把你对作业的疑问带到明天的辅导课上。", "scenarioZh": "助教提醒学生准备小班答疑"}],
+      "usageNotesZh": ["a tutorial section 指课程中的一个辅导班。", "同一门课的 lecture 和 tutorial 可能需要分别选择时段。"],
+      "tags": ["education", "classes"]
+    },
+    {
+      "id": "seminar",
+      "term": "seminar",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研讨课；专题研讨会",
+      "explanationZh": "围绕某个主题进行报告和讨论的课堂或活动，通常比大班讲授更强调参与者发言，也常用于研究报告会。",
+      "examples": [{"en": "Each student will lead one discussion in the seminar.", "zh": "每位学生都要在研讨课上主持一次讨论。", "scenarioZh": "了解研讨课的参与要求"}],
+      "usageNotesZh": ["attend a seminar 表示参加研讨会或研讨课。", "seminar 不一定是正式学分课程，也可以是一次专题活动。"],
+      "tags": ["education", "classes"]
+    },
+    {
+      "id": "lab",
+      "term": "lab",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "实验室；实验课",
+      "explanationZh": "laboratory 的常用简称，可以指做实验或研究的房间，也可以指课程中的实践环节。计算机课的 lab 也可能是在机房完成编程练习。",
+      "examples": [{"en": "Our chemistry lab starts at two, and we need to bring safety glasses.", "zh": "我们的化学实验课两点开始，需要带护目镜。", "scenarioZh": "同学确认实验课时间和所需用品"}],
+      "usageNotesZh": ["lab report 是实验报告；lab partner 是实验搭档。", "have a lab 表示有一节实验课；work in a lab 表示在实验室工作。"],
+      "tags": ["education", "classes"]
+    },
+    {
+      "id": "prerequisite",
+      "term": "prerequisite",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "先修要求；必备条件；先修的",
+      "explanationZh": "在修读某门课或参加某个项目之前必须满足的条件，例如已经通过指定课程。选课前要留意这项要求。",
+      "examples": [{"en": "First-year calculus is a prerequisite for this statistics course.", "zh": "大一微积分是这门统计课的先修要求。", "scenarioZh": "选课前检查是否满足修读条件"}],
+      "usageNotesZh": ["a prerequisite for something 表示做某事的必备条件。", "prerequisite course 指先修课程；不要与要求同时修读的 corequisite 混淆。"],
+      "tags": ["education", "enrolment"]
+    },
+    {
+      "id": "elective",
+      "term": "elective",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "选修课；选修的",
+      "explanationZh": "可以在一定范围内自行选择的课程，与必修课相对。选修并不代表没有作业或不计入成绩。",
+      "examples": [{"en": "I'm taking a photography elective outside my major.", "zh": "我在专业之外选修了一门摄影课。", "scenarioZh": "和同学聊本学期的选修安排"}],
+      "usageNotesZh": ["take an elective 表示修一门选修课。", "elective course 与 required course（必修课）相对。"],
+      "tags": ["education", "enrolment"]
+    },
+    {
+      "id": "credit",
+      "term": "credit",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "学分；信用额度；认可；记入账户",
+      "explanationZh": "学校里指完成课程所取得的学分。银行里可指借贷额度或账户入账；日常交流中也可指对贡献的认可。具体意思要结合上下文。",
+      "examples": [{"en": "This course counts as half a credit toward my degree.", "zh": "这门课可计入我学位所需的半个学分。", "scenarioZh": "确认选修课程是否满足毕业学分要求"}, {"en": "The store credited the refund to my card.", "zh": "商店把退款退到了我的卡上。", "scenarioZh": "确认退货款项的入账方式"}],
+      "usageNotesZh": ["earn credits 表示取得学分；transfer credits 表示转入或抵认学分。", "give someone credit for something 表示认可某人在某事上的贡献。"],
+      "tags": ["education", "banking"]
+    },
+    {
+      "id": "transcript",
+      "term": "transcript",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "成绩单；文字记录稿",
+      "explanationZh": "学校出具的课程和成绩记录，申请升学或某些工作时可能需要。这个词也可指录音、视频或谈话的逐字文字稿。",
+      "examples": [{"en": "I requested an official transcript for my graduate school application.", "zh": "我为研究生申请申领了一份正式成绩单。", "scenarioZh": "向学校申请升学所需材料"}],
+      "usageNotesZh": ["official transcript 是正式成绩单；unofficial transcript 通常是非正式查询或下载版本。", "request a transcript 表示申领成绩单。"],
+      "tags": ["education", "documents"]
+    },
+    {
+      "id": "enrol",
+      "term": "enrol",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "注册入学；报名修读",
+      "explanationZh": "正式加入学校、课程或学习项目。选中课程后完成 enrolment，才算按学校流程登记修读。",
+      "examples": [{"en": "I enrolled in two evening courses this term.", "zh": "我这学期报名修读了两门晚间课程。", "scenarioZh": "说明本学期的选课情况"}],
+      "usageNotesZh": ["enrol in a course 或 program 表示报名修读。", "enrol 常见于加拿大英语；也可见 enroll。过去式通常都写 enrolled，名词可见 enrolment 或 enrollment。"],
+      "tags": ["education", "enrolment"]
+    },
+    {
+      "id": "tuition",
+      "term": "tuition",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学费",
+      "explanationZh": "为修读课程或接受学校教学而支付的费用。在加拿大学校账单上，学费通常与学生服务费等其他项目分开列出。",
+      "examples": [{"en": "My scholarship covers tuition, but I still need to pay the student fees.", "zh": "我的奖学金涵盖学费，但我仍需支付学生杂费。", "scenarioZh": "核对奖学金覆盖的学校费用"}],
+      "usageNotesZh": ["pay tuition、tuition fees 和 tuition payment 都很常见。", "tuition 通常不可数；不要直接说 a tuition。"],
+      "tags": ["education", "student-finances"]
+    },
+    {
+      "id": "bursary",
+      "term": "bursary",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "助学金",
+      "explanationZh": "帮助学生承担学习和生活费用的一类资助，常考虑经济需要。是否还会考察成绩或其他条件，要看具体项目。",
+      "examples": [{"en": "I applied for a bursary to help with textbooks and living expenses.", "zh": "我申请了助学金，用来补贴教材和生活开支。", "scenarioZh": "学生向学校申请经济支持"}],
+      "usageNotesZh": ["apply for a bursary 表示申请助学金。", "bursary 通常不需要偿还；具体资格、金额和条件以项目说明为准。"],
+      "tags": ["education", "student-finances"]
+    },
+    {
+      "id": "scholarship",
+      "term": "scholarship",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "奖学金",
+      "explanationZh": "学校或其他机构给学生的学习资助，常依据成绩、研究表现或其他评选条件发放，不同项目的资格要求不同。",
+      "examples": [{"en": "She received a scholarship for her academic achievements.", "zh": "她因学业表现优秀获得了奖学金。", "scenarioZh": "介绍同学获得的学业资助"}],
+      "usageNotesZh": ["receive、win 或 be awarded a scholarship 都表示获得奖学金。", "scholarship 与 student loan（学生贷款）不同，通常不需要偿还。"],
+      "tags": ["education", "student-finances"]
+    },
+    {
+      "id": "registrar",
+      "term": "registrar",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学籍注册主管；注册事务负责人",
+      "explanationZh": "学校中负责学籍注册和相关正式记录的主管。实际办事时，学生通常联系 registrar's office，处理选课、成绩单或在读证明等事务。",
+      "examples": [{"en": "The registrar's office can issue a letter confirming my student status.", "zh": "注册办公室可以出具证明我学生身份的信。", "scenarioZh": "申请在读证明用于办理手续"}],
+      "usageNotesZh": ["registrar's office 或 office of the registrar 指学校的注册办公室。", "registrar 也可用于其他登记管理岗位，校园语境中通常与学籍事务有关。"],
+      "tags": ["education", "campus-services"]
+    },
+    {
+      "id": "office-hours",
+      "term": "office hours",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "教师答疑时间；办公时间",
+      "explanationZh": "学校里常指老师或助教专门安排、让学生提问和讨论课程问题的时段，不一定需要你真的去办公室。也可泛指机构的办公时段。",
+      "examples": [{"en": "I'll ask the professor about this problem during office hours.", "zh": "我会在答疑时间向教授请教这道题。", "scenarioZh": "计划向老师询问作业难点"}],
+      "usageNotesZh": ["hold office hours 表示安排答疑时间。", "查看课程说明，确认是直接参加、线上连线还是需要预约。"],
+      "tags": ["education", "academic-support"]
+    },
+    {
+      "id": "teaching-assistant",
+      "term": "teaching assistant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "助教",
+      "explanationZh": "协助老师开展教学的人，工作可能包括批改作业、带辅导课或实验课、答疑。在大学里常由研究生担任。",
+      "examples": [{"en": "The teaching assistant explained why my code failed the test.", "zh": "助教解释了为什么我的代码没通过测试。", "scenarioZh": "在编程课答疑时核对作业问题"}],
+      "usageNotesZh": ["常简称 TA；复数可写 TAs。", "a TA for a course 表示某门课的助教。"],
+      "tags": ["education", "academic-support"]
+    },
+    {
+      "id": "campus",
+      "term": "campus",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "校园；校区",
+      "explanationZh": "学校的教学楼、宿舍和公共设施所在的区域。一所大学可能有多个校区，找教室或服务时要确认具体地点。",
+      "examples": [{"en": "I live off campus, but I usually have lunch on campus.", "zh": "我住在校外，但通常在校园里吃午饭。", "scenarioZh": "向新同学介绍自己的日常安排"}],
+      "usageNotesZh": ["on campus 表示在校内，off campus 表示在校外。", "放在名词前作修饰语时常加连字符，如 on-campus housing。"],
+      "tags": ["education", "campus-life"]
+    },
+    {
+      "id": "bookstore",
+      "term": "bookstore",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "书店",
+      "explanationZh": "出售书籍的商店。校园书店除了教材，也可能出售文具、校服和学校纪念品。",
+      "examples": [{"en": "The campus bookstore has used copies of the textbook.", "zh": "校园书店有这本教材的二手书。", "scenarioZh": "开学前寻找更便宜的教材"}],
+      "usageNotesZh": ["campus bookstore 或 university bookstore 表示校园书店。", "bookstore 卖书，library 通常是借阅和使用学习资源的图书馆。"],
+      "tags": ["education", "campus-services"]
+    },
+    {
+      "id": "submit",
+      "term": "submit",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "提交",
+      "explanationZh": "把作业、申请、文件或表格正式交给老师、机构或系统处理。上传文件之后，有时还需要点击提交按钮才算完成。",
+      "examples": [{"en": "Please submit your report as a PDF through the course website.", "zh": "请通过课程网站以 PDF 格式提交报告。", "scenarioZh": "按课程要求在线交报告"}],
+      "usageNotesZh": ["submit something to someone 或 through a system 表示向某人或通过系统提交。", "过去式为 submitted，现在分词为 submitting，均需双写 t。"],
+      "tags": ["education", "coursework"]
+    },
+    {
+      "id": "hand-in",
+      "term": "hand in",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "提交",
+      "explanationZh": "把作业、表格或其他材料交上去，比 submit 更口语化。虽然带有 hand，也可以用来谈电子作业，不只限于当面交纸张。",
+      "examples": [{"en": "We have to hand in the worksheet before we leave the classroom.", "zh": "我们离开教室前必须把练习纸交上去。", "scenarioZh": "下课前按老师要求交课堂练习"}],
+      "usageNotesZh": ["hand in your assignment 和 hand your assignment in 都可以。", "宾语是代词时放在中间：hand it in，而不是 hand in it。"],
+      "tags": ["education", "coursework"]
+    },
+    {
+      "id": "extension",
+      "term": "extension",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "延期；延长；电话分机号",
+      "explanationZh": "把原定截止时间或期限向后延长，学生常用它申请晚交作业。也可指建筑扩建部分、软件扩展或电话分机。",
+      "examples": [{"en": "Could I have a two-day extension on the assignment?", "zh": "这份作业可以允许我晚交两天吗？", "scenarioZh": "因突发情况礼貌地向老师申请延期"}, {"en": "Call the main number and dial extension 204.", "zh": "拨打总机号码后，再拨分机号 204。", "scenarioZh": "按学校办公室提供的电话信息联系工作人员"}],
+      "usageNotesZh": ["ask for 或 request an extension 表示申请延期。", "an extension on an assignment 表示延长作业期限；是否获准以老师或机构回复为准。"],
+      "tags": ["education", "coursework"]
+    },
+    {
+      "id": "plagiarism",
+      "term": "plagiarism",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "抄袭；剽窃",
+      "explanationZh": "把别人的文字、想法、代码或其他成果当成自己的，或没有按要求注明来源。完成作业和论文时需要了解课程对引用、合作及工具使用的规定。",
+      "examples": [{"en": "Copying a paragraph without citing the source can be plagiarism.", "zh": "复制一段文字却不注明来源，可能构成抄袭。", "scenarioZh": "学习论文写作中的来源引用要求"}],
+      "usageNotesZh": ["plagiarism 通常不可数；动词是 plagiarize，也可见 plagiarise。", "改写文字不一定能免除注明来源的要求；应遵守课程的 academic integrity 政策。"],
+      "tags": ["education", "academic-integrity"]
+    },
+    {
+      "id": "midterm",
+      "term": "midterm",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "期中考试；期中的",
+      "explanationZh": "学期中间阶段举行的考试，也可作形容词修饰考试或成绩。某门课可能安排不止一次 midterm。",
+      "examples": [{"en": "I have two midterms next week, so I'm studying this weekend.", "zh": "我下周有两场期中考试，所以这个周末要复习。", "scenarioZh": "向朋友解释周末不能外出的原因"}],
+      "usageNotesZh": ["midterm exam 与名词 midterm 都可指期中考试。", "take a midterm 表示参加期中考试；study for a midterm 表示为期中考试复习。"],
+      "tags": ["education", "exams"]
+    },
+    {
+      "id": "final-exam",
+      "term": "final exam",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "期末考试",
+      "explanationZh": "课程结束前后进行的总结性考试，时间和地点可能由学校统一安排。考查范围和所占成绩比例应查看课程说明。",
+      "examples": [{"en": "Our final exam is in a different building from our regular classroom.", "zh": "我们的期末考试不在平时上课的那栋楼里。", "scenarioZh": "考前核对正式考试地点"}],
+      "usageNotesZh": ["口语中常简称 final，复数 finals 可泛指期末考试。", "exam schedule 是考试时间表；exam period 是考试周或考试时段。"],
+      "tags": ["education", "exams"]
+    }
+  ]
+}
