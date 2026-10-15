@@ -19,6 +19,7 @@ antihistamine
 appetizer
 area rug
 as needed
+assignment
 backorder
 backseat driver
 backsplash
@@ -49,6 +50,7 @@ block heater
 blood work
 boil over
 bok choy
+bookstore
 booster shot
 booth
 bottle deposit
@@ -67,6 +69,7 @@ bumper-to-bumper
 bunch
 bungee cord
 burner
+bursary
 bus a table
 bus stop
 butcher
@@ -80,6 +83,7 @@ BYOB
 cage-free
 call in sick
 call it a day
+campus
 caramelize
 carpool lane
 carsick
@@ -136,6 +140,7 @@ coworker
 crack an egg
 crash
 cream
+credit
 crisper drawer
 crockpot
 crosswalk
@@ -200,8 +205,10 @@ e-transfer
 eavestrough
 eggplant
 eh
+elective
 elevator outage
 end cap
+enrol
 entrée
 EOB
 ER
@@ -210,6 +217,7 @@ exchange
 expedite
 express bus
 express lane
+extension
 extension cord
 eye drops
 fair enough
@@ -223,6 +231,7 @@ faucet
 fed up
 fender bender
 fill up
+final exam
 final sale
 fitted sheet
 fitting room
@@ -280,6 +289,7 @@ half-and-half
 half-caf
 hamper
 hand basket
+hand in
 hang in there
 hangry
 happy hour
@@ -324,6 +334,7 @@ keener
 keep someone in the loop
 key fob
 knead
+lab
 ladle
 landlord
 last call
@@ -335,6 +346,7 @@ laundry room
 lean ground beef
 lease
 lease renewal
+lecture
 leftovers
 let it rest
 level
@@ -364,6 +376,7 @@ median
 medium rare
 meeting invite
 merge
+midterm
 mince
 minutes
 mixing bowl
@@ -394,6 +407,7 @@ oat milk
 off the top of my head
 off-peak
 off-ramp
+office hours
 oil change
 ointment
 on the ball
@@ -446,6 +460,7 @@ piping hot
 pit
 pitcher
 place a hold
+plagiarism
 plastic wrap
 play it by ear
 PLU sticker
@@ -460,6 +475,7 @@ power bar
 pre-washed
 preheat
 premium
+prerequisite
 price check
 price match
 price tag
@@ -492,6 +508,7 @@ referral
 refill
 refund
 register
+registrar
 registration fee
 regular
 reheat
@@ -526,6 +543,7 @@ rush hour
 saucepan
 sauté
 scenic route
+scholarship
 scramble
 screen door
 script
@@ -537,6 +555,7 @@ security deposit
 seedless
 self-checkout
 sell-by date
+seminar
 send back
 service disruption
 settle up
@@ -611,6 +630,7 @@ stud
 stuffy nose
 sub
 sublet
+submit
 subway platform
 sump pump
 sunny side up
@@ -622,6 +642,7 @@ swamped
 Swiffer
 swing by
 swollen
+syllabus
 tailgate
 take a number
 takeout
@@ -630,6 +651,7 @@ tap off
 tap on
 tarp
 tea towel
+teaching assistant
 tenancy
 tenant
 tenderize
@@ -654,6 +676,7 @@ total
 touch base
 tow truck
 trailhead
+transcript
 transfer
 transit pass
 triage
@@ -661,8 +684,10 @@ trip planner
 trivet
 try on
 tub
+tuition
 Tupperware
 turn signal
+tutorial
 twist tie
 two-four
 Tylenol
