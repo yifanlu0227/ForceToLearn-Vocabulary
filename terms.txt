@@ -2,6 +2,7 @@
 a dollop of
 a pinch of
 a splash of
+account number
 action item
 Advil
 agenda
@@ -20,6 +21,7 @@ appetizer
 area rug
 as needed
 assignment
+available credit
 backorder
 backseat driver
 backsplash
@@ -27,9 +29,12 @@ bag of milk
 bagging area
 bail on
 baking sheet
+balance
 ballpark
 Band-Aid
 banister
+bank draft
+bank statement
 baseboard
 baste
 batter
@@ -98,6 +103,7 @@ caulk
 ceiling fan
 checkout
 checkout divider
+chequing account
 childproof cap
 chip in
 cilantro
@@ -141,6 +147,8 @@ crack an egg
 crash
 cream
 credit
+credit card
+credit limit
 crisper drawer
 crockpot
 crosswalk
@@ -159,6 +167,7 @@ day-old
 dead battery
 deadbolt
 deadline
+debit card
 decaf
 decongestant
 deductible
@@ -169,6 +178,7 @@ dehumidifier
 deli
 deliverable
 departure board
+deposit
 designated driver
 detour
 dice
@@ -323,7 +333,9 @@ in stock
 in the same boat
 in-network
 inhaler
+institution number
 intake form
+interest
 it's on me
 jaywalk
 jug
@@ -378,6 +390,7 @@ meeting invite
 merge
 midterm
 mince
+minimum payment
 minutes
 mixing bowl
 mocktail
@@ -429,6 +442,7 @@ outlet
 oven mitt
 over easy
 over-the-counter
+overdraft
 P-trap
 paid time off
 painter's tape
@@ -445,9 +459,11 @@ party of
 pat dry
 patio
 pay stub
+payee
 payroll
 peeler
 peephole
+pending transaction
 performance review
 personal day
 physical
@@ -467,11 +483,13 @@ PLU sticker
 plunger
 poach
 pop
+posted transaction
 pot lights
 pothole
 potluck
 pour-over
 power bar
+pre-authorized payment
 pre-washed
 preheat
 premium
@@ -542,6 +560,7 @@ runny
 rush hour
 saucepan
 sauté
+savings account
 scenic route
 scholarship
 scramble
@@ -558,6 +577,7 @@ sell-by date
 seminar
 send back
 service disruption
+service fee
 settle up
 settlement worker
 shallot
@@ -611,6 +631,7 @@ sprain
 squeegee
 stall
 start a tab
+statement balance
 station entrance
 steep
 step stool
@@ -676,8 +697,10 @@ total
 touch base
 tow truck
 trailhead
+transaction
 transcript
 transfer
+transit number
 transit pass
 triage
 trip planner
@@ -726,6 +749,8 @@ window sill
 windshield wipers
 wing it
 winter tires
+wire transfer
+withdraw
 wok
 workload
 wrap up
