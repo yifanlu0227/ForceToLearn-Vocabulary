@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-16-canadian-daily-life",
+  "title": "加拿大日常生活：银行与日常支付",
+  "publishedOn": "2026-10-16",
+  "entries": [
+    {
+      "id": "chequing-account",
+      "term": "chequing account",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "日常交易账户；支票账户",
+      "explanationZh": "用于收工资、刷借记卡、付账单和日常转账的银行账户。加拿大常用 chequing 这个拼法，账户是否收费及包含多少次交易取决于具体方案。",
+      "examples": [{"en": "My pay goes into my chequing account every two weeks.", "zh": "我的工资每两周存入日常交易账户。", "scenarioZh": "向银行工作人员说明工资入账安排"}],
+      "usageNotesZh": ["open a chequing account 表示开立日常交易账户。", "美国通常称 checking account；加拿大银行常写 chequing account。"],
+      "tags": ["banking", "accounts"]
+    },
+    {
+      "id": "savings-account",
+      "term": "savings account",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "储蓄账户",
+      "explanationZh": "主要用于存钱并可能获得利息的账户，与处理日常支付的 chequing account 相区别。具体利率、费用和取款条件要查看账户说明。",
+      "examples": [{"en": "I moved five hundred dollars into my savings account.", "zh": "我把五百元转进了储蓄账户。", "scenarioZh": "把暂时不用的钱转入储蓄账户"}],
+      "usageNotesZh": ["savings 在这个固定名称中带 s，不写成 saving account。", "transfer money to a savings account 表示向储蓄账户转钱。"],
+      "tags": ["banking", "accounts"]
+    },
+    {
+      "id": "debit-card",
+      "term": "debit card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "借记卡",
+      "explanationZh": "通常从关联银行账户扣款的支付卡，也常用于自动取款机。是否支持网上购物、境外支付及具体限额，取决于卡片和银行设置。",
+      "examples": [{"en": "Can I pay for the groceries with my debit card?", "zh": "我可以用借记卡支付这些食品吗？", "scenarioZh": "在超市收银台确认付款方式"}],
+      "usageNotesZh": ["pay by debit 或 pay with a debit card 都很自然。", "debit card 与 credit card 不同，后者通常使用发卡机构提供的信用额度。"],
+      "tags": ["banking", "payments"]
+    },
+    {
+      "id": "credit-card",
+      "term": "credit card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用卡",
+      "explanationZh": "使用发卡机构提供的信用额度付款、之后按账单还款的支付卡。付款是否获准还可能受单笔限制、商户和风控等因素影响。",
+      "examples": [{"en": "The hotel asked for a credit card at check-in.", "zh": "酒店在办理入住时要求提供信用卡。", "scenarioZh": "到酒店前台办理入住手续"}],
+      "usageNotesZh": ["credit card bill 或 credit card statement 指信用卡账单。", "信用卡的付款、利息和费用条件应查看持卡人协议，不要仅凭卡面品牌判断。"],
+      "tags": ["banking", "payments"]
+    },
+    {
+      "id": "deposit",
+      "term": "deposit",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "存款；存入；订金；押金",
+      "explanationZh": "银行里可以指存入的钱或存钱这个动作。租赁、预订和购物场景中也可指先付的一笔订金或保证金，是否可退要看具体约定。",
+      "examples": [{"en": "I deposited the cheque using my bank's mobile app.", "zh": "我用银行的手机应用存入了这张支票。", "scenarioZh": "收到纸质支票后通过手机办理存款"}],
+      "usageNotesZh": ["make a deposit 表示存款；deposit money into an account 表示把钱存入账户。", "看到 deposit 时要结合场景判断是存款、订金还是押金。"],
+      "tags": ["banking", "transactions"]
+    },
+    {
+      "id": "withdraw",
+      "term": "withdraw",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "取出；提取；撤回；退出",
+      "explanationZh": "银行语境中指把钱从账户里取出；其他场景也可表示撤回申请或退出课程、活动。",
+      "examples": [{"en": "I'd like to withdraw two hundred dollars from my chequing account.", "zh": "我想从日常交易账户取出两百元。", "scenarioZh": "在银行柜台办理现金取款"}],
+      "usageNotesZh": ["withdraw cash 或 withdraw money from an account 表示取现或从账户提款。", "过去式是 withdrew，过去分词是 withdrawn；名词是 withdrawal。"],
+      "tags": ["banking", "transactions"]
+    },
+    {
+      "id": "balance",
+      "term": "balance",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "余额；结欠；平衡；使平衡",
+      "explanationZh": "银行账户里指剩余金额，信用卡上常指欠款。它也可表示身体或事物的平衡；看账单时要留意前面的修饰词。",
+      "examples": [{"en": "I checked my account balance before paying the rent.", "zh": "我付房租前查看了账户余额。", "scenarioZh": "确认账户有足够的钱支付房租"}],
+      "usageNotesZh": ["account balance 是账户余额；outstanding balance 是尚未付清的金额。", "available balance 指可用余额，可能与页面显示的其他余额不同。"],
+      "tags": ["banking", "accounts"]
+    },
+    {
+      "id": "bank-statement",
+      "term": "bank statement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行对账单",
+      "explanationZh": "记录一段时间内银行账户收支、费用和余额的正式文件，可以是纸质或电子版，办理某些手续时也可能作为证明材料。",
+      "examples": [{"en": "I downloaded last month's bank statement as a PDF.", "zh": "我下载了上个月银行对账单的 PDF 文件。", "scenarioZh": "整理账户记录并核对收支"}],
+      "usageNotesZh": ["monthly bank statement 指月度银行对账单。", "a transaction history 是交易历史记录，不一定等同于正式对账单。"],
+      "tags": ["banking", "documents"]
+    },
+    {
+      "id": "transaction",
+      "term": "transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交易；账户收支操作",
+      "explanationZh": "一次付款、取款、存款或转账等操作。在银行应用里，每一行交易记录通常会列出金额、日期和相关说明。",
+      "examples": [{"en": "I don't recognize this transaction on my statement.", "zh": "我不认识对账单上的这笔交易。", "scenarioZh": "联系银行核对一笔陌生扣款"}],
+      "usageNotesZh": ["transaction details 是交易详情；transaction history 是交易历史。", "单看陌生的商户描述不一定能确定发生了盗刷，应核对具体交易信息。"],
+      "tags": ["banking", "transactions"]
+    },
+    {
+      "id": "pending-transaction",
+      "term": "pending transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "待处理交易；尚未正式入账的交易",
+      "explanationZh": "银行系统已经显示、但尚未完成正式入账处理的交易。它可能已经影响可用余额或额度，最终金额和状态仍可能变化。",
+      "examples": [{"en": "The restaurant payment is still showing as a pending transaction.", "zh": "餐馆的那笔付款仍显示为待处理交易。", "scenarioZh": "查看昨晚刷卡消费的处理状态"}],
+      "usageNotesZh": ["pending 指处理尚未完成，不等于已经失败或一定会撤销。", "a pending charge 常用于表示待入账的刷卡扣款。"],
+      "tags": ["banking", "transactions"]
+    },
+    {
+      "id": "posted-transaction",
+      "term": "posted transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "已入账交易",
+      "explanationZh": "已经记入账户正式交易记录的交易，与 pending transaction 相对。已入账并不表示之后绝不可能退款、更正或提出争议。",
+      "examples": [{"en": "The payment now appears as a posted transaction rather than a pending one.", "zh": "这笔付款现在显示为已入账交易，而不是待处理交易。", "scenarioZh": "核对一笔刷卡消费是否已经正式入账"}],
+      "usageNotesZh": ["The transaction has posted. 表示这笔交易已经入账。", "posting date 是入账日期，可能与实际交易日期不同。"],
+      "tags": ["banking", "transactions"]
+    },
+    {
+      "id": "credit-limit",
+      "term": "credit limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用额度；授信上限",
+      "explanationZh": "发卡机构为信用卡或信用账户设定的借款上限。它与已经欠下多少钱、当前还有多少可用额度不是同一个概念。",
+      "examples": [{"en": "My credit card has a credit limit of two thousand dollars.", "zh": "我的信用卡授信额度是两千元。", "scenarioZh": "向客服说明信用卡账户的额度设置"}],
+      "usageNotesZh": ["request a credit limit increase 表示申请提高信用额度。", "预先多还钱不一定会提高 credit limit，也不保证更大金额的单笔交易获准。"],
+      "tags": ["banking", "credit-cards"]
+    },
+    {
+      "id": "available-credit",
+      "term": "available credit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可用信用额度",
+      "explanationZh": "账户当前显示还可使用的信用金额，会受到欠款、待处理交易、还款到账情况和发卡机构规则影响。",
+      "examples": [{"en": "My available credit hasn't updated since I made the payment.", "zh": "我还款后，可用信用额度还没有更新。", "scenarioZh": "向信用卡客服询问还款后的额度变化"}],
+      "usageNotesZh": ["available credit 与 credit limit（授信上限）不同。", "可用额度足够并不保证交易通过，还可能有单笔限额或其他限制。"],
+      "tags": ["banking", "credit-cards"]
+    },
+    {
+      "id": "minimum-payment",
+      "term": "minimum payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "最低还款额",
+      "explanationZh": "账单要求在到期日前至少支付的金额，不等于全部欠款。只付最低金额，剩余欠款仍可能产生利息。",
+      "examples": [{"en": "The statement lists both the minimum payment and the payment due date.", "zh": "账单上列出了最低还款额和还款到期日。", "scenarioZh": "阅读信用卡账单上的还款要求"}],
+      "usageNotesZh": ["make the minimum payment 表示支付最低还款额。", "minimum payment due 是账单上常见的字段名称。"],
+      "tags": ["banking", "credit-cards"]
+    },
+    {
+      "id": "statement-balance",
+      "term": "statement balance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单余额；出账时的结欠金额",
+      "explanationZh": "账单周期结束时记录的欠款金额。出账后新增消费、退款或还款可能使当前余额发生变化，因此它不一定等于今天看到的账户总欠款。",
+      "examples": [{"en": "My statement balance is lower than my current balance because I used the card yesterday.", "zh": "因为我昨天又刷了卡，账单余额比当前余额低。", "scenarioZh": "比较信用卡页面上的两种余额"}],
+      "usageNotesZh": ["pay the statement balance in full 表示全额支付账单余额。", "current balance 指当前余额；具体应还金额和付款条件要结合账单及协议查看。"],
+      "tags": ["banking", "credit-cards"]
+    },
+    {
+      "id": "interest",
+      "term": "interest",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "利息；兴趣；使感兴趣",
+      "explanationZh": "银行语境里指存钱可能获得的回报或借钱需要支付的费用。日常交流中也可表示兴趣，或作动词表示让人感兴趣。",
+      "examples": [{"en": "The bank charged interest on the unpaid credit card balance.", "zh": "银行对未还清的信用卡欠款收取了利息。", "scenarioZh": "查看信用卡账单中的利息项目"}],
+      "usageNotesZh": ["earn interest 表示获得利息；pay interest 表示支付利息。", "interest rate 指利率；interest 作利息讲时通常不可数。"],
+      "tags": ["banking", "fees-and-interest"]
+    },
+    {
+      "id": "overdraft",
+      "term": "overdraft",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账户透支；透支金额",
+      "explanationZh": "支出超过账户现有资金、使余额低于零的情况或金额。银行是否允许透支以及收取什么费用，取决于账户和相关服务。",
+      "examples": [{"en": "I asked the bank whether my account had overdraft protection.", "zh": "我向银行询问我的账户是否有透支保护。", "scenarioZh": "了解账户余额不足时的处理方式"}],
+      "usageNotesZh": ["overdraft protection 是透支保护服务，不代表免费使用额外资金。", "be overdrawn 表示账户已经透支。"],
+      "tags": ["banking", "fees-and-interest"]
+    },
+    {
+      "id": "service-fee",
+      "term": "service fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "服务费；手续费",
+      "explanationZh": "银行或其他机构为账户、交易或某项服务收取的费用，可能按月收取，也可能针对单次操作。",
+      "examples": [{"en": "Is there a service fee for sending this transfer?", "zh": "办理这笔转账需要手续费吗？", "scenarioZh": "在确认转账前询问额外费用"}],
+      "usageNotesZh": ["monthly service fee 表示每月服务费；waive the fee 表示免除该费用。", "service charge 也常表示服务费，具体收费内容要看说明。"],
+      "tags": ["banking", "fees-and-interest"]
+    },
+    {
+      "id": "pre-authorized-payment",
+      "term": "pre-authorized payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预先授权付款；授权自动付款",
+      "explanationZh": "事先授权服务商按约定从账户或支付卡扣款的安排，常用于电话费、保险费和会员费。要区分长期自动付款安排与一次性的刷卡预授权。",
+      "examples": [{"en": "I set up a pre-authorized payment for my monthly internet bill.", "zh": "我为每月的网络账单设置了授权自动付款。", "scenarioZh": "办理宽带后安排每月自动缴费"}],
+      "usageNotesZh": ["set up 或 cancel a pre-authorized payment 表示设置或取消授权付款安排。", "pre-authorized debit 常简称 PAD，通常指事先授权从银行账户扣款。"],
+      "tags": ["banking", "bill-payments"]
+    },
+    {
+      "id": "payee",
+      "term": "payee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收款人；收款单位",
+      "explanationZh": "接收付款的个人或机构。在网上银行的账单支付功能中，payee 常指电信公司、公用事业公司或信用卡发卡机构等收款单位。",
+      "examples": [{"en": "Add the electricity company as a payee before paying the bill.", "zh": "支付账单前，先把电力公司添加为收款单位。", "scenarioZh": "第一次用网上银行缴电费"}],
+      "usageNotesZh": ["add a payee 表示添加收款人或收款单位。", "payee 是收款方，payer 是付款方。"],
+      "tags": ["banking", "bill-payments"]
+    },
+    {
+      "id": "account-number",
+      "term": "account number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账户号码",
+      "explanationZh": "用来识别具体账户的一串号码。银行账户号码不一定与银行卡卡号相同；填写入账或付款资料时要确认对方要求哪一种号码。",
+      "examples": [{"en": "Please check the account number on the direct deposit form.", "zh": "请核对工资直接入账表格上的账户号码。", "scenarioZh": "提交工资入账资料前检查账户信息"}],
+      "usageNotesZh": ["bank account number 是银行账户号码；card number 是银行卡卡号。", "账单支付页面的 account number 也可能指你在服务商处的客户账户号。"],
+      "tags": ["banking", "account-details"]
+    },
+    {
+      "id": "transit-number",
+      "term": "transit number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行分行号码",
+      "explanationZh": "加拿大银行资料中用于识别分行的号码，办理工资直接入账或某些转账时常与金融机构号码、账户号码一起提供。",
+      "examples": [{"en": "The payroll form asks for my transit number, institution number, and account number.", "zh": "工资表格要求填写我的分行号码、金融机构号码和账户号码。", "scenarioZh": "为新工作填写工资直接入账表格"}],
+      "usageNotesZh": ["也常称 branch number，通常是五位数字。", "号码前面的零也是号码的一部分，填写时不要随意省略。"],
+      "tags": ["banking", "account-details"]
+    },
+    {
+      "id": "institution-number",
+      "term": "institution number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "金融机构号码；银行机构代码",
+      "explanationZh": "加拿大银行资料中用于识别金融机构的号码，区别于识别具体分行的 transit number 和识别个人账户的 account number。",
+      "examples": [{"en": "I found my bank's institution number on the direct deposit form.", "zh": "我在直接入账表格上找到了银行的金融机构号码。", "scenarioZh": "从银行提供的账户资料中核对机构代码"}],
+      "usageNotesZh": ["加拿大的 institution number 通常为三位数字。", "可从银行提供的账户资料核对号码，不要凭卡面数字猜测。"],
+      "tags": ["banking", "account-details"]
+    },
+    {
+      "id": "bank-draft",
+      "term": "bank draft",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行汇票",
+      "explanationZh": "由银行签发、通常在购买时先从付款人账户扣取资金的付款票据，常用于金额较大的交易。收到汇票仍需按银行流程核验和存入。",
+      "examples": [{"en": "The seller asked me to bring a bank draft for the car purchase.", "zh": "卖家要求我买车时带一张银行汇票。", "scenarioZh": "确认二手车交易所需的付款方式"}],
+      "usageNotesZh": ["get 或 purchase a bank draft 表示办理银行汇票。", "bank draft 与个人支票不同，也不能仅凭票面外观判断真伪或资金是否可用。"],
+      "tags": ["banking", "payments"]
+    },
+    {
+      "id": "wire-transfer",
+      "term": "wire transfer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电汇",
+      "explanationZh": "通过银行等金融机构办理的电子资金划转，可用于国内或跨境汇款。它不等于所有网上转账，所需资料、费用和到账时间因服务而异。",
+      "examples": [{"en": "The bank asked for the recipient's banking details to send the international wire transfer.", "zh": "银行要求提供收款人的银行资料，以办理这笔国际电汇。", "scenarioZh": "在银行咨询跨境汇款需要哪些信息"}],
+      "usageNotesZh": ["send 或 receive a wire transfer 表示汇出或收到电汇。", "加拿大常见的 e-transfer 与 wire transfer 是不同的转账服务名称，不应混为一谈。"],
+      "tags": ["banking", "transfers"]
+    }
+  ]
+}
