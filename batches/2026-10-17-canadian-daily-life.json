@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-17-canadian-daily-life",
+  "title": "加拿大日常生活：冬季穿着与日常出行",
+  "publishedOn": "2026-10-17",
+  "entries": [
+    {
+      "id": "scarf",
+      "term": "scarf",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "围巾",
+      "explanationZh": "围在脖子上的衣物，冬天常用来保暖和挡风，也可以作为装饰。",
+      "examples": [{"en": "I wrapped my scarf around my neck before leaving the condo.", "zh": "离开公寓前，我把围巾围在了脖子上。", "scenarioZh": "冬日早晨准备出门"}],
+      "usageNotesZh": ["wear a scarf 表示戴围巾；wrap a scarf around your neck 表示把围巾围在脖子上。", "复数 scarves 和 scarfs 都可以，scarves 更常见。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "mittens",
+      "term": "mittens",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "连指手套",
+      "explanationZh": "拇指单独放、其余四根手指放在同一个空间里的手套。冬季用品区常与五指手套分开标示。",
+      "examples": [{"en": "My child wears mittens when we walk to school in winter.", "zh": "冬天我们步行上学时，孩子会戴连指手套。", "scenarioZh": "给孩子准备冬季上学衣物"}],
+      "usageNotesZh": ["a pair of mittens 表示一副连指手套；单只叫 a mitten。", "gloves 通常指每根手指各有一个指套的五指手套。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "gloves",
+      "term": "gloves",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "手套；五指手套",
+      "explanationZh": "戴在手上的防护用品，常指五根手指分别有指套的手套。除了冬季保暖，也可用于清洁、工作或运动。",
+      "examples": [{"en": "These gloves let me use my phone without taking them off.", "zh": "戴着这副手套不用摘下来就能操作手机。", "scenarioZh": "在商店试用可触屏的冬季手套"}],
+      "usageNotesZh": ["a pair of gloves 表示一副手套；put on 和 take off gloves 表示戴上和摘下手套。", "winter gloves 是冬季手套，rubber gloves 是橡胶手套。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "earmuffs",
+      "term": "earmuffs",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "耳罩",
+      "explanationZh": "用带子连接、分别盖住两只耳朵的用品。冬天常指保暖耳罩，在工作防护场景中也可指隔音耳罩。",
+      "examples": [{"en": "I wear earmuffs when it's windy on the walk to the subway.", "zh": "走去地铁站的路上风大时，我会戴耳罩。", "scenarioZh": "冬季步行通勤时给耳朵保暖"}],
+      "usageNotesZh": ["常用复数 earmuffs，也可以说 a pair of earmuffs。", "保暖耳罩和 hearing protection earmuffs 的用途不同，应结合商品说明判断。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "thermal-underwear",
+      "term": "thermal underwear",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "保暖内衣",
+      "explanationZh": "穿在普通衣裤里面、帮助保暖的贴身衣物，可以包括长袖上衣和长裤，商店里常用来描述秋衣秋裤一类产品。",
+      "examples": [{"en": "I wore thermal underwear under my jeans for the outdoor market.", "zh": "去逛露天集市时，我在牛仔裤里面穿了保暖内衣裤。", "scenarioZh": "准备在冬季户外停留较长时间"}],
+      "usageNotesZh": ["underwear 通常不可数，不说 an underwear。", "口语中 thermals 常指保暖内衣；long johns 常指长款保暖内衣，尤其是裤子。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "base-layer",
+      "term": "base layer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "贴身打底层；内层衣物",
+      "explanationZh": "分层穿衣时直接贴近皮肤的第一层，冬季运动和户外服装中很常见。是否保暖、排汗和适合什么活动取决于具体材质与设计。",
+      "examples": [{"en": "I'm looking for a lightweight base layer to wear under my sweater.", "zh": "我想找一件轻薄的贴身打底衣，穿在毛衣里面。", "scenarioZh": "在服装店选购冬季打底衣"}],
+      "usageNotesZh": ["base layer top 是打底上衣，base layer bottoms 是打底裤。", "base layer 强调穿着层次，不代表所有款式都是厚款保暖内衣。"],
+      "tags": ["winter", "layering"]
+    },
+    {
+      "id": "fleece",
+      "term": "fleece",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "摇粒绒；抓绒面料；抓绒衣",
+      "explanationZh": "衣物语境中常指柔软、有绒面的保暖面料，也可以指用它做的上衣。它常作为外套里面的中间层。",
+      "examples": [{"en": "I packed a fleece to wear under my rain jacket.", "zh": "我带了一件抓绒衣，准备穿在雨衣里面。", "scenarioZh": "为凉冷天气的户外活动收拾衣物"}],
+      "usageNotesZh": ["fleece jacket 是抓绒外套；fleece-lined 表示带抓绒内衬的。", "作面料名时通常不可数；a fleece 可以指一件抓绒衣。"],
+      "tags": ["winter", "layering"]
+    },
+    {
+      "id": "parka",
+      "term": "parka",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "派克大衣；带帽防寒外套",
+      "explanationZh": "通常带帽、适合冷天穿的外套，很多款式比较长。填充物可能是羽绒，也可能是合成材料，并不是所有 parka 都一样暖。",
+      "examples": [{"en": "This parka covers my hips and has a hood that fits over my hat.", "zh": "这件防寒外套能盖住臀部，帽兜也能罩住我戴着的帽子。", "scenarioZh": "试穿冬季通勤外套时确认长度和帽兜大小"}],
+      "usageNotesZh": ["winter parka 是冬季防寒外套。", "parka 描述服装类型，不保证一定防水或使用羽绒填充。"],
+      "tags": ["winter", "outerwear"]
+    },
+    {
+      "id": "down-jacket",
+      "term": "down jacket",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "羽绒服；羽绒夹克",
+      "explanationZh": "以羽绒作为保暖填充物的外套，有薄款和厚款。这里的 down 指羽绒，不是方向上的“向下”。",
+      "examples": [{"en": "I keep a light down jacket in my bag for chilly evenings.", "zh": "我在包里放了一件轻薄羽绒服，以备晚上天凉时穿。", "scenarioZh": "为昼夜温差准备备用外套"}],
+      "usageNotesZh": ["down-filled 表示羽绒填充的；down insulation 表示羽绒保暖填充层。", "puffer jacket 强调蓬松绗缝外观，填充物不一定是羽绒。"],
+      "tags": ["winter", "outerwear"]
+    },
+    {
+      "id": "snow-boots",
+      "term": "snow boots",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雪地靴",
+      "explanationZh": "为有雪、湿冷的环境设计的靴子，通常较注重保暖和防护。购买时仍需分别确认防水性能、鞋底抓地力和适用条件。",
+      "examples": [{"en": "I changed into snow boots before walking through the deep snow.", "zh": "走过深雪前，我换上了雪地靴。", "scenarioZh": "出门经过积雪较深的人行道"}],
+      "usageNotesZh": ["a pair of snow boots 表示一双雪地靴。", "winter boots 是更宽泛的冬靴说法；雪地靴不等于在所有冰面上都防滑。"],
+      "tags": ["winter", "footwear"]
+    },
+    {
+      "id": "waterproof",
+      "term": "waterproof",
+      "partsOfSpeech": ["adjective", "verb"],
+      "definitionZh": "防水的；给……做防水处理",
+      "explanationZh": "描述材料或用品能在一定条件下阻止水进入，也可作动词表示做防水处理。买冬靴、手套和外套时常见这个词。",
+      "examples": [{"en": "Are these boots waterproof enough for walking through slush?", "zh": "这双靴子的防水性能足以应对走过雪泥吗？", "scenarioZh": "购买冬靴时询问湿雪环境下的防水表现"}],
+      "usageNotesZh": ["waterproof boots、jacket 和 gloves 都是常见搭配。", "water-resistant 通常表示有一定抗水能力，不宜直接当成 waterproof 的同义保证。"],
+      "tags": ["winter", "clothing-features"]
+    },
+    {
+      "id": "windproof",
+      "term": "windproof",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "防风的",
+      "explanationZh": "描述衣物或材料能阻挡风穿透，有助于减少冷风直接吹到身体的感觉，但防风不等于防水或自带很厚的保暖层。",
+      "examples": [{"en": "I need a windproof jacket for my walk along the lake.", "zh": "我沿湖步行需要一件防风外套。", "scenarioZh": "为湖边风大的通勤路段挑选外套"}],
+      "usageNotesZh": ["windproof shell 指防风外壳层衣物。", "windproof 和 waterproof 分别强调防风和防水，查看商品时要分别确认。"],
+      "tags": ["winter", "clothing-features"]
+    },
+    {
+      "id": "insulated",
+      "term": "insulated",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "有保温层的；隔热的；绝缘的",
+      "explanationZh": "冬季衣物中通常表示加了帮助保暖的隔热层，也可形容保温容器；电气语境中则可表示绝缘的。",
+      "examples": [{"en": "These insulated gloves are warmer than my thin running gloves.", "zh": "这副带保暖层的手套比我的薄跑步手套暖和。", "scenarioZh": "比较两副手套的保暖设计"}],
+      "usageNotesZh": ["insulated jacket 和 insulated boots 分别指带保暖层的外套与靴子。", "insulated 不等于羽绒填充，也不单独说明防水性能。"],
+      "tags": ["winter", "clothing-features"]
+    },
+    {
+      "id": "traction",
+      "term": "traction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "抓地力；附着力",
+      "explanationZh": "鞋底或轮胎与地面接触时产生的防滑作用。冬天谈走路或开车打滑时常会提到。",
+      "examples": [{"en": "These boots have good traction on packed snow.", "zh": "这双靴子在压实的雪面上抓地力不错。", "scenarioZh": "比较冬靴鞋底在积雪路面上的表现"}],
+      "usageNotesZh": ["lose traction 表示失去抓地力；get better traction 表示获得更好的抓地力。", "traction 通常不可数；雪面抓地力好不代表在光滑冰面上同样可靠。"],
+      "tags": ["winter", "footwear"]
+    },
+    {
+      "id": "layer-up",
+      "term": "layer up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "分层穿衣；多加几层衣服",
+      "explanationZh": "通过穿多层衣物来适应冷天，方便到室内后脱去其中一层。可以用于给出穿衣建议或说明自己的穿着安排。",
+      "examples": [{"en": "I'll layer up so I can take something off when I get on the train.", "zh": "我会多穿几层，这样上火车后就能脱掉一层。", "scenarioZh": "为寒冷室外和温暖车厢之间的温差做准备"}],
+      "usageNotesZh": ["layer up 常不带宾语，例如 Layer up before you go out。", "dress in layers 也表示分层穿衣。"],
+      "tags": ["winter", "layering"]
+    },
+    {
+      "id": "bundle-up",
+      "term": "bundle up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "穿暖和；裹严实",
+      "explanationZh": "冷天把厚衣服、围巾、帽子等穿戴好，让自己或别人暖和些。语气常带有关心和提醒的意味。",
+      "examples": [{"en": "Bundle up before you go out; it's much colder than yesterday.", "zh": "出门前穿暖和些，今天比昨天冷多了。", "scenarioZh": "家人提醒准备出门的人多穿衣服"}],
+      "usageNotesZh": ["bundle yourself up 表示把自己裹暖；bundle the kids up 表示给孩子们穿暖。", "bundle up 强调穿暖和，不一定是在讲技术性的分层穿衣。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "zip-up",
+      "term": "zip up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "拉上拉链",
+      "explanationZh": "把衣服、包或其他物品的拉链拉合。冬天提醒别人把外套拉链拉好时很实用。",
+      "examples": [{"en": "Zip up your coat before we leave the lobby.", "zh": "我们离开大堂前，把外套拉链拉好。", "scenarioZh": "从暖和的楼内走到寒冷室外"}],
+      "usageNotesZh": ["zip up your coat 和 zip your coat up 都可以；代词要放中间，如 zip it up。", "unzip 表示拉开拉链。"],
+      "tags": ["winter", "clothing"]
+    },
+    {
+      "id": "shovel",
+      "term": "shovel",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "铲子；用铲子铲",
+      "explanationZh": "可以指搬动雪、泥土等的铲子，也可以表示铲这个动作。冬季谈清理门前道路时，经常直接用 shovel 作动词。",
+      "examples": [{"en": "I shovelled the driveway before leaving for work.", "zh": "我上班前把车道上的雪铲了。", "scenarioZh": "雪后清理住宅门前的车道"}],
+      "usageNotesZh": ["shovel snow 表示铲雪；shovel the sidewalk 表示铲除人行道上的雪。", "加拿大英语可见 shovelled、shovelling；也可见单写 l 的 shoveled、shoveling。"],
+      "tags": ["winter", "snow-removal"]
+    },
+    {
+      "id": "salt",
+      "term": "salt",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "盐；撒盐；加盐",
+      "explanationZh": "厨房里指食盐或给食物加盐；冬天谈路面维护时，也可指融雪盐或向结冰路面撒盐。不同用途的产品不能混用。",
+      "examples": [{"en": "The building staff salted the steps after clearing the snow.", "zh": "楼宇工作人员清完雪后，在台阶上撒了融雪盐。", "scenarioZh": "查看楼门口的雪后维护情况"}],
+      "usageNotesZh": ["road salt 是道路融雪盐；salt the sidewalk 表示向人行道撒盐。", "salt 作食用盐讲通常不可数；融雪产品不是食用品。"],
+      "tags": ["winter", "snow-removal"]
+    },
+    {
+      "id": "flurries",
+      "term": "flurries",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "阵雪；零星短时降雪",
+      "explanationZh": "天气预报中指短时、时断时续的降雪，常用复数形式。看到 flurries 不应直接理解成持续的大雪。",
+      "examples": [{"en": "The forecast calls for flurries during the morning commute.", "zh": "天气预报说，早高峰通勤时段会有阵雪。", "scenarioZh": "出门前查看当天通勤天气"}],
+      "usageNotesZh": ["snow flurries 是完整说法，天气语境里常直接说 flurries。", "a chance of flurries 表示可能有阵雪。"],
+      "tags": ["winter", "weather"]
+    },
+    {
+      "id": "sleet",
+      "term": "sleet",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冰粒；雨夹雪（含义因地区而异）",
+      "explanationZh": "北美英语中通常指落地前已经冻结成的小冰粒；英式英语中常指雨雪混合。加拿大天气预报也常用 ice pellets 来明确表示冰粒。",
+      "examples": [{"en": "We could hear sleet tapping against the windows.", "zh": "我们能听见冰粒敲打窗户的声音。", "scenarioZh": "在家描述窗外的冬季降水"}],
+      "usageNotesZh": ["sleet 作降水名称通常不可数。", "不要与 freezing rain 混淆：后者落下时是液态雨滴，接触冷表面后结冰。"],
+      "tags": ["winter", "weather"]
+    },
+    {
+      "id": "freezing-rain",
+      "term": "freezing rain",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冻雨",
+      "explanationZh": "雨滴落到寒冷表面后结成冰层的一种降水，可能让台阶、树枝和路面裹上一层冰。它与落下时已经是冰粒的降水不同。",
+      "examples": [{"en": "Freezing rain left a layer of ice on the front steps.", "zh": "冻雨让门前台阶结上了一层冰。", "scenarioZh": "早晨查看冻雨后的楼外情况"}],
+      "usageNotesZh": ["freezing rain warning 表示冻雨警报，是天气通知里的常见词组。", "freezing rain 是不可数名词短语，不说 a freezing rain 来表示一次降水。"],
+      "tags": ["winter", "weather"]
+    },
+    {
+      "id": "snowfall",
+      "term": "snowfall",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "降雪；降雪量",
+      "explanationZh": "可以指一次降雪，也可指某段时间落下的雪的总量。天气报道常用它说明预计或实际下了多少雪。",
+      "examples": [{"en": "The overnight snowfall covered the parked cars.", "zh": "夜里的降雪把停着的车都盖住了。", "scenarioZh": "早晨描述窗外雪后的景象"}],
+      "usageNotesZh": ["heavy snowfall 是大量降雪；annual snowfall 是年降雪量。", "snowfall 描述降雪，不等于已经在地上留存的积雪深度。"],
+      "tags": ["winter", "weather"]
+    },
+    {
+      "id": "icy",
+      "term": "icy",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "结冰的；冰冷的",
+      "explanationZh": "可以描述路面、台阶等覆盖冰的状态，也可形容非常冷的水或空气。冬天提醒别人路滑时很常用。",
+      "examples": [{"en": "Watch your step; the sidewalk is icy near the bus stop.", "zh": "当心脚下，公交站附近的人行道结冰了。", "scenarioZh": "提醒同行的人留意结冰路段"}],
+      "usageNotesZh": ["icy roads、icy sidewalks 和 icy steps 都是常见搭配。", "ice 是名词，icy 是形容词；比较级和最高级为 icier、iciest。"],
+      "tags": ["winter", "walking"]
+    },
+    {
+      "id": "snowstorm",
+      "term": "snowstorm",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "暴风雪；大风雪天气",
+      "explanationZh": "以明显降雪为特征的风暴天气，常伴有风，可能影响交通和户外活动。普通谈话里的 snowstorm 不等于预报术语中满足特定条件的 blizzard。",
+      "examples": [{"en": "Our train was delayed because of the snowstorm.", "zh": "我们的火车因为暴风雪晚点了。", "scenarioZh": "向朋友解释冬季旅行延误的原因"}],
+      "usageNotesZh": ["a snowstorm 是一场大风雪；during the snowstorm 表示在大风雪期间。", "winter storm 是更宽泛的说法，也可能包含冻雨、冰粒等冬季天气。"],
+      "tags": ["winter", "weather"]
+    }
+  ]
+}
