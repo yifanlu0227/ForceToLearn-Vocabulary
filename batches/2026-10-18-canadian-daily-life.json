@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-18-canadian-daily-life",
+  "title": "加拿大日常生活：个人清洁与洗衣卫生",
+  "publishedOn": "2026-10-18",
+  "entries": [
+    {
+      "id": "toothbrush",
+      "term": "toothbrush",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "牙刷",
+      "explanationZh": "用来刷牙的清洁工具，可以是手动的，也可以是电动的。在药店找牙刷或替换刷头时很实用。",
+      "examples": [{"en": "I forgot my toothbrush, so I bought one at the pharmacy.", "zh": "我忘带牙刷了，所以在药店买了一支。", "scenarioZh": "旅行途中补买洗漱用品"}],
+      "usageNotesZh": ["electric toothbrush 是电动牙刷；manual toothbrush 是手动牙刷。", "toothbrush head 或 brush head 指牙刷刷头。"],
+      "tags": ["hygiene", "oral-care"]
+    },
+    {
+      "id": "toothpaste",
+      "term": "toothpaste",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "牙膏",
+      "explanationZh": "刷牙时使用的膏状清洁用品，通常装在软管里。不同产品的口味、成分和标签说明可能不同。",
+      "examples": [{"en": "We need another tube of toothpaste for the bathroom.", "zh": "我们需要给卫生间再买一管牙膏。", "scenarioZh": "列购物清单补充家中洗漱用品"}],
+      "usageNotesZh": ["toothpaste 通常不可数；一管牙膏说 a tube of toothpaste。", "fluoride toothpaste 指含氟牙膏；mint flavour 指薄荷口味。"],
+      "tags": ["hygiene", "oral-care"]
+    },
+    {
+      "id": "floss",
+      "term": "floss",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "牙线；用牙线清洁牙缝",
+      "explanationZh": "口腔护理中指清洁牙齿之间缝隙的细线，也可以作动词表示用牙线清洁牙缝。",
+      "examples": [{"en": "I packed dental floss in my travel toiletry bag.", "zh": "我把牙线放进了旅行洗漱包。", "scenarioZh": "出发前收拾口腔护理用品"}],
+      "usageNotesZh": ["dental floss 是完整的牙线名称；floss your teeth 是动词用法。", "floss picks 指带短段牙线的一次性牙线棒。"],
+      "tags": ["hygiene", "oral-care"]
+    },
+    {
+      "id": "mouthwash",
+      "term": "mouthwash",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "漱口水",
+      "explanationZh": "用于口腔漱洗的液体产品，常与牙膏、牙线放在同一个货架区域。具体成分和使用方式以产品标签为准。",
+      "examples": [{"en": "Do you have a travel-size bottle of mouthwash?", "zh": "你们有旅行装漱口水吗？", "scenarioZh": "在药店询问小瓶洗漱用品"}],
+      "usageNotesZh": ["mouthwash 通常不可数；a bottle of mouthwash 是一瓶漱口水。", "alcohol-free mouthwash 指不含酒精的漱口水。"],
+      "tags": ["hygiene", "oral-care"]
+    },
+    {
+      "id": "shampoo",
+      "term": "shampoo",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "洗发水；用洗发水洗头",
+      "explanationZh": "清洁头发用的产品，也可作动词表示用洗发水洗头。在清洁服务中，shampoo 还可用于地毯等物品。",
+      "examples": [{"en": "The hotel provides shampoo, but I brought my own conditioner.", "zh": "酒店提供洗发水，但我自己带了护发素。", "scenarioZh": "确认酒店房间里的洗漱用品"}],
+      "usageNotesZh": ["a bottle of shampoo 是一瓶洗发水。", "shampoo your hair 表示用洗发水洗头；dry shampoo 指干洗喷雾等干式洗发产品。"],
+      "tags": ["hygiene", "hair-care"]
+    },
+    {
+      "id": "conditioner",
+      "term": "conditioner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "护发素；调理剂",
+      "explanationZh": "洗护用品中通常指用来调理头发、让头发更顺滑的产品，不是洗发水。其他商品中也可指调理或养护材料的制剂。",
+      "examples": [{"en": "I accidentally bought conditioner instead of shampoo.", "zh": "我不小心把护发素当成洗发水买回来了。", "scenarioZh": "整理购物袋时发现拿错洗护产品"}],
+      "usageNotesZh": ["hair conditioner 可以明确表示护发素。", "leave-in conditioner 指免洗护发素，与需要冲洗的款式不同。"],
+      "tags": ["hygiene", "hair-care"]
+    },
+    {
+      "id": "body-wash",
+      "term": "body wash",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "沐浴露",
+      "explanationZh": "洗澡时用来清洁身体的液体用品，商店里常与香皂、洗发水放在相邻区域。",
+      "examples": [{"en": "Could you pick up a bottle of body wash on your way home?", "zh": "你回家路上能买一瓶沐浴露吗？", "scenarioZh": "请室友顺路补充浴室用品"}],
+      "usageNotesZh": ["body wash 通常不可数，用 bottle 表示一瓶。", "shower gel 也是常见的沐浴产品名称，常强调凝胶质地。"],
+      "tags": ["hygiene", "bathroom"]
+    },
+    {
+      "id": "hand-soap",
+      "term": "hand soap",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "洗手皂；洗手液",
+      "explanationZh": "用于洗手的肥皂类清洁用品，可以是液体，也可以是固体皂。液体款常装在带泵头的瓶子里。",
+      "examples": [{"en": "The hand soap dispenser by the sink is empty.", "zh": "洗手池旁的洗手液瓶空了。", "scenarioZh": "发现卫生间需要补充洗手液"}],
+      "usageNotesZh": ["liquid hand soap 指液体洗手皂；a bar of soap 指一块肥皂。", "hand soap 与 hand sanitizer（免水洗手消毒剂）不是同一种产品。"],
+      "tags": ["hygiene", "bathroom"]
+    },
+    {
+      "id": "deodorant",
+      "term": "deodorant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "身体除臭剂；腋下除臭产品",
+      "explanationZh": "主要用于控制身体异味的个人护理产品，常用于腋下。除臭不等于减少出汗，有些商品会同时提供除臭和止汗功能。",
+      "examples": [{"en": "I'm looking for an unscented deodorant, not an antiperspirant.", "zh": "我在找无香型除臭剂，不是止汗剂。", "scenarioZh": "在药店说明想买的腋下护理产品类型"}],
+      "usageNotesZh": ["deodorant stick 是棒状除臭剂；roll-on deodorant 是滚珠式除臭剂。", "deodorant 强调除臭，antiperspirant 强调减少出汗。"],
+      "tags": ["hygiene", "personal-care"]
+    },
+    {
+      "id": "antiperspirant",
+      "term": "antiperspirant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "止汗剂",
+      "explanationZh": "用于减少局部出汗的个人护理产品，常用于腋下。包装上可能同时写着 antiperspirant 和 deodorant，表示兼有止汗、除臭用途。",
+      "examples": [{"en": "This product is labelled as both an antiperspirant and a deodorant.", "zh": "这款产品标明兼具止汗剂和除臭剂的功能。", "scenarioZh": "比较货架上两种个人护理产品的标签"}],
+      "usageNotesZh": ["apply antiperspirant 表示涂止汗剂。", "不要只根据香味或包装判断是否止汗，应查看标签上的产品类别。"],
+      "tags": ["hygiene", "personal-care"]
+    },
+    {
+      "id": "razor",
+      "term": "razor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "剃须刀；剃毛刀",
+      "explanationZh": "用于剃胡须或体毛的工具，可以是手动刀片式，也可以是电动式。购买替换刀头时需要确认兼容型号。",
+      "examples": [{"en": "Do these replacement blades fit my razor?", "zh": "这些替换刀片适配我的剃须刀吗？", "scenarioZh": "在药店选购剃须刀替换刀片"}],
+      "usageNotesZh": ["electric razor 是电动剃须刀；disposable razor 是一次性剃刀。", "razor blade 指剃刀刀片，不是整把剃刀。"],
+      "tags": ["hygiene", "personal-care"]
+    },
+    {
+      "id": "shaving-cream",
+      "term": "shaving cream",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "剃须膏",
+      "explanationZh": "剃须或剃毛时配合剃刀使用的膏状或泡沫状用品，通常与剃刀、刀片放在同一区域。",
+      "examples": [{"en": "I need shaving cream and a new razor before the trip.", "zh": "出发前我需要买剃须膏和一把新剃须刀。", "scenarioZh": "准备旅行用的个人清洁用品"}],
+      "usageNotesZh": ["shaving foam 是剃须泡沫，shaving gel 是剃须啫喱。", "shave 是动词，表示剃须或剃毛。"],
+      "tags": ["hygiene", "personal-care"]
+    },
+    {
+      "id": "cotton-swab",
+      "term": "cotton swab",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "棉签；棉棒",
+      "explanationZh": "一端或两端带有小团棉花的细棒，常用于精细清洁或整理化妆细节。它不同于圆片状的 cotton pad。",
+      "examples": [{"en": "She used a cotton swab to tidy up the edge of her nail polish.", "zh": "她用棉签修整了指甲油的边缘。", "scenarioZh": "在家做美甲后清理涂出边界的部分"}],
+      "usageNotesZh": ["a box of cotton swabs 是一盒棉签。", "加拿大口语中常听到 Q-tip，这是常被用来泛指棉签的品牌名称。"],
+      "tags": ["hygiene", "personal-care"]
+    },
+    {
+      "id": "tissue",
+      "term": "tissue",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "面巾纸；纸巾；组织",
+      "explanationZh": "日常生活里常指盒装或小包装的柔软面巾纸，用来擦鼻子等。生物和医疗语境中也可指人体或动植物组织。",
+      "examples": [{"en": "Could you pass me a tissue? I need to blow my nose.", "zh": "能递给我一张纸巾吗？我需要擤鼻涕。", "scenarioZh": "在家或办公室向别人要面巾纸"}],
+      "usageNotesZh": ["a tissue 是一张面巾纸；a box of tissues 是一盒面巾纸。", "facial tissue 可以明确表示面巾纸，区别于 toilet paper 和 paper towel。"],
+      "tags": ["hygiene", "household-supplies"]
+    },
+    {
+      "id": "toilet-paper",
+      "term": "toilet paper",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "卫生纸；厕纸",
+      "explanationZh": "上厕所时使用的纸，通常以卷为单位出售。它与面巾纸、厨房纸巾是不同类别的商品。",
+      "examples": [{"en": "There's an extra roll of toilet paper under the sink.", "zh": "洗手池下面有一卷备用卫生纸。", "scenarioZh": "告诉客人备用卫生纸放在哪里"}],
+      "usageNotesZh": ["toilet paper 通常不可数；a roll of toilet paper 表示一卷。", "two-ply 或 three-ply 表示两层或三层。"],
+      "tags": ["hygiene", "bathroom"]
+    },
+    {
+      "id": "paper-towel",
+      "term": "paper towel",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "厨房纸巾；擦手纸",
+      "explanationZh": "用于吸水、擦拭或擦手的纸制用品，家用款常是卷装，公共洗手间也会提供折叠式擦手纸。",
+      "examples": [{"en": "I used a paper towel to soak up the spilled coffee.", "zh": "我用一张厨房纸巾吸干了洒出来的咖啡。", "scenarioZh": "清理厨房台面上打翻的饮料"}],
+      "usageNotesZh": ["a roll of paper towel 或 a roll of paper towels 都能见到。", "paper towel 不同于餐桌上的 napkin，也不同于厕所用的 toilet paper。"],
+      "tags": ["hygiene", "household-supplies"]
+    },
+    {
+      "id": "wet-wipes",
+      "term": "wet wipes",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "湿巾",
+      "explanationZh": "预先浸湿、取出即可擦拭的巾片。不同款式可能供皮肤或物体表面使用，普通湿巾不一定具备消毒功能。",
+      "examples": [{"en": "I keep a small pack of wet wipes in my bag for messy hands.", "zh": "我在包里放了一小包湿巾，手弄脏时可以用。", "scenarioZh": "出门吃东西前准备便携清洁用品"}],
+      "usageNotesZh": ["a pack of wet wipes 是一包湿巾，单片可以说 a wet wipe。", "baby wipes 和 disinfecting wipes 用途不同，不能只看外形就互换使用。"],
+      "tags": ["hygiene", "household-supplies"]
+    },
+    {
+      "id": "stain",
+      "term": "stain",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "污渍；使留下污渍；染色",
+      "explanationZh": "衣物或表面上难以直接擦掉的色斑，也可作动词表示弄脏、染上颜色。装修语境中还可指给木材上色的染色剂。",
+      "examples": [{"en": "There's a coffee stain on the sleeve of my white shirt.", "zh": "我的白衬衫袖子上有一块咖啡渍。", "scenarioZh": "洗衣前检查需要特别处理的污渍"}],
+      "usageNotesZh": ["remove a stain 表示去除污渍；stain a shirt 表示把衬衫弄出污渍。", "stained 是有污渍的；stain-resistant 表示抗污的。"],
+      "tags": ["hygiene", "laundry"]
+    },
+    {
+      "id": "stain-remover",
+      "term": "stain remover",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "去渍剂",
+      "explanationZh": "针对衣物或其他材料上的污渍使用的清洁产品，可能是喷剂、液体或棒状。是否适合某种材料需查看标签。",
+      "examples": [{"en": "Is this stain remover suitable for coloured clothes?", "zh": "这款去渍剂适用于彩色衣物吗？", "scenarioZh": "在商店核对去渍产品的适用范围"}],
+      "usageNotesZh": ["stain remover spray 是去渍喷剂；stain remover pen 是去渍笔。", "去渍剂不等于所有类型的 bleach，使用方法和适用材料应分别确认。"],
+      "tags": ["hygiene", "laundry"]
+    },
+    {
+      "id": "fabric-softener",
+      "term": "fabric softener",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "衣物柔顺剂",
+      "explanationZh": "洗衣时用于改善衣物触感的一类产品，不是洗衣液。能否用于某件衣物，应结合衣物护理标签和产品说明判断。",
+      "examples": [{"en": "The washer has separate compartments for detergent and fabric softener.", "zh": "这台洗衣机给洗衣液和柔顺剂分别设有投放格。", "scenarioZh": "第一次使用公寓洗衣房的洗衣机"}],
+      "usageNotesZh": ["liquid fabric softener 指液体衣物柔顺剂。", "detergent 负责洗涤，fabric softener 是不同用途的产品。"],
+      "tags": ["hygiene", "laundry"]
+    },
+    {
+      "id": "rinse",
+      "term": "rinse",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "冲洗；漂洗",
+      "explanationZh": "用水冲掉泡沫、清洁剂或表面残留物。洗头、洗碗和洗衣机的漂洗程序里都会用到。",
+      "examples": [{"en": "Rinse the soap out of the cloth before hanging it up.", "zh": "把布里的肥皂冲干净后再挂起来。", "scenarioZh": "手洗清洁布后冲去泡沫"}],
+      "usageNotesZh": ["rinse something off 表示冲掉表面的东西；rinse something out 表示冲洗内部或把残留物冲出来。", "rinse cycle 是洗衣机的漂洗程序。"],
+      "tags": ["hygiene", "cleaning-actions"]
+    },
+    {
+      "id": "soak",
+      "term": "soak",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "浸泡；浸透",
+      "explanationZh": "把物品放在液体里一段时间，或让液体充分浸湿某物。洗衣和清洁时常用来描述预先泡一泡。",
+      "examples": [{"en": "I left the muddy socks to soak in a basin.", "zh": "我把沾满泥的袜子放在盆里浸泡。", "scenarioZh": "户外活动后处理脏袜子"}],
+      "usageNotesZh": ["soak something in water 表示把某物泡在水里；give something a soak 表示把某物泡一泡。", "soaked 可以表示湿透了，例如 My coat is soaked。"],
+      "tags": ["hygiene", "cleaning-actions"]
+    },
+    {
+      "id": "scrub",
+      "term": "scrub",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "用力擦洗；刷洗；磨砂清洁用品",
+      "explanationZh": "用刷子、海绵或布来回用力清洁，也可以指一次擦洗。护肤品标签中还可指带磨砂颗粒的清洁产品。",
+      "examples": [{"en": "I used a brush to scrub the dirt off my boots.", "zh": "我用刷子把靴子上的泥刷掉了。", "scenarioZh": "回家后清理户外鞋上的污垢"}],
+      "usageNotesZh": ["scrub the sink 表示刷洗水槽；give it a scrub 表示把它刷洗一下。", "过去式是 scrubbed，现在分词是 scrubbing，都要双写 b。"],
+      "tags": ["hygiene", "cleaning-actions"]
+    },
+    {
+      "id": "wipe",
+      "term": "wipe",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "擦拭；擦巾",
+      "explanationZh": "用布、纸或巾片擦过某个表面，也可指一片用于清洁的擦巾。擦拭本身不等于完成消毒。",
+      "examples": [{"en": "Please wipe the counter with a damp cloth after making coffee.", "zh": "煮完咖啡后，请用湿布擦一下台面。", "scenarioZh": "和室友约定保持共用厨房整洁"}],
+      "usageNotesZh": ["wipe down 表示把表面擦一遍；wipe up a spill 表示擦掉洒出来的液体。", "wipe your hands 表示擦手；wash your hands 才是洗手。"],
+      "tags": ["hygiene", "cleaning-actions"]
+    },
+    {
+      "id": "hang-dry",
+      "term": "hang dry",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "悬挂晾干",
+      "explanationZh": "把衣物挂起来，让它自然干燥，而不是使用烘干机。衣物护理标签和日常洗衣交流中都很常见。",
+      "examples": [{"en": "I hang dry this shirt instead of putting it in the dryer.", "zh": "这件衬衫我会挂起来晾干，不放进烘干机。", "scenarioZh": "向室友说明某件衣物的洗后处理方式"}],
+      "usageNotesZh": ["也可说 hang something to dry，例如 hang the shirt to dry。", "lay flat to dry 表示平铺晾干，与悬挂晾干不是同一种方式。"],
+      "tags": ["hygiene", "laundry"]
+    }
+  ]
+}
