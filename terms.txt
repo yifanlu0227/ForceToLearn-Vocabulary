@@ -17,6 +17,7 @@ aluminum foil
 amenity
 antibiotics
 antihistamine
+antiperspirant
 appetizer
 area rug
 as needed
@@ -54,6 +55,7 @@ blinker
 blister
 block heater
 blood work
+body wash
 boil over
 bok choy
 bookstore
@@ -131,6 +133,7 @@ commute
 comp
 compost bin
 concierge
+conditioner
 connecting bus
 contactless payment
 conveyor belt
@@ -140,6 +143,7 @@ cortisone cream
 cost an arm and a leg
 cottage
 cottage cheese
+cotton swab
 cough drop
 coupon
 cover a shift
@@ -179,6 +183,7 @@ deglaze
 dehumidifier
 deli
 deliverable
+deodorant
 departure board
 deposit
 designated driver
@@ -234,6 +239,7 @@ express lane
 extension
 extension cord
 eye drops
+fabric softener
 fair enough
 family doctor
 family pack
@@ -256,6 +262,7 @@ flat tire
 flat white
 fleece
 flip
+floss
 flu shot
 flurries
 flyer
@@ -308,6 +315,8 @@ half-caf
 hamper
 hand basket
 hand in
+hand soap
+hang dry
 hang in there
 hangry
 happy hour
@@ -407,6 +416,7 @@ mittens
 mixing bowl
 mocktail
 money order
+mouthwash
 move-in inspection
 mudroom
 my bad
@@ -459,6 +469,7 @@ P-trap
 paid time off
 painter's tape
 pantry staples
+paper towel
 parallel park
 parcel locker
 parchment paper
@@ -529,6 +540,7 @@ radiator
 rain check
 rain date
 rash
+razor
 rear-end
 receipt
 recreation program
@@ -555,6 +567,7 @@ return policy
 reusable bag
 rideshare
 right of way
+rinse
 rip-off
 ripe
 road rage
@@ -581,6 +594,7 @@ scholarship
 scramble
 screen door
 script
+scrub
 seal
 sear
 season
@@ -596,6 +610,8 @@ service fee
 settle up
 settlement worker
 shallot
+shampoo
+shaving cream
 shoot someone a text
 short-staffed
 shotgun
@@ -631,6 +647,7 @@ snowbank
 snowfall
 snowplow
 snowstorm
+soak
 soggy
 sold loose
 sold out
@@ -649,6 +666,8 @@ split the check
 spoiled
 sprain
 squeegee
+stain
+stain remover
 stall
 start a tab
 statement balance
@@ -707,10 +726,14 @@ tied up
 timesheet
 timetable
 Timmies
+tissue
 to-go box
+toilet paper
 toll
 tongs
 toonie
+toothbrush
+toothpaste
 top up
 toque
 toss
@@ -763,6 +786,7 @@ watered down
 waterproof
 weatherstripping
 well done
+wet wipes
 whip
 whisk
 wilted
@@ -773,6 +797,7 @@ windproof
 windshield wipers
 wing it
 winter tires
+wipe
 wire transfer
 withdraw
 wok
