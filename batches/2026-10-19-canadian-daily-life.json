@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-19-canadian-daily-life",
+  "title": "加拿大日常生活：娱乐活动与休闲运动",
+  "publishedOn": "2026-10-19",
+  "entries": [
+    {
+      "id": "admission",
+      "term": "admission",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "入场；入场费；录取",
+      "explanationZh": "在景点、博物馆或活动页面中，常指获准进入或入场费用。学校语境中则可指录取，不要只按一种中文意思理解。",
+      "examples": [{"en": "Does admission include access to the special exhibition?", "zh": "入场费包含特展的参观资格吗？", "scenarioZh": "买博物馆门票前确认包含哪些展区"}],
+      "usageNotesZh": ["free admission 表示免费入场；general admission 表示普通入场，演出中还可能指不指定座位的票种。", "admission fee 是入场费；apply for admission to a university 是申请大学入学。"],
+      "tags": ["leisure", "tickets"]
+    },
+    {
+      "id": "venue",
+      "term": "venue",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "活动场地；举办地点",
+      "explanationZh": "音乐会、比赛、聚会等活动实际举行的场所，可以是剧院、体育馆、酒吧或其他空间。",
+      "examples": [{"en": "The concert venue is a short walk from the subway station.", "zh": "音乐会场地离地铁站走路只要一小段。", "scenarioZh": "和朋友确认演出地点是否方便到达"}],
+      "usageNotesZh": ["a live music venue 是现场音乐演出场所。", "venue 指场地，event 指在那里举行的活动。"],
+      "tags": ["leisure", "events"]
+    },
+    {
+      "id": "box-office",
+      "term": "box office",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "售票处；票房收入",
+      "explanationZh": "剧院、影院或演出场馆的售票窗口，也可指电影或演出的售票收入。取票通知里通常是在说售票处。",
+      "examples": [{"en": "You can collect your tickets at the box office before the show.", "zh": "演出前你可以到售票处取票。", "scenarioZh": "查看网上购票后的现场取票说明"}],
+      "usageNotesZh": ["at the box office 表示在售票处。", "box office sales 或 box office revenue 指票房收入。"],
+      "tags": ["leisure", "tickets"]
+    },
+    {
+      "id": "showtime",
+      "term": "showtime",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "开演时间；电影放映时间",
+      "explanationZh": "电影或演出开始的时间。影院网站上的 showtimes 通常列出同一部电影当天可选的多个场次。",
+      "examples": [{"en": "Let's choose a showtime after seven so we have time for dinner.", "zh": "我们选七点以后的场次吧，这样就有时间吃晚饭。", "scenarioZh": "和朋友商量电影场次"}],
+      "usageNotesZh": ["check the showtimes 表示查场次；the 8 p.m. showtime 表示晚上八点的场次。", "场馆开放时间和 showtime 不一定相同，应分别查看。"],
+      "tags": ["leisure", "cinema"]
+    },
+    {
+      "id": "trailer",
+      "term": "trailer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预告片；拖车；拖挂式房车",
+      "explanationZh": "电影语境里是上映前用来介绍内容的短片；交通或露营语境里则常指由另一辆车牵引的拖车。",
+      "examples": [{"en": "The trailer looked exciting, but I haven't seen the movie yet.", "zh": "预告片看起来很精彩，但我还没看过这部电影。", "scenarioZh": "和朋友讨论一部即将观看的电影"}, {"en": "They rented a trailer for their camping trip.", "zh": "他们为露营旅行租了一辆拖挂式房车。", "scenarioZh": "介绍朋友的周末露营安排"}],
+      "usageNotesZh": ["watch a trailer 表示看预告片；movie trailer 可以明确表示电影预告片。", "travel trailer 常指用于旅行住宿的拖挂式房车。"],
+      "tags": ["leisure", "cinema", "camping"]
+    },
+    {
+      "id": "subtitles",
+      "term": "subtitles",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "字幕",
+      "explanationZh": "显示在画面上、把对白写出来或翻译成另一种语言的文字。看电影或流媒体节目时可以用来确认语言选项。",
+      "examples": [{"en": "Does this screening have English subtitles?", "zh": "这场放映有英文字幕吗？", "scenarioZh": "买外语电影票前确认字幕语言"}],
+      "usageNotesZh": ["turn on subtitles 表示打开字幕；with Chinese subtitles 表示配有中文字幕。", "closed captions 通常还包括声音和说话者等辅助信息，不只呈现对白。"],
+      "tags": ["leisure", "cinema"]
+    },
+    {
+      "id": "intermission",
+      "term": "intermission",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "中场休息",
+      "explanationZh": "戏剧、音乐会等演出进行到中途安排的暂停时间，观众通常可以去洗手间或买饮料。并不是所有演出或电影都有中场休息。",
+      "examples": [{"en": "There's a twenty-minute intermission between the two acts.", "zh": "两幕之间有二十分钟的中场休息。", "scenarioZh": "查看剧场节目单中的演出安排"}],
+      "usageNotesZh": ["during intermission 表示在中场休息时。", "a show without an intermission 表示没有中场休息的演出。"],
+      "tags": ["leisure", "performances"]
+    },
+    {
+      "id": "encore",
+      "term": "encore",
+      "partsOfSpeech": ["noun", "interjection"],
+      "definitionZh": "返场加演；再来一个",
+      "explanationZh": "正式节目结束后，表演者应观众要求再回来表演的额外节目。观众也可以喊 Encore! 来表达希望再演一个。",
+      "examples": [{"en": "The band came back for an encore after the audience kept cheering.", "zh": "观众一直欢呼，乐队于是回来返场加演。", "scenarioZh": "和朋友回顾音乐会结束时的气氛"}],
+      "usageNotesZh": ["come back for an encore 表示回来返场加演。", "an encore 是一次返场或返场节目，不是每场演出都保证有。"],
+      "tags": ["leisure", "performances"]
+    },
+    {
+      "id": "matinee",
+      "term": "matinee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "日场电影；午后场演出",
+      "explanationZh": "在白天、尤其下午举行的电影放映或演出，与晚场相对。选票时可能看到 matinee 和 evening 的不同场次。",
+      "examples": [{"en": "We booked the Saturday matinee so we could be home before dinner.", "zh": "我们订了周六的日场，这样晚饭前就能到家。", "scenarioZh": "为周末剧院活动选择时间"}],
+      "usageNotesZh": ["a matinee performance 是日场演出；matinee tickets 是日场票。", "日场是否便宜取决于场馆和票种，不能仅凭名称判断。"],
+      "tags": ["leisure", "tickets"]
+    },
+    {
+      "id": "concession-stand",
+      "term": "concession stand",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "场馆内的食品饮料售卖摊位",
+      "explanationZh": "影院、体育场或活动现场出售爆米花、零食和饮料等的柜台或摊位。这里的 concession 不是日常所说的让步。",
+      "examples": [{"en": "Let's get popcorn at the concession stand before the movie starts.", "zh": "电影开始前，我们去小吃柜台买点爆米花吧。", "scenarioZh": "到影院后购买观影零食"}],
+      "usageNotesZh": ["影院或体育场也可能把整个餐饮区称为 concessions。", "at the concession stand 表示在食品饮料售卖处。"],
+      "tags": ["leisure", "venues"]
+    },
+    {
+      "id": "souvenir",
+      "term": "souvenir",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "纪念品",
+      "explanationZh": "为纪念旅行、参观或某次活动而购买或保留的物品，例如冰箱贴、明信片或带场馆图案的杯子。",
+      "examples": [{"en": "I bought a fridge magnet as a souvenir from the museum.", "zh": "我在博物馆买了一块冰箱贴作纪念。", "scenarioZh": "参观结束后挑选小纪念品"}],
+      "usageNotesZh": ["souvenir shop 是纪念品商店。", "a souvenir of something 或 from somewhere 可以说明纪念的经历或购买地点。"],
+      "tags": ["leisure", "shopping"]
+    },
+    {
+      "id": "exhibit",
+      "term": "exhibit",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "展品；展览；展出",
+      "explanationZh": "博物馆或展馆里展示的物品，也可指一组展陈；作动词时表示把物品拿出来展示。",
+      "examples": [{"en": "The dinosaur exhibit is on the second floor.", "zh": "恐龙展区在二楼。", "scenarioZh": "向博物馆工作人员询问想看的展陈位置"}],
+      "usageNotesZh": ["an interactive exhibit 是互动展项或互动展陈。", "exhibit 作动词时可说 The gallery exhibits local artists' work。"],
+      "tags": ["leisure", "museums"]
+    },
+    {
+      "id": "guided-tour",
+      "term": "guided tour",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "导览；有向导带领的参观",
+      "explanationZh": "由导游或讲解员带队，按路线介绍景点、展品或建筑的参观活动。可能需要另外预约或购票。",
+      "examples": [{"en": "Is the guided tour included in the ticket price?", "zh": "票价包含导览吗？", "scenarioZh": "参观历史建筑前核对门票内容"}],
+      "usageNotesZh": ["join a guided tour 表示参加导览。", "self-guided tour 指自行按路线或资料参观，没有现场向导带队。"],
+      "tags": ["leisure", "museums"]
+    },
+    {
+      "id": "season-pass",
+      "term": "season pass",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "季票；季卡",
+      "explanationZh": "在指定运营季或一段期限内可多次使用的票证，常见于滑雪场、游乐园等。可用日期、预约要求和不适用时段取决于具体条款。",
+      "examples": [{"en": "Does this season pass include weekend visits?", "zh": "这张季卡可以在周末使用吗？", "scenarioZh": "购买休闲场所季卡前询问可用日期"}],
+      "usageNotesZh": ["buy a season pass 表示买季票；pass holder 指持票者。", "season pass 不等于无条件全年通用，应查看有效期和限制。"],
+      "tags": ["leisure", "tickets"]
+    },
+    {
+      "id": "reserve",
+      "term": "reserve",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "预订；预留；储备",
+      "explanationZh": "提前为自己留好座位、时间或物品，常用于订票、订场地和借用设施。作名词时也可表示留存备用的资源。",
+      "examples": [{"en": "Can we reserve a bowling lane for six people on Friday evening?", "zh": "我们可以为六个人预订周五晚上的一条保龄球道吗？", "scenarioZh": "打电话给保龄球馆安排朋友聚会"}],
+      "usageNotesZh": ["reserve a seat 或 reserve a time slot 分别表示预订座位或时段。", "reservation 是预订的名词形式；reserved 表示已预留或已被预订。"],
+      "tags": ["leisure", "booking"]
+    },
+    {
+      "id": "board-game",
+      "term": "board game",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "桌面棋盘游戏；桌游",
+      "explanationZh": "通常在桌上通过棋盘、棋子、卡牌等进行的游戏。朋友聚会时常把这类游戏统称为 board games。",
+      "examples": [{"en": "We're having a board game night at my place on Saturday.", "zh": "周六我们要在我家办一个桌游之夜。", "scenarioZh": "邀请朋友周末到家里玩游戏"}],
+      "usageNotesZh": ["play a board game 表示玩桌游；board game cafe 是桌游咖啡馆。", "单纯的纸牌游戏通常称 card game，电子游戏则是 video game。"],
+      "tags": ["leisure", "games"]
+    },
+    {
+      "id": "bowling",
+      "term": "bowling",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "保龄球运动",
+      "explanationZh": "把球沿球道滚出、击倒球瓶的室内运动。在加拿大可能见到五瓶和十瓶等不同玩法，预订时可以确认是哪一种。",
+      "examples": [{"en": "Would you like to go bowling after work?", "zh": "下班后你想去打保龄球吗？", "scenarioZh": "邀请同事参加晚间休闲活动"}],
+      "usageNotesZh": ["go bowling 是常见说法，不说 play bowling。", "bowling alley 是保龄球馆；bowling shoes 是打球时穿的专用鞋。"],
+      "tags": ["leisure", "sports"]
+    },
+    {
+      "id": "rink",
+      "term": "rink",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑冰场；溜冰场",
+      "explanationZh": "供滑冰或轮滑等活动使用的场地。加拿大日常谈冬季活动时，单说 rink 往往是在指冰场。",
+      "examples": [{"en": "The outdoor rink is a ten-minute walk from our apartment.", "zh": "室外滑冰场离我们公寓步行十分钟。", "scenarioZh": "和朋友商量去附近滑冰"}],
+      "usageNotesZh": ["ice rink 是冰场；skating rink 是滑冰或溜冰场。", "at the rink 表示在冰场；on the ice 表示在冰面上。"],
+      "tags": ["leisure", "skating"]
+    },
+    {
+      "id": "skate-rental",
+      "term": "skate rental",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冰鞋租赁；溜冰鞋租赁",
+      "explanationZh": "在滑冰场临时租用冰鞋或其他溜冰鞋的服务，也可用于标示租鞋柜台。是否包含在门票中需另行确认。",
+      "examples": [{"en": "Is skate rental included, or do we pay for it separately?", "zh": "费用包含租冰鞋吗，还是需要另外付钱？", "scenarioZh": "第一次去滑冰场时询问收费项目"}],
+      "usageNotesZh": ["rent skates 是租冰鞋的动词说法。", "skates 通常用复数表示一双冰鞋；a pair of skates 是一双。"],
+      "tags": ["leisure", "skating"]
+    },
+    {
+      "id": "lane-swim",
+      "term": "lane swim",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "分泳道往返游泳；泳道游泳时段",
+      "explanationZh": "泳池安排给按泳道连续往返游泳的时段，主要方便锻炼，不同于自由玩水或教学课程。加拿大社区泳池时间表中很常见。",
+      "examples": [{"en": "I'm going to the evening lane swim after dinner.", "zh": "晚饭后我要去参加晚间泳道游泳。", "scenarioZh": "查看社区泳池时刻表后安排运动"}],
+      "usageNotesZh": ["lane swimming 也表示泳道往返游泳；lap swimming 是另一种常见说法。", "不同泳道可能按速度划分，入水前留意现场标志和泳池规则。"],
+      "tags": ["leisure", "swimming"]
+    },
+    {
+      "id": "lifeguard",
+      "term": "lifeguard",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "救生员",
+      "explanationZh": "在泳池、海滩等场所监督水上活动安全并在需要时实施救援的工作人员，也会提醒使用者遵守场地规则。",
+      "examples": [{"en": "Ask the lifeguard which lane is for slower swimmers.", "zh": "问问救生员，哪条泳道是给游得较慢的人用的。", "scenarioZh": "第一次进入社区泳池时确认泳道安排"}],
+      "usageNotesZh": ["a lifeguard on duty 表示一名正在值班的救生员。", "lifeguard 与教游泳的 swimming instructor 是不同的岗位名称。"],
+      "tags": ["leisure", "swimming"]
+    },
+    {
+      "id": "locker",
+      "term": "locker",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "储物柜；更衣柜",
+      "explanationZh": "健身房、泳池、学校等场所供个人存放衣物或物品的柜子。可能需要自带锁、投币或使用电子密码。",
+      "examples": [{"en": "Do I need to bring my own lock for the locker?", "zh": "使用储物柜需要我自己带锁吗？", "scenarioZh": "第一次去健身房前询问储物方式"}],
+      "usageNotesZh": ["locker room 是更衣室；locker key 是储物柜钥匙。", "locker 指单个柜子，storage locker 也可指较大的储物间或储物单元。"],
+      "tags": ["leisure", "facilities"]
+    },
+    {
+      "id": "swimsuit",
+      "term": "swimsuit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "泳衣；游泳服装",
+      "explanationZh": "专门供游泳或水上活动穿着的衣物，可以用于泛指不同款式的游泳服装，不仅限于某一种连体泳衣。",
+      "examples": [{"en": "I packed my swimsuit and a towel for the pool.", "zh": "我为去泳池装好了泳衣和毛巾。", "scenarioZh": "下班前收拾游泳包"}],
+      "usageNotesZh": ["swimming trunks 常指男式泳裤；one-piece swimsuit 指连体泳衣。", "bathing suit 也是加拿大常见的泳衣说法。"],
+      "tags": ["leisure", "swimming"]
+    },
+    {
+      "id": "goggles",
+      "term": "goggles",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "护目镜；泳镜",
+      "explanationZh": "贴合眼部、用于保护眼睛或便于在特定环境下看清的眼镜类用品。泳池语境中通常是在说泳镜，其他场合也可能指滑雪镜或安全护目镜。",
+      "examples": [{"en": "My goggles keep fogging up while I swim.", "zh": "我游泳时泳镜总是起雾。", "scenarioZh": "和同伴讨论游泳装备的问题"}],
+      "usageNotesZh": ["a pair of goggles 是一副护目镜；swimming goggles 可以明确表示泳镜。", "ski goggles 是滑雪镜，safety goggles 是安全护目镜，不能只凭名称互换用途。"],
+      "tags": ["leisure", "sports-equipment"]
+    },
+    {
+      "id": "warm-up",
+      "term": "warm up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "热身；使暖和；预热",
+      "explanationZh": "运动前先活动身体做准备，也可以指人或物体逐渐暖和起来，或把某物加热。具体意思取决于场景。",
+      "examples": [{"en": "Let's warm up before we start playing badminton.", "zh": "开始打羽毛球前，我们先热热身吧。", "scenarioZh": "和朋友到社区球馆准备运动"}],
+      "usageNotesZh": ["warm up 是动词短语；a warm-up 是名词，表示一次热身或准备活动。", "warm something up 可以表示把某物加热，代词放中间，例如 warm it up。"],
+      "tags": ["leisure", "sports"]
+    }
+  ]
+}
