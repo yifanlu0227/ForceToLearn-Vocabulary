@@ -4,6 +4,7 @@ a pinch of
 a splash of
 account number
 action item
+admission
 Advil
 agenda
 air filter
@@ -55,6 +56,7 @@ blinker
 blister
 block heater
 blood work
+board game
 body wash
 boil over
 bok choy
@@ -64,6 +66,8 @@ booth
 bottle deposit
 bottle return
 bottomless
+bowling
+box office
 box spring
 broil
 broke
@@ -132,6 +136,7 @@ community garden
 commute
 comp
 compost bin
+concession stand
 concierge
 conditioner
 connecting bus
@@ -226,6 +231,7 @@ eggplant
 eh
 elective
 elevator outage
+encore
 end cap
 enrol
 entrée
@@ -233,6 +239,7 @@ EOB
 ER
 escalator
 exchange
+exhibit
 expedite
 express bus
 express lane
@@ -296,6 +303,7 @@ gloves
 gluten-free
 go Dutch
 go with the flow
+goggles
 good to go
 grab a bite
 grace period
@@ -309,6 +317,7 @@ gridlock
 ground beef
 grout
 guarantor
+guided tour
 hail a cab
 half-and-half
 half-caf
@@ -355,6 +364,7 @@ institution number
 insulated
 intake form
 interest
+intermission
 it's on me
 jaywalk
 jug
@@ -368,6 +378,7 @@ knead
 lab
 ladle
 landlord
+lane swim
 last call
 last month's rent
 late fee
@@ -383,6 +394,7 @@ leftovers
 let it rest
 level
 library card
+lifeguard
 lifesaver
 lightheaded
 linen closet
@@ -392,6 +404,7 @@ lint trap
 loading zone
 loaf
 local bus
+locker
 long shot
 long story short
 loonie
@@ -401,6 +414,7 @@ maintenance request
 marinate
 marked down
 mash
+matinee
 mattress topper
 measuring cup
 meat counter
@@ -560,6 +574,7 @@ renew
 rent increase
 requisition
 reschedule
+reserve
 rest stop
 restock
 restocking fee
@@ -567,6 +582,7 @@ return policy
 reusable bag
 rideshare
 right of way
+rink
 rinse
 rip-off
 ripe
@@ -598,6 +614,7 @@ scrub
 seal
 sear
 season
+season pass
 seat yourself
 security deposit
 seedless
@@ -621,6 +638,7 @@ shower caddy
 shower curtain
 shower curtain liner
 shower head
+showtime
 shred
 shut-off valve
 shuttle bus
@@ -631,6 +649,7 @@ simmer
 SIN
 size down
 size up
+skate rental
 sketchy
 skillet
 sleet
@@ -651,6 +670,7 @@ soak
 soggy
 sold loose
 sold out
+souvenir
 space heater
 spackle
 spare tire
@@ -691,6 +711,7 @@ stuffy nose
 sub
 sublet
 submit
+subtitles
 subway platform
 sump pump
 sunny side up
@@ -700,6 +721,7 @@ surcharge
 swab
 swamped
 Swiffer
+swimsuit
 swing by
 swollen
 syllabus
@@ -741,6 +763,7 @@ total
 touch base
 tow truck
 traction
+trailer
 trailhead
 transaction
 transcript
@@ -771,6 +794,7 @@ utility knife
 vacation request
 valance
 vent
+venue
 visitor parking
 void cheque
 waitlist
@@ -778,6 +802,7 @@ waive
 walk-in clinic
 wall anchor
 ward
+warm up
 warranty
 washer fluid
 washroom
