@@ -2,10 +2,12 @@
 a dollop of
 a pinch of
 a splash of
+abstract
 account number
 action item
 admission
 Advil
+advisor
 agenda
 air filter
 aisle
@@ -116,6 +118,7 @@ childproof cap
 chip in
 cilantro
 circuit breaker
+cite
 city councillor
 claim
 clamshell
@@ -129,8 +132,10 @@ co-pay
 coffee run
 colander
 cold cuts
+collaborate
 collection day
 comforter
+committee
 community centre
 community garden
 commute
@@ -139,6 +144,7 @@ compost bin
 concession stand
 concierge
 conditioner
+conference
 connecting bus
 contactless payment
 conveyor belt
@@ -197,6 +203,7 @@ dice
 dimmer switch
 dine-in
 direct deposit
+dissertation
 dive bar
 doctor's note
 doorstop
@@ -238,9 +245,11 @@ entrée
 EOB
 ER
 escalator
+evidence
 exchange
 exhibit
 expedite
+experiment
 express bus
 express lane
 extension
@@ -256,10 +265,12 @@ fare inspector
 farebox
 faucet
 fed up
+feedback
 fender bender
 fill up
 final exam
 final sale
+findings
 fitted sheet
 fitting room
 flag down
@@ -282,6 +293,7 @@ for sure
 free sample
 free-range
 freezing rain
+funding
 furnace
 furnished
 garbage collection
@@ -307,6 +319,7 @@ goggles
 good to go
 grab a bite
 grace period
+grant
 grate
 gratuity
 grease
@@ -367,6 +380,7 @@ interest
 intermission
 it's on me
 jaywalk
+journal
 jug
 julienne
 jump-start
@@ -411,6 +425,7 @@ loonie
 loyalty card
 lukewarm
 maintenance request
+manuscript
 marinate
 marked down
 mash
@@ -422,6 +437,7 @@ median
 medium rare
 meeting invite
 merge
+methodology
 midterm
 mince
 minimum payment
@@ -501,6 +517,7 @@ payee
 payroll
 peeler
 peephole
+peer review
 pending transaction
 performance review
 personal day
@@ -522,6 +539,7 @@ plunger
 poach
 pop
 posted transaction
+poster
 pot lights
 pothole
 potluck
@@ -532,6 +550,7 @@ pre-washed
 preheat
 premium
 prerequisite
+presentation
 price check
 price match
 price tag
@@ -545,6 +564,7 @@ proof of payment
 proof of purchase
 proof of residency
 property tax
+proposal
 pull over
 pumped
 put your name down
@@ -561,6 +581,7 @@ recreation program
 recycling bin
 red tape
 reduce
+reference
 referral
 refill
 refund
@@ -570,16 +591,19 @@ registration fee
 regular
 reheat
 reimburse
+reimbursement
 renew
 rent increase
 requisition
 reschedule
+research
 reserve
 rest stop
 restock
 restocking fee
 return policy
 reusable bag
+revise
 rideshare
 right of way
 rink
@@ -742,6 +766,7 @@ the usual
 the works
 thermal underwear
 thermostat
+thesis
 threshold
 throw blanket
 tied up

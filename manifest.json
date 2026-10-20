@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 14,
+  "contentVersion": 15,
   "minAppVersionCode": 3,
-  "publishedOn": "2026-10-19",
+  "publishedOn": "2026-10-20",
   "catalog": {
-    "path": "releases/v14-baa76bc6279b.json",
-    "sha256": "baa76bc6279b88a7975917eeece1bf25ce988a0a1b628739578f33de8cede21c",
-    "byteLength": 1060560,
-    "entryCount": 837
+    "path": "releases/v15-f4590da6aa61.json",
+    "sha256": "f4590da6aa610bdf5df644630b216ca7a6419293aef91e3a256a9c45ddb6bba5",
+    "byteLength": 1094126,
+    "entryCount": 862
   }
 }
