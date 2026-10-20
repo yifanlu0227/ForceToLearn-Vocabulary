@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-20-canadian-daily-life",
+  "title": "加拿大日常生活：学术交流与研究协作",
+  "publishedOn": "2026-10-20",
+  "entries": [
+    {
+      "id": "research",
+      "term": "research",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "研究；调查研究",
+      "explanationZh": "为了回答问题或了解某件事而系统地查资料、分析或做实验。既可以指学术研究，也可用于买东西前做功课等日常调查。",
+      "examples": [{"en": "My research focuses on how cameras capture images in low light.", "zh": "我的研究主要关注相机如何在弱光下捕捉图像。", "scenarioZh": "向新同学简要介绍自己的研究方向"}],
+      "usageNotesZh": ["do research 或 conduct research 表示开展研究，不说 do a research。", "research 通常不可数；一项研究可以说 a research project 或 a study。"],
+      "tags": ["academia", "research"]
+    },
+    {
+      "id": "proposal",
+      "term": "proposal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "提案；计划书；建议",
+      "explanationZh": "把打算做的事、理由和实施办法整理成的建议或文件。学术中常指研究计划书，也可用于工作项目或活动安排。",
+      "examples": [{"en": "I'll send you a short research proposal before our meeting.", "zh": "开会前我会发给你一份简短的研究计划书。", "scenarioZh": "与导师约定讨论新项目的准备材料"}],
+      "usageNotesZh": ["submit a proposal 表示提交提案；approve a proposal 表示批准提案。", "research proposal 是研究计划书，grant proposal 是申请研究资助的计划书。"],
+      "tags": ["academia", "research-planning"]
+    },
+    {
+      "id": "abstract",
+      "term": "abstract",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "摘要；抽象的",
+      "explanationZh": "作名词时，学术中常指概括论文或报告核心内容的短文；作形容词时表示抽象、不具体的。",
+      "examples": [{"en": "The conference asks for a two-hundred-word abstract.", "zh": "会议要求提交一份两百词的摘要。", "scenarioZh": "查看学术会议的投稿材料要求"}],
+      "usageNotesZh": ["write 或 submit an abstract 表示撰写或提交摘要。", "an abstract idea 是抽象的想法，与名词“论文摘要”的意思不同。"],
+      "tags": ["academia", "academic-writing"]
+    },
+    {
+      "id": "thesis",
+      "term": "thesis",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学位论文；核心论点",
+      "explanationZh": "为获得学位而完成的研究论文，也可以指一篇文章主张的核心论点。加拿大院校可以用 thesis 指硕士或博士学位论文，具体名称依学校和项目而定。",
+      "examples": [{"en": "I'm meeting my supervisor to discuss the next chapter of my thesis.", "zh": "我要和导师见面，讨论学位论文的下一章。", "scenarioZh": "说明本周的论文写作安排"}],
+      "usageNotesZh": ["master's thesis 和 doctoral thesis 分别指硕士和博士学位论文。", "复数是 theses；thesis statement 指文章的核心论点陈述。"],
+      "tags": ["academia", "graduate-study"]
+    },
+    {
+      "id": "dissertation",
+      "term": "dissertation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学位论文",
+      "explanationZh": "为取得学位提交的较长研究论文。在北美大学语境中经常指博士论文，与 thesis 的用法有重叠；并不是所有学校都严格用这两个词区分学位。",
+      "examples": [{"en": "She submitted her dissertation after completing the final revisions.", "zh": "完成最后的修改后，她提交了学位论文。", "scenarioZh": "介绍博士生完成论文提交的进展"}],
+      "usageNotesZh": ["doctoral dissertation 通常指博士学位论文。", "thesis 与 dissertation 的具体叫法应参考所在院校，不能一概规定前者只指硕士论文。"],
+      "tags": ["academia", "graduate-study"]
+    },
+    {
+      "id": "advisor",
+      "term": "advisor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "指导老师；顾问",
+      "explanationZh": "提供专业指导或建议的人。学校里可以指研究导师或学业顾问，但研究方向指导和选课咨询可能由不同岗位负责。",
+      "examples": [{"en": "My advisor suggested narrowing the scope of the project.", "zh": "我的导师建议缩小这个项目的范围。", "scenarioZh": "和同学交流导师对研究计划的建议"}],
+      "usageNotesZh": ["research advisor 是研究导师；academic advisor 也常指学业咨询顾问。", "也可拼作 adviser；加拿大研究生项目中 supervisor 也是常见的导师称呼。"],
+      "tags": ["academia", "graduate-study"]
+    },
+    {
+      "id": "committee",
+      "term": "committee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "委员会；评审小组",
+      "explanationZh": "为某项工作组成的一组负责人或评审者。研究生学习中可能遇到指导委员会、考试委员会或答辩委员会，它们的职责不一定相同。",
+      "examples": [{"en": "I need to schedule a meeting with my thesis committee.", "zh": "我需要安排一次与学位论文委员会的会议。", "scenarioZh": "为研究生阶段的进展讨论协调时间"}],
+      "usageNotesZh": ["committee member 是委员会成员；committee chair 是委员会主席。", "具体委员会的组成和职责应以项目说明为准，不要仅凭名称推断。"],
+      "tags": ["academia", "graduate-study"]
+    },
+    {
+      "id": "feedback",
+      "term": "feedback",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "反馈；改进意见",
+      "explanationZh": "别人对你的文章、报告、表现或方案给出的评价和建议，通常用来帮助修改和改进。",
+      "examples": [{"en": "Could you give me some feedback on these slides before Friday?", "zh": "周五之前，你能对这些幻灯片提一些反馈意见吗？", "scenarioZh": "请同事在正式报告前帮忙审阅材料"}],
+      "usageNotesZh": ["give 或 receive feedback 表示提供或收到反馈；feedback on something 表示针对某事的反馈。", "feedback 通常不可数，不说 a feedback 或 feedbacks；可说 a piece of feedback。"],
+      "tags": ["academia", "collaboration"]
+    },
+    {
+      "id": "revise",
+      "term": "revise",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "修改；修订；复习",
+      "explanationZh": "根据新信息或反馈改动文章、计划或数据。在英式英语中也常表示考前复习；加拿大校园中说复习更常听到 review 或 study。",
+      "examples": [{"en": "I revised the introduction based on your comments.", "zh": "我根据你的意见修改了引言。", "scenarioZh": "回复合作者对论文初稿的修改建议"}],
+      "usageNotesZh": ["revise a draft 表示修改草稿；a revised version 是修订版。", "revision 是名词，revisions 常指一组具体修改。"],
+      "tags": ["academia", "academic-writing"]
+    },
+    {
+      "id": "cite",
+      "term": "cite",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "引用；援引",
+      "explanationZh": "在写作或讨论中注明某项信息、观点或研究的来源，也可表示拿某个例子或事实来支持说法。",
+      "examples": [{"en": "Please cite the original paper when you describe this method.", "zh": "介绍这个方法时，请引用原始论文。", "scenarioZh": "合作者检查方法介绍是否注明来源"}],
+      "usageNotesZh": ["cite a source 表示引用来源；cite an example 表示举出例子。", "citation 是引用记录；cite 不要求逐字照抄原文，改写观点也可能需要注明来源。"],
+      "tags": ["academia", "academic-writing"]
+    },
+    {
+      "id": "reference",
+      "term": "reference",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "参考资料；引用记录；推荐人；提及",
+      "explanationZh": "论文里常指引用的资料或文末的参考文献条目，作动词也可表示引用或提及。求职时 a reference 还可能指为你提供评价的推荐人。",
+      "examples": [{"en": "I added the missing reference to the end of the report.", "zh": "我把漏掉的参考文献条目补到了报告末尾。", "scenarioZh": "提交报告前核对文献列表"}, {"en": "May I list you as a reference on my job application?", "zh": "我可以在求职申请上把你列为推荐人吗？", "scenarioZh": "向熟悉自己工作的老师或主管征求同意"}],
+      "usageNotesZh": ["a reference list 是参考文献列表；for reference 表示供参考。", "求职表格里的 references 不一定是让你填写参考文献，要结合字段说明判断。"],
+      "tags": ["academia", "academic-writing", "employment"]
+    },
+    {
+      "id": "peer-review",
+      "term": "peer review",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "同行评审",
+      "explanationZh": "由同一领域的其他研究者评估论文、项目或研究工作的过程，常见于期刊和学术会议投稿。经过评审并不代表结论一定不会出错。",
+      "examples": [{"en": "The manuscript is currently undergoing peer review.", "zh": "这篇稿件目前正在接受同行评审。", "scenarioZh": "向合作者说明论文投稿后的处理状态"}],
+      "usageNotesZh": ["undergo peer review 表示接受同行评审。", "peer-reviewed article 是经过同行评审的文章；reviewer 指评审者。"],
+      "tags": ["academia", "publishing"]
+    },
+    {
+      "id": "manuscript",
+      "term": "manuscript",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "文稿；待发表论文；手稿",
+      "explanationZh": "准备提交或尚在编辑、评审中的文章或书稿。虽然含有“手稿”的意思，现代学术中的 manuscript 通常是电子文件，不一定是手写的。",
+      "examples": [{"en": "Could you review the manuscript before we submit it to the journal?", "zh": "我们向期刊投稿前，你能审阅一下文稿吗？", "scenarioZh": "请合作者完成投稿前的最后阅读"}],
+      "usageNotesZh": ["submit a manuscript 表示提交文稿；revised manuscript 是修订稿。", "manuscript 强调稿件本身，不等于整份期刊。"],
+      "tags": ["academia", "publishing"]
+    },
+    {
+      "id": "journal",
+      "term": "journal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "期刊；日志；日记",
+      "explanationZh": "学术中指按期发表研究文章的刊物；日常中也可指记录生活、活动或思考的日志和日记。",
+      "examples": [{"en": "The article was published in a Canadian education journal.", "zh": "这篇文章发表在一本加拿大教育期刊上。", "scenarioZh": "向同学介绍参考文章的发表来源"}],
+      "usageNotesZh": ["journal article 是期刊文章；submit to a journal 表示向期刊投稿。", "keep a journal 表示写日记或持续记录日志。"],
+      "tags": ["academia", "publishing"]
+    },
+    {
+      "id": "conference",
+      "term": "conference",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "会议；学术会议；行业大会",
+      "explanationZh": "围绕某个领域举办、通常包含多场报告和交流活动的会议。在校园中常指学术会议，工作中也可指行业大会。",
+      "examples": [{"en": "I'm attending a conference in Ottawa next month.", "zh": "我下个月要去渥太华参加一个会议。", "scenarioZh": "向同事说明即将到来的出差安排"}],
+      "usageNotesZh": ["attend a conference 表示参会；present at a conference 表示在会上作报告或展示。", "conference registration 是会议注册，registration fee 是注册费。"],
+      "tags": ["academia", "conferences"]
+    },
+    {
+      "id": "poster",
+      "term": "poster",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "海报；学术展示海报",
+      "explanationZh": "用于公告、宣传或展示内容的大幅图文材料。学术会议中通常指概括研究问题、方法和结果、供参会者交流的展示海报。",
+      "examples": [{"en": "I need to print my research poster before travelling to the conference.", "zh": "去会议之前，我需要把研究海报打印出来。", "scenarioZh": "整理参加学术会议前的待办事项"}],
+      "usageNotesZh": ["poster session 是海报展示交流环节；present a poster 表示展示海报并介绍研究。", "普通活动广告海报也叫 poster，含义由场景决定。"],
+      "tags": ["academia", "conferences"]
+    },
+    {
+      "id": "presentation",
+      "term": "presentation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "报告；演示；展示",
+      "explanationZh": "把信息、方案或研究结果向别人系统介绍的活动，常配合幻灯片，但不一定必须使用投影。也可指内容呈现的方式。",
+      "examples": [{"en": "My presentation is ten minutes long, followed by questions.", "zh": "我的报告时长十分钟，之后是提问环节。", "scenarioZh": "和同学练习会议报告的时间安排"}],
+      "usageNotesZh": ["give a presentation 表示作报告；presentation slides 是报告幻灯片。", "presentation 指完整的介绍或展示，不只是幻灯片文件本身。"],
+      "tags": ["academia", "communication"]
+    },
+    {
+      "id": "funding",
+      "term": "funding",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "资金支持；资助；经费",
+      "explanationZh": "用于支持学习、研究、活动或项目的资金。它是资助的统称，可能由奖学金、助学金、项目拨款等不同来源组成。",
+      "examples": [{"en": "Is there funding available to help students attend the conference?", "zh": "有没有资助可以帮助学生参加这次会议？", "scenarioZh": "向系办公室询问参会经费支持"}],
+      "usageNotesZh": ["apply for funding 表示申请资助；secure funding 表示获得资金支持。", "funding 通常不可数；资助是否覆盖某项开支要看具体条件。"],
+      "tags": ["academia", "research-funding"]
+    },
+    {
+      "id": "grant",
+      "term": "grant",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "资助款；拨款；批准给予",
+      "explanationZh": "作名词时常指机构按特定用途提供的一笔资助；作动词时表示正式批准或给予，例如批准申请、准予延期。",
+      "examples": [{"en": "I received a travel grant to help cover the conference costs.", "zh": "我获得了一笔差旅资助，用来补贴参会费用。", "scenarioZh": "向合作者说明参会开支的资金来源"}],
+      "usageNotesZh": ["research grant 是研究资助；travel grant 是差旅资助。", "grant an extension 表示准予延期；获资助后仍应遵守用途和报销条件。"],
+      "tags": ["academia", "research-funding"]
+    },
+    {
+      "id": "reimbursement",
+      "term": "reimbursement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "报销；费用偿付",
+      "explanationZh": "自己先支付符合条件的费用，再由学校、单位或其他机构把相应金额偿还的过程或款项。提交材料不等于已经批准或到账。",
+      "examples": [{"en": "What documents do I need to submit for reimbursement of the registration fee?", "zh": "申请报销注册费需要提交哪些材料？", "scenarioZh": "向学校办公室核对参会费用的报销材料"}],
+      "usageNotesZh": ["expense reimbursement 是费用报销；submit a reimbursement claim 表示提交报销申请。", "reimburse 是动词，reimbursement 是名词；具体可报销范围以机构规则为准。"],
+      "tags": ["academia", "expenses"]
+    },
+    {
+      "id": "collaborate",
+      "term": "collaborate",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "合作；协作",
+      "explanationZh": "和其他人一起完成项目、解决问题或创作成果，强调共同参与，而不只是单方面请别人帮忙。",
+      "examples": [{"en": "We're collaborating with another lab on this project.", "zh": "我们正在与另一个实验室合作做这个项目。", "scenarioZh": "向新成员介绍项目的合作团队"}],
+      "usageNotesZh": ["collaborate with someone on something 表示与某人就某事合作。", "collaboration 是合作，collaborator 是合作者。"],
+      "tags": ["academia", "collaboration"]
+    },
+    {
+      "id": "experiment",
+      "term": "experiment",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "实验；试验；尝试",
+      "explanationZh": "为了检验想法或观察结果而进行的操作，可以是实验室实验、计算实验，也可以是日常尝试一种新做法。",
+      "examples": [{"en": "We repeated the experiment to check whether the result was consistent.", "zh": "我们重复了实验，以检查结果是否一致。", "scenarioZh": "在组会上说明追加实验的目的"}],
+      "usageNotesZh": ["run、do 或 conduct an experiment 都可以表示做实验。", "experiment with something 表示尝试某种材料、方法或做法。"],
+      "tags": ["academia", "research"]
+    },
+    {
+      "id": "findings",
+      "term": "findings",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究发现；调查结果",
+      "explanationZh": "通过研究、实验或调查得出的发现和结果，通常用复数形式汇总说明，不是泛指所有随手找到的东西。",
+      "examples": [{"en": "I'll summarize the main findings at tomorrow's lab meeting.", "zh": "我会在明天的组会上总结主要研究发现。", "scenarioZh": "准备向研究小组汇报近期进展"}],
+      "usageNotesZh": ["key findings 和 main findings 都指主要发现。", "a finding 可以指一项具体发现；findings 与支持结论的 evidence 不是完全相同的概念。"],
+      "tags": ["academia", "research-results"]
+    },
+    {
+      "id": "evidence",
+      "term": "evidence",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "证据；依据",
+      "explanationZh": "用来支持或反驳某个说法的观察、数据、文件或其他信息。研究中需要说明结论建立在什么依据上，而不只是表达个人感觉。",
+      "examples": [{"en": "We need more evidence before drawing that conclusion.", "zh": "得出那个结论之前，我们需要更多证据。", "scenarioZh": "讨论实验数据是否足以支持一种解释"}],
+      "usageNotesZh": ["evidence 通常不可数；一条证据说 a piece of evidence。", "evidence for 或 against a claim 分别表示支持或反对某个说法的证据。"],
+      "tags": ["academia", "research-results"]
+    },
+    {
+      "id": "methodology",
+      "term": "methodology",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究方法体系；方法论",
+      "explanationZh": "一项研究采用的整体方法、流程和设计思路，通常包括如何收集资料、分析数据以及为什么这样做，不只是某一个单独操作。",
+      "examples": [{"en": "The report explains the methodology used to collect and analyse the survey data.", "zh": "报告说明了收集和分析问卷数据所采用的研究方法体系。", "scenarioZh": "审阅调查报告中的研究设计部分"}],
+      "usageNotesZh": ["research methodology 是研究方法体系；methodology section 是介绍研究方法的章节。", "method 常指某个具体方法，methodology 更强调一整套研究方法及其依据。"],
+      "tags": ["academia", "research-methods"]
+    }
+  ]
+}
