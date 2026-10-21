@@ -21,6 +21,7 @@ amenity
 antibiotics
 antihistamine
 antiperspirant
+apartment viewing
 appetizer
 area rug
 as needed
@@ -100,6 +101,7 @@ call in sick
 call it a day
 campus
 caramelize
+carbon monoxide detector
 carpool lane
 carsick
 cart corral
@@ -129,6 +131,7 @@ clog
 clothespin
 co-insurance
 co-pay
+co-signer
 coffee run
 colander
 cold cuts
@@ -165,6 +168,7 @@ crash
 cream
 credit
 credit card
+credit check
 credit limit
 crisper drawer
 crockpot
@@ -237,6 +241,7 @@ eavestrough
 eggplant
 eh
 elective
+elevator booking
 elevator outage
 encore
 end cap
@@ -271,8 +276,10 @@ fill up
 final exam
 final sale
 findings
+first month's rent
 fitted sheet
 fitting room
+fixed-term lease
 flag down
 flapper
 flare-up
@@ -296,6 +303,7 @@ freezing rain
 funding
 furnace
 furnished
+garbage chute
 garbage collection
 garbage disposal
 garnish
@@ -361,6 +369,7 @@ honk
 host
 house wine
 hydro
+hydro bill
 ice scraper
 Iced Capp
 icy
@@ -387,6 +396,7 @@ jump-start
 junk drawer
 keener
 keep someone in the loop
+key deposit
 key fob
 knead
 lab
@@ -400,6 +410,7 @@ laundry detergent
 laundry pods
 laundry room
 layer up
+leak
 lean ground beef
 lease
 lease renewal
@@ -446,8 +457,11 @@ mittens
 mixing bowl
 mocktail
 money order
+month-to-month
 mouthwash
+move-in date
 move-in inspection
+move-out date
 mudroom
 my bad
 my two cents
@@ -465,6 +479,7 @@ non-stick
 notarize
 notary public
 notice period
+notice to enter
 numb
 nurse a drink
 nurse practitioner
@@ -508,6 +523,7 @@ parka
 parkade
 parking meter
 parking permit
+parking spot
 parking ticket
 party of
 pat dry
@@ -521,6 +537,7 @@ peer review
 pending transaction
 performance review
 personal day
+pest control
 physical
 piece of cake
 pileup
@@ -560,9 +577,11 @@ prix fixe
 probation period
 produce
 proof of address
+proof of income
 proof of payment
 proof of purchase
 proof of residency
+property manager
 property tax
 proposal
 pull over
@@ -582,6 +601,7 @@ recycling bin
 red tape
 reduce
 reference
+reference check
 referral
 refill
 refund
@@ -594,6 +614,9 @@ reimburse
 reimbursement
 renew
 rent increase
+rent receipt
+rental application
+rental listing
 requisition
 reschedule
 research
@@ -760,6 +783,7 @@ tea towel
 teaching assistant
 tenancy
 tenant
+tenant insurance
 tenderize
 thaw
 the usual
@@ -815,6 +839,7 @@ unopened
 up in the air
 urgent care
 utilities
+utility account
 utility knife
 vacation request
 valance
