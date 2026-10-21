@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-21-canadian-daily-life",
+  "title": "加拿大日常生活：租房申请与居住维护",
+  "publishedOn": "2026-10-21",
+  "entries": [
+    {
+      "id": "rental-listing",
+      "term": "rental listing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出租房源广告；租房信息",
+      "explanationZh": "房东、物业公司或租房平台发布的房源介绍，通常会列出租金、位置、入住日期、是否带家具以及包含哪些费用。",
+      "examples": [{"en": "The rental listing says heat and water are included.", "zh": "这则出租房源广告写着暖气和水费已包含在内。", "scenarioZh": "在联系房东前核对房源广告里的费用说明"}],
+      "usageNotesZh": ["常见搭配：post a rental listing、reply to a rental listing。", "listing 也可指其他商品或房产的网上条目，rental listing 明确指出租信息。"],
+      "tags": ["housing", "renting", "home-search"]
+    },
+    {
+      "id": "apartment-viewing",
+      "term": "apartment viewing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "看公寓；现场看房",
+      "explanationZh": "正式申请前预约到出租单位实地查看。看房时通常会确认采光、噪声、家电、储物空间和楼内设施。",
+      "examples": [{"en": "I booked an apartment viewing for Saturday morning.", "zh": "我预约了周六上午去看公寓。", "scenarioZh": "和房东确认现场看房时间"}],
+      "usageNotesZh": ["book or schedule a viewing 表示预约看房。", "只说 viewing 时也可能指房屋展示；上下文通常能说明是租房还是买房。"],
+      "tags": ["housing", "renting", "home-search"]
+    },
+    {
+      "id": "rental-application",
+      "term": "rental application",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租房申请；租赁申请表",
+      "explanationZh": "申请租住某个房源时填写和提交的资料，可能要求联系方式、收入证明、推荐人或其他审核信息。",
+      "examples": [{"en": "I submitted the rental application after viewing the unit.", "zh": "看完这套房后，我提交了租房申请。", "scenarioZh": "决定申请刚看过的出租单位"}],
+      "usageNotesZh": ["submit or fill out a rental application 表示提交或填写租房申请。", "application fee 是申请费；是否允许以及具体要求应以当地规定和房源说明为准。"],
+      "tags": ["housing", "renting", "application"]
+    },
+    {
+      "id": "credit-check",
+      "term": "credit check",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用审查；信用记录查询",
+      "explanationZh": "房东或机构在取得适当同意后查看申请人的信用情况，用来评估付款风险。租房广告和申请表里经常见到。",
+      "examples": [{"en": "The landlord asked for my consent to run a credit check.", "zh": "房东请我同意进行信用审查。", "scenarioZh": "提交租房申请时处理信用查询授权"}],
+      "usageNotesZh": ["run or perform a credit check 表示进行信用审查。", "credit check 不等同于 credit score；前者是查询过程，后者是信用评分。"],
+      "tags": ["housing", "renting", "credit"]
+    },
+    {
+      "id": "reference-check",
+      "term": "reference check",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "推荐人核查；背景联系人核实",
+      "explanationZh": "申请过程中联系你提供的推荐人，核实租住、工作或为人情况。租房和求职场景都很常见。",
+      "examples": [{"en": "Please let your references know that we may contact them for a reference check.", "zh": "请提前告知你的推荐人，我们可能会联系他们进行核实。", "scenarioZh": "物业经理说明租房审核流程"}],
+      "usageNotesZh": ["provide references 表示提供推荐人；contact a reference 表示联系推荐人。", "reference check 是核实推荐信息，不等同于承担经济责任的 guarantor。"],
+      "tags": ["housing", "renting", "application"]
+    },
+    {
+      "id": "proof-of-income",
+      "term": "proof of income",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收入证明",
+      "explanationZh": "用来证明收入来源或金额的材料，例如工资单、雇佣信或其他合适文件。租房申请时可能被要求提供。",
+      "examples": [{"en": "Would a recent pay stub work as proof of income?", "zh": "最近的工资单可以作为收入证明吗？", "scenarioZh": "向物业经理确认可接受的申请材料"}],
+      "usageNotesZh": ["provide proof of income 表示提供收入证明。", "proof 在这个短语里通常作不可数名词，不说 a proof of income。"],
+      "tags": ["housing", "renting", "documents"]
+    },
+    {
+      "id": "co-signer",
+      "term": "co-signer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "共同签约人；共同承担付款责任的人",
+      "explanationZh": "和申请人一起在协议上签字并按文件约定共同承担责任的人。租房或贷款申请条件不足时，可能会被问到是否有 co-signer。",
+      "examples": [{"en": "The application was approved with a co-signer.", "zh": "这份申请在有共同签约人的情况下获批了。", "scenarioZh": "申请人信用记录较短时确认审批结果"}],
+      "usageNotesZh": ["co-sign 是动词，表示共同签署并承担约定责任。", "co-signer 和 guarantor 的法律角色可能不同，具体责任要看实际签署的文件。"],
+      "tags": ["housing", "renting", "application"]
+    },
+    {
+      "id": "tenant-insurance",
+      "term": "tenant insurance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租客保险",
+      "explanationZh": "通常用于保障租客个人财物和某些责任风险的保险。房屋本身由谁投保，与租客自己的财物保障不是一回事。",
+      "examples": [{"en": "The lease requires proof of tenant insurance before move-in.", "zh": "租约要求在入住前提供租客保险证明。", "scenarioZh": "准备领取钥匙前核对入住材料"}],
+      "usageNotesZh": ["在加拿大常说 tenant insurance；renter's insurance 也是常见说法。", "coverage、deductible 和 exclusions 分别指保障范围、免赔额和除外责任，具体以保单为准。"],
+      "tags": ["housing", "renting", "insurance"]
+    },
+    {
+      "id": "first-months-rent",
+      "term": "first month's rent",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "首月房租",
+      "explanationZh": "租期第一个月应付的租金。签约或入住前，对方可能会说明首月租金的金额、付款日期和方式。",
+      "examples": [{"en": "When is the first month's rent due?", "zh": "首月房租什么时候到期应付？", "scenarioZh": "签租约前确认第一笔租金的付款日期"}],
+      "usageNotesZh": ["first and last month's rent 表示首月和末月租金。", "first month's rent 是租金，不要自动把它理解为损坏押金。"],
+      "tags": ["housing", "renting", "payments"]
+    },
+    {
+      "id": "key-deposit",
+      "term": "key deposit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "钥匙押金；门禁设备押金",
+      "explanationZh": "领取钥匙、门禁卡或遥控器时可能需要支付的押金，归还相应物品后按适用条件退还。",
+      "examples": [{"en": "Is the key deposit refundable when I return both fobs?", "zh": "我归还两个门禁卡后，钥匙押金可以退吗？", "scenarioZh": "入住前确认钥匙和门禁卡押金规则"}],
+      "usageNotesZh": ["pay a key deposit 表示交钥匙押金；refund a key deposit 表示退还钥匙押金。", "是否允许收取、金额上限及退还条件因地区而异，应核对当地规则和书面约定。"],
+      "tags": ["housing", "renting", "payments"]
+    },
+    {
+      "id": "rent-receipt",
+      "term": "rent receipt",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "房租收据",
+      "explanationZh": "证明某段时间房租已支付的收据，通常会写明金额、日期、租住地址和付款人。报税或核对付款记录时可能用到。",
+      "examples": [{"en": "Could you send me a rent receipt for the payments I made last year?", "zh": "你能把我去年所付房租的收据发给我吗？", "scenarioZh": "整理年度住房付款记录"}],
+      "usageNotesZh": ["issue or provide a rent receipt 表示开具或提供房租收据。", "payment confirmation 也能证明某次转账，但不一定包含正式房租收据上的全部信息。"],
+      "tags": ["housing", "renting", "documents"]
+    },
+    {
+      "id": "move-in-date",
+      "term": "move-in date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "入住日期；搬入日期",
+      "explanationZh": "可以正式搬入并开始使用房屋的日期。它可能和签约日或付款日不同，需要在租约和交钥匙安排中确认。",
+      "examples": [{"en": "Can we change the move-in date to the first of November?", "zh": "我们可以把入住日期改到 11 月 1 日吗？", "scenarioZh": "协调现住房退租与新房入住时间"}],
+      "usageNotesZh": ["move-in 作名词前的修饰语时通常带连字符。", "move in 是动词短语，例如 We move in on Friday。"],
+      "tags": ["housing", "renting", "moving"]
+    },
+    {
+      "id": "move-out-date",
+      "term": "move-out date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "搬出日期；退租搬离日期",
+      "explanationZh": "租客需要搬走、清空个人物品并按约定交还房屋的日期。它会影响清洁、检查和钥匙归还安排。",
+      "examples": [{"en": "Please confirm your move-out date so we can schedule the inspection.", "zh": "请确认你的搬出日期，以便我们安排检查。", "scenarioZh": "物业经理安排退租检查"}],
+      "usageNotesZh": ["move-out date 是名词短语；move out 是搬出的动词短语。", "搬出时间点、钥匙归还和电梯预约最好分别确认。"],
+      "tags": ["housing", "renting", "moving"]
+    },
+    {
+      "id": "month-to-month",
+      "term": "month-to-month",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "按月延续的；逐月租用的",
+      "explanationZh": "描述租赁关系按月继续、每个月为一个周期，而不是重新签一个固定期限。具体终止和通知规则仍要看当地法律及协议。",
+      "examples": [{"en": "The tenancy will continue on a month-to-month basis after the fixed term ends.", "zh": "固定租期结束后，租赁关系将按月继续。", "scenarioZh": "确认一年租期到期后的安排"}],
+      "usageNotesZh": ["常见搭配：month-to-month tenancy、month-to-month basis。", "不要把 month-to-month 理解成可以随时当天搬走；通知要求需另行确认。"],
+      "tags": ["housing", "renting", "lease"]
+    },
+    {
+      "id": "fixed-term-lease",
+      "term": "fixed-term lease",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "固定期限租约",
+      "explanationZh": "写明明确开始和结束日期的租约，例如一年期租约。到期后的安排和提前结束条件要看协议及适用规定。",
+      "examples": [{"en": "We signed a one-year fixed-term lease.", "zh": "我们签了一份为期一年的固定期限租约。", "scenarioZh": "向朋友说明新住处的租期"}],
+      "usageNotesZh": ["fixed-term 作定语时通常带连字符。", "a one-year lease 也能表达一年期租约，但 fixed-term 更强调期限已明确。"],
+      "tags": ["housing", "renting", "lease"]
+    },
+    {
+      "id": "property-manager",
+      "term": "property manager",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "物业经理；房产管理人员",
+      "explanationZh": "代表业主或管理公司处理租务、维修、楼宇通知和日常运营的人。很多公寓里，租客会直接和 property manager 沟通。",
+      "examples": [{"en": "I emailed the property manager about the broken window latch.", "zh": "我给物业经理发邮件，说明窗户锁扣坏了。", "scenarioZh": "报告出租单位内需要维修的问题"}],
+      "usageNotesZh": ["contact the property manager 表示联系物业经理。", "property manager 不一定是房东本人，其权限和负责范围由管理安排决定。"],
+      "tags": ["housing", "renting", "building-management"]
+    },
+    {
+      "id": "notice-to-enter",
+      "term": "notice to enter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "入屋通知；进入出租单位的通知",
+      "explanationZh": "房东或物业在计划进入租住单位前发出的通知，通常会说明日期、时间和原因。通知要求及例外情况由当地规定决定。",
+      "examples": [{"en": "We received a notice to enter for the annual smoke alarm inspection.", "zh": "我们收到了一份入屋通知，说明要进行年度烟雾报警器检查。", "scenarioZh": "查看物业发来的进屋检查安排"}],
+      "usageNotesZh": ["give or receive notice to enter 表示发出或收到入屋通知。", "紧急情况和预约维修可能有不同规则，不能只凭这个短语判断是否合法。"],
+      "tags": ["housing", "renting", "notices"]
+    },
+    {
+      "id": "pest-control",
+      "term": "pest control",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "虫害防治；害虫处理",
+      "explanationZh": "处理蟑螂、臭虫、老鼠等害虫问题的服务或措施。公寓楼可能会统一安排检查和处理。",
+      "examples": [{"en": "Pest control will inspect our unit on Thursday afternoon.", "zh": "虫害防治人员周四下午会检查我们的住房单元。", "scenarioZh": "按照楼宇通知准备让技术人员入屋"}],
+      "usageNotesZh": ["pest control treatment 表示虫害处理；pest control company 表示虫害防治公司。", "发现害虫时常说 report a pest problem，不要只在自己房间随意混用药剂。"],
+      "tags": ["housing", "maintenance", "pests"]
+    },
+    {
+      "id": "carbon-monoxide-detector",
+      "term": "carbon monoxide detector",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一氧化碳报警器",
+      "explanationZh": "检测一氧化碳并在危险时发出警报的安全设备，常缩写为 CO detector。它和烟雾报警器检测的风险不同。",
+      "examples": [{"en": "The carbon monoxide detector started beeping, so we called building management.", "zh": "一氧化碳报警器开始鸣响，所以我们联系了楼宇管理方。", "scenarioZh": "家中安全设备发出异常警报"}],
+      "usageNotesZh": ["常见简称：CO detector、carbon monoxide alarm。", "报警器鸣响时应遵循设备说明和当地紧急指引，不要仅靠开窗后继续留在危险环境中。"],
+      "tags": ["housing", "safety", "maintenance"]
+    },
+    {
+      "id": "leak",
+      "term": "leak",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "漏水；泄漏；渗漏",
+      "explanationZh": "水、气体等从不该出来的地方漏出。住房里常见的是水龙头、管道、天花板或窗边渗漏。",
+      "examples": [{"en": "There is a small leak under the kitchen sink.", "zh": "厨房水槽下面有一点漏水。", "scenarioZh": "向物业说明漏水的具体位置"}, {"en": "The pipe is leaking near the valve.", "zh": "这根管子在阀门附近漏水。", "scenarioZh": "给维修人员描述正在发生的问题"}],
+      "usageNotesZh": ["a water leak 是漏水；a gas leak 是燃气泄漏。", "leak 可作名词或动词；发现持续或严重泄漏时应尽快按楼宇或紧急流程报告。"],
+      "tags": ["housing", "maintenance", "repairs"]
+    },
+    {
+      "id": "garbage-chute",
+      "term": "garbage chute",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "垃圾投放井；楼内垃圾滑道",
+      "explanationZh": "高层公寓各楼层常见的垃圾投放口，垃圾会沿封闭通道落到集中收集区域。可投放物品通常有限制。",
+      "examples": [{"en": "The garbage chute is closed for cleaning this morning.", "zh": "垃圾投放井今天上午因清洁暂时关闭。", "scenarioZh": "查看楼层垃圾房门上的通知"}],
+      "usageNotesZh": ["put garbage down the chute 表示把垃圾投入滑道。", "大件物品、纸箱、回收物或危险品通常要按楼宇指示另行处理。"],
+      "tags": ["housing", "condo-living", "waste"]
+    },
+    {
+      "id": "elevator-booking",
+      "term": "elevator booking",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电梯预约；搬家电梯预订",
+      "explanationZh": "公寓住户搬家或运送大件物品时，为专用时段或服务电梯做的预约。通常需要提前向物业申请。",
+      "examples": [{"en": "I made an elevator booking for my move-in on Friday.", "zh": "我为周五搬入预约了电梯。", "scenarioZh": "向物业确认搬家当天的电梯安排"}],
+      "usageNotesZh": ["book the elevator 是更直接的动词说法。", "预约时常要确认时间段、押金、保护垫和装卸入口。"],
+      "tags": ["housing", "condo-living", "moving"]
+    },
+    {
+      "id": "parking-spot",
+      "term": "parking spot",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停车位",
+      "explanationZh": "供一辆车停放的具体位置。租房时需要确认车位是否包含、号码在哪里，以及有没有额外月费。",
+      "examples": [{"en": "Does the apartment come with an indoor parking spot?", "zh": "这套公寓带室内停车位吗？", "scenarioZh": "看房时确认停车条件"}],
+      "usageNotesZh": ["parking space 和 parking spot 都表示停车位；spot 更口语。", "a designated parking spot 表示指定车位；visitor parking 是访客停车区域。"],
+      "tags": ["housing", "parking", "renting"]
+    },
+    {
+      "id": "utility-account",
+      "term": "utility account",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公用事业账户；水电燃气账户",
+      "explanationZh": "向电力、燃气或供水服务商开设的客户账户，用来接收账单和付款。搬家时可能需要新开、转移或关闭账户。",
+      "examples": [{"en": "I need to set up the utility account before the move-in date.", "zh": "我需要在入住日期前开通公用事业账户。", "scenarioZh": "准备把新住所的电力服务登记到自己名下"}],
+      "usageNotesZh": ["set up、transfer 和 close a utility account 分别表示开通、转移和关闭账户。", "utilities 包含哪些项目因房屋和地区而异，应分别确认。"],
+      "tags": ["housing", "utilities", "moving"]
+    },
+    {
+      "id": "hydro-bill",
+      "term": "hydro bill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "（加拿大常用）电费账单",
+      "explanationZh": "加拿大不少地区把电力和电费称为 hydro，因此 hydro bill 通常就是电费账单，不是单指水费。",
+      "examples": [{"en": "My hydro bill was higher this month because we used the air conditioner more often.", "zh": "这个月因为我们更常开空调，电费账单更高了。", "scenarioZh": "和室友核对夏季住房开销"}],
+      "usageNotesZh": ["pay or check the hydro bill 表示支付或查看电费账单。", "hydro 在加拿大有明显地区用法；有些地方更常说 electricity bill。"],
+      "tags": ["housing", "utilities", "canada"]
+    }
+  ]
+}
