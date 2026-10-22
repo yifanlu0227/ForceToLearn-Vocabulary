@@ -33,6 +33,7 @@ backsplash
 bag of milk
 bagging area
 bail on
+bakery section
 baking sheet
 balance
 ballpark
@@ -40,6 +41,7 @@ Band-Aid
 banister
 bank draft
 bank statement
+barcode
 base layer
 baseboard
 baste
@@ -94,6 +96,7 @@ buzz in
 buzzed
 buzzer
 by the pound
+by weight
 bylaw
 BYOB
 cage-free
@@ -107,6 +110,7 @@ carsick
 cart corral
 carton
 cash back
+cashier
 cast
 casters
 catch a break
@@ -115,6 +119,7 @@ caulk
 ceiling fan
 checkout
 checkout divider
+checkout lane
 chequing account
 childproof cap
 chip in
@@ -183,6 +188,7 @@ cut someone off
 cut to the chase
 cutting board
 dairy section
+dairy-free
 damaged
 day-old
 dead battery
@@ -197,7 +203,9 @@ defroster
 deglaze
 dehumidifier
 deli
+deli counter
 deliverable
+delivery fee
 deodorant
 departure board
 deposit
@@ -255,6 +263,7 @@ exchange
 exhibit
 expedite
 experiment
+expiry date
 express bus
 express lane
 extension
@@ -335,6 +344,8 @@ greasy spoon
 green bin
 green onion
 gridlock
+grocery pickup
+grocery store
 ground beef
 grout
 guarantor
@@ -381,6 +392,7 @@ in season
 in stock
 in the same boat
 in-network
+ingredient list
 inhaler
 institution number
 insulated
@@ -442,6 +454,7 @@ marked down
 mash
 matinee
 mattress topper
+may contain
 measuring cup
 meat counter
 median
@@ -483,6 +496,8 @@ notice to enter
 numb
 nurse a drink
 nurse practitioner
+nut-free
+Nutrition Facts table
 oat milk
 off the top of my head
 off-peak
@@ -490,6 +505,7 @@ off-ramp
 office hours
 oil change
 ointment
+on sale
 on the ball
 on the fence
 on the house
@@ -576,6 +592,7 @@ priority seating
 prix fixe
 probation period
 produce
+produce section
 proof of address
 proof of income
 proof of payment
@@ -588,6 +605,7 @@ pull over
 pumped
 put your name down
 putty knife
+quantity limit
 queasy
 radiator
 rain check
@@ -609,6 +627,7 @@ register
 registrar
 registration fee
 regular
+regular price
 reheat
 reimburse
 reimbursement
@@ -651,6 +670,7 @@ salt
 saucepan
 sauté
 savings account
+scale
 scarf
 scenic route
 scholarship
@@ -677,6 +697,7 @@ shallot
 shampoo
 shaving cream
 shoot someone a text
+shopping cart
 short-staffed
 shotgun
 shoulder
@@ -758,6 +779,7 @@ stuffy nose
 sub
 sublet
 submit
+substitution
 subtitles
 subway platform
 sump pump
@@ -843,6 +865,8 @@ utility account
 utility knife
 vacation request
 valance
+vegan
+vegetarian
 vent
 venue
 visitor parking
@@ -860,6 +884,7 @@ water heater
 watered down
 waterproof
 weatherstripping
+weigh
 well done
 wet wipes
 whip
