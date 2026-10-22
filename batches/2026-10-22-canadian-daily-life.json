@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-22-canadian-daily-life",
+  "title": "加拿大日常生活：超市购物与食品标签",
+  "publishedOn": "2026-10-22",
+  "entries": [
+    {
+      "id": "grocery-store",
+      "term": "grocery store",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食品杂货店；超市",
+      "explanationZh": "主要购买蔬果、肉奶、包装食品和日用品的商店。在加拿大日常口语里，去超市买菜常说 go to the grocery store。",
+      "examples": [{"en": "I stopped at the grocery store on my way home to buy milk and vegetables.", "zh": "我回家路上去了一趟超市，买了牛奶和蔬菜。", "scenarioZh": "下班后顺路购买晚餐食材"}],
+      "usageNotesZh": ["go grocery shopping 表示去采购食品杂货。", "groceries 通常指买回来的食品杂货，常用复数。"],
+      "tags": ["shopping", "groceries", "daily-life"]
+    },
+    {
+      "id": "shopping-cart",
+      "term": "shopping cart",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "购物车；手推购物车",
+      "explanationZh": "超市里用来装商品并推着走的带轮购物车。大型商店停车场通常设有集中归还购物车的位置。",
+      "examples": [{"en": "Could you grab a shopping cart while I get the reusable bags?", "zh": "我去拿环保购物袋时，你能取一辆购物车吗？", "scenarioZh": "两个人刚到超市入口准备采购"}],
+      "usageNotesZh": ["push a shopping cart 表示推购物车；return the cart 表示归还购物车。", "加拿大也能听到 cart；英国英语更常说 trolley。"],
+      "tags": ["shopping", "groceries", "store-equipment"]
+    },
+    {
+      "id": "produce-section",
+      "term": "produce section",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "果蔬区；生鲜蔬果区",
+      "explanationZh": "超市里摆放新鲜水果和蔬菜的区域，很多散装果蔬会按件或按重量计价。",
+      "examples": [{"en": "The fresh herbs are beside the mushrooms in the produce section.", "zh": "新鲜香草在果蔬区蘑菇旁边。", "scenarioZh": "向店员询问香草所在位置"}],
+      "usageNotesZh": ["produce 在这里是不可数名词，指新鲜蔬果。", "fresh produce 表示新鲜农产品，通常以蔬果为主。"],
+      "tags": ["shopping", "groceries", "produce"]
+    },
+    {
+      "id": "deli-counter",
+      "term": "deli counter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "熟食柜台；冷切肉和奶酪柜台",
+      "explanationZh": "超市里由店员按要求切取熟食肉、奶酪或准备食品的柜台，通常可以指定品种、重量和切片厚度。",
+      "examples": [{"en": "I'd like two hundred grams of turkey from the deli counter.", "zh": "我想在熟食柜台买两百克火鸡肉片。", "scenarioZh": "向熟食柜台店员说明购买数量"}],
+      "usageNotesZh": ["at the deli counter 表示在熟食柜台。", "deli meat 指熟食肉片；thinly sliced 表示切薄片。"],
+      "tags": ["shopping", "groceries", "deli"]
+    },
+    {
+      "id": "bakery-section",
+      "term": "bakery section",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "烘焙区；面包糕点区",
+      "explanationZh": "超市里销售面包、贝果、蛋糕和其他烘焙食品的区域，有些商品由店内当天制作。",
+      "examples": [{"en": "The bakery section has fresh bread near the back of the store.", "zh": "商店后部的烘焙区有新鲜面包。", "scenarioZh": "店员为顾客指路去买面包"}],
+      "usageNotesZh": ["in-store bakery 表示店内烘焙部。", "bakery 既可以指独立面包店，也可以指超市里的烘焙部门。"],
+      "tags": ["shopping", "groceries", "bakery"]
+    },
+    {
+      "id": "cashier",
+      "term": "cashier",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收银员",
+      "explanationZh": "在收银台扫描商品、处理付款并提供收据的工作人员。需要价格核查或取消误扫商品时可以请 cashier 帮忙。",
+      "examples": [{"en": "The cashier asked whether I wanted a paper receipt.", "zh": "收银员问我要不要纸质收据。", "scenarioZh": "在人工收银台完成付款"}],
+      "usageNotesZh": ["cashier 是人；checkout 是结账区域或结账过程。", "cashier 也可以作动词，表示担任收银工作，但日常最常作名词。"],
+      "tags": ["shopping", "checkout", "store-staff"]
+    },
+    {
+      "id": "checkout-lane",
+      "term": "checkout lane",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收银通道；结账通道",
+      "explanationZh": "顾客排队、把商品放上传送带并付款的一条收银通道。商店繁忙时会开放更多通道。",
+      "examples": [{"en": "This checkout lane is open, but the one beside it is closed.", "zh": "这条收银通道开放着，但旁边那条关闭了。", "scenarioZh": "寻找可以排队结账的收银台"}],
+      "usageNotesZh": ["open a checkout lane 表示开放一条收银通道。", "express lane 通常限制商品件数；self-checkout 则由顾客自行扫描。"],
+      "tags": ["shopping", "checkout", "store-layout"]
+    },
+    {
+      "id": "barcode",
+      "term": "barcode",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "条形码；商品条码",
+      "explanationZh": "印在商品包装上供收银设备读取的编码。自助结账时需要把 barcode 对准扫描器。",
+      "examples": [{"en": "The barcode would not scan, so an employee entered the item number manually.", "zh": "条形码扫不出来，所以员工手动输入了商品编号。", "scenarioZh": "自助结账时处理无法扫描的商品"}],
+      "usageNotesZh": ["scan a barcode 表示扫描条形码。", "barcode 常写作一个词；QR code 是二维码，不是同一种编码外观。"],
+      "tags": ["shopping", "checkout", "product-labels"]
+    },
+    {
+      "id": "by-weight",
+      "term": "by weight",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "按重量计价；按重量出售",
+      "explanationZh": "商品价格根据实际重量计算，而不是每件固定价格。散装食品、蔬果、肉类和熟食常这样销售。",
+      "examples": [{"en": "These apples are sold by weight, not by the bag.", "zh": "这些苹果按重量出售，不是按袋计价。", "scenarioZh": "比较散装苹果和袋装苹果的计价方式"}],
+      "usageNotesZh": ["sold by weight 表示按重量出售。", "价签可能标每千克价格，同时在较小文字中列出每磅参考价格。"],
+      "tags": ["shopping", "pricing", "groceries"]
+    },
+    {
+      "id": "weigh",
+      "term": "weigh",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "称重；重量为",
+      "explanationZh": "把商品放在秤上测重量，或说明某件东西有多重。买散装商品和寄包裹时都很常用。",
+      "examples": [{"en": "Please weigh the produce before you print the label.", "zh": "打印标签前，请先给这些果蔬称重。", "scenarioZh": "使用超市果蔬区的自助称重设备"}, {"en": "This bag of potatoes weighs five kilograms.", "zh": "这袋土豆重五千克。", "scenarioZh": "核对包装上的净重量"}],
+      "usageNotesZh": ["weigh something 表示给某物称重；weigh five kilograms 表示重五千克。", "weight 是名词；发音和拼写都不要与 way 混淆。"],
+      "tags": ["shopping", "pricing", "measurement"]
+    },
+    {
+      "id": "weighing-scale",
+      "term": "scale",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "秤；称重设备",
+      "explanationZh": "用来测量商品重量的设备。超市果蔬区、散装食品区和熟食柜台都可能使用 scale。",
+      "examples": [{"en": "Put the bag on the scale and select the product code.", "zh": "把袋子放到秤上，然后选择商品代码。", "scenarioZh": "按屏幕提示为散装食品称重"}],
+      "usageNotesZh": ["on the scale 表示放在秤上；kitchen scale 是厨房秤。", "scale 还有规模、比例尺等意思，购物场景中通常根据 weigh 或 weight 判断是秤。"],
+      "tags": ["shopping", "pricing", "store-equipment"]
+    },
+    {
+      "id": "on-sale",
+      "term": "on sale",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "正在打折；促销出售",
+      "explanationZh": "在加拿大商店里通常表示商品当前以低于常规价格促销。折扣是否需要会员卡，要看价签上的条件。",
+      "examples": [{"en": "This coffee is on sale until Thursday.", "zh": "这款咖啡打折到周四。", "scenarioZh": "查看超市促销价的截止日期"}],
+      "usageNotesZh": ["go on sale 表示开始打折；be on sale 表示正在打折。", "on sale 在北美通常指降价，在部分英国语境也可能只表示正在出售。"],
+      "tags": ["shopping", "pricing", "sales"]
+    },
+    {
+      "id": "regular-price",
+      "term": "regular price",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "常规售价；非促销价格",
+      "explanationZh": "商品没有促销时通常收取的价格。价签常把 regular price 和 sale price 并列，方便比较折扣。",
+      "examples": [{"en": "The regular price is six dollars, but the sale price is four dollars.", "zh": "常规售价是六元，促销价是四元。", "scenarioZh": "比较价签上的原价和折后价"}],
+      "usageNotesZh": ["at regular price 表示按常规价格购买。", "regular price 不一定等于厂家建议零售价，仍以商店标价为准。"],
+      "tags": ["shopping", "pricing", "sales"]
+    },
+    {
+      "id": "quantity-limit",
+      "term": "quantity limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "限购数量；购买数量上限",
+      "explanationZh": "商店规定每位顾客、每个账户或每次交易最多能买多少件某种商品，促销品和紧俏商品上常见。",
+      "examples": [{"en": "There is a quantity limit of two packages per customer.", "zh": "每位顾客限购两包。", "scenarioZh": "阅读促销商品旁的限购说明"}],
+      "usageNotesZh": ["a limit of two per customer 表示每位顾客限购两件。", "数量限制可能按交易、账户或家庭计算，要留意标牌的完整条件。"],
+      "tags": ["shopping", "pricing", "store-policy"]
+    },
+    {
+      "id": "grocery-pickup",
+      "term": "grocery pickup",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食品杂货自提；线上买菜到店取货",
+      "explanationZh": "在线下单后，由商店员工配好商品，顾客在指定柜台或停车位领取的服务。",
+      "examples": [{"en": "I scheduled grocery pickup for six o'clock after work.", "zh": "我预约了下班后六点去取食品杂货。", "scenarioZh": "在线完成一周食材采购并选择取货时间"}],
+      "usageNotesZh": ["schedule a pickup 表示预约取货；pickup window 是取货时间段。", "curbside pickup 通常是在店外停车位取货，grocery pickup 也可能在店内柜台。"],
+      "tags": ["shopping", "groceries", "pickup"]
+    },
+    {
+      "id": "grocery-substitution",
+      "term": "substitution",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "替代商品；缺货替换",
+      "explanationZh": "线上买菜时，原选商品缺货后由商店建议或提供的替代品，通常可以提前允许、拒绝或指定偏好。",
+      "examples": [{"en": "I approved the substitution for a different brand of pasta.", "zh": "我同意把意面换成另一个品牌。", "scenarioZh": "处理线上买菜应用发来的缺货替换请求"}],
+      "usageNotesZh": ["allow substitutions 表示允许缺货替换；no substitutions 表示不要替换。", "substitute 是动词或名词；substitution 强调替换行为或替代安排。"],
+      "tags": ["shopping", "groceries", "online-orders"]
+    },
+    {
+      "id": "delivery-fee",
+      "term": "delivery fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "配送费；送货费",
+      "explanationZh": "把网上订单送到指定地址所收取的费用，可能随时间段、订单金额或会员资格而变化。",
+      "examples": [{"en": "The delivery fee is waived for orders over fifty dollars.", "zh": "订单满五十元免配送费。", "scenarioZh": "结账前比较自提和送货的总费用"}],
+      "usageNotesZh": ["charge a delivery fee 表示收取配送费；waive the fee 表示免除费用。", "delivery fee、service fee 和 tip 可能是不同项目，结账时要分别查看。"],
+      "tags": ["shopping", "delivery", "fees"]
+    },
+    {
+      "id": "nutrition-facts-table",
+      "term": "Nutrition Facts table",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "营养成分表",
+      "explanationZh": "包装食品上列出每份或指定数量所含热量、脂肪、钠、糖等营养信息的表格。加拿大包装上常见这个名称。",
+      "examples": [{"en": "Check the Nutrition Facts table to compare the sodium in these two soups.", "zh": "查看营养成分表，比较这两款汤的钠含量。", "scenarioZh": "在超市选择钠含量较低的包装食品"}],
+      "usageNotesZh": ["先看 serving size 或 amount，避免比较不同份量的数据。", "名称在包装上常首字母大写；普通句子里也可写 nutrition facts table。"],
+      "tags": ["shopping", "food-labels", "nutrition"]
+    },
+    {
+      "id": "ingredient-list",
+      "term": "ingredient list",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "配料表；成分列表",
+      "explanationZh": "包装食品上列出所用原料的部分，通常按含量从多到少排列。检查饮食偏好或过敏原时很实用。",
+      "examples": [{"en": "I checked the ingredient list to see whether the sauce contains peanuts.", "zh": "我查看了配料表，确认这款酱料是否含花生。", "scenarioZh": "为有食物过敏的人挑选调味料"}],
+      "usageNotesZh": ["check or read the ingredient list 表示查看或阅读配料表。", "ingredients 是具体原料；Nutrition Facts table 提供的是营养数值，两者作用不同。"],
+      "tags": ["shopping", "food-labels", "ingredients"]
+    },
+    {
+      "id": "may-contain",
+      "term": "may contain",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "可能含有（某种成分或过敏原）",
+      "explanationZh": "食品标签上的提示语，说明产品可能因生产环境或交叉接触而含有某种过敏原，即使它不是主要配料。",
+      "examples": [{"en": "The label says the cookies may contain tree nuts.", "zh": "标签写着这些饼干可能含有树坚果。", "scenarioZh": "购买零食前检查过敏原提示"}],
+      "usageNotesZh": ["常见标签句式：May contain milk, peanuts, or tree nuts。", "对严重过敏者来说，may contain 不是可以忽略的小概率说明，应按个人医疗建议处理。"],
+      "tags": ["shopping", "food-labels", "allergens"]
+    },
+    {
+      "id": "dairy-free",
+      "term": "dairy-free",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "不含乳制品的",
+      "explanationZh": "表示食品不含牛奶、奶油、奶酪等乳制品。它不等同于 lactose-free，后者可能仍含乳制品，只是减少或去除了乳糖。",
+      "examples": [{"en": "Do you have a dairy-free alternative to this yogurt?", "zh": "这款酸奶有不含乳制品的替代品吗？", "scenarioZh": "为不吃乳制品的人寻找替代食品"}],
+      "usageNotesZh": ["dairy-free milk alternatives 表示非乳制奶替代品。", "有过敏需求时仍应核对配料表和过敏原声明，不能只看包装正面的宣传词。"],
+      "tags": ["shopping", "food-labels", "dietary-needs"]
+    },
+    {
+      "id": "nut-free",
+      "term": "nut-free",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "不含坚果的；无坚果的",
+      "explanationZh": "表示食品或环境按其声明不含特定坚果。学校午餐和儿童活动通知中常见，但具体涵盖花生还是树坚果要看说明。",
+      "examples": [{"en": "The school asks families to pack nut-free snacks.", "zh": "学校要求家长准备不含坚果的零食。", "scenarioZh": "按照学校的过敏安全要求准备点心"}],
+      "usageNotesZh": ["nut-free snack 表示无坚果零食；nut-free facility 表示声明不处理坚果的生产场所。", "peanuts 属于豆科，标签有时会把 peanuts 和 tree nuts 分开列出。"],
+      "tags": ["shopping", "food-labels", "allergens"]
+    },
+    {
+      "id": "vegan",
+      "term": "vegan",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "纯素食者；纯素的",
+      "explanationZh": "作形容词时表示不含肉、鱼、蛋、乳制品等动物来源食材；作名词时指遵循纯素饮食或生活方式的人。",
+      "examples": [{"en": "This frozen meal is vegan, but it may contain traces of nuts.", "zh": "这份冷冻餐是纯素的，但可能含有微量坚果。", "scenarioZh": "同时核对饮食偏好和过敏原标签"}],
+      "usageNotesZh": ["vegan option 表示纯素选项；a vegan 表示纯素食者。", "vegan 不自动等于无麸质或无过敏原，需要分别查看标签。"],
+      "tags": ["shopping", "food-labels", "dietary-needs"]
+    },
+    {
+      "id": "vegetarian",
+      "term": "vegetarian",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "素食者；素食的",
+      "explanationZh": "作形容词时通常表示不含肉和鱼，但可能包含蛋或乳制品；作名词时指吃素的人。具体饮食范围因个人而异。",
+      "examples": [{"en": "Is this soup vegetarian, or is it made with chicken broth?", "zh": "这款汤是素食的吗，还是用了鸡汤底？", "scenarioZh": "购买现成汤品前确认是否含肉类原料"}],
+      "usageNotesZh": ["vegetarian meal 表示素食餐；a vegetarian 表示素食者。", "vegetarian 和 vegan 不同，前者可能接受蛋和乳制品。"],
+      "tags": ["shopping", "food-labels", "dietary-needs"]
+    },
+    {
+      "id": "expiry-date",
+      "term": "expiry date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "有效期截止日期；失效日期",
+      "explanationZh": "表示产品在某日期后不应再按原用途使用或其效力不再得到保证的日期。它与食品上的 best before date 含义并不完全相同。",
+      "examples": [{"en": "Please check the expiry date on the infant formula before buying it.", "zh": "购买婴儿配方奶粉前，请查看有效期截止日期。", "scenarioZh": "为婴儿挑选有明确期限要求的食品"}],
+      "usageNotesZh": ["check the expiry date 表示查看有效期截止日期。", "在加拿大，许多普通食品标的是 best before date，不能一律把它理解成 expiry date。"],
+      "tags": ["shopping", "food-labels", "dates"]
+    }
+  ]
+}
