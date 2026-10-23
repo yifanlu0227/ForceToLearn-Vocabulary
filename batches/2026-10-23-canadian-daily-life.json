@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-23-canadian-daily-life",
+  "title": "加拿大日常生活：公共交通票务与换乘",
+  "publishedOn": "2026-10-23",
+  "entries": [
+    {
+      "id": "single-fare",
+      "term": "single fare",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "单程票价；单次乘车费用",
+      "explanationZh": "乘坐一次公共交通需要支付的基本费用，是否包含规定时间内换乘要看当地交通系统的规则。",
+      "examples": [{"en": "How much is a single fare if I pay with cash?", "zh": "如果我付现金，单次乘车费用是多少？", "scenarioZh": "第一次在当地乘公交时询问票价"}],
+      "usageNotesZh": ["single fare 强调一次乘车的票价；one-way ticket 更常用于有明确起点和终点的单程票。", "现金、交通卡和非接触式银行卡的票价可能不同。"],
+      "tags": ["transit", "fares", "payments"]
+    },
+    {
+      "id": "transfer-window",
+      "term": "transfer window",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可免费或连续换乘的有效时间段",
+      "explanationZh": "第一次付费后，可以在规定时间内继续换乘其他公交线路而不重新支付完整票价的时间范围。",
+      "examples": [{"en": "The transfer window starts when you first tap your card.", "zh": "换乘有效时间从你第一次刷卡时开始计算。", "scenarioZh": "了解公交卡换乘时间如何计算"}],
+      "usageNotesZh": ["within the transfer window 表示在换乘有效时间内。", "时间长度和可用线路因交通系统而异，应查看当地官方规则。"],
+      "tags": ["transit", "fares", "transfers"]
+    },
+    {
+      "id": "fare-card",
+      "term": "fare card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交通卡；公交储值卡",
+      "explanationZh": "用来支付公交、地铁或通勤铁路车费的实体卡或电子凭证，可以储值或加载通票。",
+      "examples": [{"en": "You can buy a fare card from the machine near the station entrance.", "zh": "你可以在车站入口附近的机器上购买交通卡。", "scenarioZh": "向新乘客说明在哪里买交通卡"}],
+      "usageNotesZh": ["load money onto a fare card 表示给交通卡充值。", "不同城市的交通卡名称不同，fare card 是通用说法。"],
+      "tags": ["transit", "fares", "cards"]
+    },
+    {
+      "id": "reload",
+      "term": "reload",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "给交通卡重新充值；补充余额",
+      "explanationZh": "在余额不足前，把新的金额加到交通卡或其他储值账户里。可以在机器、柜台或线上完成。",
+      "examples": [{"en": "I need to reload my fare card before the morning commute.", "zh": "我需要在早高峰通勤前给交通卡充值。", "scenarioZh": "发现交通卡余额即将用完"}],
+      "usageNotesZh": ["reload a card 和 add funds to a card 都表示给卡充值。", "reload 也可用于重新装载程序或物品，交通场景要结合 card 或 balance 判断。"],
+      "tags": ["transit", "fares", "payments"]
+    },
+    {
+      "id": "auto-load",
+      "term": "auto-load",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动充值",
+      "explanationZh": "交通卡余额低于设定金额时，系统自动从已绑定的付款方式充值，避免乘车时余额不足。",
+      "examples": [{"en": "I turned on auto-load so my fare card will not run out of funds.", "zh": "我开启了自动充值，这样交通卡就不会没余额。", "scenarioZh": "在交通卡账户中设置自动充值"}],
+      "usageNotesZh": ["set up or enable auto-load 表示设置或开启自动充值。", "也常写作 autoload 或 automatic reload，具体名称依交通系统而定。"],
+      "tags": ["transit", "fares", "payments"]
+    },
+    {
+      "id": "fare-card-balance",
+      "term": "card balance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "卡内余额；交通卡余额",
+      "explanationZh": "储值卡当前还可以使用的金额。搭乘交通工具前可以在应用、网站或读卡设备上查询。",
+      "examples": [{"en": "I checked my card balance before entering the station.", "zh": "进站前我查看了交通卡余额。", "scenarioZh": "乘地铁前确认卡里还有足够车费"}],
+      "usageNotesZh": ["check the balance 表示查余额；low balance 表示余额不足或偏低。", "在其他场景中 card balance 也可能指礼品卡或预付卡余额。"],
+      "tags": ["transit", "fares", "cards"]
+    },
+    {
+      "id": "monthly-pass",
+      "term": "monthly pass",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "月票",
+      "explanationZh": "在指定月份或连续一个月内按规则不限次数乘坐适用公共交通的通票，适合乘车频繁的人。",
+      "examples": [{"en": "A monthly pass may cost less if you commute every weekday.", "zh": "如果你每个工作日都通勤，买月票可能更便宜。", "scenarioZh": "比较储值付费和购买月票的成本"}],
+      "usageNotesZh": ["buy or load a monthly pass 表示购买或加载月票。", "通票的适用区域、起止日期和是否自动续期需要分别确认。"],
+      "tags": ["transit", "fares", "passes"]
+    },
+    {
+      "id": "day-pass",
+      "term": "day pass",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一日通票；日票",
+      "explanationZh": "在一天或规定的连续时段内按规则多次乘车的通票，游客或一天内需要多次换乘时常会考虑。",
+      "examples": [{"en": "Would a day pass be cheaper than paying for each trip separately?", "zh": "买一日通票会不会比每程分别付费更便宜？", "scenarioZh": "规划一天内多次乘坐公共交通"}],
+      "usageNotesZh": ["an unlimited day pass 表示当天不限次数的通票。", "有些日票按自然日有效，有些从首次使用起计时，应查看具体条件。"],
+      "tags": ["transit", "fares", "passes"]
+    },
+    {
+      "id": "fare-zone",
+      "term": "fare zone",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "计费区域；票价分区",
+      "explanationZh": "交通系统为了按距离或地区定价而划分的区域，跨越的分区不同可能影响车费。",
+      "examples": [{"en": "This ticket is valid for travel within one fare zone.", "zh": "这张票适用于一个计费区域内的行程。", "scenarioZh": "核对通勤铁路车票的适用范围"}],
+      "usageNotesZh": ["cross a fare zone boundary 表示跨越票价分区边界。", "不是所有城市交通都使用分区计费，出发前应查看当地票价体系。"],
+      "tags": ["transit", "fares", "zones"]
+    },
+    {
+      "id": "student-fare",
+      "term": "student fare",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学生票价",
+      "explanationZh": "符合指定学生身份和年龄等条件的人可以使用的交通票价，通常需要提前注册或携带有效证明。",
+      "examples": [{"en": "What documents do I need to qualify for the student fare?", "zh": "要符合学生票价资格，我需要提供哪些文件？", "scenarioZh": "学生咨询公共交通优惠资格"}],
+      "usageNotesZh": ["qualify for a student fare 表示符合学生票价资格。", "全日制身份、年龄和学校范围等条件可能不同，不能只凭普通学生证推定有效。"],
+      "tags": ["transit", "fares", "students"]
+    },
+    {
+      "id": "reduced-fare",
+      "term": "reduced fare",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "优惠票价；减免票价",
+      "explanationZh": "向符合条件的儿童、青少年、学生、老年人或其他乘客提供的低于成人常规票价的费用。",
+      "examples": [{"en": "You must register your card before using the reduced fare.", "zh": "使用优惠票价前，你必须先登记交通卡。", "scenarioZh": "办理特定乘客类别的交通优惠"}],
+      "usageNotesZh": ["be eligible for a reduced fare 表示有资格享受优惠票价。", "eligible groups 和所需证明由当地交通机构规定。"],
+      "tags": ["transit", "fares", "discounts"]
+    },
+    {
+      "id": "exact-change",
+      "term": "exact change",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "正好金额的零钱；不找零的准确车费",
+      "explanationZh": "用现金乘车时准备与票价完全相同的金额，因为公交车上的投币设备通常不提供找零。",
+      "examples": [{"en": "Please have exact change ready when you board the bus.", "zh": "上公交车时请准备好正好的零钱。", "scenarioZh": "公交站牌提醒乘客现金付款不找零"}],
+      "usageNotesZh": ["pay with exact change 表示用正好的零钱付款。", "change 在这里指零钱或找零，不是改变。"],
+      "tags": ["transit", "fares", "cash"]
+    },
+    {
+      "id": "ticket-machine",
+      "term": "ticket machine",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动售票机",
+      "explanationZh": "车站里用来购买车票、充值交通卡或查询产品的自助机器，通常接受银行卡，有些也接受现金。",
+      "examples": [{"en": "The ticket machine on this platform is out of service.", "zh": "这个站台上的自动售票机停止服务了。", "scenarioZh": "准备买票时发现机器无法使用"}],
+      "usageNotesZh": ["buy a ticket from the machine 表示从售票机买票。", "out of service 表示设备暂时不能使用。"],
+      "tags": ["transit", "tickets", "station-equipment"]
+    },
+    {
+      "id": "card-reader",
+      "term": "card reader",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "读卡器；刷卡感应器",
+      "explanationZh": "读取交通卡或非接触式付款卡的设备。乘客需要按系统规则在进站、上车或下车时感应。",
+      "examples": [{"en": "Hold your fare card against the card reader until you hear a beep.", "zh": "把交通卡贴在读卡器上，直到听见提示音。", "scenarioZh": "首次使用交通卡乘车"}],
+      "usageNotesZh": ["tap the card on the reader 表示把卡贴近读卡器感应。", "绿灯、提示音或屏幕信息通常表示是否成功，但具体反馈因设备而异。"],
+      "tags": ["transit", "fares", "station-equipment"]
+    },
+    {
+      "id": "route-number",
+      "term": "route number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "线路编号；公交路线号",
+      "explanationZh": "用于识别公交、街车或其他公共交通线路的号码，同一个站点可能有多条不同编号的线路。",
+      "examples": [{"en": "Check the route number before you get on the bus.", "zh": "上公交车前先核对线路编号。", "scenarioZh": "在多条线路共用的站点等车"}],
+      "usageNotesZh": ["bus route number 表示公交线路编号。", "同一路线可能有字母后缀或不同终点，应同时查看车头目的地显示。"],
+      "tags": ["transit", "routes", "navigation"]
+    },
+    {
+      "id": "transit-delay",
+      "term": "delay",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "延误；使延迟",
+      "explanationZh": "车辆或服务比计划时间晚，可能由交通、天气、设备故障或乘客事件造成。",
+      "examples": [{"en": "There is a fifteen-minute delay because of a signal problem.", "zh": "由于信号故障，目前有十五分钟的延误。", "scenarioZh": "车站广播说明列车晚点原因"}, {"en": "Heavy traffic delayed the bus.", "zh": "拥堵的交通使公交车晚点了。", "scenarioZh": "查看公交实时到站信息"}],
+      "usageNotesZh": ["a delay of ten minutes 表示十分钟的延误；be delayed 表示被耽搁或晚点。", "delay 不一定表示整条线路停运。"],
+      "tags": ["transit", "service-status", "timing"]
+    },
+    {
+      "id": "service-suspended",
+      "term": "service suspended",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "服务暂停；线路暂时停运",
+      "explanationZh": "交通公告中的常见状态，表示某段线路或某种服务暂时停止运行，需要等待恢复或改走替代路线。",
+      "examples": [{"en": "Subway service is suspended between the two stations.", "zh": "这两个车站之间的地铁服务暂停。", "scenarioZh": "查看手机上的突发停运通知"}],
+      "usageNotesZh": ["service is suspended between A and B 表示 A 到 B 之间暂停服务。", "暂停不等于永久取消；公告通常会说明替代交通或恢复进度。"],
+      "tags": ["transit", "service-status", "disruptions"]
+    },
+    {
+      "id": "replacement-bus",
+      "term": "replacement bus",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "替代巴士；临时代替停运线路的公交车",
+      "explanationZh": "地铁、火车或街车某段停运时临时安排接驳乘客的巴士，停靠位置可能在车站外。",
+      "examples": [{"en": "Replacement buses are running between Union and the next station.", "zh": "联合车站与下一站之间正在运行替代巴士。", "scenarioZh": "轨道交通部分停运后寻找替代交通"}],
+      "usageNotesZh": ["replacement bus service 表示替代巴士服务。", "也常见 shuttle bus，但 shuttle 的用途更广，不一定因为线路停运。"],
+      "tags": ["transit", "service-status", "buses"]
+    },
+    {
+      "id": "last-train",
+      "term": "last train",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "末班列车；当天最后一班车",
+      "explanationZh": "某条铁路或地铁线路当天停止运营前的最后一班列车，周末和节假日时间可能不同。",
+      "examples": [{"en": "What time is the last train downtown tonight?", "zh": "今晚开往市中心的末班列车是几点？", "scenarioZh": "晚间活动结束前规划回家路线"}],
+      "usageNotesZh": ["catch the last train 表示赶上末班车；miss the last train 表示错过末班车。", "应同时核对方向、站点和当天的特殊运营通知。"],
+      "tags": ["transit", "schedules", "trains"]
+    },
+    {
+      "id": "packed",
+      "term": "packed",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "挤满人的；非常拥挤的",
+      "explanationZh": "形容车厢、站台或场所人多到几乎没有空间。早晚高峰的公共交通上很常用。",
+      "examples": [{"en": "The first train was packed, so I waited for the next one.", "zh": "第一班列车挤满了人，所以我等了下一班。", "scenarioZh": "早高峰决定不挤上过度拥挤的列车"}],
+      "usageNotesZh": ["packed with people 表示挤满了人。", "packed 也可表示已经收拾好行李，要根据 train、bus 或 venue 等上下文判断。"],
+      "tags": ["transit", "crowding", "commuting"]
+    },
+    {
+      "id": "line-up",
+      "term": "line up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "排队；列队等候",
+      "explanationZh": "在站台、公交站或售票处按顺序等候。在加拿大英语里 line up 比 queue up 更常见。",
+      "examples": [{"en": "Passengers lined up beside the bus stop sign.", "zh": "乘客们在公交站牌旁排队。", "scenarioZh": "高峰时段等候上公交车"}],
+      "usageNotesZh": ["line up for the bus 表示排队等公交；a lineup 是名词，表示队伍。", "line up behind someone 表示排在某人后面。"],
+      "tags": ["transit", "boarding", "canadian-english"]
+    },
+    {
+      "id": "board-transit",
+      "term": "board",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "登上公交车、列车、飞机或船",
+      "explanationZh": "较正式地表示进入某种公共交通工具。在站内广播、告示和旅行说明中常见。",
+      "examples": [{"en": "Please let passengers exit before you board the train.", "zh": "上车前请先让车内乘客下车。", "scenarioZh": "地铁站提醒乘客有序上下车"}],
+      "usageNotesZh": ["board a bus or train 直接接交通工具，不加 on。", "日常口语也常说 get on the bus；board 更常见于公告和正式说明。"],
+      "tags": ["transit", "boarding", "travel"]
+    },
+    {
+      "id": "transit-terminal",
+      "term": "terminal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交通总站；客运枢纽",
+      "explanationZh": "公交、长途客车、机场班车或列车集中始发、终到和换乘的场所，通常比普通车站规模更大。",
+      "examples": [{"en": "The regional bus leaves from platform twelve at the terminal.", "zh": "这班区域公交从客运总站的 12 号站台发车。", "scenarioZh": "在大型客运枢纽寻找发车位置"}],
+      "usageNotesZh": ["bus terminal 表示公交或长途客运总站；airport terminal 表示机场航站楼。", "terminal 也可作形容词表示末端的，需结合上下文。"],
+      "tags": ["transit", "stations", "navigation"]
+    },
+    {
+      "id": "train-car",
+      "term": "train car",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "列车车厢",
+      "explanationZh": "组成一列火车或地铁的单节车厢。广播可能提醒乘客前往其他车厢或注意车厢位置。",
+      "examples": [{"en": "The front train car is less crowded.", "zh": "列车最前面的车厢没那么拥挤。", "scenarioZh": "和同行者选择较空的地铁车厢"}],
+      "usageNotesZh": ["the first or last car 表示第一节或最后一节车厢。", "car 在铁路语境中可以指车厢，不是汽车。"],
+      "tags": ["transit", "trains", "vehicles"]
+    },
+    {
+      "id": "fare-gate",
+      "term": "fare gate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "检票闸机；收费区闸门",
+      "explanationZh": "地铁或火车站入口处验证车票或付款后放行的闸机，用交通卡或其他票证感应进入。",
+      "examples": [{"en": "My card was charged, but the fare gate did not open.", "zh": "我的卡已经扣费了，但检票闸机没有打开。", "scenarioZh": "进站刷卡后遇到闸机故障"}],
+      "usageNotesZh": ["tap at the fare gate 表示在闸机处刷卡。", "不要跟随前一位乘客挤过闸机；扣费异常时应联系工作人员处理。"],
+      "tags": ["transit", "fares", "station-equipment"]
+    }
+  ]
+}
