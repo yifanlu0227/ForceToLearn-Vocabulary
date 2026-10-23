@@ -26,6 +26,7 @@ appetizer
 area rug
 as needed
 assignment
+auto-load
 available credit
 backorder
 backseat driver
@@ -61,6 +62,7 @@ blinker
 blister
 block heater
 blood work
+board
 board game
 body wash
 boil over
@@ -105,6 +107,8 @@ call it a day
 campus
 caramelize
 carbon monoxide detector
+card balance
+card reader
 carpool lane
 carsick
 cart corral
@@ -190,6 +194,7 @@ cutting board
 dairy section
 dairy-free
 damaged
+day pass
 day-old
 dead battery
 deadbolt
@@ -202,6 +207,7 @@ defective
 defroster
 deglaze
 dehumidifier
+delay
 deli
 deli counter
 deliverable
@@ -259,6 +265,7 @@ EOB
 ER
 escalator
 evidence
+exact change
 exchange
 exhibit
 expedite
@@ -275,7 +282,10 @@ family doctor
 family pack
 family style
 fare
+fare card
+fare gate
 fare inspector
+fare zone
 farebox
 faucet
 fed up
@@ -417,6 +427,7 @@ landlord
 lane swim
 last call
 last month's rent
+last train
 late fee
 laundry detergent
 laundry pods
@@ -434,6 +445,7 @@ library card
 lifeguard
 lifesaver
 lightheaded
+line up
 linen closet
 lineup
 lint roller
@@ -471,6 +483,7 @@ mixing bowl
 mocktail
 money order
 month-to-month
+monthly pass
 mouthwash
 move-in date
 move-in inspection
@@ -527,6 +540,7 @@ over easy
 over-the-counter
 overdraft
 P-trap
+packed
 paid time off
 painter's tape
 pantry staples
@@ -618,6 +632,7 @@ recreation program
 recycling bin
 red tape
 reduce
+reduced fare
 reference
 reference check
 referral
@@ -631,11 +646,13 @@ regular price
 reheat
 reimburse
 reimbursement
+reload
 renew
 rent increase
 rent receipt
 rental application
 rental listing
+replacement bus
 requisition
 reschedule
 research
@@ -660,6 +677,7 @@ roommate
 rotisserie chicken
 round
 roundabout
+route number
 rubberneck
 run late
 run something by someone
@@ -691,6 +709,7 @@ seminar
 send back
 service disruption
 service fee
+service suspended
 settle up
 settlement worker
 shallot
@@ -715,6 +734,7 @@ side effects
 sift
 simmer
 SIN
+single fare
 size down
 size up
 skate rental
@@ -775,6 +795,7 @@ store credit
 streetcar
 stroller
 stud
+student fare
 stuffy nose
 sub
 sublet
@@ -807,6 +828,7 @@ tenancy
 tenant
 tenant insurance
 tenderize
+terminal
 thaw
 the usual
 the works
@@ -815,6 +837,7 @@ thermostat
 thesis
 threshold
 throw blanket
+ticket machine
 tied up
 timesheet
 timetable
@@ -836,9 +859,11 @@ tow truck
 traction
 trailer
 trailhead
+train car
 transaction
 transcript
 transfer
+transfer window
 transit number
 transit pass
 triage
