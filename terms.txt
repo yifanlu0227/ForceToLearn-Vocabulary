@@ -23,6 +23,7 @@ antihistamine
 antiperspirant
 apartment viewing
 appetizer
+apply
 area rug
 as needed
 assignment
@@ -105,6 +106,7 @@ cage-free
 call in sick
 call it a day
 campus
+candidate
 caramelize
 carbon monoxide detector
 card balance
@@ -171,6 +173,7 @@ cough drop
 coupon
 cover a shift
 cover charge
+cover letter
 coworker
 crack an egg
 crash
@@ -257,6 +260,8 @@ eh
 elective
 elevator booking
 elevator outage
+employee badge
+employment contract
 encore
 end cap
 enrol
@@ -319,6 +324,7 @@ for sure
 free sample
 free-range
 freezing rain
+full-time
 funding
 furnace
 furnished
@@ -379,6 +385,7 @@ health card
 heartburn
 high beams
 hinge
+hiring manager
 hit it off
 hit the road
 hit the sack
@@ -388,7 +395,9 @@ hold the
 hole in the wall
 honk
 host
+hourly wage
 house wine
+hybrid work
 hydro
 hydro bill
 ice scraper
@@ -409,8 +418,12 @@ insulated
 intake form
 interest
 intermission
+interview
 it's on me
 jaywalk
+job application
+job offer
+job posting
 journal
 jug
 julienne
@@ -459,6 +472,7 @@ long story short
 loonie
 loyalty card
 lukewarm
+lunch break
 maintenance request
 manuscript
 marinate
@@ -539,6 +553,7 @@ oven mitt
 over easy
 over-the-counter
 overdraft
+overtime
 P-trap
 packed
 paid time off
@@ -555,6 +570,7 @@ parking meter
 parking permit
 parking spot
 parking ticket
+part-time
 party of
 pat dry
 patio
@@ -566,8 +582,10 @@ peephole
 peer review
 pending transaction
 performance review
+permanent position
 personal day
 pest control
+phone screen
 physical
 piece of cake
 pileup
@@ -647,6 +665,7 @@ reheat
 reimburse
 reimbursement
 reload
+remote work
 renew
 rent increase
 rent receipt
@@ -660,6 +679,7 @@ reserve
 rest stop
 restock
 restocking fee
+resume
 return policy
 reusable bag
 revise
@@ -684,6 +704,7 @@ run something by someone
 runners
 runny
 rush hour
+salary
 salt
 saucepan
 sauté
@@ -715,6 +736,7 @@ settlement worker
 shallot
 shampoo
 shaving cream
+shift
 shoot someone a text
 shopping cart
 short-staffed
@@ -778,6 +800,7 @@ stain
 stain remover
 stall
 start a tab
+start date
 statement balance
 station entrance
 steep
@@ -824,6 +847,7 @@ tap on
 tarp
 tea towel
 teaching assistant
+temporary position
 tenancy
 tenant
 tenant insurance
@@ -926,6 +950,7 @@ wipe
 wire transfer
 withdraw
 wok
+work schedule
 workload
 wrap up
 yield
