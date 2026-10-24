@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-24-canadian-daily-life",
+  "title": "加拿大日常生活：求职入职与办公安排",
+  "publishedOn": "2026-10-24",
+  "entries": [
+    {
+      "id": "job-posting",
+      "term": "job posting",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "招聘启事；职位发布",
+      "explanationZh": "雇主在招聘网站或公司页面发布的职位介绍，通常会写职责、资格、工作地点、薪资范围和申请方式。",
+      "examples": [{"en": "The job posting says the position is based in downtown Toronto.", "zh": "招聘启事写着这个职位的工作地点在多伦多市中心。", "scenarioZh": "申请前核对职位地点和工作模式"}],
+      "usageNotesZh": ["read or respond to a job posting 表示阅读或回应招聘启事。", "job posting 指具体发布的招聘信息；job opening 更强调存在职位空缺。"],
+      "tags": ["work", "job-search", "recruiting"]
+    },
+    {
+      "id": "apply-job",
+      "term": "apply",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "申请；提出申请",
+      "explanationZh": "提交资料争取职位、学校名额、服务或资格。求职时通常需要简历，有时还要附求职信。",
+      "examples": [{"en": "I'm planning to apply for the research assistant position.", "zh": "我打算申请这个研究助理职位。", "scenarioZh": "和同学讨论校内工作机会"}],
+      "usageNotesZh": ["apply for a job 表示申请职位；apply to a company 表示向某家公司申请。", "名词是 application，申请人是 applicant。"],
+      "tags": ["work", "job-search", "applications"]
+    },
+    {
+      "id": "job-application",
+      "term": "job application",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "求职申请；职位申请材料",
+      "explanationZh": "为某个职位提交的正式申请，可能包括在线表格、简历、求职信和回答雇主问题。",
+      "examples": [{"en": "I submitted my job application before the deadline.", "zh": "我在截止日期前提交了求职申请。", "scenarioZh": "完成公司招聘网站上的申请流程"}],
+      "usageNotesZh": ["submit or complete a job application 表示提交或完成求职申请。", "application status 是申请状态，例如 submitted、under review 或 closed。"],
+      "tags": ["work", "job-search", "applications"]
+    },
+    {
+      "id": "resume",
+      "term": "resume",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "简历",
+      "explanationZh": "概述教育、工作经历、技能和成果的求职文件。在加拿大求职时通常控制篇幅并针对职位调整内容。",
+      "examples": [{"en": "Please attach your resume as a PDF.", "zh": "请以 PDF 文件形式附上你的简历。", "scenarioZh": "按照招聘页面要求上传申请材料"}],
+      "usageNotesZh": ["也常写作 résumé，但纯英文系统里 resume 很常见。", "update、tailor 和 submit a resume 分别表示更新、针对职位调整和提交简历。"],
+      "tags": ["work", "job-search", "documents"]
+    },
+    {
+      "id": "cover-letter",
+      "term": "cover letter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "求职信；应聘附信",
+      "explanationZh": "随简历提交的简短信件，用来说明申请动机、相关经验以及自己为何适合该职位。",
+      "examples": [{"en": "The application asks for a resume and a one-page cover letter.", "zh": "这份申请要求提交简历和一页求职信。", "scenarioZh": "准备招聘启事要求的全部文件"}],
+      "usageNotesZh": ["write or tailor a cover letter 表示撰写或针对职位修改求职信。", "cover letter 不应只是逐条重复简历，通常要突出与职位最相关的经历。"],
+      "tags": ["work", "job-search", "documents"]
+    },
+    {
+      "id": "job-interview",
+      "term": "interview",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "面试；采访；面谈",
+      "explanationZh": "求职时雇主与候选人交流并评估岗位匹配度的过程，可以在线、电话或现场进行。",
+      "examples": [{"en": "I have an interview with the hiring team on Tuesday.", "zh": "我周二要和招聘团队面试。", "scenarioZh": "安排求职面试时间"}, {"en": "The company interviewed four candidates for the role.", "zh": "公司为这个职位面试了四位候选人。", "scenarioZh": "招聘团队总结候选人筛选进度"}],
+      "usageNotesZh": ["have or attend an interview 表示参加面试；interview for a role 表示面试某个职位。", "interviewer 是面试官，interviewee 是接受面试的人。"],
+      "tags": ["work", "job-search", "interviews"]
+    },
+    {
+      "id": "phone-screen",
+      "term": "phone screen",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电话初筛；招聘电话筛选",
+      "explanationZh": "正式面试前由招聘人员进行的简短电话沟通，用来确认基本经历、求职意向、时间安排和岗位条件。",
+      "examples": [{"en": "The recruiter scheduled a twenty-minute phone screen for Monday.", "zh": "招聘人员安排了周一进行二十分钟的电话初筛。", "scenarioZh": "进入招聘流程的第一轮沟通"}],
+      "usageNotesZh": ["phone screening 也表示电话筛选过程。", "phone screen 通常比正式面试短，但仍应提前准备职位相关问题。"],
+      "tags": ["work", "job-search", "interviews"]
+    },
+    {
+      "id": "hiring-manager",
+      "term": "hiring manager",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "招聘经理；负责招人的用人主管",
+      "explanationZh": "对某个空缺职位的招聘决定负有主要责任的人，通常也是未来团队的经理或与岗位密切合作的主管。",
+      "examples": [{"en": "The hiring manager will join the second interview.", "zh": "招聘经理会参加第二轮面试。", "scenarioZh": "招聘人员介绍下一轮面试安排"}],
+      "usageNotesZh": ["speak with the hiring manager 表示与招聘经理交流。", "hiring manager 和 recruiter 不一定是同一个人；后者更侧重协调招聘流程。"],
+      "tags": ["work", "job-search", "recruiting"]
+    },
+    {
+      "id": "candidate",
+      "term": "candidate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "候选人；应聘者",
+      "explanationZh": "正在被某个职位、奖项或选举考虑的人。招聘语境里常指已进入筛选或面试流程的求职者。",
+      "examples": [{"en": "The team is interviewing three candidates this week.", "zh": "团队这周要面试三位候选人。", "scenarioZh": "招聘团队讨论面试安排"}],
+      "usageNotesZh": ["a strong candidate 表示有竞争力的候选人；successful candidate 表示最终获选者。", "applicant 强调提交了申请的人，candidate 往往强调正在被进一步考虑。"],
+      "tags": ["work", "job-search", "recruiting"]
+    },
+    {
+      "id": "job-offer",
+      "term": "job offer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "工作录用通知；职位邀约",
+      "explanationZh": "雇主表示愿意聘用候选人的正式或初步提议，通常会说明职位、薪资、开始日期和其他条件。",
+      "examples": [{"en": "She received a job offer after the final interview.", "zh": "她在终面后收到了工作录用通知。", "scenarioZh": "候选人得知招聘结果"}],
+      "usageNotesZh": ["receive、accept 或 decline a job offer 分别表示收到、接受或拒绝工作邀约。", "口头 offer 和书面条款可能有差别，重要条件应以正式文件为准。"],
+      "tags": ["work", "job-search", "offers"]
+    },
+    {
+      "id": "employment-start-date",
+      "term": "start date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "开始日期；入职日期",
+      "explanationZh": "新职位正式开始工作的日期，通常需要和现有安排、背景审查以及入职手续协调。",
+      "examples": [{"en": "Could we discuss a start date in early November?", "zh": "我们可以讨论一下 11 月初入职吗？", "scenarioZh": "收到工作邀约后协商入职时间"}],
+      "usageNotesZh": ["proposed start date 表示建议的开始日期；confirm the start date 表示确认入职日期。", "start date 也可用于课程、租约等其他开始时间，要结合上下文。"],
+      "tags": ["work", "onboarding", "scheduling"]
+    },
+    {
+      "id": "employment-contract",
+      "term": "employment contract",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雇佣合同；劳动合同",
+      "explanationZh": "雇主与雇员之间说明职位、报酬、职责及其他雇佣条款的协议。签署前应阅读完整内容。",
+      "examples": [{"en": "I reviewed the employment contract before signing it.", "zh": "我在签字前仔细阅读了雇佣合同。", "scenarioZh": "接受新工作前核对书面条款"}],
+      "usageNotesZh": ["sign an employment contract 表示签署雇佣合同。", "contractor agreement 可能是独立承包安排，不应自动视为普通雇佣关系。"],
+      "tags": ["work", "employment", "documents"]
+    },
+    {
+      "id": "full-time",
+      "term": "full-time",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "全职的；全日制地",
+      "explanationZh": "描述达到雇主规定的常规完整工时的工作或学习安排。具体每周小时数和福利资格由单位及适用规则决定。",
+      "examples": [{"en": "This is a full-time position with a flexible schedule.", "zh": "这是一个时间安排灵活的全职职位。", "scenarioZh": "阅读招聘启事中的工作类型"}],
+      "usageNotesZh": ["a full-time job 作定语时带连字符；work full time 作副词时也常写 full time。", "full-time 不自动保证某项福利，仍应查看雇佣条件。"],
+      "tags": ["work", "employment", "scheduling"]
+    },
+    {
+      "id": "part-time",
+      "term": "part-time",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "兼职的；非全职地",
+      "explanationZh": "描述工时少于单位常规全职安排的工作。排班、每周小时数和福利可能随职位而不同。",
+      "examples": [{"en": "He works part-time during the school year.", "zh": "他在学年期间做兼职。", "scenarioZh": "学生说明自己的工作安排"}],
+      "usageNotesZh": ["a part-time employee 表示兼职员工；work part time 表示做兼职。", "part-time 描述工时，不等同于 temporary；兼职职位也可能是长期的。"],
+      "tags": ["work", "employment", "scheduling"]
+    },
+    {
+      "id": "permanent-position",
+      "term": "permanent position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "长期职位；无预定结束日期的职位",
+      "explanationZh": "没有预先写明固定结束日期的工作岗位，和临时职位或固定期限合同职位相对。",
+      "examples": [{"en": "The temporary role may become a permanent position next year.", "zh": "这个临时岗位明年可能转为长期职位。", "scenarioZh": "面试时讨论岗位后续安排"}],
+      "usageNotesZh": ["a permanent full-time position 表示长期全职职位。", "permanent 不代表永远不会结束，仍受雇佣条款和适用法律约束。"],
+      "tags": ["work", "employment", "job-types"]
+    },
+    {
+      "id": "temporary-position",
+      "term": "temporary position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "临时职位；短期岗位",
+      "explanationZh": "为了特定期限、项目、旺季或替补需要而设置的工作岗位，通常会说明预计结束时间。",
+      "examples": [{"en": "This is a six-month temporary position covering parental leave.", "zh": "这是一个为期六个月、用于顶替育儿假的临时职位。", "scenarioZh": "招聘人员解释岗位期限和设立原因"}],
+      "usageNotesZh": ["temporary employee 表示临时员工；temp job 是更口语的说法。", "temporary 描述期限，不一定表示兼职，也可能是全职工时。"],
+      "tags": ["work", "employment", "job-types"]
+    },
+    {
+      "id": "hourly-wage",
+      "term": "hourly wage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "时薪；每小时工资",
+      "explanationZh": "按实际工作小时计算的工资标准，招聘启事可能写一个固定金额或薪资范围。",
+      "examples": [{"en": "The hourly wage is listed near the top of the job posting.", "zh": "时薪列在招聘启事靠前的位置。", "scenarioZh": "比较两个兼职职位的报酬"}],
+      "usageNotesZh": ["an hourly wage of twenty dollars 表示每小时二十元的工资。", "hourly wage 通常不包含税后到手金额，扣款和额外补偿需另行计算。"],
+      "tags": ["work", "pay", "employment"]
+    },
+    {
+      "id": "salary",
+      "term": "salary",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "薪资；年薪或固定工资",
+      "explanationZh": "通常按年表达并按固定周期发放的工作报酬，例如招聘启事中的 annual salary。",
+      "examples": [{"en": "The salary range is included in the job posting.", "zh": "招聘启事里列出了薪资范围。", "scenarioZh": "申请前查看职位报酬"}],
+      "usageNotesZh": ["annual salary 表示年薪；salary range 表示薪资范围。", "salary 常与按小时计算的 wage 对比，但具体支付方式要看合同。"],
+      "tags": ["work", "pay", "employment"]
+    },
+    {
+      "id": "overtime",
+      "term": "overtime",
+      "partsOfSpeech": ["noun", "adverb"],
+      "definitionZh": "加班；加班时间",
+      "explanationZh": "超过正常或规定工时继续工作的时间。是否需要事先批准、如何补偿以及从何时开始计算，要看政策和适用规则。",
+      "examples": [{"en": "Please get approval before working overtime.", "zh": "加班前请先获得批准。", "scenarioZh": "经理说明团队的加班流程"}],
+      "usageNotesZh": ["work overtime 表示加班；overtime pay 表示加班工资。", "overtime 通常写作一个词，不要和 over time（随着时间）混淆。"],
+      "tags": ["work", "pay", "scheduling"]
+    },
+    {
+      "id": "work-shift",
+      "term": "shift",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "轮班；一个工作班次",
+      "explanationZh": "排班工作中一段连续的上班时间，例如早班、晚班或夜班。餐饮、零售和医疗工作里尤其常见。",
+      "examples": [{"en": "My shift starts at three and ends at eleven.", "zh": "我的班次下午三点开始，晚上十一点结束。", "scenarioZh": "向同事说明当天上班时间"}],
+      "usageNotesZh": ["morning、evening 和 night shift 分别表示早班、晚班和夜班。", "start、finish 或 swap a shift 表示开始、结束或调换班次。"],
+      "tags": ["work", "scheduling", "shifts"]
+    },
+    {
+      "id": "work-schedule",
+      "term": "work schedule",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "工作时间表；排班安排",
+      "explanationZh": "列出员工在哪些日期和时段工作的安排，可能固定不变，也可能每周更新。",
+      "examples": [{"en": "The manager posts next week's work schedule every Friday.", "zh": "经理每周五发布下一周的排班表。", "scenarioZh": "零售员工查看下周班次"}],
+      "usageNotesZh": ["check or update the work schedule 表示查看或更新工作安排。", "schedule 在加拿大英语中常读作 SKED-jool。"],
+      "tags": ["work", "scheduling", "shifts"]
+    },
+    {
+      "id": "lunch-break",
+      "term": "lunch break",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "午餐休息时间",
+      "explanationZh": "工作或上课期间用于吃午餐和休息的一段时间，是否带薪以及多长时间由单位安排和适用规定决定。",
+      "examples": [{"en": "I usually take my lunch break around noon.", "zh": "我通常中午左右休午餐时间。", "scenarioZh": "和新同事商量一起吃午饭"}],
+      "usageNotesZh": ["take a lunch break 表示休午餐时间；be on lunch 表示正在午休。", "不要默认所有岗位的午餐休息都带薪，应查看工作安排。"],
+      "tags": ["work", "scheduling", "breaks"]
+    },
+    {
+      "id": "remote-work",
+      "term": "remote work",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "远程办公",
+      "explanationZh": "不在公司固定办公地点工作，而是通过网络和协作工具在家或其他获准地点完成工作。",
+      "examples": [{"en": "The company allows remote work for this role.", "zh": "公司允许这个职位远程办公。", "scenarioZh": "阅读招聘启事中的办公地点说明"}],
+      "usageNotesZh": ["work remotely 表示远程工作；remote position 表示远程职位。", "remote work 可能仍有限定地点、时区或到办公室开会的要求。"],
+      "tags": ["work", "workplace", "remote-work"]
+    },
+    {
+      "id": "hybrid-work",
+      "term": "hybrid work",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "混合办公；部分到岗、部分远程的工作模式",
+      "explanationZh": "一部分时间在办公室，一部分时间远程工作的安排，具体到岗天数和日期由团队政策决定。",
+      "examples": [{"en": "Our hybrid work schedule requires two days in the office each week.", "zh": "我们的混合办公安排要求每周两天到办公室。", "scenarioZh": "新员工确认团队到岗要求"}],
+      "usageNotesZh": ["hybrid work arrangement 表示混合办公安排。", "hybrid 不等同于完全自由选择地点，固定到岗日需要单独确认。"],
+      "tags": ["work", "workplace", "hybrid-work"]
+    },
+    {
+      "id": "employee-badge",
+      "term": "employee badge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "员工证；员工识别卡",
+      "explanationZh": "显示员工身份的卡片或证件，有时也能用于进入办公区域、打卡或使用楼内设施。",
+      "examples": [{"en": "Please wear your employee badge while you are in the office.", "zh": "在办公室内请佩戴员工证。", "scenarioZh": "入职培训中说明办公楼安全要求"}],
+      "usageNotesZh": ["wear or show an employee badge 表示佩戴或出示员工证。", "badge 和 access card 可能是同一张卡，也可能是两件不同物品。"],
+      "tags": ["work", "workplace", "security"]
+    }
+  ]
+}
