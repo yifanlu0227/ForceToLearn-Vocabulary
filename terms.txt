@@ -23,7 +23,10 @@ antihistamine
 antiperspirant
 apartment viewing
 appetizer
+application form
+application status
 apply
+appointment
 area rug
 as needed
 assignment
@@ -53,6 +56,7 @@ bell pepper
 benefits
 best before date
 bike rack
+birth certificate
 bite the bullet
 black ice
 blanch
@@ -93,6 +97,7 @@ burner
 bursary
 bus a table
 bus stop
+business day
 butcher
 buy one get one
 buzz in
@@ -123,6 +128,7 @@ catch a break
 catch up
 caulk
 ceiling fan
+certified copy
 checkout
 checkout divider
 checkout lane
@@ -159,6 +165,7 @@ concession stand
 concierge
 conditioner
 conference
+confirmation number
 connecting bus
 contactless payment
 conveyor belt
@@ -240,8 +247,10 @@ drain snake
 drapes
 dredge
 drive-thru
+driver's licence
 drizzle
 drop cloth
+drop off
 drop the ball
 drop-in
 drowsy
@@ -260,6 +269,7 @@ eh
 elective
 elevator booking
 elevator outage
+eligibility
 employee badge
 employment contract
 encore
@@ -275,6 +285,7 @@ exchange
 exhibit
 expedite
 experiment
+expired
 expiry date
 express bus
 express lane
@@ -350,6 +361,7 @@ go Dutch
 go with the flow
 goggles
 good to go
+government-issued photo ID
 grab a bite
 grace period
 grant
@@ -407,6 +419,7 @@ idle
 impulse buy
 in bulk
 in over your head
+in person
 in season
 in stock
 in the same boat
@@ -455,6 +468,7 @@ leftovers
 let it rest
 level
 library card
+licence plate
 lifeguard
 lifesaver
 lightheaded
@@ -473,6 +487,7 @@ loonie
 loyalty card
 lukewarm
 lunch break
+mail in
 maintenance request
 manuscript
 marinate
@@ -542,8 +557,10 @@ on the side
 on-ramp
 onboarding
 one-way street
+online portal
 open enrollment
 orientation
+original document
 original packaging
 ottoman
 out of stock
@@ -586,7 +603,9 @@ permanent position
 personal day
 pest control
 phone screen
+photocopy
 physical
+pick up
 piece of cake
 pileup
 pillow sham
@@ -623,6 +642,7 @@ prior authorization
 priority seating
 prix fixe
 probation period
+processing time
 produce
 produce section
 proof of address
@@ -653,6 +673,7 @@ reduce
 reduced fare
 reference
 reference check
+reference number
 referral
 refill
 refund
@@ -672,6 +693,7 @@ rent receipt
 rental application
 rental listing
 replacement bus
+replacement card
 requisition
 reschedule
 research
@@ -830,6 +852,7 @@ sump pump
 sunny side up
 superintendent
 supervisor
+supporting documents
 surcharge
 swab
 swamped
@@ -914,6 +937,7 @@ utility account
 utility knife
 vacation request
 valance
+valid
 vegan
 vegetarian
 vent
@@ -922,6 +946,7 @@ visitor parking
 void cheque
 waitlist
 waive
+walk-in
 walk-in clinic
 wall anchor
 ward
