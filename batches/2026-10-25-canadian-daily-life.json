@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-25-canadian-daily-life",
+  "title": "加拿大日常生活：政府办事与证件材料",
+  "publishedOn": "2026-10-25",
+  "entries": [
+    {
+      "id": "appointment",
+      "term": "appointment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预约；约定的办事或会面时间",
+      "explanationZh": "提前安排好的见面或服务时间。去政府服务中心、诊所、银行或维修点办事时经常需要预约。",
+      "examples": [{"en": "I have an appointment at the service centre at ten o'clock.", "zh": "我十点在服务中心有预约。", "scenarioZh": "向接待人员说明自己已经预约"}],
+      "usageNotesZh": ["make、book 或 schedule an appointment 都表示预约。", "cancel or reschedule an appointment 表示取消或改期。"],
+      "tags": ["community-services", "appointments", "daily-life"]
+    },
+    {
+      "id": "walk-in",
+      "term": "walk-in",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "无需预约直接到场的；临时到访者",
+      "explanationZh": "表示不用提前预约就能到现场排队办理服务，也可以指直接到场的顾客或申请人。",
+      "examples": [{"en": "The office accepts walk-ins in the morning, but appointments are recommended.", "zh": "这个办事处上午接受直接到场办理，但建议预约。", "scenarioZh": "查询公共服务窗口是否必须预约"}],
+      "usageNotesZh": ["walk-in service 表示无需预约的现场服务；a walk-in 表示直接到场的人。", "walk in 不带连字符时通常是动词短语，表示走进去。"],
+      "tags": ["community-services", "appointments", "service-centres"]
+    },
+    {
+      "id": "application-form",
+      "term": "application form",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "申请表",
+      "explanationZh": "申请证件、服务、许可或福利时填写的表格，可以是纸质文件，也可以在线提交。",
+      "examples": [{"en": "Please complete every required section of the application form.", "zh": "请填写申请表中所有必填部分。", "scenarioZh": "工作人员检查证件申请是否填写完整"}],
+      "usageNotesZh": ["fill out or complete an application form 表示填写申请表。", "required field 是必填栏；optional field 是选填栏。"],
+      "tags": ["community-services", "applications", "forms"]
+    },
+    {
+      "id": "supporting-documents",
+      "term": "supporting documents",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "证明材料；辅助申请文件",
+      "explanationZh": "随申请一起提供、用来证明身份、地址、资格或所填信息的文件，通常不止一种。",
+      "examples": [{"en": "Upload the application form and all supporting documents as separate files.", "zh": "请把申请表和所有证明材料分别上传。", "scenarioZh": "通过网上门户提交公共服务申请"}],
+      "usageNotesZh": ["通常使用复数 supporting documents。", "required supporting documents 表示必须提交的证明材料，具体清单应按当前申请要求准备。"],
+      "tags": ["community-services", "applications", "documents"]
+    },
+    {
+      "id": "government-issued-photo-id",
+      "term": "government-issued photo ID",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "政府签发的带照片身份证件",
+      "explanationZh": "由政府机构签发、印有本人照片的身份证件。许多现场服务会要求出示有效原件来核实身份。",
+      "examples": [{"en": "Please bring one piece of valid government-issued photo ID.", "zh": "请携带一份有效的政府签发带照片身份证件。", "scenarioZh": "按预约确认邮件准备现场核验材料"}],
+      "usageNotesZh": ["one piece of ID 表示一份身份证件。", "哪些证件被接受取决于具体机构，不能只凭是否有照片来判断。"],
+      "tags": ["community-services", "identification", "documents"]
+    },
+    {
+      "id": "drivers-licence",
+      "term": "driver's licence",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "驾驶执照；驾照",
+      "explanationZh": "由省或地区签发、允许持有人按相应级别驾驶机动车的证件，也常在日常办事中用作带照片身份证件。",
+      "examples": [{"en": "I need to update the address on my driver's licence.", "zh": "我需要更新驾照上的地址。", "scenarioZh": "搬家后办理证件地址变更"}],
+      "usageNotesZh": ["加拿大英语中名词通常拼作 licence；license 常作动词。", "valid driver's licence 表示有效驾照；不同级别允许驾驶的车辆和条件不同。"],
+      "tags": ["community-services", "driving", "identification"]
+    },
+    {
+      "id": "licence-plate",
+      "term": "licence plate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "车牌；机动车号牌",
+      "explanationZh": "安装在机动车上的登记号码牌，由省或地区的车辆管理体系签发。停车许可和车辆登记表经常要求填写车牌号码。",
+      "examples": [{"en": "Enter your licence plate number when you apply for the parking permit.", "zh": "申请停车许可时请输入车牌号码。", "scenarioZh": "在线办理住宅停车许可"}],
+      "usageNotesZh": ["licence plate number 表示车牌号码。", "加拿大英语常拼 licence plate；美国英语常见 license plate。"],
+      "tags": ["community-services", "driving", "vehicles"]
+    },
+    {
+      "id": "birth-certificate",
+      "term": "birth certificate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出生证明",
+      "explanationZh": "由政府登记机构出具、记录出生信息的正式文件，办理某些身份证件或家庭事务时可能需要。",
+      "examples": [{"en": "The application asks for a copy of the child's birth certificate.", "zh": "这份申请要求提供孩子出生证明的复印件。", "scenarioZh": "准备儿童公共服务申请材料"}],
+      "usageNotesZh": ["request or order a birth certificate 表示申请补发或订购出生证明。", "是否需要原件、普通复印件或认证副本，应按申请清单确认。"],
+      "tags": ["community-services", "vital-records", "documents"]
+    },
+    {
+      "id": "certified-copy",
+      "term": "certified copy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "经认证的副本；核证副本",
+      "explanationZh": "由获认可的人或机构确认与原件相符的文件副本。并非自己复印后签名就一定算 certified copy。",
+      "examples": [{"en": "The office requires a certified copy rather than a regular photocopy.", "zh": "这个办事处要求经认证的副本，而不是普通复印件。", "scenarioZh": "核对申请材料对文件副本的要求"}],
+      "usageNotesZh": ["a certified true copy 也是常见正式说法。", "谁有资格认证文件以及认证格式因用途而异，应按照接收机构的要求办理。"],
+      "tags": ["community-services", "documents", "certification"]
+    },
+    {
+      "id": "original-document",
+      "term": "original document",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "文件原件",
+      "explanationZh": "最初签发或正式签署的文件，而不是扫描件、照片或普通复印件。现场核验时可能要求携带。",
+      "examples": [{"en": "Bring the original document so the clerk can verify the copy.", "zh": "请带上文件原件，以便工作人员核对复印件。", "scenarioZh": "到服务窗口进行身份材料核验"}],
+      "usageNotesZh": ["show or present the original document 表示出示文件原件。", "original 和 copy 相对；是否会收走原件要在提交前问清楚。"],
+      "tags": ["community-services", "documents", "verification"]
+    },
+    {
+      "id": "photocopy",
+      "term": "photocopy",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "复印件；复印",
+      "explanationZh": "用复印设备制作的纸质副本，也可作动词表示复印文件。普通 photocopy 通常没有经过真实性认证。",
+      "examples": [{"en": "Please include a clear photocopy of both sides of the card.", "zh": "请附上这张卡正反两面的清晰复印件。", "scenarioZh": "按邮寄申请要求准备身份证明副本"}, {"en": "I photocopied the receipt before mailing the original.", "zh": "寄出收据原件前，我把它复印了一份。", "scenarioZh": "为已寄出的材料保留个人记录"}],
+      "usageNotesZh": ["make a photocopy 表示复印一份；a colour photocopy 表示彩色复印件。", "scan 是扫描成电子文件，photocopy 通常指纸质副本。"],
+      "tags": ["community-services", "documents", "copies"]
+    },
+    {
+      "id": "processing-time",
+      "term": "processing time",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "处理时间；办理周期",
+      "explanationZh": "机构从收到完整申请到作出处理或寄出结果通常需要的时间，不一定包含邮寄和申请人补材料的时间。",
+      "examples": [{"en": "The current processing time is approximately four weeks.", "zh": "目前的办理周期大约是四周。", "scenarioZh": "查询证件申请预计何时完成"}],
+      "usageNotesZh": ["estimated processing time 表示预计处理时间。", "processing time 通常是估计值；材料不完整可能导致额外延迟。"],
+      "tags": ["community-services", "applications", "timing"]
+    },
+    {
+      "id": "business-day",
+      "term": "business day",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "工作日；营业日",
+      "explanationZh": "机构正常办公或处理业务的一天，通常不包括周末和法定假日。办事时限和邮寄速度常按工作日计算。",
+      "examples": [{"en": "You should receive a confirmation within three business days.", "zh": "你应该会在三个工作日内收到确认。", "scenarioZh": "提交在线申请后查看处理时限"}],
+      "usageNotesZh": ["within five business days 表示五个工作日内。", "business day 的具体范围可能受当地假日和机构营业安排影响。"],
+      "tags": ["community-services", "timing", "business"]
+    },
+    {
+      "id": "reference-number",
+      "term": "reference number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "查询编号；参考号码",
+      "explanationZh": "机构为某次申请、付款或咨询分配的识别号码，后续联系工作人员或查询进度时常要提供。",
+      "examples": [{"en": "Keep the reference number in case you need to contact us about the application.", "zh": "请保存查询编号，以便需要就申请联系我们时使用。", "scenarioZh": "在线申请完成页面提示保存记录"}],
+      "usageNotesZh": ["quote or provide a reference number 表示报出或提供查询编号。", "reference number、case number 和 confirmation number 可能用途不同，应按通知原文记录。"],
+      "tags": ["community-services", "applications", "records"]
+    },
+    {
+      "id": "confirmation-number",
+      "term": "confirmation number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "确认号码；确认编号",
+      "explanationZh": "成功预约、提交或付款后系统生成的号码，用来证明操作已记录并方便查找相关事项。",
+      "examples": [{"en": "Write down your confirmation number before closing the page.", "zh": "关闭页面前请记下确认号码。", "scenarioZh": "在线预约完成后保存凭证"}],
+      "usageNotesZh": ["receive a confirmation number 表示收到确认编号。", "确认号码不一定代表申请已获批准，只能说明相应操作已被系统记录。"],
+      "tags": ["community-services", "appointments", "records"]
+    },
+    {
+      "id": "eligibility",
+      "term": "eligibility",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "资格；符合条件的状态",
+      "explanationZh": "申请人是否满足某项服务、福利、许可或优惠的规定条件。条件可能涉及年龄、身份、居住地或收入。",
+      "examples": [{"en": "Check the eligibility requirements before you apply.", "zh": "申请前请查看资格要求。", "scenarioZh": "准备申请社区补助或公共服务"}],
+      "usageNotesZh": ["eligibility requirements 或 criteria 表示资格要求或标准。", "eligible 是形容词，常用 be eligible for a program。"],
+      "tags": ["community-services", "applications", "eligibility"]
+    },
+    {
+      "id": "valid",
+      "term": "valid",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "有效的；仍被认可的",
+      "explanationZh": "表示证件、许可、票据或信息在规定时间和用途内仍然有效，可以被相关机构接受。",
+      "examples": [{"en": "Your photo ID must be valid on the day of the appointment.", "zh": "你的带照片身份证件在预约当天必须仍然有效。", "scenarioZh": "阅读现场身份核验要求"}],
+      "usageNotesZh": ["valid until 表示有效至某日期；a valid document 表示有效文件。", "valid 也可表示理由合理或论证成立，需结合上下文。"],
+      "tags": ["community-services", "documents", "validity"]
+    },
+    {
+      "id": "expired",
+      "term": "expired",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "已过期的；已失效的",
+      "explanationZh": "表示证件、许可、卡片或产品已经超过有效期限，通常不能继续按原用途使用。",
+      "examples": [{"en": "The clerk could not accept my expired driver's licence as valid ID.", "zh": "工作人员不能把我过期的驾照作为有效身份证件接受。", "scenarioZh": "在服务窗口核验身份证件"}],
+      "usageNotesZh": ["an expired passport or card 表示过期的护照或卡片。", "expire 是动词；expiry date 是有效期截止日期。"],
+      "tags": ["community-services", "documents", "validity"]
+    },
+    {
+      "id": "replacement-card",
+      "term": "replacement card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "补发卡；替换卡片",
+      "explanationZh": "原卡遗失、被盗、损坏或信息变更后重新签发的卡片，可能需要申请、验证身份并支付费用。",
+      "examples": [{"en": "I applied for a replacement card after losing my wallet.", "zh": "钱包丢失后，我申请了补发卡。", "scenarioZh": "向服务机构报告卡片遗失并办理补发"}],
+      "usageNotesZh": ["request or apply for a replacement card 表示申请补发卡。", "replacement card 和 renewal card 不完全相同；前者多因原卡无法使用，后者多因到期续领。"],
+      "tags": ["community-services", "cards", "replacement"]
+    },
+    {
+      "id": "online-portal",
+      "term": "online portal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "网上办事门户；在线服务平台",
+      "explanationZh": "登录后提交申请、上传文件、付款或查看进度的网站入口。政府、学校和医疗机构都常使用。",
+      "examples": [{"en": "You can check your application status through the online portal.", "zh": "你可以通过网上办事门户查看申请状态。", "scenarioZh": "无需打电话即可查询办理进度"}],
+      "usageNotesZh": ["log in to the online portal 表示登录在线平台。", "保存文件前要确认使用的是机构官方入口，并妥善退出共享设备。"],
+      "tags": ["community-services", "online-services", "applications"]
+    },
+    {
+      "id": "application-status",
+      "term": "application status",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "申请状态；办理进度状态",
+      "explanationZh": "系统显示申请目前所处的阶段，例如已提交、处理中、需要补件、已批准或已关闭。",
+      "examples": [{"en": "My application status changed from submitted to under review.", "zh": "我的申请状态从“已提交”变成了“审核中”。", "scenarioZh": "登录在线平台查看证件申请进度"}],
+      "usageNotesZh": ["check or track an application status 表示查看或追踪申请状态。", "under review 表示正在审核，并不等同于已经批准。"],
+      "tags": ["community-services", "applications", "online-services"]
+    },
+    {
+      "id": "in-person",
+      "term": "in person",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "本人到场；当面办理",
+      "explanationZh": "表示亲自前往某个地点完成服务，而不是通过电话、邮寄或网络办理。",
+      "examples": [{"en": "You must apply in person if your identity cannot be verified online.", "zh": "如果无法在线核实身份，你必须本人到场申请。", "scenarioZh": "选择证件申请的办理渠道"}],
+      "usageNotesZh": ["apply、submit 或 attend in person 都可表示本人现场办理。", "作名词前的形容词时常写 in-person，例如 an in-person appointment。"],
+      "tags": ["community-services", "service-channels", "appointments"]
+    },
+    {
+      "id": "mail-in",
+      "term": "mail in",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "邮寄提交；寄入",
+      "explanationZh": "把申请表、文件或物品通过邮政寄给机构，而不是在线提交或本人送到窗口。",
+      "examples": [{"en": "You can mail in the completed form and copies of the required documents.", "zh": "你可以把填好的表格和所需文件副本邮寄过去。", "scenarioZh": "选择邮寄方式递交申请"}],
+      "usageNotesZh": ["mail in an application 表示邮寄提交申请。", "作名词前修饰语时常写 mail-in application；寄原件前要确认要求并保留记录。"],
+      "tags": ["community-services", "service-channels", "mail"]
+    },
+    {
+      "id": "pick-up",
+      "term": "pick up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "领取；取走；接人",
+      "explanationZh": "到指定地点拿取已准备好的证件、包裹或物品，也可以表示开车或顺路接某人。",
+      "examples": [{"en": "You can pick up the new card at the service counter next week.", "zh": "你下周可以到服务柜台领取新卡。", "scenarioZh": "收到证件已经制作完成的通知"}],
+      "usageNotesZh": ["pick up a document 表示领取文件；pick someone up 表示接某人。", "名词或定语常写 pickup，例如 pickup location。"],
+      "tags": ["community-services", "service-channels", "collection"]
+    },
+    {
+      "id": "drop-off",
+      "term": "drop off",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "送交；放下；送某人到某处",
+      "explanationZh": "把文件或物品送到指定地点留下，或把某人送到目的地。办事时常指亲自递交材料。",
+      "examples": [{"en": "I dropped off the signed form at the municipal office.", "zh": "我把签好字的表格送到了市政办事处。", "scenarioZh": "在截止日期前现场递交纸质材料"}],
+      "usageNotesZh": ["drop off documents 表示送交文件；drop someone off 表示把某人送到某处。", "名词或定语常写 drop-off，例如 document drop-off box。"],
+      "tags": ["community-services", "service-channels", "documents"]
+    }
+  ]
+}
