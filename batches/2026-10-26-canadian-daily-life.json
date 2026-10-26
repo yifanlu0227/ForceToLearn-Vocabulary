@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-26-canadian-daily-life",
+  "title": "加拿大日常生活：课程安排与校园事务",
+  "publishedOn": "2026-10-26",
+  "entries": [
+    {
+      "id": "course-load",
+      "term": "course load",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一学期所修课程的数量或学习量",
+      "explanationZh": "指学生在一个学期里承担的课程数量和总体学习压力。选课、申请助学金或讨论能否兼顾打工时经常会用到。",
+      "examples": [
+        {
+          "en": "I'm taking a lighter course load this term so I can keep my part-time job.",
+          "zh": "这学期我少修一些课，这样还能继续做兼职。",
+          "scenarioZh": "学生向同学解释本学期的选课安排"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：a full course load（满额课程量）、a heavy course load（课程负担重）。",
+        "course load 强调一段时间内的全部课程；workload 更泛指工作量或学习任务量。"
+      ],
+      "tags": ["school", "course-planning", "student-life"]
+    },
+    {
+      "id": "student-id",
+      "term": "student ID",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学生证；学号",
+      "explanationZh": "既可指实体或电子学生证，也可指学校分配的学号。考试、借书、领取校园服务或联系学校时可能需要出示或填写。",
+      "examples": [
+        {
+          "en": "Please bring your student ID to the exam.",
+          "zh": "参加考试时请带上学生证。",
+          "scenarioZh": "老师提醒学生考试入场要求"
+        }
+      ],
+      "usageNotesZh": [
+        "根据语境可译为“学生证”或“学号”；填写表格时通常指学号。",
+        "常见问法：What's your student ID number?（你的学号是多少？）"
+      ],
+      "tags": ["school", "identification", "campus-services"]
+    },
+    {
+      "id": "student-portal",
+      "term": "student portal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学生门户网站；学生系统",
+      "explanationZh": "学校供学生登录办理事务的网站，通常可用于选课、查成绩、缴费、下载税务或注册文件。它不是普通课程网页，而是集中处理个人校务的入口。",
+      "examples": [
+        {
+          "en": "You can download your enrolment letter from the student portal.",
+          "zh": "你可以从学生系统下载在读证明。",
+          "scenarioZh": "学生服务中心说明如何取得在读文件"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：log in to the student portal（登录学生系统）。",
+        "学校也可能把它简称为 portal，具体名称因学校而异。"
+      ],
+      "tags": ["school", "online-services", "administration"]
+    },
+    {
+      "id": "academic-calendar",
+      "term": "academic calendar",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "校历；学年重要日期表",
+      "explanationZh": "学校公布开学、放假、选退课截止日、考试期等重要日期的正式日历。安排旅行或退课前应先查看，不能只凭课程页面上的提醒。",
+      "examples": [
+        {
+          "en": "Check the academic calendar before booking your flight home.",
+          "zh": "订回家的机票前先查一下校历。",
+          "scenarioZh": "学生在安排学期末行程"
+        }
+      ],
+      "usageNotesZh": [
+        "academic calendar 在此指学校正式日期表，不只是个人日程表。",
+        "常见内容包括 term dates、holidays、exam period 和各类 deadlines。"
+      ],
+      "tags": ["school", "schedule", "administration"]
+    },
+    {
+      "id": "reading-week",
+      "term": "reading week",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "加拿大高校的停课学习周",
+      "explanationZh": "加拿大许多大学和学院在秋季或冬季学期安排的一周停课期，让学生复习、赶作业或休息。并不一定完全没有作业，也不是所有项目都按同样日期放假。",
+      "examples": [
+        {
+          "en": "I'm staying on campus during reading week to finish my research paper.",
+          "zh": "阅读周我会留在校园里完成研究论文。",
+          "scenarioZh": "学生讨论停课周的安排"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大校园里很常见；有些学校秋季和冬季各安排一次。",
+        "不要直译成只用于阅读的一周，实际也常用来复习、写作业或休息。"
+      ],
+      "tags": ["school", "canada", "schedule"]
+    },
+    {
+      "id": "course-outline",
+      "term": "course outline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程大纲；课程说明文件",
+      "explanationZh": "老师在开课时提供的正式课程文件，通常列出学习目标、评分方式、作业、教材、每周进度和课堂规定。在加拿大院校中是很常见的说法。",
+      "examples": [
+        {
+          "en": "The late-submission policy is explained in the course outline.",
+          "zh": "迟交作业的规定写在课程大纲里。",
+          "scenarioZh": "学生询问作业迟交规则"
+        }
+      ],
+      "usageNotesZh": [
+        "course outline 与 syllabus 常常同义，具体用词看学校习惯。",
+        "常见搭配：review the course outline（查看课程大纲）。"
+      ],
+      "tags": ["school", "course-materials", "academic"]
+    },
+    {
+      "id": "grade",
+      "term": "grade",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "成绩；评分",
+      "explanationZh": "作名词时指作业、考试或课程成绩；作动词时指老师批改并给分。加拿大院校可能使用百分制、字母等级或两者并列。",
+      "examples": [
+        {
+          "en": "The instructor said she would post our grades by Friday.",
+          "zh": "老师说会在周五前公布我们的成绩。",
+          "scenarioZh": "学生等待期中考试成绩"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：final grade（最终成绩）、get a good grade（取得好成绩）。",
+        "作动词时可说 grade assignments（给作业评分）。"
+      ],
+      "tags": ["school", "assessment", "academic"]
+    },
+    {
+      "id": "gpa",
+      "term": "GPA",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "平均绩点",
+      "explanationZh": "grade point average 的缩写，用来概括多门课程的总体成绩。不同加拿大院校可能采用 4.0、4.33、9.0 等不同量表，比较时要先看学校的计算方式。",
+      "examples": [
+        {
+          "en": "This scholarship requires a minimum GPA of 3.0.",
+          "zh": "这项奖学金要求平均绩点至少达到 3.0。",
+          "scenarioZh": "学生查看奖学金申请条件"
+        }
+      ],
+      "usageNotesZh": [
+        "GPA 通常逐字母读作 G-P-A。",
+        "常见搭配：cumulative GPA（累计平均绩点）、minimum GPA（最低绩点要求）。"
+      ],
+      "tags": ["school", "assessment", "academic-records"]
+    },
+    {
+      "id": "pass-fail",
+      "term": "pass/fail",
+      "partsOfSpeech": ["adjective", "noun"],
+      "definitionZh": "只记通过或不通过的评分方式",
+      "explanationZh": "课程成绩只显示通过或不通过，而不是普通字母或百分制成绩。有些学校允许把特定课程改为这种评分方式，但申请期限和对专业要求的影响要先确认。",
+      "examples": [
+        {
+          "en": "Can I take this elective on a pass/fail basis?",
+          "zh": "这门选修课可以按通过或不通过计分吗？",
+          "scenarioZh": "学生向学院咨询课程评分选项"
+        }
+      ],
+      "usageNotesZh": [
+        "常见表达：take a course pass/fail 或 on a pass/fail basis。",
+        "有些学校使用 credit/no credit 等类似名称，规则不一定相同。"
+      ],
+      "tags": ["school", "assessment", "course-options"]
+    },
+    {
+      "id": "add-a-course",
+      "term": "add a course",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "加选一门课",
+      "explanationZh": "在选课系统中把一门课加入本学期课表。通常必须在加课截止日前完成，并确认时间冲突、先修课和名额限制。",
+      "examples": [
+        {
+          "en": "I need permission from the department to add this course.",
+          "zh": "我需要得到系里的许可才能加选这门课。",
+          "scenarioZh": "学生处理受限课程的加课手续"
+        }
+      ],
+      "usageNotesZh": [
+        "add a course 与 register for a course 意思接近，但 add 常强调在已有课表上再加一门。",
+        "学校通知中常见 add period 或 add deadline。"
+      ],
+      "tags": ["school", "course-registration", "administration"]
+    },
+    {
+      "id": "drop-a-course",
+      "term": "drop a course",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "退选一门课",
+      "explanationZh": "在规定期限内把课程从本学期课表中移除。是否退款、是否在成绩单留下记录以及是否影响全日制身份，都取决于退课日期和学校规定。",
+      "examples": [
+        {
+          "en": "Talk to an advisor before you drop the course.",
+          "zh": "退这门课之前先和学业顾问谈谈。",
+          "scenarioZh": "学生担心退课会影响学业进度"
+        }
+      ],
+      "usageNotesZh": [
+        "drop 常指在较早期限内退课；withdraw 可能指较晚退出并留下课程记录，规则因学校而异。",
+        "退课前应查看退款和学籍要求，不能只停止上课。"
+      ],
+      "tags": ["school", "course-registration", "administration"]
+    },
+    {
+      "id": "course-registration",
+      "term": "course registration",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程注册；选课",
+      "explanationZh": "学生为新学期选择并正式登记课程的过程，通常在个人选课时间开放后通过学生系统办理。热门课程可能很快满员。",
+      "examples": [
+        {
+          "en": "Course registration opens for second-year students on Monday.",
+          "zh": "二年级学生的选课将于周一开放。",
+          "scenarioZh": "学校公布不同年级的选课时间"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：registration opens/closes（选课开放/关闭）。",
+        "不要和 program registration 混淆；前者主要指选具体课程。"
+      ],
+      "tags": ["school", "course-registration", "administration"]
+    },
+    {
+      "id": "enrolment-deadline",
+      "term": "enrolment deadline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "注册或选课截止日期",
+      "explanationZh": "完成入学注册、项目注册或选课的最后日期，具体含义要看通知上下文。错过后可能需要学院特别批准，也可能无法再办理。",
+      "examples": [
+        {
+          "en": "The enrolment deadline for summer courses is May 8.",
+          "zh": "暑期课程的选课截止日期是 5 月 8 日。",
+          "scenarioZh": "学生查看暑期选课通知"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大拼写常用 enrolment；美式拼写 enrollment 也可能见到。",
+        "应确认通知指的是接受录取、注册项目还是选择具体课程。"
+      ],
+      "tags": ["school", "deadline", "administration"]
+    },
+    {
+      "id": "group-project",
+      "term": "group project",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "小组项目；团队作业",
+      "explanationZh": "由几名学生共同完成并提交的课程项目，通常需要分工、开会和统一最终成果。部分课程会同时评估团队成果和个人贡献。",
+      "examples": [
+        {
+          "en": "Let's divide the research tasks for our group project.",
+          "zh": "我们来分配一下小组项目的研究任务吧。",
+          "scenarioZh": "小组成员第一次讨论项目分工"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：work on a group project（做小组项目）、group project meeting（项目小组会议）。",
+        "谈分工时可用 divide the tasks 或 assign roles。"
+      ],
+      "tags": ["school", "teamwork", "assignments"]
+    },
+    {
+      "id": "study-group",
+      "term": "study group",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学习小组",
+      "explanationZh": "学生自发或由课程组织、定期一起复习和讨论的群体。适合互相讲题、比较笔记和准备考试，但提交的个人作业仍要遵守学术诚信规定。",
+      "examples": [
+        {
+          "en": "Our study group meets in the library every Wednesday.",
+          "zh": "我们的学习小组每周三在图书馆碰面。",
+          "scenarioZh": "学生邀请同学参加固定复习活动"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：form/join a study group（组建/加入学习小组）。",
+        "study group 指一起学习的人或活动，不等于正式课程班级。"
+      ],
+      "tags": ["school", "study", "student-life"]
+    },
+    {
+      "id": "library-database",
+      "term": "library database",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "图书馆学术数据库",
+      "explanationZh": "由学校图书馆订阅或提供的文献检索平台，可查找期刊文章、电子书、报纸或专业资料。校外访问通常要用学校账号登录。",
+      "examples": [
+        {
+          "en": "I found three peer-reviewed articles in the library database.",
+          "zh": "我在图书馆数据库里找到了三篇同行评审文章。",
+          "scenarioZh": "学生为研究作业搜集可靠资料"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：search/access a library database（检索/访问图书馆数据库）。",
+        "database 常指一个具体检索平台；library website 是进入这些资源的网页入口。"
+      ],
+      "tags": ["school", "library", "research"]
+    },
+    {
+      "id": "citation-style",
+      "term": "citation style",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "引用格式；参考文献格式规范",
+      "explanationZh": "规定正文引用和参考文献如何书写的一套格式，例如 APA、MLA 或 Chicago。不同课程和学科要求可能不同，写作前应查看作业说明。",
+      "examples": [
+        {
+          "en": "Which citation style should we use for this paper?",
+          "zh": "这篇论文我们应该使用哪种引用格式？",
+          "scenarioZh": "学生向老师确认论文格式要求"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：use/follow a citation style（使用/遵循引用格式）。",
+        "citation 指具体引文，citation style 指整套格式规则。"
+      ],
+      "tags": ["school", "academic-writing", "research"]
+    },
+    {
+      "id": "academic-advisor",
+      "term": "academic advisor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学业顾问",
+      "explanationZh": "帮助学生了解项目要求、选课、学业进度和学校规定的工作人员。遇到换专业、退课或毕业审核问题时，通常应预约学业顾问。",
+      "examples": [
+        {
+          "en": "I booked an appointment with an academic advisor to review my degree requirements.",
+          "zh": "我预约了学业顾问，核对学位要求。",
+          "scenarioZh": "学生为毕业规划寻求校内帮助"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大常见 advisor 和 adviser 两种拼写，学校职位名称以官网为准。",
+        "academic advisor 主要处理学业规划，不一定负责心理辅导或移民咨询。"
+      ],
+      "tags": ["school", "advising", "campus-services"]
+    },
+    {
+      "id": "academic-department",
+      "term": "department",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "院系中的系；学校行政部门",
+      "explanationZh": "校园语境中常指某一学科的系，例如数学系，也可泛指负责特定事务的部门。选课许可、专业要求或课程安排问题经常由相关系处理。",
+      "examples": [
+        {
+          "en": "Contact the department if you need permission to enrol in the course.",
+          "zh": "如果你需要选课许可，请联系相关院系。",
+          "scenarioZh": "学生系统提示课程需要院系批准"
+        }
+      ],
+      "usageNotesZh": [
+        "常见说法：the Department of Biology（生物系）。",
+        "department 比 faculty 层级通常更小，但各校组织方式可能不同。"
+      ],
+      "tags": ["school", "administration", "academic"]
+    },
+    {
+      "id": "university-faculty",
+      "term": "faculty",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学院；全体教学人员",
+      "explanationZh": "在加拿大高校里常指由多个系组成的学院，例如 Faculty of Arts；也可以集合性地指学校的教师群体。要根据上下文判断具体含义。",
+      "examples": [
+        {
+          "en": "The Faculty of Science is holding an orientation for new students.",
+          "zh": "理学院正在为新生举办迎新活动。",
+          "scenarioZh": "学生查看学院活动通知"
+        }
+      ],
+      "usageNotesZh": [
+        "作“学院”讲时常大写并用于正式名称：Faculty of Engineering。",
+        "作“教师群体”讲时是集合名词；不要自动翻译成某一位教授。"
+      ],
+      "tags": ["school", "administration", "academic"]
+    },
+    {
+      "id": "undergraduate",
+      "term": "undergraduate",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "本科生；本科阶段的",
+      "explanationZh": "指正在攻读学士学位的学生，或与本科教育有关的课程、项目和规定。校园通知中常缩写为 undergrad。",
+      "examples": [
+        {
+          "en": "This research position is open to undergraduate students.",
+          "zh": "这个研究职位向本科生开放。",
+          "scenarioZh": "学生查看校内研究助理机会"
+        }
+      ],
+      "usageNotesZh": [
+        "可作名词：an undergraduate；也可作形容词：undergraduate program。",
+        "常见非正式简称是 undergrad。"
+      ],
+      "tags": ["school", "students", "academic"]
+    },
+    {
+      "id": "graduate-student",
+      "term": "graduate student",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究生",
+      "explanationZh": "指攻读硕士或博士学位的学生。在加拿大也常说 grad student；与已经毕业的人要靠上下文区分。",
+      "examples": [
+        {
+          "en": "Graduate students can apply for a desk in the research office.",
+          "zh": "研究生可以申请研究办公室里的工位。",
+          "scenarioZh": "学院说明研究生可使用的设施"
+        }
+      ],
+      "usageNotesZh": [
+        "常见简称：grad student。",
+        "postgraduate student 在英式英语中常见，加拿大院校更常见 graduate student。"
+      ],
+      "tags": ["school", "students", "graduate-studies"]
+    },
+    {
+      "id": "campus-card",
+      "term": "campus card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "校园卡",
+      "explanationZh": "学校发放、可用于进楼、借书、打印或校内消费的实体卡或电子凭证。它通常也是学生证，但具体功能和充值方式因学校而异。",
+      "examples": [
+        {
+          "en": "I added money to my campus card for printing.",
+          "zh": "我给校园卡充了钱，用来打印。",
+          "scenarioZh": "学生准备在图书馆打印资料"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：tap your campus card（刷校园卡）、add funds to your campus card（给校园卡充值）。",
+        "不同学校可能使用自己命名的卡，但通用说法是 campus card。"
+      ],
+      "tags": ["school", "campus-services", "student-life"]
+    },
+    {
+      "id": "student-services",
+      "term": "student services",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学生服务部门；学生事务服务",
+      "explanationZh": "学校为学生提供注册、证明文件、费用咨询、健康支持、就业帮助等服务的总称，也可能是一个具体办公室的名称。",
+      "examples": [
+        {
+          "en": "Student Services can help you update your mailing address.",
+          "zh": "学生服务部门可以帮你更新邮寄地址。",
+          "scenarioZh": "学生搬家后咨询如何修改学校记录"
+        }
+      ],
+      "usageNotesZh": [
+        "作为正式部门名称时常写成 Student Services。",
+        "服务范围因学校而异，联系前可先查看具体办公室的职责。"
+      ],
+      "tags": ["school", "campus-services", "administration"]
+    },
+    {
+      "id": "accessibility-services",
+      "term": "accessibility services",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "无障碍支持服务",
+      "explanationZh": "学校为残障、慢性健康状况或其他符合条件的学生协调学习便利措施的部门或服务，例如延长考试时间、无障碍材料或课堂支持。",
+      "examples": [
+        {
+          "en": "Accessibility Services arranged extra time for my exams.",
+          "zh": "无障碍服务部门为我的考试安排了额外时间。",
+          "scenarioZh": "学生说明学校批准的考试便利措施"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：register with Accessibility Services（向无障碍服务部门登记）。",
+        "具体资格和文件要求由学校决定，通常应尽早联系。"
+      ],
+      "tags": ["school", "accessibility", "campus-services"]
+    }
+  ]
+}
