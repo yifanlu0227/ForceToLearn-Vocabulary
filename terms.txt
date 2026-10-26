@@ -3,8 +3,12 @@ a dollop of
 a pinch of
 a splash of
 abstract
+academic advisor
+academic calendar
+accessibility services
 account number
 action item
+add a course
 admission
 Advil
 advisor
@@ -111,6 +115,7 @@ cage-free
 call in sick
 call it a day
 campus
+campus card
 candidate
 caramelize
 carbon monoxide detector
@@ -137,6 +142,7 @@ childproof cap
 chip in
 cilantro
 circuit breaker
+citation style
 cite
 city councillor
 claim
@@ -178,6 +184,9 @@ cottage cheese
 cotton swab
 cough drop
 coupon
+course load
+course outline
+course registration
 cover a shift
 cover charge
 cover letter
@@ -223,6 +232,7 @@ deli counter
 deliverable
 delivery fee
 deodorant
+department
 departure board
 deposit
 designated driver
@@ -249,6 +259,7 @@ dredge
 drive-thru
 driver's licence
 drizzle
+drop a course
 drop cloth
 drop off
 drop the ball
@@ -275,6 +286,7 @@ employment contract
 encore
 end cap
 enrol
+enrolment deadline
 entrée
 EOB
 ER
@@ -293,6 +305,7 @@ extension
 extension cord
 eye drops
 fabric softener
+faculty
 fair enough
 family doctor
 family pack
@@ -362,8 +375,11 @@ go with the flow
 goggles
 good to go
 government-issued photo ID
+GPA
 grab a bite
 grace period
+grade
+graduate student
 grant
 grate
 gratuity
@@ -375,6 +391,7 @@ gridlock
 grocery pickup
 grocery store
 ground beef
+group project
 grout
 guarantor
 guided tour
@@ -468,6 +485,7 @@ leftovers
 let it rest
 level
 library card
+library database
 licence plate
 lifeguard
 lifesaver
@@ -589,6 +607,7 @@ parking spot
 parking ticket
 part-time
 party of
+pass/fail
 pat dry
 patio
 pay stub
@@ -664,6 +683,7 @@ rain check
 rain date
 rash
 razor
+reading week
 rear-end
 receipt
 recreation program
@@ -841,6 +861,10 @@ streetcar
 stroller
 stud
 student fare
+student ID
+student portal
+student services
+study group
 stuffy nose
 sub
 sublet
@@ -927,6 +951,7 @@ two-four
 Tylenol
 U-turn
 under the weather
+undergraduate
 unfurnished
 unit price
 unopened
