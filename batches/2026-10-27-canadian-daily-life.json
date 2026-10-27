@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-27-canadian-daily-life",
+  "title": "加拿大日常生活：银行安全与账单管理",
+  "publishedOn": "2026-10-27",
+  "entries": [
+    {
+      "id": "atm",
+      "term": "ATM",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动取款机；自动柜员机",
+      "explanationZh": "automated teller machine 的缩写，可用于取现、查询余额，有些机器也能存入现金或支票。使用其他银行或私人运营的机器时可能产生额外费用。",
+      "examples": [{"en": "Is there an ATM near the subway entrance?", "zh": "地铁入口附近有自动取款机吗？", "scenarioZh": "外出时需要取少量现金"}],
+      "usageNotesZh": ["常见搭配：withdraw cash from an ATM（从自动取款机取现）。", "在加拿大口语中也常听到 cash machine，但银行界面通常写 ATM。"],
+      "tags": ["banking", "cash", "everyday-services"]
+    },
+    {
+      "id": "bank-branch",
+      "term": "bank branch",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行网点；银行分行",
+      "explanationZh": "银行提供面对面服务的实体营业地点。办理需要核验原件、领取银行卡、兑换较多现金或处理复杂账户问题时，可能要到网点办理。",
+      "examples": [{"en": "I need to visit a bank branch to show my original ID.", "zh": "我需要去银行网点出示身份证件原件。", "scenarioZh": "客服要求客户到线下完成身份核验"}],
+      "usageNotesZh": ["常见搭配：visit a branch（前往网点）、your home branch（开户或所属网点）。", "直接说 branch 时，在银行语境中通常就指银行网点。"],
+      "tags": ["banking", "in-person-services", "locations"]
+    },
+    {
+      "id": "bank-teller",
+      "term": "bank teller",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行柜员",
+      "explanationZh": "在银行柜台帮助客户存取款、兑换现金、开具银行文件或处理基础账户事务的工作人员。复杂产品或贷款问题通常会转给其他专员。",
+      "examples": [{"en": "The bank teller helped me deposit the cheque.", "zh": "银行柜员帮我存入了这张支票。", "scenarioZh": "在银行柜台办理支票存款"}],
+      "usageNotesZh": ["日常交流中也可以直接说 teller。", "at the teller counter 表示在银行柜台，但更自然的说法常是 at the counter。"],
+      "tags": ["banking", "in-person-services", "staff"]
+    },
+    {
+      "id": "pin",
+      "term": "PIN",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "个人识别码；银行卡密码",
+      "explanationZh": "personal identification number 的缩写，常用于借记卡、信用卡或自动取款机验证。输入时应遮挡键盘，也不要通过短信或电话告诉别人。",
+      "examples": [{"en": "I entered the wrong PIN three times and my card was blocked.", "zh": "我连续三次输错银行卡密码，卡被锁了。", "scenarioZh": "联系银行处理银行卡无法使用的问题"}],
+      "usageNotesZh": ["常见搭配：enter/change/reset your PIN（输入/更改/重置密码）。", "PIN 本身已包含 number 的意思，正式表达中通常不必说 PIN number。"],
+      "tags": ["banking", "cards", "security"]
+    },
+    {
+      "id": "withdrawal-limit",
+      "term": "withdrawal limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取款限额",
+      "explanationZh": "账户或银行卡在一次或一天内允许取出的最高金额。自动取款机本身也可能有单笔限制，因此页面显示的账户限额不一定等于每次能取出的金额。",
+      "examples": [{"en": "Can you tell me my daily withdrawal limit?", "zh": "你能告诉我每天的取款限额吗？", "scenarioZh": "取大额现金前向银行确认限制"}],
+      "usageNotesZh": ["常见搭配：daily ATM withdrawal limit（每日 ATM 取款限额）。", "increase/lower the withdrawal limit 表示提高或降低取款限额。"],
+      "tags": ["banking", "cash", "limits"]
+    },
+    {
+      "id": "online-banking",
+      "term": "online banking",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "网上银行",
+      "explanationZh": "通过银行网站登录后查询账户、转账、缴费或管理银行卡的服务。使用公共电脑或公共网络时要注意退出账户并避免保存登录信息。",
+      "examples": [{"en": "I paid my hydro bill through online banking.", "zh": "我通过网上银行缴了电费。", "scenarioZh": "在电脑上处理每月账单"}],
+      "usageNotesZh": ["常见搭配：log in to online banking（登录网上银行）。", "online banking 通常指网页端服务；mobile banking 更强调手机应用。"],
+      "tags": ["banking", "online-services", "security"]
+    },
+    {
+      "id": "mobile-banking",
+      "term": "mobile banking",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "手机银行",
+      "explanationZh": "通过银行手机应用查询账户、转账、存支票或管理卡片的服务。更换手机或异常登录时，银行可能要求额外身份验证。",
+      "examples": [{"en": "I used mobile banking to lock my card right away.", "zh": "我马上用手机银行锁定了银行卡。", "scenarioZh": "发现银行卡不见后先在应用里保护账户"}],
+      "usageNotesZh": ["mobile banking app 表示手机银行应用。", "使用生物识别登录后仍应保管好银行密码和恢复信息。"],
+      "tags": ["banking", "mobile-apps", "security"]
+    },
+    {
+      "id": "bill-payment",
+      "term": "bill payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单付款；缴费",
+      "explanationZh": "通过银行向信用卡、电信公司、公用事业公司等收款单位支付账单。银行处理通常需要时间，临近截止日时要留意到账日期。",
+      "examples": [{"en": "The bill payment may take two business days to reach the company.", "zh": "这笔账单付款可能需要两个工作日才能到达收款公司。", "scenarioZh": "网上银行提示缴费处理时间"}],
+      "usageNotesZh": ["make a bill payment 表示支付账单；bill payment history 表示缴费记录。", "它通常不同于给个人发送转账，收款单位和账号必须填写正确。"],
+      "tags": ["banking", "bill-payments", "online-services"]
+    },
+    {
+      "id": "automatic-payment",
+      "term": "automatic payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动付款；自动还款",
+      "explanationZh": "预先设置、在指定日期自动从账户或银行卡支付固定或应付金额的安排。常用于信用卡还款、房租或每月服务账单，但仍要确保扣款账户余额充足。",
+      "examples": [{"en": "I set up an automatic payment for the full statement balance.", "zh": "我设置了自动全额支付信用卡账单余额。", "scenarioZh": "避免忘记信用卡还款日期"}],
+      "usageNotesZh": ["常见搭配：set up/cancel an automatic payment（设置/取消自动付款）。", "automatic payment 是通用说法；具体银行也可能使用 autopay。"],
+      "tags": ["banking", "bill-payments", "automation"]
+    },
+    {
+      "id": "billing-cycle",
+      "term": "billing cycle",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单周期",
+      "explanationZh": "两次出账之间的计费时间段，信用卡、手机和网络服务都常使用这个概念。账单周期结束后形成账单，但付款到期日通常在更晚的日期。",
+      "examples": [{"en": "This purchase will appear on the next billing cycle.", "zh": "这笔消费会出现在下一个账单周期里。", "scenarioZh": "询问信用卡新消费会列入哪一期账单"}],
+      "usageNotesZh": ["billing cycle 不等于 payment due date；前者是计费周期，后者是付款截止日。", "常见搭配：the start/end of a billing cycle（账单周期的开始/结束）。"],
+      "tags": ["banking", "credit-cards", "billing"]
+    },
+    {
+      "id": "current-balance",
+      "term": "current balance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "当前余额；当前欠款",
+      "explanationZh": "账户此刻显示的总余额。信用卡里通常指当前累计欠款，可能包含出账后新增的已入账交易，因此不一定等于上期账单余额。",
+      "examples": [{"en": "My current balance includes the groceries I bought yesterday.", "zh": "我的当前余额包含昨天购买食品的消费。", "scenarioZh": "比较信用卡当前余额和账单余额"}],
+      "usageNotesZh": ["在存款账户里可指当前账户余额；在信用卡里通常指当前欠款。", "pending transactions 是否计入要看银行页面的具体展示方式。"],
+      "tags": ["banking", "balances", "credit-cards"]
+    },
+    {
+      "id": "outstanding-balance",
+      "term": "outstanding balance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "尚未付清的余额；未偿余额",
+      "explanationZh": "仍然欠着、尚未支付或结清的金额，可用于信用卡、贷款、账单或发票。它强调还有款项未清，不一定与某一期账单金额完全相同。",
+      "examples": [{"en": "I paid the outstanding balance before closing the account.", "zh": "我在关闭账户前付清了未偿余额。", "scenarioZh": "办理信用卡销户前结清欠款"}],
+      "usageNotesZh": ["pay off the outstanding balance 表示付清未偿余额。", "outstanding 在这里意为“尚未处理或结清的”，不是“优秀的”。"],
+      "tags": ["banking", "balances", "payments"]
+    },
+    {
+      "id": "cash-advance",
+      "term": "cash advance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用卡预借现金",
+      "explanationZh": "使用信用卡额度取得现金或进行被发卡机构视为现金类的交易。它通常与普通购物采用不同的利息和费用规则，利息也可能更早开始计算。",
+      "examples": [{"en": "The ATM withdrawal was treated as a cash advance on my credit card.", "zh": "这笔 ATM 取款被当作信用卡预借现金处理了。", "scenarioZh": "查看信用卡账单中的现金类交易"}],
+      "usageNotesZh": ["take out a cash advance 表示用信用卡预借现金。", "操作前应查看 cash advance fee、利率和开始计息时间。"],
+      "tags": ["banking", "credit-cards", "cash"]
+    },
+    {
+      "id": "annual-fee",
+      "term": "annual fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "年费",
+      "explanationZh": "银行或发卡机构每年为持有某个账户或信用卡产品收取的费用。有些卡没有年费，有些可通过特定账户方案减免，条件要看协议。",
+      "examples": [{"en": "The credit card has a $120 annual fee.", "zh": "这张信用卡每年收取 120 加元年费。", "scenarioZh": "比较不同信用卡的持有成本"}],
+      "usageNotesZh": ["常见搭配：charge/waive an annual fee（收取/免除年费）。", "no annual fee 表示免年费，不代表没有其他费用。"],
+      "tags": ["banking", "credit-cards", "fees"]
+    },
+    {
+      "id": "foreign-transaction-fee",
+      "term": "foreign transaction fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "外币交易手续费",
+      "explanationZh": "使用银行卡进行外币计价或境外交易时，发卡机构可能收取的额外费用。它可能与支付网络采用的汇率分开计算。",
+      "examples": [{"en": "Does this card charge a foreign transaction fee for purchases in Australian dollars?", "zh": "这张卡用澳元消费会收取外币交易手续费吗？", "scenarioZh": "出国前向银行确认刷卡费用"}],
+      "usageNotesZh": ["常见简称有 foreign exchange fee 或 FX fee，但具体定义可能略有不同。", "商户提供的加元换算也可能有额外成本，不能只看银行卡是否免手续费。"],
+      "tags": ["banking", "credit-cards", "fees", "travel"]
+    },
+    {
+      "id": "insufficient-funds",
+      "term": "insufficient funds",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "资金不足；账户余额不足",
+      "explanationZh": "账户没有足够可用资金完成付款、支票或自动扣款时出现的状态。交易可能被拒绝，也可能因透支安排而继续处理并产生费用。",
+      "examples": [{"en": "The rent payment was returned because of insufficient funds.", "zh": "房租付款因账户余额不足被退回了。", "scenarioZh": "查看自动扣款失败的原因"}],
+      "usageNotesZh": ["常见提示：insufficient funds 或 insufficient available funds。", "口语和银行通知中也常见缩写 NSF，意思是 non-sufficient funds。"],
+      "tags": ["banking", "account-balance", "payment-problems"]
+    },
+    {
+      "id": "nsf-fee",
+      "term": "NSF fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "余额不足退付款手续费",
+      "explanationZh": "因账户资金不足而导致支票、自动扣款或其他付款无法完成时，银行可能收取的费用。收款方也可能另行收取退付款费用。",
+      "examples": [{"en": "I was charged an NSF fee after the automatic payment was returned.", "zh": "自动付款被退回后，我被收取了余额不足手续费。", "scenarioZh": "核对银行账户中的额外收费"}],
+      "usageNotesZh": ["NSF 是 non-sufficient funds 的缩写，在加拿大银行通知中很常见。", "避免费用的关键是扣款日前确认 available balance，而不只是账面余额。"],
+      "tags": ["banking", "fees", "payment-problems"]
+    },
+    {
+      "id": "overdraft-protection",
+      "term": "overdraft protection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "透支保护",
+      "explanationZh": "当日常账户余额不足时，由银行按约定提供临时资金或从其他账户补足的服务。它可能减少付款被退回的风险，但通常仍有利息、固定费用或资格限制。",
+      "examples": [{"en": "I added overdraft protection to my chequing account for emergencies.", "zh": "我给日常交易账户加了透支保护，以备紧急情况。", "scenarioZh": "向银行了解余额不足时的保护选项"}],
+      "usageNotesZh": ["have/apply for overdraft protection 表示拥有/申请透支保护。", "透支保护不是免费余额，使用前应确认费用、利率和额度。"],
+      "tags": ["banking", "accounts", "payment-protection"]
+    },
+    {
+      "id": "joint-account",
+      "term": "joint account",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "联名账户；共同账户",
+      "explanationZh": "由两人或多人共同持有的银行账户，常用于伴侣或家庭共同管理开支。每位持有人的交易权限、账户责任和变更规则应在开户时确认。",
+      "examples": [{"en": "We opened a joint account for rent and household bills.", "zh": "我们开了一个联名账户，用来支付房租和家庭账单。", "scenarioZh": "伴侣安排共同生活开支"}],
+      "usageNotesZh": ["joint account holder 表示联名账户持有人。", "联名账户不等于只给别人一张附属卡，法律关系和权限可能不同。"],
+      "tags": ["banking", "accounts", "household-finance"]
+    },
+    {
+      "id": "credit-score",
+      "term": "credit score",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用评分",
+      "explanationZh": "根据信用记录等信息计算的分数，贷款机构、房东或服务商可能在获得允许后用它评估信用风险。按时付款和控制欠款通常有助于维护评分。",
+      "examples": [{"en": "Paying every bill on time can help protect your credit score.", "zh": "按时支付每张账单有助于维护信用评分。", "scenarioZh": "新移民了解如何建立加拿大信用记录"}],
+      "usageNotesZh": ["check your credit score 表示查询信用评分。", "credit score 是分数；credit report 是记录信用账户和查询等信息的报告。"],
+      "tags": ["banking", "credit", "personal-finance"]
+    },
+    {
+      "id": "credit-report",
+      "term": "credit report",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用报告",
+      "explanationZh": "汇总个人信用账户、付款记录、信贷查询及部分公共记录的文件。发现不认识的账户或错误信息时，应向相关机构核实并按流程提出异议。",
+      "examples": [{"en": "I found an account I didn't recognize on my credit report.", "zh": "我在信用报告里发现了一个不认识的账户。", "scenarioZh": "定期检查个人信用记录时发现异常"}],
+      "usageNotesZh": ["request/review a credit report 表示索取/查看信用报告。", "查看自己的报告与贷款机构进行信用查询，对评分的影响可能不同。"],
+      "tags": ["banking", "credit", "documents"]
+    },
+    {
+      "id": "authorized-user",
+      "term": "authorized user",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用卡授权使用人；附属持卡人",
+      "explanationZh": "经主账户持有人授权、可以使用该信用卡账户消费的人。其还款责任、可见信息和对信用记录的影响取决于发卡机构协议。",
+      "examples": [{"en": "I added my partner as an authorized user on the credit card.", "zh": "我把伴侣添加为这张信用卡的授权使用人。", "scenarioZh": "家庭成员申请共享信用卡账户"}],
+      "usageNotesZh": ["加拿大银行也可能使用 additional cardholder 或 supplementary cardholder。", "authorized user 通常不是主账户持有人，权限和责任不一定相同。"],
+      "tags": ["banking", "credit-cards", "account-access"]
+    },
+    {
+      "id": "cardholder",
+      "term": "cardholder",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "持卡人",
+      "explanationZh": "银行卡或信用卡登记的使用人。银行协议、保险条件和争议流程中常用这个正式称呼，用来说明持卡人的权利与责任。",
+      "examples": [{"en": "Only the cardholder can report the card as lost.", "zh": "只有持卡人可以报告银行卡遗失。", "scenarioZh": "家人代打电话时被银行要求持卡人本人联系"}],
+      "usageNotesZh": ["primary cardholder 是主卡持有人；additional cardholder 是附属持卡人。", "cardholder name 指卡片或账户上登记的持卡人姓名。"],
+      "tags": ["banking", "cards", "account-access"]
+    },
+    {
+      "id": "unauthorized-transaction",
+      "term": "unauthorized transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "未经授权的交易；非本人交易",
+      "explanationZh": "未经账户或持卡人许可发生的付款、转账或取款。发现后应尽快锁卡、保存交易信息并按银行流程报告，不能只等待它自行消失。",
+      "examples": [{"en": "I need to report an unauthorized transaction on my debit card.", "zh": "我需要报告借记卡上的一笔非本人交易。", "scenarioZh": "发现陌生扣款后联系银行安全部门"}],
+      "usageNotesZh": ["常见搭配：report/investigate an unauthorized transaction（报告/调查未经授权的交易）。", "先确认商户名称、家庭共享和待处理交易，再按银行要求报告；不要向来电者透露验证码。"],
+      "tags": ["banking", "fraud-prevention", "transactions"]
+    },
+    {
+      "id": "dispute-a-charge",
+      "term": "dispute a charge",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "对一笔扣款提出争议",
+      "explanationZh": "向银行或发卡机构正式说明某笔扣款有问题并请求调查，例如重复收费、金额错误、未收到货或未经授权。不同原因需要的证据和期限可能不同。",
+      "examples": [{"en": "I contacted the merchant before asking the bank to dispute the charge.", "zh": "在请银行对扣款提出争议前，我先联系了商家。", "scenarioZh": "处理商家重复收取的一笔费用"}],
+      "usageNotesZh": ["也常说 dispute a transaction；chargeback 是可能产生的处理结果或流程术语。", "提出争议不保证一定退款，应保留收据、聊天记录和取消证明。"],
+      "tags": ["banking", "disputes", "consumer-protection"]
+    }
+  ]
+}
