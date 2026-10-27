@@ -22,6 +22,7 @@ all-you-can-eat
 Allen key
 aluminum foil
 amenity
+annual fee
 antibiotics
 antihistamine
 antiperspirant
@@ -34,7 +35,10 @@ appointment
 area rug
 as needed
 assignment
+ATM
+authorized user
 auto-load
+automatic payment
 available credit
 backorder
 backseat driver
@@ -48,8 +52,10 @@ balance
 ballpark
 Band-Aid
 banister
+bank branch
 bank draft
 bank statement
+bank teller
 barcode
 base layer
 baseboard
@@ -60,6 +66,8 @@ bell pepper
 benefits
 best before date
 bike rack
+bill payment
+billing cycle
 birth certificate
 bite the bullet
 black ice
@@ -121,10 +129,12 @@ caramelize
 carbon monoxide detector
 card balance
 card reader
+cardholder
 carpool lane
 carsick
 cart corral
 carton
+cash advance
 cash back
 cashier
 cast
@@ -198,6 +208,8 @@ credit
 credit card
 credit check
 credit limit
+credit report
+credit score
 crisper drawer
 crockpot
 crosswalk
@@ -206,6 +218,7 @@ crutches
 cul-de-sac
 curbside pickup
 curdle
+current balance
 curtain rod
 cut someone off
 cut to the chase
@@ -241,6 +254,7 @@ dice
 dimmer switch
 dine-in
 direct deposit
+dispute a charge
 dissertation
 dive bar
 doctor's note
@@ -345,6 +359,7 @@ food bank
 food coma
 for here or to go
 for sure
+foreign transaction fee
 free sample
 free-range
 freezing rain
@@ -444,6 +459,7 @@ in-network
 ingredient list
 inhaler
 institution number
+insufficient funds
 insulated
 intake form
 interest
@@ -454,6 +470,7 @@ jaywalk
 job application
 job offer
 job posting
+joint account
 journal
 jug
 julienne
@@ -527,6 +544,7 @@ minimum payment
 minutes
 mittens
 mixing bowl
+mobile banking
 mocktail
 money order
 month-to-month
@@ -553,6 +571,7 @@ notarize
 notary public
 notice period
 notice to enter
+NSF fee
 numb
 nurse a drink
 nurse practitioner
@@ -575,6 +594,7 @@ on the side
 on-ramp
 onboarding
 one-way street
+online banking
 online portal
 open enrollment
 orientation
@@ -584,10 +604,12 @@ ottoman
 out of stock
 out-of-pocket
 outlet
+outstanding balance
 oven mitt
 over easy
 over-the-counter
 overdraft
+overdraft protection
 overtime
 P-trap
 packed
@@ -629,6 +651,7 @@ piece of cake
 pileup
 pillow sham
 pilot light
+PIN
 pint
 piping hot
 pit
@@ -950,6 +973,7 @@ twist tie
 two-four
 Tylenol
 U-turn
+unauthorized transaction
 under the weather
 undergraduate
 unfurnished
@@ -999,6 +1023,7 @@ winter tires
 wipe
 wire transfer
 withdraw
+withdrawal limit
 wok
 work schedule
 workload
