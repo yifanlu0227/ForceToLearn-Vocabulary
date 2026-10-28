@@ -48,6 +48,7 @@ bagging area
 bail on
 bakery section
 baking sheet
+balaclava
 balance
 ballpark
 Band-Aid
@@ -79,6 +80,7 @@ blinker
 blister
 block heater
 blood work
+blowing snow
 board
 board game
 body wash
@@ -107,6 +109,7 @@ bundle up
 bungee cord
 burner
 bursary
+burst pipe
 bus a table
 bus stop
 business day
@@ -168,6 +171,7 @@ co-signer
 coffee run
 colander
 cold cuts
+cold snap
 collaborate
 collection day
 comforter
@@ -266,6 +270,7 @@ down for
 down jacket
 downspout
 draft
+drafty
 drain
 drain snake
 drapes
@@ -279,6 +284,7 @@ drop off
 drop the ball
 drop-in
 drowsy
+dry air
 dryer sheet
 drywall
 duct tape
@@ -295,6 +301,7 @@ elective
 elevator booking
 elevator outage
 eligibility
+emergency kit
 employee badge
 employment contract
 encore
@@ -317,6 +324,7 @@ express bus
 express lane
 extension
 extension cord
+extreme cold warning
 eye drops
 fabric softener
 faculty
@@ -363,6 +371,8 @@ foreign transaction fee
 free sample
 free-range
 freezing rain
+frostbite
+frozen pipe
 full-time
 funding
 furnace
@@ -417,6 +427,7 @@ hamper
 hand basket
 hand in
 hand soap
+hand warmers
 hang dry
 hang in there
 hangry
@@ -441,9 +452,12 @@ honk
 host
 hourly wage
 house wine
+humidifier
 hybrid work
 hydro
 hydro bill
+hypothermia
+ice melt
 ice scraper
 Iced Capp
 icy
@@ -623,6 +637,7 @@ parchment paper
 paring knife
 parka
 parkade
+parking ban
 parking meter
 parking permit
 parking spot
@@ -671,6 +686,7 @@ pothole
 potluck
 pour-over
 power bar
+power outage
 pre-authorized payment
 pre-washed
 preheat
@@ -754,7 +770,9 @@ rink
 rinse
 rip-off
 ripe
+road conditions
 road rage
+road salt
 roadside assistance
 rolling pin
 room for cream
@@ -836,7 +854,10 @@ smoke detector
 smoke-free
 snag a table
 snow boots
+snow pants
+snow removal
 snow shovel
+snow squall
 snowbank
 snowfall
 snowplow
@@ -867,6 +888,7 @@ stall
 start a tab
 start date
 statement balance
+static electricity
 station entrance
 steep
 step stool
@@ -1006,12 +1028,14 @@ washroom
 water heater
 watered down
 waterproof
+weather forecast
 weatherstripping
 weigh
 well done
 wet wipes
 whip
 whisk
+whiteout
 wilted
 wind chill
 window screen
@@ -1019,6 +1043,7 @@ window sill
 windproof
 windshield wipers
 wing it
+winter storm warning
 winter tires
 wipe
 wire transfer
