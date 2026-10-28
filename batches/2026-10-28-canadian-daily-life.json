@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-28-canadian-daily-life",
+  "title": "加拿大日常生活：冬季天气与居家防寒",
+  "publishedOn": "2026-10-28",
+  "entries": [
+    {
+      "id": "weather-forecast",
+      "term": "weather forecast",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "天气预报",
+      "explanationZh": "对未来天气、气温、降水和风力的预测。加拿大冬季出门、开车或安排航班前，常需要查看当天和逐小时预报。",
+      "examples": [{"en": "The weather forecast says the snow will start after the evening commute.", "zh": "天气预报说，雪会在晚高峰之后开始下。", "scenarioZh": "出门前确认降雪时间"}],
+      "usageNotesZh": ["常见搭配：check the weather forecast（查看天气预报）。", "hourly forecast 是逐小时预报；long-range forecast 是较长期预报。"],
+      "tags": ["winter", "weather", "daily-planning"]
+    },
+    {
+      "id": "cold-snap",
+      "term": "cold snap",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "短时间突然出现的严寒天气",
+      "explanationZh": "气温在一段相对短的时间里明显下降并持续寒冷的天气过程。新闻和日常聊天中都很常见，通常比普通的 cold weather 更强调突然而短暂。",
+      "examples": [{"en": "The cold snap is expected to last through the weekend.", "zh": "这轮寒潮预计会持续整个周末。", "scenarioZh": "查看周末低温新闻"}],
+      "usageNotesZh": ["常见搭配：a sudden cold snap（一轮突然的严寒天气）。", "cold snap 通常指一段天气，不是某一个瞬间的降温。"],
+      "tags": ["winter", "weather", "cold"]
+    },
+    {
+      "id": "extreme-cold-warning",
+      "term": "extreme cold warning",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "极寒警告",
+      "explanationZh": "气象机构在极低气温或危险风寒值出现时发布的正式警告。收到后应缩短户外停留时间，并特别照顾儿童、老人和没有稳定住所的人。",
+      "examples": [{"en": "An extreme cold warning is in effect for Toronto tonight.", "zh": "多伦多今晚处于极寒警告之下。", "scenarioZh": "手机收到官方天气提醒"}],
+      "usageNotesZh": ["常见表达：A warning is in effect.（警告正在生效。）", "warning 是正式警告；普通预报中的 cold temperatures 不一定达到警告标准。"],
+      "tags": ["winter", "weather-alerts", "safety"]
+    },
+    {
+      "id": "winter-storm-warning",
+      "term": "winter storm warning",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冬季风暴警告",
+      "explanationZh": "针对可能造成危险出行条件的强降雪、冻雨、风或多种冬季天气组合发布的正式警告。出现时应减少不必要出行并关注交通服务变化。",
+      "examples": [{"en": "The university cancelled evening classes because of the winter storm warning.", "zh": "由于冬季风暴警告，学校取消了晚间课程。", "scenarioZh": "学生查看恶劣天气停课通知"}],
+      "usageNotesZh": ["常见搭配：issue a winter storm warning（发布冬季风暴警告）。", "具体触发标准因地区和气象机构而异。"],
+      "tags": ["winter", "weather-alerts", "storm"]
+    },
+    {
+      "id": "snow-squall",
+      "term": "snow squall",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "突发强阵雪",
+      "explanationZh": "来得突然、持续时间可能不长但降雪和阵风很强的天气，能让能见度迅速下降并使道路很快积雪。冬季驾车时尤其危险。",
+      "examples": [{"en": "We pulled over safely when the snow squall reduced visibility.", "zh": "强阵雪导致能见度下降时，我们安全地靠边停车了。", "scenarioZh": "高速公路上突然遇到强降雪"}],
+      "usageNotesZh": ["snow squall warning 是强阵雪警告。", "squall 强调突然、猛烈，不能简单理解为持续整天的小雪。"],
+      "tags": ["winter", "snow", "driving-safety"]
+    },
+    {
+      "id": "whiteout",
+      "term": "whiteout",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雪天白茫一片、几乎失去能见度的状况",
+      "explanationZh": "大雪或吹雪让天空、地面和远处景物融成白色，驾驶者难以辨认道路和方向的危险情况。遇到时不要继续高速行驶。",
+      "examples": [{"en": "The highway was closed because of whiteout conditions.", "zh": "由于白茫天气导致能见度极低，高速公路被关闭了。", "scenarioZh": "查看冬季道路关闭消息"}],
+      "usageNotesZh": ["常见搭配：whiteout conditions（白茫、极低能见度状况）。", "whiteout 不只是“下大雪”，重点是视野和地平线几乎消失。"],
+      "tags": ["winter", "visibility", "driving-safety"]
+    },
+    {
+      "id": "blowing-snow",
+      "term": "blowing snow",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "被风吹起并降低能见度的雪",
+      "explanationZh": "地面已有的雪或正在下的雪被强风卷起，造成视线受阻和路面积雪漂移。即使当时降雪不大，也可能出现危险路况。",
+      "examples": [{"en": "Blowing snow is making the rural roads hard to see.", "zh": "风吹雪让乡间道路很难看清。", "scenarioZh": "冬天开车经过空旷路段"}],
+      "usageNotesZh": ["天气预报中常与 reduced visibility（能见度降低）一起出现。", "drifting snow 更强调雪被风堆成雪堆；blowing snow 更强调雪在风中移动。"],
+      "tags": ["winter", "snow", "visibility"]
+    },
+    {
+      "id": "road-conditions",
+      "term": "road conditions",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "道路状况；路况",
+      "explanationZh": "道路表面、能见度、封路和施工等影响驾驶的信息。冬季长途出发前，应查看沿途是否有积雪、结冰或道路关闭。",
+      "examples": [{"en": "Check the road conditions before driving north this morning.", "zh": "今天早上往北开车前，先查一下路况。", "scenarioZh": "降雪后准备城际出行"}],
+      "usageNotesZh": ["road conditions 通常用复数。", "poor/icy road conditions 表示路况较差或道路结冰。"],
+      "tags": ["winter", "driving", "travel"]
+    },
+    {
+      "id": "parking-ban",
+      "term": "parking ban",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停车禁令",
+      "explanationZh": "市政府在特定时间或道路上临时禁止停车的规定，冬季常用于让扫雪车顺利清理道路。违反后车辆可能被开罚单或拖走。",
+      "examples": [{"en": "The city declared a parking ban so crews could clear the snow.", "zh": "市政府宣布了停车禁令，以便作业人员清雪。", "scenarioZh": "暴雪后查看路边停车规定"}],
+      "usageNotesZh": ["常见搭配：declare/lift a parking ban（宣布/解除停车禁令）。", "具体路段、时间和例外情况应查看当地官方通知。"],
+      "tags": ["winter", "parking", "city-services"]
+    },
+    {
+      "id": "road-salt",
+      "term": "road salt",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "道路融雪盐",
+      "explanationZh": "冬季撒在道路或人行道上、帮助降低冰点并融化冰雪的盐。它能改善路面，但也可能腐蚀车辆、损伤鞋面并刺激宠物脚掌。",
+      "examples": [{"en": "Rinse the road salt off your winter boots when you get home.", "zh": "回家后把冬靴上的融雪盐冲掉。", "scenarioZh": "雪后保养鞋子"}],
+      "usageNotesZh": ["salt the road/sidewalk 表示给道路或人行道撒盐。", "road salt 是物质名称，通常不可数。"],
+      "tags": ["winter", "snow-removal", "road-safety"]
+    },
+    {
+      "id": "ice-melt",
+      "term": "ice melt",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "融冰剂；融雪颗粒",
+      "explanationZh": "撒在台阶、车道或人行道上帮助融化冰雪的颗粒产品，成分可能不是普通盐。使用量、适用温度和对混凝土或宠物的影响要看包装说明。",
+      "examples": [{"en": "I spread ice melt on the front steps before they froze.", "zh": "前门台阶结冰前，我撒了融冰剂。", "scenarioZh": "冻雨来临前处理住宅入口"}],
+      "usageNotesZh": ["spread/apply ice melt 表示撒融冰剂。", "ice melt 在商店里常作产品类别名称使用。"],
+      "tags": ["winter", "home-maintenance", "ice"]
+    },
+    {
+      "id": "snow-removal",
+      "term": "snow removal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "清雪；积雪清除服务",
+      "explanationZh": "从道路、车道、人行道或物业范围内清除积雪的工作或服务。租房和公寓场景中，谁负责清雪应查看租约或物业安排。",
+      "examples": [{"en": "Snow removal is included in our building's maintenance fee.", "zh": "我们楼的维护费里包含清雪服务。", "scenarioZh": "住户确认冬季物业服务范围"}],
+      "usageNotesZh": ["snow removal service 表示清雪服务。", "remove snow 强调清走积雪；salting 则是撒盐防滑或融冰。"],
+      "tags": ["winter", "property-maintenance", "city-services"]
+    },
+    {
+      "id": "power-outage",
+      "term": "power outage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停电",
+      "explanationZh": "某个地区或建筑暂时失去电力供应的情况。冬季风暴中可能影响照明、供暖设备、网络和电梯，应提前准备手电、充电电源及保暖用品。",
+      "examples": [{"en": "The power outage lasted three hours during the ice storm.", "zh": "冰暴期间停电持续了三个小时。", "scenarioZh": "向邻居说明昨晚的供电中断"}],
+      "usageNotesZh": ["常见搭配：a widespread power outage（大范围停电）。", "The power is out. 是口语中表达“停电了”的自然说法。"],
+      "tags": ["winter", "utilities", "emergencies"]
+    },
+    {
+      "id": "frozen-pipe",
+      "term": "frozen pipe",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冻住的水管",
+      "explanationZh": "水管里的水因低温结冰，导致水流变小或完全停止的情况。继续结冰会增加水管破裂风险，发现后应尽快联系房东、物业或专业人员。",
+      "examples": [{"en": "There is no water in the kitchen, so we may have a frozen pipe.", "zh": "厨房没有水了，可能是水管冻住了。", "scenarioZh": "严寒天气后向房东报告供水异常"}],
+      "usageNotesZh": ["prevent pipes from freezing 表示防止水管结冰。", "不要用明火直接加热水管；租房时应先通知负责维修的人。"],
+      "tags": ["winter", "plumbing", "home-maintenance"]
+    },
+    {
+      "id": "burst-pipe",
+      "term": "burst pipe",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "爆裂的水管",
+      "explanationZh": "水管因结冰、压力或老化而裂开并漏水的紧急故障。应尽快关闭相关供水并联系物业或水管工，避免水损进一步扩大。",
+      "examples": [{"en": "A burst pipe flooded the laundry room overnight.", "zh": "一根爆裂的水管一夜之间淹了洗衣房。", "scenarioZh": "向物业报告紧急漏水事故"}],
+      "usageNotesZh": ["a pipe burst 表示“水管爆了”；burst 的过去式仍是 burst。", "burst pipe 是结果，frozen pipe 是可能导致它的一种原因。"],
+      "tags": ["winter", "plumbing", "emergencies"]
+    },
+    {
+      "id": "drafty",
+      "term": "drafty",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "漏风的；有冷风灌入的",
+      "explanationZh": "形容门窗或房间密封不好，有一股股冷空气进入。冬季感觉室温不低却总有冷风时，常会用这个词。",
+      "examples": [{"en": "The bedroom feels drafty around the window.", "zh": "卧室窗户附近感觉有些漏风。", "scenarioZh": "向房东描述房间冬季保温问题"}],
+      "usageNotesZh": ["加拿大和美国常写 drafty；英式拼写常见 draughty。", "a drafty window/room 表示漏风的窗户或房间。"],
+      "tags": ["winter", "housing", "insulation"]
+    },
+    {
+      "id": "humidifier",
+      "term": "humidifier",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "加湿器",
+      "explanationZh": "向室内空气增加水分的设备，冬季供暖使空气干燥时常用。水箱和滤芯需要按说明清洁，以免滋生霉菌或细菌。",
+      "examples": [{"en": "I run a humidifier at night because the heating makes the air dry.", "zh": "暖气让空气很干，所以我晚上会开加湿器。", "scenarioZh": "改善冬季卧室空气干燥"}],
+      "usageNotesZh": ["run/use a humidifier 表示开启或使用加湿器。", "与 dehumidifier（除湿机）作用相反。"],
+      "tags": ["winter", "home-appliances", "indoor-air"]
+    },
+    {
+      "id": "dry-air",
+      "term": "dry air",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "干燥的空气",
+      "explanationZh": "湿度较低的空气。加拿大冬季室外寒冷、室内持续供暖时很常见，可能让皮肤、嘴唇、眼睛或鼻腔感到干燥。",
+      "examples": [{"en": "The dry air in my apartment is making my lips crack.", "zh": "公寓里的干燥空气让我的嘴唇开裂了。", "scenarioZh": "描述冬季室内不适"}],
+      "usageNotesZh": ["dry indoor air 表示干燥的室内空气。", "air 作“空气”讲时通常不可数，不说 a dry air。"],
+      "tags": ["winter", "indoor-air", "comfort"]
+    },
+    {
+      "id": "static-electricity",
+      "term": "static electricity",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "静电",
+      "explanationZh": "电荷积聚后在接触物体或他人时突然放电的现象。冬季室内空气干燥、穿脱合成纤维衣物或走过地毯时尤其常见。",
+      "examples": [{"en": "I keep getting small shocks from static electricity in the office.", "zh": "我在办公室总是被静电轻微电到。", "scenarioZh": "冬天触碰门把手时频繁被电"}],
+      "usageNotesZh": ["get a static shock 表示被静电电了一下。", "static 在口语中也可单独指静电，但 static electricity 更明确。"],
+      "tags": ["winter", "indoor-air", "daily-life"]
+    },
+    {
+      "id": "frostbite",
+      "term": "frostbite",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冻伤",
+      "explanationZh": "皮肤和更深层组织因严寒而受损，手指、脚趾、耳朵和鼻子等暴露部位风险较高。皮肤麻木、苍白或异常坚硬时应尽快离开寒冷环境并寻求医疗帮助。",
+      "examples": [{"en": "Cover exposed skin to reduce the risk of frostbite.", "zh": "遮住裸露的皮肤，以降低冻伤风险。", "scenarioZh": "极寒警告期间查看户外安全提示"}],
+      "usageNotesZh": ["get/suffer frostbite 表示发生冻伤。", "不要用很烫的水或直接摩擦疑似冻伤部位；严重时应及时就医。"],
+      "tags": ["winter", "cold-injury", "safety"]
+    },
+    {
+      "id": "hypothermia",
+      "term": "hypothermia",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "低体温症；失温",
+      "explanationZh": "身体核心温度因长时间暴露在寒冷、潮湿或大风环境中降到危险水平。持续发抖、反应迟钝、说话含糊或意识混乱可能是警讯。",
+      "examples": [{"en": "Wet clothing can increase the risk of hypothermia in cold weather.", "zh": "寒冷天气里，湿衣服会增加失温风险。", "scenarioZh": "冬季户外活动前学习安全知识"}],
+      "usageNotesZh": ["develop hypothermia 表示出现低体温症。", "hypothermia 是医疗紧急情况；出现严重症状应立即求助。"],
+      "tags": ["winter", "cold-injury", "emergencies"]
+    },
+    {
+      "id": "hand-warmers",
+      "term": "hand warmers",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "暖手包；暖手贴",
+      "explanationZh": "放在手套或口袋里提供热量的小包，常见一次性化学发热和可重复使用款。使用时应按包装说明，避免长时间直接贴在裸露皮肤上。",
+      "examples": [{"en": "I put hand warmers in my mittens before the outdoor game.", "zh": "去看户外比赛前，我在连指手套里放了暖手包。", "scenarioZh": "冬天长时间待在户外前做准备"}],
+      "usageNotesZh": ["单个是 a hand warmer，多个通常说 hand warmers。", "不要与 space heater（空间加热器）混淆。"],
+      "tags": ["winter", "clothing", "outdoor-comfort"]
+    },
+    {
+      "id": "snow-pants",
+      "term": "snow pants",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "防雪保暖裤；滑雪裤",
+      "explanationZh": "用于玩雪、滑雪或长时间户外活动的保暖防水长裤，通常穿在普通衣物外面。儿童冬季上学和户外活动也很常见。",
+      "examples": [{"en": "The school asked children to bring snow pants for outdoor recess.", "zh": "学校要求孩子们为户外课间活动带上防雪保暖裤。", "scenarioZh": "家长查看冬季上学用品通知"}],
+      "usageNotesZh": ["snow pants 通常用复数形式，和 pants 一样。", "ski pants 更强调滑雪用途；日常儿童冬装常说 snow pants。"],
+      "tags": ["winter", "clothing", "school"]
+    },
+    {
+      "id": "balaclava",
+      "term": "balaclava",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "巴拉克拉法帽；包住头颈、只露部分脸的保暖面罩",
+      "explanationZh": "覆盖头部、耳朵和颈部，并只露出眼睛或部分脸部的保暖头套。极寒、滑雪、骑行或户外工作时很实用。",
+      "examples": [{"en": "He wore a balaclava under his helmet to keep his face warm.", "zh": "他在头盔下面戴了保暖面罩，让脸部保持温暖。", "scenarioZh": "冬季骑行前准备保暖装备"}],
+      "usageNotesZh": ["也常被称为 ski mask，但 balaclava 更中性地强调服装类型。", "可说 wear a balaclava under a helmet（在头盔下戴头套）。"],
+      "tags": ["winter", "clothing", "outdoor-safety"]
+    },
+    {
+      "id": "emergency-kit",
+      "term": "emergency kit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "应急用品包",
+      "explanationZh": "为停电、暴风雪、车辆故障或其他突发情况准备的一组物资，通常包括手电、备用电池、水、食物、药品和保暖用品。家庭和汽车可分别准备。",
+      "examples": [{"en": "Keep an emergency kit in the car during the winter.", "zh": "冬季应在车里备一套应急用品。", "scenarioZh": "为冬天长途驾车做安全准备"}],
+      "usageNotesZh": ["home emergency kit 是家庭应急包；car emergency kit 是车载应急包。", "物品应定期检查有效期、电量和季节适用性。"],
+      "tags": ["winter", "emergency-preparedness", "safety"]
+    }
+  ]
+}
