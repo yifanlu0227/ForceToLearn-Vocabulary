@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-29-canadian-daily-life",
+  "title": "加拿大日常生活：家庭清洁与日常卫生",
+  "publishedOn": "2026-10-29",
+  "entries": [
+    {
+      "id": "disinfectant",
+      "term": "disinfectant",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "消毒剂；消毒用的",
+      "explanationZh": "用于杀灭或灭活物体表面部分有害微生物的产品。它与普通清洁剂用途不同，使用浓度、接触时间和适用表面应按标签说明。",
+      "examples": [{"en": "Use a disinfectant on the bathroom handle after cleaning it.", "zh": "清洁浴室门把手后，再使用消毒剂处理。", "scenarioZh": "家中有人生病后清洁高频接触表面"}],
+      "usageNotesZh": ["常见搭配：disinfectant spray/wipes（消毒喷雾/湿巾）。", "不要随意混合不同清洁产品，尤其不要把含漂白剂产品与其他化学品混用。"],
+      "tags": ["hygiene", "cleaning-products", "home"]
+    },
+    {
+      "id": "disinfect",
+      "term": "disinfect",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "给……消毒",
+      "explanationZh": "使用合适的方法或产品减少物体表面的有害微生物。通常应先去掉明显污垢，再按消毒产品标签保持足够的湿润接触时间。",
+      "examples": [{"en": "I disinfect the kitchen counter after preparing raw chicken.", "zh": "处理完生鸡肉后，我会给厨房台面消毒。", "scenarioZh": "做饭后处理可能被生肉污染的表面"}],
+      "usageNotesZh": ["disinfect a surface 表示给表面消毒。", "clean 强调去除污垢；disinfect 强调降低有害微生物，两步不一定相同。"],
+      "tags": ["hygiene", "cleaning-actions", "food-safety"]
+    },
+    {
+      "id": "hand-sanitizer",
+      "term": "hand sanitizer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "免洗洗手液；手部消毒液",
+      "explanationZh": "没有方便的肥皂和流水时用于清洁手部的产品，常见为酒精配方。手上有明显油污或脏物时，通常还是用肥皂和水洗手更合适。",
+      "examples": [{"en": "There is hand sanitizer beside the clinic entrance.", "zh": "诊所入口旁边有免洗洗手液。", "scenarioZh": "进入诊所前清洁双手"}],
+      "usageNotesZh": ["use/apply hand sanitizer 表示使用免洗洗手液。", "sanitizer 在明确手部语境中可单独使用，但 hand sanitizer 更清楚。"],
+      "tags": ["hygiene", "hand-care", "public-spaces"]
+    },
+    {
+      "id": "all-purpose-cleaner",
+      "term": "all-purpose cleaner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "多用途清洁剂",
+      "explanationZh": "可用于多种常见硬质表面的通用清洁产品，适合日常擦拭厨房、桌面或柜门。天然石材、木材和电子设备等特殊表面仍需确认是否适用。",
+      "examples": [{"en": "I use an all-purpose cleaner for the counters and cabinet doors.", "zh": "我用多用途清洁剂擦台面和橱柜门。", "scenarioZh": "做每周厨房清洁"}],
+      "usageNotesZh": ["也常写作 multipurpose cleaner。", "all-purpose 不代表可用于任何材质，使用前仍要读标签。"],
+      "tags": ["hygiene", "cleaning-products", "household"]
+    },
+    {
+      "id": "glass-cleaner",
+      "term": "glass cleaner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "玻璃清洁剂",
+      "explanationZh": "用于清洁窗户、镜子等玻璃表面的产品，重点是去除手印和污渍并减少水痕。带特殊涂层的屏幕或镜面应按制造商说明处理。",
+      "examples": [{"en": "Spray the glass cleaner onto the cloth, not directly onto the screen.", "zh": "把玻璃清洁剂喷在布上，不要直接喷到屏幕上。", "scenarioZh": "清洁容易进液的电子设备表面"}],
+      "usageNotesZh": ["常见搭配：streak-free glass cleaner（不易留水痕的玻璃清洁剂）。", "普通 glass cleaner 不一定适用于显示器或带涂层镜片。"],
+      "tags": ["hygiene", "cleaning-products", "glass"]
+    },
+    {
+      "id": "toilet-cleaner",
+      "term": "toilet cleaner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "马桶清洁剂",
+      "explanationZh": "用于去除马桶内污渍、水垢和异味的清洁产品，常见液体、凝胶或泡腾片。应按标签操作并保持浴室通风。",
+      "examples": [{"en": "Let the toilet cleaner sit for ten minutes before scrubbing.", "zh": "先让马桶清洁剂停留十分钟，再刷洗。", "scenarioZh": "清洁马桶内壁的污渍"}],
+      "usageNotesZh": ["toilet bowl cleaner 更明确指马桶内壁清洁剂。", "不要把马桶清洁剂与漂白剂或其他产品随意混合。"],
+      "tags": ["hygiene", "bathroom", "cleaning-products"]
+    },
+    {
+      "id": "toilet-brush",
+      "term": "toilet brush",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "马桶刷",
+      "explanationZh": "用来刷洗马桶内壁的长柄刷子，通常配有单独的收纳底座。使用后应冲洗、尽量晾干，并与其他清洁工具分开。",
+      "examples": [{"en": "Use the toilet brush to scrub under the rim.", "zh": "用马桶刷刷洗边缘下方。", "scenarioZh": "清洁容易藏污的马桶内沿"}],
+      "usageNotesZh": ["under the rim 指马桶内沿下方。", "toilet brush 应只用于马桶，不要与浴缸或洗手池清洁刷混用。"],
+      "tags": ["hygiene", "bathroom", "cleaning-tools"]
+    },
+    {
+      "id": "rubber-gloves",
+      "term": "rubber gloves",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "橡胶清洁手套",
+      "explanationZh": "洗碗、刷浴室或接触清洁剂时保护双手的防水手套。实际材质也可能是乳胶、丁腈或其他合成材料，但日常仍常统称 rubber gloves。",
+      "examples": [{"en": "Wear rubber gloves when you clean the bathroom.", "zh": "清洁浴室时戴上橡胶手套。", "scenarioZh": "使用刺激性清洁产品前保护双手"}],
+      "usageNotesZh": ["a pair of rubber gloves 表示一副橡胶手套。", "对乳胶过敏时应查看材质并选择 latex-free 产品。"],
+      "tags": ["hygiene", "cleaning-tools", "hand-protection"]
+    },
+    {
+      "id": "cleaning-sponge",
+      "term": "sponge",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "海绵；用海绵擦洗",
+      "explanationZh": "家务中常指吸水的清洁海绵，可用于洗碗或擦拭表面。厨房不同区域最好分开使用，并及时清洗、晾干和更换。",
+      "examples": [{"en": "Use a separate sponge for the sink and the dishes.", "zh": "水槽和餐具要使用不同的海绵。", "scenarioZh": "避免厨房清洁工具交叉污染"}],
+      "usageNotesZh": ["the rough side of the sponge 指海绵较粗糙的一面。", "作动词时 sponge down/off 表示用海绵擦洗。"],
+      "tags": ["hygiene", "kitchen", "cleaning-tools"]
+    },
+    {
+      "id": "scrub-brush",
+      "term": "scrub brush",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "硬毛清洁刷；刷洗刷",
+      "explanationZh": "用较硬刷毛去除浴缸、瓷砖、地板或缝隙顽固污渍的清洁工具。刷毛硬度应与表面材质匹配，避免留下划痕。",
+      "examples": [{"en": "I used a scrub brush to clean the grout between the tiles.", "zh": "我用硬毛清洁刷清理瓷砖之间的填缝。", "scenarioZh": "深度清洁浴室瓷砖"}],
+      "usageNotesZh": ["scrub 作动词表示用力刷洗。", "先在不显眼处测试，确认刷子不会损伤表面。"],
+      "tags": ["hygiene", "bathroom", "cleaning-tools"]
+    },
+    {
+      "id": "microfiber-cloth",
+      "term": "microfiber cloth",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "超细纤维清洁布",
+      "explanationZh": "由细密合成纤维制成、用于除尘和擦拭表面的布，吸水性较好且通常不易掉毛。不同颜色可分配给厨房、浴室和玻璃，减少混用。",
+      "examples": [{"en": "Wipe the mirror with a clean microfiber cloth.", "zh": "用干净的超细纤维布擦镜子。", "scenarioZh": "清洁镜面并减少水痕"}],
+      "usageNotesZh": ["damp microfiber cloth 表示微湿的超细纤维布。", "洗涤时是否能使用柔顺剂要看产品说明；柔顺剂可能影响部分纤维的吸附能力。"],
+      "tags": ["hygiene", "cleaning-tools", "surfaces"]
+    },
+    {
+      "id": "mop",
+      "term": "mop",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "拖把；拖地",
+      "explanationZh": "作名词指清洁地板的拖把，作动词指用拖把清洁地面。木地板、复合地板和瓷砖对水量及清洁剂的要求不同。",
+      "examples": [{"en": "I vacuum first and then mop the kitchen floor.", "zh": "我先吸尘，然后拖厨房地板。", "scenarioZh": "按顺序清理地面灰尘和污渍"}],
+      "usageNotesZh": ["mop the floor 表示拖地；mop up a spill 表示把洒出的液体拖净。", "湿拖前先清除砂粒，可减少刮伤地面的风险。"],
+      "tags": ["hygiene", "floors", "cleaning-tools"]
+    },
+    {
+      "id": "vacuum",
+      "term": "vacuum",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "吸尘器；用吸尘器清洁",
+      "explanationZh": "日常家务中既可指吸尘器，也可指吸地、地毯或家具。机器集尘盒、滤网和刷头需要定期清理。",
+      "examples": [{"en": "Could you vacuum the living room before our guests arrive?", "zh": "客人来之前，你能把客厅吸一下尘吗？", "scenarioZh": "招待朋友前分配家务"}],
+      "usageNotesZh": ["vacuum the carpet/floor 表示给地毯或地板吸尘。", "vacuum cleaner 是完整名词，但日常口语常直接说 vacuum。"],
+      "tags": ["hygiene", "floors", "cleaning-appliances"]
+    },
+    {
+      "id": "household-dust",
+      "term": "dust",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "灰尘；除尘",
+      "explanationZh": "作名词指家具和地面上积聚的细小颗粒；作动词表示擦掉灰尘。清洁时通常从高处开始，最后再处理地板。",
+      "examples": [{"en": "I dust the shelves once a week.", "zh": "我每周给架子除一次尘。", "scenarioZh": "进行固定的每周家庭清洁"}],
+      "usageNotesZh": ["dust the furniture 表示给家具除尘。", "a layer of dust 表示一层灰尘；dust 作灰尘讲时通常不可数。"],
+      "tags": ["hygiene", "dusting", "cleaning-actions"]
+    },
+    {
+      "id": "wipe-down",
+      "term": "wipe down",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "把表面全面擦拭一遍",
+      "explanationZh": "用布或湿巾从头到尾擦净某个物体或表面，常用于台面、桌子、健身器材和高频接触区域。它不一定代表已经完成消毒。",
+      "examples": [{"en": "Please wipe down the exercise machine after you use it.", "zh": "使用健身器械后请把它擦拭干净。", "scenarioZh": "遵守公寓健身房的卫生要求"}],
+      "usageNotesZh": ["wipe down the counter/equipment 表示把台面或设备擦一遍。", "宾语是代词时放中间：wipe it down。"],
+      "tags": ["hygiene", "cleaning-actions", "shared-spaces"]
+    },
+    {
+      "id": "deep-clean",
+      "term": "deep clean",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "深度清洁；彻底打扫",
+      "explanationZh": "比日常整理更细致的清洁，包括移动物品、清理角落、去除积垢和处理平时容易忽略的位置。搬入、搬出或季节变化时常会安排。",
+      "examples": [{"en": "We're doing a deep clean before moving out of the apartment.", "zh": "搬出公寓前，我们要做一次彻底清洁。", "scenarioZh": "退租前准备房屋检查"}],
+      "usageNotesZh": ["do/give the kitchen a deep clean 表示对厨房做深度清洁。", "也可作动词写成 deep-clean，但主词短语 deep clean 在日常表达中很常见。"],
+      "tags": ["hygiene", "cleaning-actions", "moving"]
+    },
+    {
+      "id": "air-out",
+      "term": "air out",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "通风；晾散异味",
+      "explanationZh": "打开窗户或把物品放到空气流通处，让潮气、闷味或清洁产品气味散去。冬季开窗时可短时间集中通风，避免室内过度降温。",
+      "examples": [{"en": "Let's air out the room after using the cleaning spray.", "zh": "用了清洁喷雾后，我们给房间通通风吧。", "scenarioZh": "清洁浴室后散去产品气味"}],
+      "usageNotesZh": ["air out a room 表示给房间通风；air out the bedding 表示晾晒或给寝具散味。", "宾语为代词时说 air it out。"],
+      "tags": ["hygiene", "ventilation", "indoor-air"]
+    },
+    {
+      "id": "mildew",
+      "term": "mildew",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "霉斑；霉菌形成的表面斑层",
+      "explanationZh": "常出现在浴室、窗边或潮湿织物表面的霉状斑点和气味。持续潮湿、通风不足和冷表面凝水都会增加出现风险。",
+      "examples": [{"en": "There is mildew around the shower seal.", "zh": "淋浴区密封边周围有霉斑。", "scenarioZh": "清洁浴室时发现潮湿处发霉"}],
+      "usageNotesZh": ["mildew smell 表示霉味；mildew-resistant 表示防霉的。", "大面积、反复出现或与漏水有关的问题应联系房东、物业或专业人员。"],
+      "tags": ["hygiene", "bathroom", "moisture"]
+    },
+    {
+      "id": "mould",
+      "term": "mould",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "霉菌；发霉",
+      "explanationZh": "在潮湿环境中生长的真菌，可能出现在墙面、窗框、浴室或食物上。加拿大常见 mould 这一拼写；发现建筑材料大面积发霉时不应只做表面擦拭。",
+      "examples": [{"en": "I reported the mould on the bathroom ceiling to the landlord.", "zh": "我向房东报告了浴室天花板上的霉菌。", "scenarioZh": "租住房屋里发现持续发霉问题"}],
+      "usageNotesZh": ["加拿大和英式英语常写 mould；美式拼写是 mold。", "mould growth 表示霉菌生长；mouldy 表示发霉的。"],
+      "tags": ["hygiene", "housing", "moisture"]
+    },
+    {
+      "id": "soap-scum",
+      "term": "soap scum",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "皂垢；肥皂与矿物质形成的污膜",
+      "explanationZh": "肥皂、身体油脂和水中矿物质在浴缸、淋浴门或瓷砖上留下的灰白色黏膜。定期擦干和清洁可减少积累。",
+      "examples": [{"en": "The cleaner removed the soap scum from the shower door.", "zh": "清洁剂去掉了淋浴门上的皂垢。", "scenarioZh": "清理玻璃淋浴门的顽固污膜"}],
+      "usageNotesZh": ["soap scum 通常不可数。", "remove/build up soap scum 表示去除/积累皂垢。"],
+      "tags": ["hygiene", "bathroom", "cleaning"]
+    },
+    {
+      "id": "limescale",
+      "term": "limescale",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "水垢；石灰质沉积",
+      "explanationZh": "硬水加热或蒸发后在水龙头、淋浴头、水壶和家电上留下的白色矿物质沉积。需要使用适合材质的除垢方法。",
+      "examples": [{"en": "There is limescale around the base of the faucet.", "zh": "水龙头底部周围有水垢。", "scenarioZh": "清洁厨房水龙头时发现白色沉积"}],
+      "usageNotesZh": ["remove limescale 表示除水垢；limescale buildup 表示水垢积累。", "酸性除垢剂可能损伤天然石材或某些金属，应先看标签。"],
+      "tags": ["hygiene", "hard-water", "cleaning"]
+    },
+    {
+      "id": "hard-water",
+      "term": "hard water",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "硬水；矿物质含量较高的水",
+      "explanationZh": "含较多钙、镁等矿物质的水，可能让水壶、水龙头和淋浴玻璃更容易出现水垢，也会影响肥皂起泡。",
+      "examples": [{"en": "Hard water leaves white spots on the shower glass.", "zh": "硬水会在淋浴玻璃上留下白色水渍。", "scenarioZh": "解释浴室玻璃反复出现矿物质痕迹"}],
+      "usageNotesZh": ["hard water 与 soft water（软水）相对。", "hard water 通常不可数，不说 a hard water。"],
+      "tags": ["hygiene", "water", "home-maintenance"]
+    },
+    {
+      "id": "garbage-bag",
+      "term": "garbage bag",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "垃圾袋",
+      "explanationZh": "装普通生活垃圾的袋子，大小和承重各有不同。加拿大商店也常写 trash bag；投放时还应遵守楼宇或城市对垃圾、回收和厨余的分类要求。",
+      "examples": [{"en": "This garbage bag is too full and may tear.", "zh": "这个垃圾袋装得太满了，可能会破。", "scenarioZh": "把家庭垃圾送到垃圾房之前检查袋子"}],
+      "usageNotesZh": ["tie up a garbage bag 表示扎紧垃圾袋。", "garbage bag 和 trash bag 都自然；加拿大日常常见 garbage。"],
+      "tags": ["hygiene", "waste", "household"]
+    },
+    {
+      "id": "take-out-the-garbage",
+      "term": "take out the garbage",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "把垃圾拿出去；倒垃圾",
+      "explanationZh": "把家里的垃圾袋送到垃圾桶、垃圾房或规定的收集点。高层公寓可能要送到垃圾槽或专门的垃圾房。",
+      "examples": [{"en": "Could you take out the garbage before collection tomorrow morning?", "zh": "明早收垃圾之前，你能把垃圾拿出去吗？", "scenarioZh": "室友之间安排晚间家务"}],
+      "usageNotesZh": ["也常说 take out the trash，意思相同。", "garbage 在这里通常不加复数；不能说 take out the garbages。"],
+      "tags": ["hygiene", "waste", "chores"]
+    },
+    {
+      "id": "cleaning-supplies",
+      "term": "cleaning supplies",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "清洁用品",
+      "explanationZh": "清洁剂、抹布、刷子、手套、垃圾袋等家务用品的总称。搬家入住或补充家庭日用品时经常会用到这个分类。",
+      "examples": [{"en": "The cleaning supplies are stored under the kitchen sink.", "zh": "清洁用品放在厨房水槽下面。", "scenarioZh": "告诉室友家务用品的存放位置"}],
+      "usageNotesZh": ["常用复数 cleaning supplies，表示一整类用品。", "清洁产品应远离儿童、宠物和食物，并按标签要求存放。"],
+      "tags": ["hygiene", "household", "shopping"]
+    }
+  ]
+}
