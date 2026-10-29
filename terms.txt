@@ -14,10 +14,12 @@ Advil
 advisor
 agenda
 air filter
+air out
 aisle
 al dente
 all ears
 all set
+all-purpose cleaner
 all-you-can-eat
 Allen key
 aluminum foil
@@ -160,6 +162,7 @@ cite
 city councillor
 claim
 clamshell
+cleaning supplies
 clearance
 clock in
 clock out
@@ -239,6 +242,7 @@ debit card
 decaf
 decongestant
 deductible
+deep clean
 defective
 defroster
 deglaze
@@ -258,6 +262,8 @@ dice
 dimmer switch
 dine-in
 direct deposit
+disinfect
+disinfectant
 dispute a charge
 dissertation
 dive bar
@@ -289,6 +295,7 @@ dryer sheet
 drywall
 duct tape
 due date
+dust
 dustpan
 Dutch oven
 duvet
@@ -377,6 +384,7 @@ full-time
 funding
 furnace
 furnished
+garbage bag
 garbage chute
 garbage collection
 garbage disposal
@@ -392,6 +400,7 @@ gift receipt
 give it a shot
 give or take
 give someone a shout
+glass cleaner
 glove compartment
 gloves
 gluten-free
@@ -426,12 +435,14 @@ half-caf
 hamper
 hand basket
 hand in
+hand sanitizer
 hand soap
 hand warmers
 hang dry
 hang in there
 hangry
 happy hour
+hard water
 have a lot on your plate
 hazard lights
 head
@@ -521,6 +532,7 @@ licence plate
 lifeguard
 lifesaver
 lightheaded
+limescale
 line up
 linen closet
 lineup
@@ -552,7 +564,9 @@ medium rare
 meeting invite
 merge
 methodology
+microfiber cloth
 midterm
+mildew
 mince
 minimum payment
 minutes
@@ -563,6 +577,8 @@ mocktail
 money order
 month-to-month
 monthly pass
+mop
+mould
 mouthwash
 move-in date
 move-in inspection
@@ -781,6 +797,7 @@ rotisserie chicken
 round
 roundabout
 route number
+rubber gloves
 rubberneck
 run late
 run something by someone
@@ -800,6 +817,7 @@ scramble
 screen door
 script
 scrub
+scrub brush
 seal
 sear
 season
@@ -863,6 +881,7 @@ snowfall
 snowplow
 snowstorm
 soak
+soap scum
 soggy
 sold loose
 sold out
@@ -880,6 +899,7 @@ spill the beans
 splinter
 split the check
 spoiled
+sponge
 sprain
 squeegee
 stain
@@ -932,6 +952,7 @@ swollen
 syllabus
 tailgate
 take a number
+take out the garbage
 takeout
 tap
 tap off
@@ -960,6 +981,8 @@ timetable
 Timmies
 tissue
 to-go box
+toilet brush
+toilet cleaner
 toilet paper
 toll
 tongs
@@ -1007,6 +1030,7 @@ utilities
 utility account
 utility knife
 vacation request
+vacuum
 valance
 valid
 vegan
@@ -1046,6 +1070,7 @@ wing it
 winter storm warning
 winter tires
 wipe
+wipe down
 wire transfer
 withdraw
 withdrawal limit
