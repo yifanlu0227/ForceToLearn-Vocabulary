@@ -59,6 +59,7 @@ bank branch
 bank draft
 bank statement
 bank teller
+barbell
 barcode
 base layer
 baseboard
@@ -135,6 +136,7 @@ carbon monoxide detector
 card balance
 card reader
 cardholder
+cardio
 carpool lane
 carsick
 cart corral
@@ -149,6 +151,7 @@ catch up
 caulk
 ceiling fan
 certified copy
+change room
 checkout
 checkout divider
 checkout lane
@@ -192,6 +195,7 @@ confirmation number
 connecting bus
 contactless payment
 conveyor belt
+cool down
 core
 corkage fee
 cortisone cream
@@ -289,12 +293,14 @@ drop cloth
 drop off
 drop the ball
 drop-in
+drop-in fee
 drowsy
 dry air
 dryer sheet
 drywall
 duct tape
 due date
+dumbbell
 dust
 dustpan
 Dutch oven
@@ -308,6 +314,7 @@ elective
 elevator booking
 elevator outage
 eligibility
+elliptical
 emergency kit
 employee badge
 employment contract
@@ -322,6 +329,7 @@ escalator
 evidence
 exact change
 exchange
+exercise mat
 exhibit
 expedite
 experiment
@@ -354,6 +362,7 @@ final exam
 final sale
 findings
 first month's rent
+fitness class
 fitted sheet
 fitting room
 fixed-term lease
@@ -376,6 +385,7 @@ for here or to go
 for sure
 foreign transaction fee
 free sample
+free weights
 free-range
 freezing rain
 frostbite
@@ -429,6 +439,7 @@ group project
 grout
 guarantor
 guided tour
+gym membership
 hail a cab
 half-and-half
 half-caf
@@ -542,6 +553,7 @@ loading zone
 loaf
 local bus
 locker
+locker room
 long shot
 long story short
 loonie
@@ -673,6 +685,7 @@ pending transaction
 performance review
 permanent position
 personal day
+personal trainer
 pest control
 phone screen
 photocopy
@@ -767,12 +780,14 @@ rent increase
 rent receipt
 rental application
 rental listing
+rep
 replacement bus
 replacement card
 requisition
 reschedule
 research
 reserve
+resistance band
 rest stop
 restock
 restocking fee
@@ -797,6 +812,7 @@ rotisserie chicken
 round
 roundabout
 route number
+rowing machine
 rubber gloves
 rubberneck
 run late
@@ -832,6 +848,7 @@ send back
 service disruption
 service fee
 service suspended
+set
 settle up
 settlement worker
 shallot
@@ -900,6 +917,7 @@ splinter
 split the check
 spoiled
 sponge
+spotter
 sprain
 squeegee
 stain
@@ -910,6 +928,7 @@ start date
 statement balance
 static electricity
 station entrance
+stationary bike
 steep
 step stool
 stepladder
@@ -923,6 +942,8 @@ storage locker
 store brand
 store credit
 streetcar
+strength training
+stretch
 stroller
 stud
 student fare
@@ -1005,6 +1026,7 @@ transfer
 transfer window
 transit number
 transit pass
+treadmill
 triage
 trip planner
 trivet
@@ -1049,12 +1071,14 @@ warm up
 warranty
 washer fluid
 washroom
+water fountain
 water heater
 watered down
 waterproof
 weather forecast
 weatherstripping
 weigh
+weight room
 well done
 wet wipes
 whip
@@ -1077,6 +1101,7 @@ withdrawal limit
 wok
 work schedule
 workload
+workout
 wrap up
 yield
 you bet
