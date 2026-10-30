@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-30-canadian-daily-life",
+  "title": "加拿大日常生活：健身房与日常锻炼",
+  "publishedOn": "2026-10-30",
+  "entries": [
+    {
+      "id": "gym-membership",
+      "term": "gym membership",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "健身房会员资格；健身卡",
+      "explanationZh": "加入健身房后按月或按年使用器械、场地和部分课程的资格。办理前通常要问清合同期限、取消方式和是否另收注册费。",
+      "examples": [{"en": "My gym membership includes access to the pool and fitness classes.", "zh": "我的健身房会员资格包含使用游泳池和参加健身课程。", "scenarioZh": "向朋友介绍会员权益"}],
+      "usageNotesZh": ["常见搭配：get、renew 或 cancel a gym membership。", "month-to-month membership 指按月续费、通常比长期合同更灵活的会员方案。"],
+      "tags": ["fitness", "gym", "membership"]
+    },
+    {
+      "id": "drop-in-fee",
+      "term": "drop-in fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "单次参加费；临时入场费",
+      "explanationZh": "不办会员、直接去参加一次课程或使用一次场馆时支付的费用。加拿大社区中心和健身房的价目表里很常见。",
+      "examples": [{"en": "The drop-in fee for the evening yoga class is twelve dollars.", "zh": "晚间瑜伽课的单次参加费是十二加元。", "scenarioZh": "在社区中心咨询临时报课费用"}],
+      "usageNotesZh": ["常见搭配：pay the drop-in fee。", "drop-in 在这里强调无需长期注册、当天直接参加。"],
+      "tags": ["fitness", "community-centre", "fees"]
+    },
+    {
+      "id": "fitness-class",
+      "term": "fitness class",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "健身课程",
+      "explanationZh": "由教练带领的团体锻炼课程，例如瑜伽、动感单车或力量训练。报名时要留意课程等级、时间和是否需要提前预约。",
+      "examples": [{"en": "I signed up for a beginner fitness class on Tuesday nights.", "zh": "我报名了每周二晚上的初级健身课程。", "scenarioZh": "在社区中心安排每周锻炼"}],
+      "usageNotesZh": ["常见搭配：take、join 或 sign up for a fitness class。", "beginner-friendly 表示对新手友好。"],
+      "tags": ["fitness", "class", "community-centre"]
+    },
+    {
+      "id": "personal-trainer",
+      "term": "personal trainer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "私人健身教练",
+      "explanationZh": "根据个人目标设计训练并现场指导动作的人。预约前可以询问资质、每节费用，以及是否提供首次评估。",
+      "examples": [{"en": "The personal trainer showed me how to lift safely.", "zh": "私人健身教练教我怎样安全地举重。", "scenarioZh": "第一次在健身房学习器械动作"}],
+      "usageNotesZh": ["常见说法：book a session with a personal trainer。", "trainer 在健身语境中常直接指健身教练。"],
+      "tags": ["fitness", "trainer", "safety"]
+    },
+    {
+      "id": "workout",
+      "term": "workout",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一次锻炼；训练",
+      "explanationZh": "指一整次有计划的身体锻炼，可以在健身房、家里或户外完成。它是名词；表示“锻炼”这个动作时通常写作 work out。",
+      "examples": [{"en": "I did a short workout before work this morning.", "zh": "今天早上上班前我做了一次简短的锻炼。", "scenarioZh": "和同事聊晨练安排"}],
+      "usageNotesZh": ["常见搭配：do、finish 或 skip a workout。", "workout 是名词，work out 是动词短语，书写时不要混用。"],
+      "tags": ["fitness", "exercise", "routine"]
+    },
+    {
+      "id": "cool-down",
+      "term": "cool down",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "运动后缓和下来；做整理活动",
+      "explanationZh": "在较剧烈的运动后逐渐降低强度，让呼吸和心率平稳下来，常配合慢走和轻柔拉伸。",
+      "examples": [{"en": "Walk for five minutes to cool down after your run.", "zh": "跑步后慢走五分钟，让身体逐渐缓和下来。", "scenarioZh": "教练提醒跑步后的整理活动"}],
+      "usageNotesZh": ["常见表达：cool down after exercise。", "作名词或形容词时常写成 cool-down，如 a cool-down routine。"],
+      "tags": ["fitness", "exercise", "recovery"]
+    },
+    {
+      "id": "stretch",
+      "term": "stretch",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "拉伸；伸展动作",
+      "explanationZh": "通过缓慢伸展肌肉来活动身体或缓解紧绷。健身前后都常见，但应按教练或专业人士建议选择合适强度。",
+      "examples": [{"en": "Stretch your calves gently after using the treadmill.", "zh": "用完跑步机后轻轻拉伸小腿。", "scenarioZh": "完成有氧训练后的拉伸"}],
+      "usageNotesZh": ["动词常说 stretch your legs、back 或 shoulders。", "作名词时常说 do a stretch 或 hold the stretch。"],
+      "tags": ["fitness", "mobility", "recovery"]
+    },
+    {
+      "id": "exercise-rep",
+      "term": "rep",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一次动作；一次重复",
+      "explanationZh": "健身口语中 repetition 的简称，指一个训练动作完整做一遍。例如深蹲下去再站起来算一次 rep。",
+      "examples": [{"en": "Do ten reps, then rest for thirty seconds.", "zh": "做十次动作，然后休息三十秒。", "scenarioZh": "教练说明力量训练次数"}],
+      "usageNotesZh": ["通常用复数：ten reps。", "常见结构：three sets of eight reps，表示三组、每组八次。"],
+      "tags": ["fitness", "strength-training", "counting"]
+    },
+    {
+      "id": "exercise-set",
+      "term": "set",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一组训练动作",
+      "explanationZh": "连续完成若干次同一动作构成的一组训练。组与组之间通常会短暂休息。",
+      "examples": [{"en": "I have one more set of squats to finish.", "zh": "我还剩最后一组深蹲要做。", "scenarioZh": "在健身房记录训练进度"}],
+      "usageNotesZh": ["常见说法：do three sets、the first set、rest between sets。", "与 rep 配合使用：a set of twelve reps。"],
+      "tags": ["fitness", "strength-training", "routine"]
+    },
+    {
+      "id": "resistance-band",
+      "term": "resistance band",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "弹力带；阻力带",
+      "explanationZh": "拉伸时产生阻力的弹性健身带，适合力量训练、热身和康复动作。不同颜色有时代表不同阻力，但要以产品标示为准。",
+      "examples": [{"en": "Use a light resistance band for this shoulder exercise.", "zh": "这个肩部动作请使用低阻力弹力带。", "scenarioZh": "团体健身课选择训练器材"}],
+      "usageNotesZh": ["常见搭配：light、medium 或 heavy resistance band。", "也常用复数 resistance bands 泛指一套弹力带。"],
+      "tags": ["fitness", "equipment", "strength-training"]
+    },
+    {
+      "id": "treadmill",
+      "term": "treadmill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "跑步机",
+      "explanationZh": "可在室内走路或跑步的电动健身器械。使用前通常要确认速度、坡度和紧急停止装置。",
+      "examples": [{"en": "I walked on the treadmill for twenty minutes.", "zh": "我在跑步机上走了二十分钟。", "scenarioZh": "记录健身房有氧训练"}],
+      "usageNotesZh": ["常见搭配：walk、jog 或 run on a treadmill。", "incline 表示跑步机的坡度。"],
+      "tags": ["fitness", "equipment", "cardio"]
+    },
+    {
+      "id": "elliptical-machine",
+      "term": "elliptical",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "椭圆机",
+      "explanationZh": "手脚一起沿椭圆轨迹运动的有氧器械，动作通常比跑步对关节冲击小。健身房里也会写作 elliptical machine。",
+      "examples": [{"en": "The ellipticals are beside the stationary bikes.", "zh": "椭圆机就在固定式健身车旁边。", "scenarioZh": "询问健身房器械位置"}],
+      "usageNotesZh": ["the elliptical 可指某一台椭圆机；复数是 ellipticals。", "完整说法 elliptical machine 更明确。"],
+      "tags": ["fitness", "equipment", "cardio"]
+    },
+    {
+      "id": "stationary-bike",
+      "term": "stationary bike",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "固定式健身车；室内健身单车",
+      "explanationZh": "固定在室内、通过踩踏板进行有氧锻炼的器械。第一次使用时应调整座椅高度，避免姿势不合适。",
+      "examples": [{"en": "Can you help me adjust the seat on this stationary bike?", "zh": "你能帮我调整一下这台健身车的座椅吗？", "scenarioZh": "第一次使用健身房的健身单车"}],
+      "usageNotesZh": ["也常说 exercise bike。", "ride a stationary bike 表示骑固定式健身车锻炼。"],
+      "tags": ["fitness", "equipment", "cardio"]
+    },
+    {
+      "id": "rowing-machine",
+      "term": "rowing machine",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "划船机",
+      "explanationZh": "模拟划船动作的室内健身器械，可同时锻炼腿、核心和上肢。动作顺序不熟时最好先请工作人员示范。",
+      "examples": [{"en": "The trainer showed me the proper form on the rowing machine.", "zh": "教练示范了使用划船机的正确姿势。", "scenarioZh": "学习新的健身器械"}],
+      "usageNotesZh": ["常见搭配：use a rowing machine。", "proper form 在健身语境中指正确动作姿势。"],
+      "tags": ["fitness", "equipment", "cardio"]
+    },
+    {
+      "id": "free-weights",
+      "term": "free weights",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自由重量器械",
+      "explanationZh": "不固定在机器轨道上的重量器材，主要包括哑铃和杠铃。使用时需要自己控制动作路径和稳定性。",
+      "examples": [{"en": "The free weights are in the back corner of the gym.", "zh": "自由重量器械在健身房后面的角落。", "scenarioZh": "向工作人员询问器械区域"}],
+      "usageNotesZh": ["通常用复数 free weights 泛指这类器材。", "free-weight area 指自由重量训练区。"],
+      "tags": ["fitness", "equipment", "strength-training"]
+    },
+    {
+      "id": "dumbbell",
+      "term": "dumbbell",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "哑铃",
+      "explanationZh": "单手握持的短柄重量器材，常成对使用。健身房通常按重量摆放，用完应放回原位。",
+      "examples": [{"en": "Please put the dumbbells back on the rack after your workout.", "zh": "锻炼结束后请把哑铃放回架子上。", "scenarioZh": "健身房器械区的使用提醒"}],
+      "usageNotesZh": ["a pair of dumbbells 指一对哑铃。", "重量可说 a ten-pound dumbbell 或 a five-kilogram dumbbell。"],
+      "tags": ["fitness", "equipment", "strength-training"]
+    },
+    {
+      "id": "barbell",
+      "term": "barbell",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "杠铃",
+      "explanationZh": "一根长杆两端加配重片的力量训练器材。训练较重时要使用合适安全装置，并在需要时请人保护。",
+      "examples": [{"en": "Make sure the plates are secure before lifting the barbell.", "zh": "举起杠铃前要确认配重片已经固定好。", "scenarioZh": "力量训练前检查器械安全"}],
+      "usageNotesZh": ["常见搭配：load、lift 或 rack a barbell。", "barbell plate 指杠铃的配重片。"],
+      "tags": ["fitness", "equipment", "strength-training"]
+    },
+    {
+      "id": "weight-room",
+      "term": "weight room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "力量训练室；器械房",
+      "explanationZh": "健身场馆里集中放置力量训练机器、哑铃和杠铃的区域。有些社区中心会对使用者设置最低年龄或要求先参加器械介绍。",
+      "examples": [{"en": "You need an orientation before using the weight room.", "zh": "使用力量训练室前需要先参加器械介绍。", "scenarioZh": "社区中心说明场地使用规定"}],
+      "usageNotesZh": ["常见说法：use the weight room、weight-room rules。", "不要理解成称体重的房间；这里的 weight 指训练重量。"],
+      "tags": ["fitness", "gym", "strength-training"]
+    },
+    {
+      "id": "gym-locker-room",
+      "term": "locker room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "更衣室；带储物柜的更衣区",
+      "explanationZh": "体育馆或健身房里更衣、存放随身物品，有时也能淋浴的区域。贵重物品是否安全保管要看场馆规定。",
+      "examples": [{"en": "The showers are at the far end of the locker room.", "zh": "淋浴间在更衣室最里面。", "scenarioZh": "询问健身房淋浴位置"}],
+      "usageNotesZh": ["locker 指单个储物柜，locker room 指整间更衣室。", "有些场馆要求自带 padlock（挂锁）。"],
+      "tags": ["fitness", "facilities", "gym"]
+    },
+    {
+      "id": "change-room",
+      "term": "change room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "更衣室",
+      "explanationZh": "供人换衣服的房间，在加拿大的游泳池、社区中心和体育馆很常见。它可能有储物柜、长凳和淋浴设施。",
+      "examples": [{"en": "The family change room is next to the pool entrance.", "zh": "家庭更衣室就在游泳池入口旁边。", "scenarioZh": "带孩子去社区泳池寻找更衣区"}],
+      "usageNotesZh": ["在加拿大常见 change room；changing room 也能听到。", "family change room 指方便家庭成员共同使用的更衣区。"],
+      "tags": ["fitness", "facilities", "community-centre"]
+    },
+    {
+      "id": "water-fountain",
+      "term": "water fountain",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "饮水台；直饮水机",
+      "explanationZh": "公共场所中可以直接喝水或接水的固定设施。健身房和社区中心常在走廊或器械区附近设置。",
+      "examples": [{"en": "There is a bottle-filling station beside the water fountain.", "zh": "饮水台旁边有一个水瓶补水站。", "scenarioZh": "锻炼途中给水瓶接水"}],
+      "usageNotesZh": ["这里指 drinking fountain，不是观赏用的喷泉。", "bottle-filling station 是专门给水瓶接水的装置。"],
+      "tags": ["fitness", "facilities", "hydration"]
+    },
+    {
+      "id": "gym-spotter",
+      "term": "spotter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "健身保护者；协助看护的人",
+      "explanationZh": "力量训练时站在旁边观察并在必要时协助的人，尤其常见于卧推或深蹲等较重训练。",
+      "examples": [{"en": "Ask for a spotter before you attempt a heavier lift.", "zh": "尝试更大的重量前，请找个人在旁边保护。", "scenarioZh": "健身房进行较重的力量训练"}],
+      "usageNotesZh": ["常见表达：ask someone to spot you，表示请对方帮忙保护。", "a reliable spotter 指可靠、懂得安全协助的人。"],
+      "tags": ["fitness", "safety", "strength-training"]
+    },
+    {
+      "id": "exercise-mat",
+      "term": "exercise mat",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "健身垫；运动垫",
+      "explanationZh": "铺在地上做拉伸、核心或徒手动作时使用的软垫。公共场馆使用后通常需要按规定清洁。",
+      "examples": [{"en": "Please wipe down the exercise mat after class.", "zh": "课程结束后请把健身垫擦干净。", "scenarioZh": "团体课程结束后的卫生要求"}],
+      "usageNotesZh": ["也可根据用途说 yoga mat。", "常见搭配：roll out、use 或 clean an exercise mat。"],
+      "tags": ["fitness", "equipment", "hygiene"]
+    },
+    {
+      "id": "cardio-exercise",
+      "term": "cardio",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "有氧运动；心肺训练",
+      "explanationZh": "让心率上升并持续一段时间的运动，如快走、跑步、骑车或游泳。日常口语中常用 cardio 概括这类训练。",
+      "examples": [{"en": "I usually do twenty minutes of cardio before strength training.", "zh": "我通常在力量训练前做二十分钟有氧运动。", "scenarioZh": "向教练介绍自己的训练顺序"}],
+      "usageNotesZh": ["常见搭配：do cardio、cardio workout、cardio equipment。", "cardio 是 cardiovascular exercise 的口语简称。"],
+      "tags": ["fitness", "cardio", "exercise"]
+    },
+    {
+      "id": "strength-training",
+      "term": "strength training",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "力量训练",
+      "explanationZh": "通过重量、器械、弹力带或自身体重增加肌肉力量的训练方式。训练计划通常要安排合适重量、次数和恢复时间。",
+      "examples": [{"en": "She does strength training twice a week at the community centre.", "zh": "她每周在社区中心做两次力量训练。", "scenarioZh": "介绍固定的每周锻炼习惯"}],
+      "usageNotesZh": ["常见搭配：do strength training、strength-training program。", "不一定使用杠铃；徒手和弹力带训练也可以属于 strength training。"],
+      "tags": ["fitness", "strength-training", "exercise"]
+    }
+  ]
+}
