@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-10-31-canadian-daily-life",
+  "title": "加拿大日常生活：图书馆借阅与论文写作",
+  "publishedOn": "2026-10-31",
+  "entries": [
+    {
+      "id": "library-borrow",
+      "term": "borrow",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "借入；借用",
+      "explanationZh": "从图书馆、同学或其他人那里暂时拿来使用，之后需要归还。重点是“借进来”，与 lend（借给别人）方向相反。",
+      "examples": [{"en": "Can I borrow this textbook for the weekend?", "zh": "这本教材我可以借一个周末吗？", "scenarioZh": "向学校图书馆询问教材借阅"}],
+      "usageNotesZh": ["常见结构：borrow something from someone or somewhere。", "不要说 borrow someone something；表示借给别人用 lend。"],
+      "tags": ["academic", "library", "borrowing"]
+    },
+    {
+      "id": "library-check-out",
+      "term": "check out",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "办理借出；借走（图书资料）",
+      "explanationZh": "在图书馆柜台或自助机登记，把书或设备借走。它也有查看、退房等其他含义，在图书馆语境中就是办理借阅。",
+      "examples": [{"en": "You can check out up to ten books at a time.", "zh": "你一次最多可以借十本书。", "scenarioZh": "图书馆员说明借阅数量限制"}],
+      "usageNotesZh": ["可说 check out a book 或 check a book out。", "名词 checkout 通常连写；动词短语 check out 分开写。"],
+      "tags": ["academic", "library", "borrowing"]
+    },
+    {
+      "id": "library-overdue",
+      "term": "overdue",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "逾期未还的；超过期限的",
+      "explanationZh": "借阅物超过规定归还日期仍未归还时的状态，也可用于作业、账单等已经过期的事项。",
+      "examples": [{"en": "This library book is two days overdue.", "zh": "这本图书馆的书已经逾期两天了。", "scenarioZh": "查看图书馆账户中的借阅状态"}],
+      "usageNotesZh": ["常见搭配：an overdue book、an overdue assignment。", "be overdue by two days 表示逾期两天。"],
+      "tags": ["academic", "library", "deadline"]
+    },
+    {
+      "id": "overdue-fine",
+      "term": "overdue fine",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "逾期罚款",
+      "explanationZh": "借阅物超过归还期限后可能产生的费用。加拿大部分图书馆已取消普通书籍罚款，但遗失、损坏或特殊资料仍可能收费，要以本馆规则为准。",
+      "examples": [{"en": "Do I have to pay an overdue fine for this laptop?", "zh": "这台笔记本电脑逾期归还需要交罚款吗？", "scenarioZh": "向图书馆员询问设备逾期费用"}],
+      "usageNotesZh": ["常见搭配：pay、waive 或 incur an overdue fine。", "fine-free 不代表遗失或损坏物品也一定免费。"],
+      "tags": ["academic", "library", "fees"]
+    },
+    {
+      "id": "library-renewal-limit",
+      "term": "renewal limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "续借次数上限",
+      "explanationZh": "同一件借阅物最多可以延长借期的次数。如果有人预约、资料属于短期借阅或已达到上限，通常不能继续续借。",
+      "examples": [{"en": "I reached the renewal limit, so I need to return the book.", "zh": "我已经达到续借次数上限，所以需要把书还回去。", "scenarioZh": "在线续借失败后查看原因"}],
+      "usageNotesZh": ["reach the renewal limit 表示已到续借上限。", "renew 在图书馆语境中表示续借，而不是重新办卡。"],
+      "tags": ["academic", "library", "borrowing"]
+    },
+    {
+      "id": "library-loan-period",
+      "term": "loan period",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "借阅期限",
+      "explanationZh": "一本书、设备或其他资料可以借用的时间长度。普通图书、教材和笔记本电脑的期限可能不同。",
+      "examples": [{"en": "The loan period for course reserve books is only three hours.", "zh": "课程指定参考书的借阅期限只有三小时。", "scenarioZh": "借教材前确认可以使用多久"}],
+      "usageNotesZh": ["常见搭配：a two-week loan period。", "loan 在这里作名词修饰 period，表示借阅。"],
+      "tags": ["academic", "library", "borrowing"]
+    },
+    {
+      "id": "circulation-desk",
+      "term": "circulation desk",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "图书馆借还服务台",
+      "explanationZh": "图书馆中办理借书、还书、续借和账户问题的服务台。有些学校也直接写作 loans desk 或 service desk。",
+      "examples": [{"en": "Please take the damaged book to the circulation desk.", "zh": "请把损坏的书拿到借还服务台。", "scenarioZh": "归还书籍时发现书有破损"}],
+      "usageNotesZh": ["常见表达：ask at the circulation desk。", "circulation 在这里指馆藏资料的借出与流通。"],
+      "tags": ["academic", "library", "services"]
+    },
+    {
+      "id": "course-reserve",
+      "term": "course reserve",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程指定短期借阅资料",
+      "explanationZh": "老师为某门课指定、由图书馆保留并缩短借期的教材或阅读材料，让更多学生轮流使用。",
+      "examples": [{"en": "The required textbook is available on course reserve.", "zh": "这本必读教材可以从课程指定资料区借阅。", "scenarioZh": "在课程网页上寻找指定教材"}],
+      "usageNotesZh": ["常见说法：put a book on course reserve。", "这类资料通常借期较短，并可能限制在馆内使用。"],
+      "tags": ["academic", "library", "course-materials"]
+    },
+    {
+      "id": "library-study-room",
+      "term": "study room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自习室；学习讨论室",
+      "explanationZh": "图书馆中供个人安静学习或小组讨论的房间。小组房通常需要在线预约，并有使用时长限制。",
+      "examples": [{"en": "We booked a study room for our group meeting.", "zh": "我们为小组会议预约了一间学习讨论室。", "scenarioZh": "为小组作业安排线下讨论"}],
+      "usageNotesZh": ["常见搭配：book、reserve 或 use a study room。", "group study room 通常允许交谈，silent study room 则要求安静。"],
+      "tags": ["academic", "library", "study"]
+    },
+    {
+      "id": "quiet-floor",
+      "term": "quiet floor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "安静楼层",
+      "explanationZh": "图书馆中要求尽量保持安静的楼层，通常不适合开会、接电话或进行小组讨论。",
+      "examples": [{"en": "Phone calls are not allowed on the quiet floor.", "zh": "安静楼层不允许接打电话。", "scenarioZh": "查看图书馆楼层使用规定"}],
+      "usageNotesZh": ["quiet floor 通常允许很小声的必要交流；silent floor 规则往往更严格。", "常见表达：find a seat on the quiet floor。"],
+      "tags": ["academic", "library", "study"]
+    },
+    {
+      "id": "library-call-number",
+      "term": "call number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "图书索书号",
+      "explanationZh": "图书馆给每本资料安排的位置编码，用来找到所在楼层、书架和排列位置。它不是电话号码。",
+      "examples": [{"en": "Write down the call number before you go to the stacks.", "zh": "去书库找书前先记下索书号。", "scenarioZh": "从图书馆目录定位纸质书"}],
+      "usageNotesZh": ["常见搭配：look up、copy 或 note the call number。", "索书号通常由字母、数字和出版年份等部分组成。"],
+      "tags": ["academic", "library", "catalogue"]
+    },
+    {
+      "id": "library-shelf",
+      "term": "shelf",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "书架的一层；搁板",
+      "explanationZh": "放书或资料的横向搁板。找不到书时可以确认它是否在正确的 shelf 上，或请工作人员检查是否刚归还还未上架。",
+      "examples": [{"en": "I found the book on the bottom shelf.", "zh": "我在书架最下面一层找到了那本书。", "scenarioZh": "按索书号寻找纸质图书"}],
+      "usageNotesZh": ["复数是 shelves。", "on the shelf 表示在书架上；bookshelf 指整件书架家具。"],
+      "tags": ["academic", "library", "books"]
+    },
+    {
+      "id": "library-stacks",
+      "term": "stacks",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "图书馆书库；藏书区",
+      "explanationZh": "图书馆中成排放置馆藏的区域，学生常根据索书号去 stacks 自己找书。",
+      "examples": [{"en": "The journal is in the closed stacks, so staff must retrieve it.", "zh": "这本期刊在封闭书库里，需要工作人员帮忙调取。", "scenarioZh": "查询不能自行进入的馆藏区域"}],
+      "usageNotesZh": ["通常用复数 the stacks 指书库区域。", "open stacks 可自行取书；closed stacks 需要工作人员调取。"],
+      "tags": ["academic", "library", "books"]
+    },
+    {
+      "id": "library-book-drop",
+      "term": "book drop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "还书箱；还书口",
+      "explanationZh": "图书馆闭馆后或无需到柜台时归还书籍的投递设施。笔记本电脑等设备通常不能放进去。",
+      "examples": [{"en": "I returned the book through the book drop after the library closed.", "zh": "图书馆闭馆后，我把书投入还书箱归还了。", "scenarioZh": "晚上归还纸质书"}],
+      "usageNotesZh": ["常见表达：return a book through the book drop。", "归还时间可能以工作人员实际处理时间为准，应查看本馆规定。"],
+      "tags": ["academic", "library", "returning"]
+    },
+    {
+      "id": "interlibrary-loan",
+      "term": "interlibrary loan",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "馆际互借",
+      "explanationZh": "本馆没有所需资料时，由图书馆从其他学校或公共图书馆代为借取或获取副本的服务。",
+      "examples": [{"en": "I requested the article through interlibrary loan.", "zh": "我通过馆际互借申请了这篇文章。", "scenarioZh": "查找本校未订阅的学术资料"}],
+      "usageNotesZh": ["常缩写为 ILL。", "常见搭配：submit、place 或 receive an interlibrary loan request。"],
+      "tags": ["academic", "library", "research"]
+    },
+    {
+      "id": "database-full-text",
+      "term": "full text",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "全文；可阅读全文的",
+      "explanationZh": "数据库中完整的文章内容，而不只是标题、摘要或引用信息。搜索时可用 full-text filter 筛选能直接阅读的结果。",
+      "examples": [{"en": "The database shows the abstract, but the full text is not available.", "zh": "数据库显示了摘要，但没有提供全文。", "scenarioZh": "在学校数据库中查找论文"}],
+      "usageNotesZh": ["作名词常写 full text；作前置形容词常写 full-text，如 full-text access。", "全文不可用时可尝试馆际互借或其他合法馆藏入口。"],
+      "tags": ["academic", "library", "database"]
+    },
+    {
+      "id": "database-search-term",
+      "term": "search term",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "检索词；搜索词",
+      "explanationZh": "输入图书馆目录、学术数据库或搜索引擎的词或短语。选择更准确的检索词通常能减少无关结果。",
+      "examples": [{"en": "Try a broader search term if you get too few results.", "zh": "如果结果太少，可以试试范围更广的检索词。", "scenarioZh": "图书馆员指导数据库检索"}],
+      "usageNotesZh": ["常见搭配：enter、change、combine 或 refine a search term。", "用引号包住完整短语，有时可以进行精确短语检索。"],
+      "tags": ["academic", "research", "database"]
+    },
+    {
+      "id": "academic-keyword",
+      "term": "keyword",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "关键词",
+      "explanationZh": "概括研究主题或文章核心内容的词。检索文献时可从研究问题、同义词和相关文章的关键词开始扩展。",
+      "examples": [{"en": "Use several related keywords to search the database.", "zh": "用几个相关关键词检索数据库。", "scenarioZh": "为课程论文寻找参考文献"}],
+      "usageNotesZh": ["常见搭配：choose、identify 或 search by keyword。", "论文摘要下方的 keywords 通常是作者列出的主题词。"],
+      "tags": ["academic", "research", "database"]
+    },
+    {
+      "id": "academic-bibliography",
+      "term": "bibliography",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "参考书目；文献目录",
+      "explanationZh": "列出写作中使用或查阅过的书籍、论文等来源的清单。具体是否只列引用过的材料，要遵循课程指定的引用格式。",
+      "examples": [{"en": "Add the book to your bibliography before submitting the paper.", "zh": "提交论文前，把这本书加入参考书目。", "scenarioZh": "检查课程论文的引用信息"}],
+      "usageNotesZh": ["复数是 bibliographies。", "不同格式可能把这一页称为 bibliography、references 或 works cited。"],
+      "tags": ["academic", "writing", "citation"]
+    },
+    {
+      "id": "in-text-citation",
+      "term": "in-text citation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "文内引用；正文引用标注",
+      "explanationZh": "在正文中紧跟引用或转述内容的简短来源标注，通常包含作者、年份或页码，并与文末条目对应。",
+      "examples": [{"en": "This paragraph needs an in-text citation after the quotation.", "zh": "这段引文后面需要加一个文内引用标注。", "scenarioZh": "修改论文中的引用格式"}],
+      "usageNotesZh": ["连字符常见写法是 in-text citation。", "具体格式取决于 APA、MLA、Chicago 等引用规范。"],
+      "tags": ["academic", "writing", "citation"]
+    },
+    {
+      "id": "academic-paraphrase",
+      "term": "paraphrase",
+      "partsOfSpeech": ["verb", "noun"],
+      "definitionZh": "转述；用自己的话改写",
+      "explanationZh": "保留原意但用自己的句式和措辞重新表达。学术写作中即使做了转述，通常仍要注明来源。",
+      "examples": [{"en": "Paraphrase the idea in your own words and cite the source.", "zh": "请用自己的话转述这个观点，并标明来源。", "scenarioZh": "老师讲解如何避免不当引用"}],
+      "usageNotesZh": ["常见结构：paraphrase an idea、paraphrase a passage。", "只替换几个同义词通常不算充分转述，也不能省略引用。"],
+      "tags": ["academic", "writing", "citation"]
+    },
+    {
+      "id": "primary-source",
+      "term": "primary source",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一手资料；原始来源",
+      "explanationZh": "直接产生于所研究事件、实验或时期的原始材料，例如访谈、实验数据、历史信件、判决原文或原始研究论文。",
+      "examples": [{"en": "The assignment requires at least two primary sources.", "zh": "这项作业要求至少使用两份一手资料。", "scenarioZh": "阅读历史课程的论文要求"}],
+      "usageNotesZh": ["某资料是否属于 primary source 取决于研究问题和学科语境。", "不要简单把“可信来源”等同于“一手资料”。"],
+      "tags": ["academic", "research", "sources"]
+    },
+    {
+      "id": "secondary-source",
+      "term": "secondary source",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "二手资料；分析性来源",
+      "explanationZh": "对一手材料或既有研究进行解释、分析或总结的来源，例如评论文章、学术专著和部分综述。",
+      "examples": [{"en": "Use secondary sources to understand how scholars interpret the event.", "zh": "使用二手资料了解学者如何解读这一事件。", "scenarioZh": "为历史论文搭建研究背景"}],
+      "usageNotesZh": ["primary 和 secondary 不是质量高低之分，而是资料与研究对象的关系不同。", "同一份材料在不同研究问题中可能扮演不同角色。"],
+      "tags": ["academic", "research", "sources"]
+    },
+    {
+      "id": "literature-review",
+      "term": "literature review",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "文献综述",
+      "explanationZh": "系统梳理、比较并评价某一研究主题已有成果的写作部分，不只是逐篇罗列摘要，还要呈现联系、分歧和研究空白。",
+      "examples": [{"en": "The literature review should explain the gap your study addresses.", "zh": "文献综述应说明你的研究要解决什么空白。", "scenarioZh": "导师反馈研究计划书结构"}],
+      "usageNotesZh": ["常见搭配：conduct、write 或 update a literature review。", "review article 是一种文章类型；literature review 也可指论文中的一个章节。"],
+      "tags": ["academic", "research", "writing"]
+    },
+    {
+      "id": "academic-proofread",
+      "term": "proofread",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "校对；检查文字错误",
+      "explanationZh": "在提交前检查拼写、语法、标点、格式和明显笔误。它通常是写作最后阶段的细致检查，不等同于大幅重写内容。",
+      "examples": [{"en": "Please proofread your paper before uploading the final version.", "zh": "上传最终版本前请校对一下论文。", "scenarioZh": "课程助教提醒提交作业前检查"}],
+      "usageNotesZh": ["过去式和过去分词仍写作 proofread，读音中的 read 按过去式发音。", "常见搭配：proofread a draft、proofread carefully。"],
+      "tags": ["academic", "writing", "editing"]
+    }
+  ]
+}
