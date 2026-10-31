@@ -69,6 +69,7 @@ beat
 bell pepper
 benefits
 best before date
+bibliography
 bike rack
 bill payment
 billing cycle
@@ -89,9 +90,11 @@ board game
 body wash
 boil over
 bok choy
+book drop
 bookstore
 booster shot
 booth
+borrow
 bottle deposit
 bottle return
 bottomless
@@ -128,6 +131,7 @@ BYOB
 cage-free
 call in sick
 call it a day
+call number
 campus
 campus card
 candidate
@@ -152,6 +156,7 @@ caulk
 ceiling fan
 certified copy
 change room
+check out
 checkout
 checkout divider
 checkout lane
@@ -160,6 +165,7 @@ childproof cap
 chip in
 cilantro
 circuit breaker
+circulation desk
 citation style
 cite
 city councillor
@@ -208,6 +214,7 @@ coupon
 course load
 course outline
 course registration
+course reserve
 cover a shift
 cover charge
 cover letter
@@ -390,6 +397,7 @@ free-range
 freezing rain
 frostbite
 frozen pipe
+full text
 full-time
 funding
 furnace
@@ -492,6 +500,7 @@ in season
 in stock
 in the same boat
 in-network
+in-text citation
 ingredient list
 inhaler
 institution number
@@ -499,6 +508,7 @@ insufficient funds
 insulated
 intake form
 interest
+interlibrary loan
 intermission
 interview
 it's on me
@@ -516,6 +526,7 @@ keener
 keep someone in the loop
 key deposit
 key fob
+keyword
 knead
 lab
 ladle
@@ -549,8 +560,10 @@ linen closet
 lineup
 lint roller
 lint trap
+literature review
 loading zone
 loaf
+loan period
 local bus
 locker
 locker room
@@ -652,6 +665,8 @@ over easy
 over-the-counter
 overdraft
 overdraft protection
+overdue
+overdue fine
 overtime
 P-trap
 packed
@@ -660,6 +675,7 @@ painter's tape
 pantry staples
 paper towel
 parallel park
+paraphrase
 parcel locker
 parchment paper
 paring knife
@@ -725,6 +741,7 @@ presentation
 price check
 price match
 price tag
+primary source
 prior authorization
 priority seating
 prix fixe
@@ -737,6 +754,7 @@ proof of income
 proof of payment
 proof of purchase
 proof of residency
+proofread
 property manager
 property tax
 proposal
@@ -746,6 +764,7 @@ put your name down
 putty knife
 quantity limit
 queasy
+quiet floor
 radiator
 rain check
 rain date
@@ -776,6 +795,7 @@ reimbursement
 reload
 remote work
 renew
+renewal limit
 rent increase
 rent receipt
 rental application
@@ -836,9 +856,11 @@ scrub
 scrub brush
 seal
 sear
+search term
 season
 season pass
 seat yourself
+secondary source
 security deposit
 seedless
 self-checkout
@@ -854,6 +876,7 @@ settlement worker
 shallot
 shampoo
 shaving cream
+shelf
 shift
 shoot someone a text
 shopping cart
@@ -920,6 +943,7 @@ sponge
 spotter
 sprain
 squeegee
+stacks
 stain
 stain remover
 stall
@@ -951,6 +975,7 @@ student ID
 student portal
 student services
 study group
+study room
 stuffy nose
 sub
 sublet
