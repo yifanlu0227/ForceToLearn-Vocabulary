@@ -52,6 +52,7 @@ bakery section
 baking sheet
 balaclava
 balance
+balcony
 ballpark
 Band-Aid
 banister
@@ -71,6 +72,7 @@ benefits
 best before date
 bibliography
 bike rack
+bike storage
 bill payment
 billing cycle
 birth certificate
@@ -107,6 +109,7 @@ bruised
 brutal
 buck
 bug spray
+building management
 building permit
 bulk bins
 bumper-to-bumper
@@ -124,6 +127,7 @@ buy one get one
 buzz in
 buzzed
 buzzer
+buzzer code
 by the pound
 by weight
 bylaw
@@ -181,6 +185,7 @@ co-insurance
 co-pay
 co-signer
 coffee run
+coin laundry
 colander
 cold cuts
 cold snap
@@ -188,6 +193,7 @@ collaborate
 collection day
 comforter
 committee
+common area
 community centre
 community garden
 commute
@@ -325,6 +331,7 @@ elliptical
 emergency kit
 employee badge
 employment contract
+en-suite laundry
 encore
 end cap
 enrol
@@ -368,6 +375,8 @@ fill up
 final exam
 final sale
 findings
+fire alarm
+fire drill
 first month's rent
 fitness class
 fitted sheet
@@ -384,6 +393,7 @@ floss
 flu shot
 flurries
 flyer
+fob access
 fold in
 follow-up appointment
 food bank
@@ -446,6 +456,7 @@ ground beef
 group project
 grout
 guarantor
+guest policy
 guided tour
 gym membership
 hail a cab
@@ -507,6 +518,7 @@ institution number
 insufficient funds
 insulated
 intake form
+intercom
 interest
 interlibrary loan
 intermission
@@ -536,6 +548,7 @@ last call
 last month's rent
 last train
 late fee
+laundry card
 laundry detergent
 laundry pods
 laundry room
@@ -574,7 +587,9 @@ loyalty card
 lukewarm
 lunch break
 mail in
+mailroom
 maintenance request
+management office
 manuscript
 marinate
 marked down
@@ -620,6 +635,7 @@ nightstand
 no biggie
 no-brainer
 no-show
+noise complaint
 non-perishables
 non-stick
 notarize
@@ -633,6 +649,7 @@ nurse practitioner
 nut-free
 Nutrition Facts table
 oat milk
+occupant
 off the top of my head
 off-peak
 off-ramp
@@ -669,6 +686,7 @@ overdue
 overdue fine
 overtime
 P-trap
+package room
 packed
 paid time off
 painter's tape
@@ -682,12 +700,14 @@ paring knife
 parka
 parkade
 parking ban
+parking garage
 parking meter
 parking permit
 parking spot
 parking ticket
 part-time
 party of
+party room
 pass/fail
 pat dry
 patio
@@ -703,6 +723,7 @@ permanent position
 personal day
 personal trainer
 pest control
+pet policy
 phone screen
 photocopy
 physical
@@ -765,6 +786,7 @@ putty knife
 quantity limit
 queasy
 quiet floor
+quiet hours
 radiator
 rain check
 rain date
@@ -807,6 +829,7 @@ requisition
 reschedule
 research
 reserve
+resident
 resistance band
 rest stop
 restock
@@ -963,6 +986,7 @@ stitches
 stock up
 stop request
 storage locker
+storage unit
 store brand
 store credit
 streetcar
@@ -1085,6 +1109,7 @@ vegetarian
 vent
 venue
 visitor parking
+visitor pass
 void cheque
 waitlist
 waive
