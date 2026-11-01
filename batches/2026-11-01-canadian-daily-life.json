@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-01-canadian-daily-life",
+  "title": "加拿大日常生活：公寓设施与邻里居住",
+  "publishedOn": "2026-11-01",
+  "entries": [
+    {
+      "id": "housing-noise-complaint",
+      "term": "noise complaint",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "噪音投诉",
+      "explanationZh": "因邻居、装修、聚会或设备噪音影响生活而向物业、房东或市政部门提出的投诉。正式投诉前通常要记录发生时间和持续情况。",
+      "examples": [{"en": "I filed a noise complaint after the loud music continued past midnight.", "zh": "音乐声过了午夜还很响，我于是提交了噪音投诉。", "scenarioZh": "向公寓物业反映深夜噪音"}],
+      "usageNotesZh": ["常见搭配：make、file 或 receive a noise complaint。", "能安全沟通时可先礼貌提醒；持续或严重问题再按楼规处理。"],
+      "tags": ["housing", "neighbours", "complaints"]
+    },
+    {
+      "id": "building-quiet-hours",
+      "term": "quiet hours",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "安静时段",
+      "explanationZh": "公寓、宿舍或社区规定应降低噪音的时间段，通常覆盖夜间和清晨，具体时间以租约或楼规为准。",
+      "examples": [{"en": "Quiet hours in this building start at 11 p.m.", "zh": "这栋楼的安静时段从晚上十一点开始。", "scenarioZh": "入住后查看公寓楼规"}],
+      "usageNotesZh": ["通常使用复数 quiet hours。", "during quiet hours 表示在安静时段内。"],
+      "tags": ["housing", "neighbours", "rules"]
+    },
+    {
+      "id": "building-common-area",
+      "term": "common area",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公共区域",
+      "explanationZh": "住户共同使用、并不属于某一套住房内部的区域，例如大堂、走廊、电梯、健身房和屋顶露台。",
+      "examples": [{"en": "Personal items cannot be stored in the common area.", "zh": "个人物品不能存放在公共区域。", "scenarioZh": "阅读物业关于走廊堆物的通知"}],
+      "usageNotesZh": ["复数 common areas 用来泛指多个公共区域。", "common area maintenance 指公共区域维护。"],
+      "tags": ["housing", "building", "facilities"]
+    },
+    {
+      "id": "building-management",
+      "term": "building management",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "楼宇物业管理方",
+      "explanationZh": "负责公寓日常运营、维修协调、安全和住户通知的管理团队或公司。它不一定就是房东。",
+      "examples": [{"en": "Building management sent a notice about tomorrow's water shutdown.", "zh": "物业管理方发了通知，说明天会停水。", "scenarioZh": "收到公寓维修通知"}],
+      "usageNotesZh": ["常见说法：contact building management。", "management 在这里可以指管理团队，通常不加冠词。"],
+      "tags": ["housing", "building", "management"]
+    },
+    {
+      "id": "management-office",
+      "term": "management office",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "物业管理办公室",
+      "explanationZh": "住户办理门禁、提交表格、咨询楼规或跟进维修事项的办公室，开放时间通常有限。",
+      "examples": [{"en": "You can pick up the elevator key from the management office.", "zh": "你可以去物业管理办公室领取电梯钥匙。", "scenarioZh": "搬家前办理电梯使用手续"}],
+      "usageNotesZh": ["常见搭配：visit、call 或 email the management office。", "有些楼也称 property management office。"],
+      "tags": ["housing", "building", "services"]
+    },
+    {
+      "id": "building-resident",
+      "term": "resident",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "住户；居民",
+      "explanationZh": "实际居住在某栋楼、某个社区或某个地区的人。resident 可以是业主、租客或获准同住的家庭成员。",
+      "examples": [{"en": "Only residents can use the rooftop patio after 9 p.m.", "zh": "晚上九点以后只有住户可以使用屋顶露台。", "scenarioZh": "查看公寓公共设施规定"}],
+      "usageNotesZh": ["常见搭配：building resident、local resident。", "resident 强调实际居住；tenant 特指租客。"],
+      "tags": ["housing", "building", "people"]
+    },
+    {
+      "id": "rental-occupant",
+      "term": "occupant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "居住者；房屋占用人",
+      "explanationZh": "在一套住房内居住的人，不一定是签署租约的租客。申请和租约表格常要求列出所有 occupants。",
+      "examples": [{"en": "Please list every occupant who will live in the unit.", "zh": "请列出所有将住在这套房屋里的人。", "scenarioZh": "填写租房申请或入住资料"}],
+      "usageNotesZh": ["常见搭配：authorized occupant、additional occupant。", "occupant 与 leaseholder 不一定是同一个人。"],
+      "tags": ["housing", "rental", "people"]
+    },
+    {
+      "id": "building-guest-policy",
+      "term": "guest policy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "访客规定",
+      "explanationZh": "公寓、宿舍或短租场所对访客进入、留宿、停车和使用设施的规则。",
+      "examples": [{"en": "Check the guest policy before your friend stays overnight.", "zh": "朋友留宿前先查看访客规定。", "scenarioZh": "邀请朋友到公寓过夜"}],
+      "usageNotesZh": ["常见搭配：follow、review 或 violate the guest policy。", "overnight guest 指过夜访客。"],
+      "tags": ["housing", "guests", "rules"]
+    },
+    {
+      "id": "building-pet-policy",
+      "term": "pet policy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "宠物规定",
+      "explanationZh": "住房或公寓大楼对养宠物的规则，可能涉及登记、公共区域牵绳、清洁责任和部分设施限制。",
+      "examples": [{"en": "The pet policy requires dogs to be on a leash in common areas.", "zh": "宠物规定要求狗在公共区域必须牵绳。", "scenarioZh": "租房前确认大楼养宠规则"}],
+      "usageNotesZh": ["常见说法：pet-friendly building、no-pet policy。", "租约条款和公寓楼规可能不同，应分别核对。"],
+      "tags": ["housing", "pets", "rules"]
+    },
+    {
+      "id": "building-fob-access",
+      "term": "fob access",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "门禁扣通行权限",
+      "explanationZh": "使用电子门禁扣进入大门、电梯、车库或公共设施的权限。丢失后应尽快通知物业停用。",
+      "examples": [{"en": "My fob access does not work for the parking garage.", "zh": "我的门禁扣无法进入停车库。", "scenarioZh": "向物业报告门禁权限问题"}],
+      "usageNotesZh": ["常见搭配：activate、disable 或 update fob access。", "fob 常指小型电子门禁扣，也可说 key fob。"],
+      "tags": ["housing", "building", "security"]
+    },
+    {
+      "id": "building-buzzer-code",
+      "term": "buzzer code",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "楼宇呼叫码；门铃代码",
+      "explanationZh": "访客在大楼入口呼叫住户时输入的数字代码。住户接听后可通过室内电话或手机为访客开门。",
+      "examples": [{"en": "Text me when you arrive, and I will send you the buzzer code.", "zh": "你到了给我发消息，我会把楼宇呼叫码发给你。", "scenarioZh": "告诉朋友如何进入公寓大楼"}],
+      "usageNotesZh": ["也常说 buzzer number。", "为安全起见，不要在公开场合发布个人门禁信息。"],
+      "tags": ["housing", "building", "entry"]
+    },
+    {
+      "id": "building-package-room",
+      "term": "package room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "包裹室",
+      "explanationZh": "公寓集中存放快递包裹的房间，住户可能需要门禁、取件码或前台登记才能进入。",
+      "examples": [{"en": "Your parcel was delivered to the package room.", "zh": "你的包裹已经送到包裹室了。", "scenarioZh": "收到公寓的快递到达通知"}],
+      "usageNotesZh": ["常见搭配：pick up a parcel from the package room。", "package room 与 parcel locker 不同，前者通常是一整间房。"],
+      "tags": ["housing", "deliveries", "facilities"]
+    },
+    {
+      "id": "building-mailroom",
+      "term": "mailroom",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮件室；信箱区",
+      "explanationZh": "公寓或办公楼集中设置住户信箱、处理普通邮件的区域，有时也会暂存小包裹。",
+      "examples": [{"en": "The mailroom is beside the main lobby.", "zh": "邮件室就在主大堂旁边。", "scenarioZh": "入住后寻找住户信箱"}],
+      "usageNotesZh": ["mailroom 通常写成一个词。", "mailbox 指单个信箱；mailroom 指整个邮件区域。"],
+      "tags": ["housing", "mail", "facilities"]
+    },
+    {
+      "id": "building-bike-storage",
+      "term": "bike storage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自行车存放区",
+      "explanationZh": "公寓为住户集中存放自行车的房间或车架区，可能要求登记、贴标或另行申请门禁。",
+      "examples": [{"en": "You need to register your bike before using the bike storage room.", "zh": "使用自行车存放室前需要登记你的自行车。", "scenarioZh": "向物业申请自行车存放位置"}],
+      "usageNotesZh": ["常见说法：bike storage room、secure bike storage。", "应询问能否存放电动自行车及电池充电规则。"],
+      "tags": ["housing", "cycling", "facilities"]
+    },
+    {
+      "id": "rental-storage-unit",
+      "term": "storage unit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "储物间；独立储物单元",
+      "explanationZh": "用于存放不常用物品的独立空间，可以位于公寓地下室，也可以是商业自助仓储设施。",
+      "examples": [{"en": "The apartment comes with a storage unit in the basement.", "zh": "这套公寓附带一个位于地下室的储物间。", "scenarioZh": "查看租房房源包含的设施"}],
+      "usageNotesZh": ["常见搭配：rent、lock 或 access a storage unit。", "确认储物间是否包含在租金内，以及保险是否覆盖其中物品。"],
+      "tags": ["housing", "storage", "facilities"]
+    },
+    {
+      "id": "building-parking-garage",
+      "term": "parking garage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停车库",
+      "explanationZh": "楼内或独立建筑中的多车位停车设施，公寓住户通常需要遥控器、门禁扣或登记车牌才能进入。",
+      "examples": [{"en": "The parking garage entrance is on the east side of the building.", "zh": "停车库入口在大楼东侧。", "scenarioZh": "告诉访客车辆入口位置"}],
+      "usageNotesZh": ["在加拿大也常说 underground parking 指地下停车区。", "parking garage 指整个车库；parking spot 指单个车位。"],
+      "tags": ["housing", "parking", "facilities"]
+    },
+    {
+      "id": "building-visitor-pass",
+      "term": "visitor pass",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "访客通行证；访客停车证",
+      "explanationZh": "让访客临时进入大楼、设施或访客车位的许可，可能是纸质卡、电子登记或车内展示的停车证。",
+      "examples": [{"en": "Your guest needs a visitor pass to park overnight.", "zh": "你的访客过夜停车需要访客停车证。", "scenarioZh": "为来访朋友办理夜间停车"}],
+      "usageNotesZh": ["常见搭配：request、issue 或 display a visitor pass。", "pass 是否可续期及最长使用时间要看楼规。"],
+      "tags": ["housing", "guests", "parking"]
+    },
+    {
+      "id": "building-laundry-card",
+      "term": "laundry card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "洗衣储值卡",
+      "explanationZh": "在公寓公共洗衣房支付洗衣机和烘干机费用的卡片，通常需要充值后使用。",
+      "examples": [{"en": "Where can I reload my laundry card?", "zh": "我可以在哪里给洗衣卡充值？", "scenarioZh": "第一次使用公寓公共洗衣房"}],
+      "usageNotesZh": ["常见搭配：load、reload 或 tap a laundry card。", "丢卡后余额是否能转移取决于服务商和物业规定。"],
+      "tags": ["housing", "laundry", "payments"]
+    },
+    {
+      "id": "coin-laundry",
+      "term": "coin laundry",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "投币洗衣房；投币洗衣设施",
+      "explanationZh": "使用硬币启动洗衣机或烘干机的公共洗衣房，可以设在公寓楼内，也可以是街边自助洗衣店。",
+      "examples": [{"en": "The building has coin laundry in the basement.", "zh": "这栋楼的地下室有投币洗衣房。", "scenarioZh": "询问出租屋是否配有洗衣设施"}],
+      "usageNotesZh": ["也常说 coin-operated laundry。", "去使用前最好确认需要哪种硬币及机器价格。"],
+      "tags": ["housing", "laundry", "facilities"]
+    },
+    {
+      "id": "ensuite-laundry",
+      "term": "en-suite laundry",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "套内洗衣设施",
+      "explanationZh": "安装在自己住房单元内部、无需与其他住户共用的洗衣机和烘干机。加拿大房源也常写作 in-suite laundry。",
+      "examples": [{"en": "This unit has en-suite laundry and a dishwasher.", "zh": "这套房有套内洗衣设施和洗碗机。", "scenarioZh": "查看公寓房源设施介绍"}],
+      "usageNotesZh": ["加拿大房源中 in-suite laundry 更常见，en-suite laundry 也能看到。", "确认是独立洗烘机、洗烘一体机，还是预留接口。"],
+      "tags": ["housing", "laundry", "amenities"]
+    },
+    {
+      "id": "apartment-balcony",
+      "term": "balcony",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "阳台",
+      "explanationZh": "从公寓外墙伸出的室外平台。使用时要遵守关于烧烤、晾晒、吸烟、宠物和物品固定的楼规。",
+      "examples": [{"en": "Please secure loose items on the balcony before the storm.", "zh": "暴风雨来临前，请固定好阳台上容易被吹动的物品。", "scenarioZh": "物业发布强风天气安全提醒"}],
+      "usageNotesZh": ["常见搭配：private balcony、balcony door。", "不要把物品从阳台抛下，也不要遮挡排水口。"],
+      "tags": ["housing", "apartment", "safety"]
+    },
+    {
+      "id": "building-fire-alarm",
+      "term": "fire alarm",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "火灾警报；消防警报器",
+      "explanationZh": "探测到火情或有人启动报警装置时发出声音和闪光的系统。警报响起时应按大楼疏散指示行动。",
+      "examples": [{"en": "The fire alarm went off at three in the morning.", "zh": "凌晨三点火灾警报响了。", "scenarioZh": "向物业描述夜间消防警报"}],
+      "usageNotesZh": ["常见表达：the fire alarm goes off、set off the fire alarm。", "fire alarm 指整套报警或警报声；smoke detector 指烟雾探测器。"],
+      "tags": ["housing", "fire-safety", "building"]
+    },
+    {
+      "id": "building-fire-drill",
+      "term": "fire drill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "消防演习",
+      "explanationZh": "模拟火灾警报和疏散流程的练习，帮助住户或员工熟悉楼梯、出口和集合地点。",
+      "examples": [{"en": "The building will hold a fire drill on Tuesday afternoon.", "zh": "大楼将在周二下午举行消防演习。", "scenarioZh": "阅读物业张贴的安全通知"}],
+      "usageNotesZh": ["常见搭配：hold、conduct 或 participate in a fire drill。", "drill 是演练，但仍应认真遵守现场指示。"],
+      "tags": ["housing", "fire-safety", "emergency"]
+    },
+    {
+      "id": "building-intercom",
+      "term": "intercom",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "楼宇对讲系统",
+      "explanationZh": "让大门访客与住户通话的设备或系统，有的连接室内话机，有的直接拨打住户手机。",
+      "examples": [{"en": "The intercom calls my phone when a visitor buzzes my unit.", "zh": "访客呼叫我的房号时，对讲系统会拨打我的手机。", "scenarioZh": "向新室友解释楼宇访客系统"}],
+      "usageNotesZh": ["常见搭配：answer the intercom、intercom system。", "确认来访者身份后再开门，不要随意放陌生人进入。"],
+      "tags": ["housing", "building", "security"]
+    },
+    {
+      "id": "building-party-room",
+      "term": "party room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公寓活动室；聚会室",
+      "explanationZh": "公寓楼供住户预约举办聚会或活动的公共房间，通常涉及押金、清洁、人数和结束时间规定。",
+      "examples": [{"en": "We booked the party room for a birthday dinner.", "zh": "我们预约了公寓活动室举办生日晚餐。", "scenarioZh": "在公寓内安排小型聚会"}],
+      "usageNotesZh": ["常见搭配：book、reserve 或 rent the party room。", "使用前应确认访客名单、酒精规定、清洁费和取消政策。"],
+      "tags": ["housing", "amenities", "events"]
+    }
+  ]
+}
