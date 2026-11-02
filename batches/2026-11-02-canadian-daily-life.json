@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-02-canadian-daily-life",
+  "title": "加拿大日常生活：网购取货与退款",
+  "publishedOn": "2026-11-02",
+  "entries": [
+    {
+      "id": "shopping-price-adjustment",
+      "term": "price adjustment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "差价补退；价格调整",
+      "explanationZh": "购买后短期内商品降价，商家按政策退回差价。是否适用于促销、清仓或会员价，要看具体门店规则。",
+      "examples": [{"en": "Can I get a price adjustment for the jacket I bought last week?", "zh": "我上周买的这件夹克可以补退差价吗？", "scenarioZh": "发现刚买的衣服降价后咨询客服"}],
+      "usageNotesZh": ["常见搭配：request、receive 或 qualify for a price adjustment。", "通常需要收据，并须在商家规定的期限内申请。"],
+      "tags": ["shopping", "pricing", "refunds"]
+    },
+    {
+      "id": "shopping-promo-code",
+      "term": "promo code",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "促销码；优惠码",
+      "explanationZh": "结账时输入以获得折扣、免运费或其他优惠的一串字符，是 promotional code 的常用简写。",
+      "examples": [{"en": "Enter the promo code before you place the order.", "zh": "下单前请输入促销码。", "scenarioZh": "网购结账时使用折扣"}],
+      "usageNotesZh": ["常见搭配：enter、apply 或 use a promo code。", "注意最低消费、适用商品和截止日期。"],
+      "tags": ["shopping", "online-shopping", "discounts"]
+    },
+    {
+      "id": "shopping-loyalty-points",
+      "term": "loyalty points",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "会员积分；忠诚度积分",
+      "explanationZh": "在商家会员计划中通过消费或活动累积的积分，可按规则兑换折扣、商品或其他权益。",
+      "examples": [{"en": "I used my loyalty points to save ten dollars.", "zh": "我用会员积分省了十加元。", "scenarioZh": "在收银台兑换会员积分"}],
+      "usageNotesZh": ["通常用复数 loyalty points。", "常见搭配：earn、collect、redeem 或 use loyalty points。"],
+      "tags": ["shopping", "loyalty", "discounts"]
+    },
+    {
+      "id": "shopping-rewards-program",
+      "term": "rewards program",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "会员奖励计划；积分计划",
+      "explanationZh": "商家用积分、会员价或专属优惠鼓励回购的计划。加入前可查看是否收费、积分是否过期以及隐私条款。",
+      "examples": [{"en": "Is there a fee to join the rewards program?", "zh": "加入这个会员奖励计划要收费吗？", "scenarioZh": "收银员邀请注册会员时询问"}],
+      "usageNotesZh": ["加拿大也常写 loyalty program。", "常见搭配：join、sign up for 或 opt out of a rewards program。"],
+      "tags": ["shopping", "loyalty", "membership"]
+    },
+    {
+      "id": "shopping-member-price",
+      "term": "member price",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "会员价",
+      "explanationZh": "只有登录账户、出示会员卡或满足会员条件的顾客才能获得的价格。",
+      "examples": [{"en": "The member price applies after you scan your loyalty card.", "zh": "扫描会员卡后才会按会员价结算。", "scenarioZh": "在超市收银台核对促销价格"}],
+      "usageNotesZh": ["常见表达：available at the member price。", "货架标签可能同时显示 regular price 和 member price。"],
+      "tags": ["shopping", "pricing", "membership"]
+    },
+    {
+      "id": "shopping-sales-tax",
+      "term": "sales tax",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "销售税",
+      "explanationZh": "购买商品或服务时加收的消费税。加拿大不同省份可能使用 HST、GST 和 PST 等不同组合。",
+      "examples": [{"en": "The advertised price does not include sales tax.", "zh": "标示价格不包含销售税。", "scenarioZh": "结账金额高于货架价格时确认原因"}],
+      "usageNotesZh": ["通常作为不可数名词使用。", "在安大略省，许多应税消费结账时会加收 HST。"],
+      "tags": ["shopping", "tax", "payments"]
+    },
+    {
+      "id": "shopping-subtotal",
+      "term": "subtotal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "小计；税前或附加费前金额",
+      "explanationZh": "账单中在加入税费、运费或其他费用之前，某一组商品的合计金额。具体包含什么要看结账页面。",
+      "examples": [{"en": "Your subtotal must be at least fifty dollars for the discount.", "zh": "要使用这个折扣，小计至少要达到五十加元。", "scenarioZh": "网购时查看优惠的最低消费要求"}],
+      "usageNotesZh": ["常见表达：order subtotal、cart subtotal。", "subtotal 不一定等于最终支付金额。"],
+      "tags": ["shopping", "checkout", "payments"]
+    },
+    {
+      "id": "shopping-shipping-fee",
+      "term": "shipping fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "运费；配送费",
+      "explanationZh": "网购商品从商家寄到收货地址所收取的费用，金额可能取决于订单金额、速度、尺寸和地区。",
+      "examples": [{"en": "The shipping fee is waived on orders over seventy-five dollars.", "zh": "订单超过七十五加元可以免运费。", "scenarioZh": "结账时确认配送费用"}],
+      "usageNotesZh": ["也常说 shipping charge 或 delivery fee。", "税费、关税和偏远地区附加费可能另计。"],
+      "tags": ["shopping", "shipping", "fees"]
+    },
+    {
+      "id": "shopping-delivery-window",
+      "term": "delivery window",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预计送达时间段",
+      "explanationZh": "快递或送货服务预计到达的一段时间，例如上午九点到中午十二点，并不一定是精确时刻。",
+      "examples": [{"en": "The delivery window is between 2 p.m. and 6 p.m.", "zh": "预计送达时间是下午两点到六点之间。", "scenarioZh": "安排在家接收家具配送"}],
+      "usageNotesZh": ["常见搭配：choose、schedule 或 miss a delivery window。", "delivery date 是日期，delivery window 是更具体的时间段。"],
+      "tags": ["shopping", "delivery", "scheduling"]
+    },
+    {
+      "id": "shopping-tracking-number",
+      "term": "tracking number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "快递追踪号码；物流单号",
+      "explanationZh": "承运商为包裹分配的识别号码，可用来查看运输进度、预计送达时间和投递记录。",
+      "examples": [{"en": "The tracking number is in your shipping confirmation email.", "zh": "物流单号在发货确认邮件里。", "scenarioZh": "查询网购包裹运输状态"}],
+      "usageNotesZh": ["常见搭配：enter、copy 或 look up a tracking number。", "tracking number 与商家的 order number 通常不是同一个号码。"],
+      "tags": ["shopping", "shipping", "tracking"]
+    },
+    {
+      "id": "shopping-order-number",
+      "term": "order number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "订单号",
+      "explanationZh": "商家为每笔订单分配的编号，联系客服、取消订单、退货或取货时经常需要提供。",
+      "examples": [{"en": "Please have your order number ready when you call customer service.", "zh": "致电客服时请准备好订单号。", "scenarioZh": "联系商家处理订单问题"}],
+      "usageNotesZh": ["常见搭配：provide、find 或 reference an order number。", "不要与商品编号或快递追踪号码混淆。"],
+      "tags": ["shopping", "orders", "customer-service"]
+    },
+    {
+      "id": "shopping-online-order",
+      "term": "online order",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "线上订单；网购订单",
+      "explanationZh": "通过网站或应用提交的购买订单，可以选择送货、门店取货或路边取货。",
+      "examples": [{"en": "I placed an online order for pickup at the downtown store.", "zh": "我下了一个线上订单，选择在市中心门店取货。", "scenarioZh": "网购后选择门店自取"}],
+      "usageNotesZh": ["常见搭配：place、cancel、change 或 pick up an online order。", "place an order 表示下单。"],
+      "tags": ["shopping", "online-shopping", "orders"]
+    },
+    {
+      "id": "shopping-order-confirmation",
+      "term": "order confirmation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "订单确认通知",
+      "explanationZh": "商家收到订单后发送的邮件、短信或页面，通常列出商品、金额、订单号和配送或取货方式。",
+      "examples": [{"en": "I did not receive an order confirmation after paying.", "zh": "付款后我没有收到订单确认通知。", "scenarioZh": "担心网购付款后订单未成立"}],
+      "usageNotesZh": ["常见搭配：receive、resend 或 check an order confirmation。", "订单确认不一定表示商品已经发货。"],
+      "tags": ["shopping", "orders", "online-shopping"]
+    },
+    {
+      "id": "shopping-pickup-window",
+      "term": "pickup window",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可取货时间段",
+      "explanationZh": "商家要求顾客领取订单的时间范围，可以是预约的具体时段，也可以是收到通知后的若干天内。",
+      "examples": [{"en": "Your pickup window is from 5 p.m. to 7 p.m. today.", "zh": "你今天的取货时间段是下午五点到七点。", "scenarioZh": "收到门店自取时间通知"}],
+      "usageNotesZh": ["常见搭配：select、change 或 miss a pickup window。", "超过保留期限未取货，订单可能被取消并退款。"],
+      "tags": ["shopping", "pickup", "scheduling"]
+    },
+    {
+      "id": "shopping-pickup-location",
+      "term": "pickup location",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取货地点",
+      "explanationZh": "领取线上订单、包裹或商品的指定门店、柜台、停车位或其他地点。",
+      "examples": [{"en": "I accidentally selected the wrong pickup location.", "zh": "我不小心选错了取货地点。", "scenarioZh": "下单后发现门店选择错误"}],
+      "usageNotesZh": ["常见搭配：choose、change 或 confirm the pickup location。", "下单前应核对地址、门店名称和营业时间。"],
+      "tags": ["shopping", "pickup", "locations"]
+    },
+    {
+      "id": "shopping-in-store-pickup",
+      "term": "in-store pickup",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "到店自取",
+      "explanationZh": "在线下单后前往实体门店领取商品的方式，通常需要等待“可以取货”的通知并出示订单信息。",
+      "examples": [{"en": "I chose in-store pickup to avoid the shipping fee.", "zh": "我选择到店自取来省下运费。", "scenarioZh": "网购结账时选择履约方式"}],
+      "usageNotesZh": ["常见表达：available for in-store pickup。", "取货时可能需要带照片证件或展示确认邮件。"],
+      "tags": ["shopping", "pickup", "online-shopping"]
+    },
+    {
+      "id": "shopping-return-label",
+      "term": "return label",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退货标签",
+      "explanationZh": "寄回网购商品时贴在包裹外的运输标签，上面包含退货地址、条码和追踪信息。",
+      "examples": [{"en": "Print the return label and cover the old shipping label.", "zh": "打印退货标签，并遮住原来的运输标签。", "scenarioZh": "把网购商品邮寄退回商家"}],
+      "usageNotesZh": ["常见搭配：download、print 或 attach a return label。", "退货标签不一定免费，费用可能从退款中扣除。"],
+      "tags": ["shopping", "returns", "shipping"]
+    },
+    {
+      "id": "shopping-prepaid-label",
+      "term": "prepaid label",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "已付邮资标签",
+      "explanationZh": "寄件费用已经由商家或发件方预付的运输标签。用于退货时，顾客通常无需现场另付邮费。",
+      "examples": [{"en": "Customer service emailed me a prepaid label for the return.", "zh": "客服通过邮件给我发了一张退货用的已付邮资标签。", "scenarioZh": "商家承担瑕疵商品的退货运费"}],
+      "usageNotesZh": ["完整说法常为 prepaid shipping label 或 prepaid return label。", "仍要按标签指定的承运商和投递方式寄出。"],
+      "tags": ["shopping", "returns", "shipping"]
+    },
+    {
+      "id": "shopping-original-payment-method",
+      "term": "original payment method",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "原付款方式",
+      "explanationZh": "购买时实际使用的信用卡、借记卡、礼品卡或其他支付方式。商家常把退款退回这一方式。",
+      "examples": [{"en": "The refund will go back to your original payment method.", "zh": "退款会退回你的原付款方式。", "scenarioZh": "在门店办理商品退款"}],
+      "usageNotesZh": ["常见表达：refund to the original payment method。", "若使用多种方式付款，退款可能按原比例分别退回。"],
+      "tags": ["shopping", "refunds", "payments"]
+    },
+    {
+      "id": "shopping-return-window",
+      "term": "return window",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可退货期限",
+      "explanationZh": "从购买或收货之日起，商家允许办理退货的一段时间，例如十四天或三十天。",
+      "examples": [{"en": "The return window ends thirty days after delivery.", "zh": "可退货期限在送达后三十天结束。", "scenarioZh": "确认网购商品最晚退货日期"}],
+      "usageNotesZh": ["常见搭配：within、outside 或 extend the return window。", "节日购物有时提供延长退货期限。"],
+      "tags": ["shopping", "returns", "policy"]
+    },
+    {
+      "id": "shopping-order-status",
+      "term": "order status",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "订单状态",
+      "explanationZh": "订单当前所处阶段，例如处理中、已确认、已发货、可取货、已取消或已退款。",
+      "examples": [{"en": "The order status still says processing.", "zh": "订单状态仍然显示正在处理。", "scenarioZh": "查看迟迟未发货的网购订单"}],
+      "usageNotesZh": ["常见搭配：check、update 或 track the order status。", "processing 表示商家正在处理，不等于已经寄出。"],
+      "tags": ["shopping", "orders", "tracking"]
+    },
+    {
+      "id": "shopping-estimated-delivery",
+      "term": "estimated delivery",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预计送达时间",
+      "explanationZh": "商家或承运商根据当前信息预测的到货日期或时段，可能因天气、库存或运输延误而变化。",
+      "examples": [{"en": "The estimated delivery has changed to Friday.", "zh": "预计送达时间改到周五了。", "scenarioZh": "物流更新后查看新的到货日期"}],
+      "usageNotesZh": ["常见表达：estimated delivery date、estimated delivery time。", "estimated 强调这是预估，并非保证。"],
+      "tags": ["shopping", "delivery", "tracking"]
+    },
+    {
+      "id": "shopping-shipping-address",
+      "term": "shipping address",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收货地址；配送地址",
+      "explanationZh": "商家寄送商品的地址，可以与信用卡账单地址不同。下单前要核对单元号、邮编和收件人姓名。",
+      "examples": [{"en": "Please add your unit number to the shipping address.", "zh": "请在收货地址中加上你的房间号。", "scenarioZh": "网购填写公寓配送地址"}],
+      "usageNotesZh": ["常见搭配：enter、edit 或 confirm a shipping address。", "加拿大地址中的 postal code 指邮政编码。"],
+      "tags": ["shopping", "shipping", "address"]
+    },
+    {
+      "id": "shopping-billing-address",
+      "term": "billing address",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单地址",
+      "explanationZh": "与信用卡或其他付款账户登记信息对应的地址，网购时可能用来验证付款。",
+      "examples": [{"en": "Make sure the billing address matches your credit card statement.", "zh": "请确保账单地址与信用卡账单上的地址一致。", "scenarioZh": "排查网购信用卡付款失败"}],
+      "usageNotesZh": ["billing address 不一定等于 shipping address。", "地址不匹配有时会导致付款验证失败。"],
+      "tags": ["shopping", "payments", "address"]
+    },
+    {
+      "id": "shopping-free-shipping",
+      "term": "free shipping",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "免运费配送",
+      "explanationZh": "商家不向顾客收取普通配送费用的优惠，可能要求达到最低订单金额、加入会员或使用指定配送方式。",
+      "examples": [{"en": "This order qualifies for free shipping.", "zh": "这笔订单符合免运费配送条件。", "scenarioZh": "网购结账时确认运费优惠"}],
+      "usageNotesZh": ["常见表达：qualify for、offer 或 get free shipping。", "免普通运费不代表加急费、关税或偏远地区附加费也免除。"],
+      "tags": ["shopping", "shipping", "discounts"]
+    }
+  ]
+}
