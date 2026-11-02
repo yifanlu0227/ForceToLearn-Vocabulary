@@ -74,6 +74,7 @@ bibliography
 bike rack
 bike storage
 bill payment
+billing address
 billing cycle
 birth certificate
 bite the bullet
@@ -269,6 +270,7 @@ deli
 deli counter
 deliverable
 delivery fee
+delivery window
 deodorant
 department
 departure board
@@ -340,6 +342,7 @@ entrée
 EOB
 ER
 escalator
+estimated delivery
 evidence
 exact change
 exchange
@@ -402,6 +405,7 @@ for here or to go
 for sure
 foreign transaction fee
 free sample
+free shipping
 free weights
 free-range
 freezing rain
@@ -511,6 +515,7 @@ in season
 in stock
 in the same boat
 in-network
+in-store pickup
 in-text citation
 ingredient list
 inhaler
@@ -584,6 +589,7 @@ long shot
 long story short
 loonie
 loyalty card
+loyalty points
 lukewarm
 lunch break
 mail in
@@ -602,6 +608,7 @@ meat counter
 median
 medium rare
 meeting invite
+member price
 merge
 methodology
 microfiber cloth
@@ -667,11 +674,16 @@ on-ramp
 onboarding
 one-way street
 online banking
+online order
 online portal
 open enrollment
+order confirmation
+order number
+order status
 orientation
 original document
 original packaging
+original payment method
 ottoman
 out of stock
 out-of-pocket
@@ -728,6 +740,8 @@ phone screen
 photocopy
 physical
 pick up
+pickup location
+pickup window
 piece of cake
 pileup
 pillow sham
@@ -757,8 +771,10 @@ pre-authorized payment
 pre-washed
 preheat
 premium
+prepaid label
 prerequisite
 presentation
+price adjustment
 price check
 price match
 price tag
@@ -770,6 +786,7 @@ probation period
 processing time
 produce
 produce section
+promo code
 proof of address
 proof of income
 proof of payment
@@ -835,9 +852,12 @@ rest stop
 restock
 restocking fee
 resume
+return label
 return policy
+return window
 reusable bag
 revise
+rewards program
 rideshare
 right of way
 rink
@@ -864,6 +884,7 @@ runners
 runny
 rush hour
 salary
+sales tax
 salt
 saucepan
 sauté
@@ -901,6 +922,8 @@ shampoo
 shaving cream
 shelf
 shift
+shipping address
+shipping fee
 shoot someone a text
 shopping cart
 short-staffed
@@ -1006,6 +1029,7 @@ sublet
 submit
 substitution
 subtitles
+subtotal
 subway platform
 sump pump
 sunny side up
@@ -1065,6 +1089,7 @@ toss
 total
 touch base
 tow truck
+tracking number
 traction
 trailer
 trailhead
