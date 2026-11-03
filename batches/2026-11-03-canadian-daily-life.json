@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-03-canadian-daily-life",
+  "title": "加拿大日常生活：车站导航与乘车礼仪",
+  "publishedOn": "2026-11-03",
+  "entries": [
+    {
+      "id": "transit-station-exit",
+      "term": "station exit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "车站出口",
+      "explanationZh": "从地铁站或火车站通往街道、商场或其他建筑的出口。大型车站常有多个出口，走错会多绕一段路。",
+      "examples": [{"en": "Use the station exit at the north end of the platform.", "zh": "请使用站台北端的车站出口。", "scenarioZh": "按地图寻找距离目的地最近的出口"}],
+      "usageNotesZh": ["常见搭配：take、use 或 find a station exit。", "可结合街名说 the Yonge Street exit。"],
+      "tags": ["transit", "station", "navigation"]
+    },
+    {
+      "id": "transit-exit-number",
+      "term": "exit number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出口编号",
+      "explanationZh": "车站、地下通道或高速公路为不同出口设置的号码，便于准确导航和约人会合。",
+      "examples": [{"en": "Which exit number should I use for the bus terminal?", "zh": "去公交总站我应该走几号出口？", "scenarioZh": "在换乘站向工作人员问路"}],
+      "usageNotesZh": ["常见表达：Exit 2、exit number two。", "并非每个加拿大车站都使用数字编号，有些按街名标示。"],
+      "tags": ["transit", "station", "navigation"]
+    },
+    {
+      "id": "transit-platform-number",
+      "term": "platform number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "站台编号",
+      "explanationZh": "标识列车从哪个站台出发或到达的号码。火车站临时更换站台时要留意广播和显示屏。",
+      "examples": [{"en": "Check the departure board for the platform number.", "zh": "请查看出发信息屏上的站台编号。", "scenarioZh": "在火车站寻找上车站台"}],
+      "usageNotesZh": ["常说 Platform 3，而不是必须说 platform number three。", "站台信息有时到临近发车才公布。"],
+      "tags": ["transit", "station", "platform"]
+    },
+    {
+      "id": "transit-northbound",
+      "term": "northbound",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "向北行驶的；往北",
+      "explanationZh": "表示公交、地铁、火车或道路交通朝北运行。在多伦多地铁站选择方向时非常常见。",
+      "examples": [{"en": "Take the northbound train to Bloor-Yonge.", "zh": "乘坐北行列车到 Bloor-Yonge。", "scenarioZh": "在地铁站确认乘车方向"}],
+      "usageNotesZh": ["常见搭配：northbound train、northbound platform。", "可作副词：The bus is travelling northbound.。"],
+      "tags": ["transit", "direction", "navigation"]
+    },
+    {
+      "id": "transit-southbound",
+      "term": "southbound",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "向南行驶的；往南",
+      "explanationZh": "表示公交、地铁、火车或道路交通朝南运行，常出现在站台标牌和服务公告中。",
+      "examples": [{"en": "Southbound trains are stopping on the opposite platform.", "zh": "南行列车在对面站台停靠。", "scenarioZh": "车站临时调整上下车站台"}],
+      "usageNotesZh": ["常见搭配：southbound service、southbound lane。", "与 northbound 相对。"],
+      "tags": ["transit", "direction", "navigation"]
+    },
+    {
+      "id": "transit-eastbound",
+      "term": "eastbound",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "向东行驶的；往东",
+      "explanationZh": "表示车辆或线路朝东运行。公交站牌和地铁方向标示常用终点站名称配合 eastbound。",
+      "examples": [{"en": "The eastbound streetcar stop is across the intersection.", "zh": "东行有轨电车站在十字路口对面。", "scenarioZh": "在街口寻找正确方向的车站"}],
+      "usageNotesZh": ["常见搭配：eastbound bus、eastbound traffic。", "确认方向时也可查看线路终点站名称。"],
+      "tags": ["transit", "direction", "navigation"]
+    },
+    {
+      "id": "transit-westbound",
+      "term": "westbound",
+      "partsOfSpeech": ["adjective", "adverb"],
+      "definitionZh": "向西行驶的；往西",
+      "explanationZh": "表示车辆或线路朝西运行，常用于区分同一路线在道路两侧的站点。",
+      "examples": [{"en": "Is this the stop for the westbound bus?", "zh": "这是西行公交车的站点吗？", "scenarioZh": "在不熟悉的路段确认公交方向"}],
+      "usageNotesZh": ["常见搭配：westbound train、westbound platform。", "与 eastbound 相对。"],
+      "tags": ["transit", "direction", "navigation"]
+    },
+    {
+      "id": "railway-track",
+      "term": "track",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "铁路轨道；列车股道",
+      "explanationZh": "列车行驶的轨道，也可用于车站广播中指列车停靠的具体股道。不要进入或跨越轨道区域。",
+      "examples": [{"en": "The train to Ottawa will depart from Track 6.", "zh": "开往渥太华的列车将从第六股道发车。", "scenarioZh": "在城际火车站听取发车广播"}],
+      "usageNotesZh": ["常见表达：Track 4、on the track、cross the tracks。", "track 和 platform 相关但不同：列车在轨道上，乘客在站台上。"],
+      "tags": ["transit", "rail", "station"]
+    },
+    {
+      "id": "transit-bus-bay",
+      "term": "bus bay",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公交停靠位；公交站台位",
+      "explanationZh": "公交总站或换乘中心里供某条线路停靠上客的指定位置，通常用号码或字母标示。",
+      "examples": [{"en": "The airport bus leaves from Bay 12.", "zh": "机场巴士从十二号停靠位发车。", "scenarioZh": "在公交总站寻找上车位置"}],
+      "usageNotesZh": ["常见写法：Bay 5、bus bay number five。", "不要与 Toronto 的 Bay Street 混淆。"],
+      "tags": ["transit", "bus", "station"]
+    },
+    {
+      "id": "station-attendant",
+      "term": "station attendant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "车站工作人员",
+      "explanationZh": "在车站帮助乘客问路、处理闸机或票务问题、报告安全事项的现场工作人员。",
+      "examples": [{"en": "Ask the station attendant if the elevator is operating.", "zh": "问一下车站工作人员电梯是否正常运行。", "scenarioZh": "需要无障碍路线时咨询工作人员"}],
+      "usageNotesZh": ["常见搭配：speak to、ask 或 notify a station attendant。", "不同系统也可能称 customer service agent。"],
+      "tags": ["transit", "station", "staff"]
+    },
+    {
+      "id": "transit-operator",
+      "term": "transit operator",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公共交通驾驶员；运营人员",
+      "explanationZh": "驾驶公交车、有轨电车或操作其他公共交通车辆的人员；在另一语境中也可指运营交通系统的机构。",
+      "examples": [{"en": "Tell the transit operator if you need the ramp.", "zh": "如果你需要使用坡板，请告诉公共交通驾驶员。", "scenarioZh": "携带轮椅或婴儿车乘坐公交"}],
+      "usageNotesZh": ["在车上语境通常指驾驶或操作车辆的工作人员。", "operator 比 driver 范围更广，可用于公交、有轨电车等。"],
+      "tags": ["transit", "staff", "accessibility"]
+    },
+    {
+      "id": "transit-passenger",
+      "term": "passenger",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "乘客",
+      "explanationZh": "乘坐公交、地铁、火车、出租车、飞机或他人车辆的人，不包括负责驾驶的人。",
+      "examples": [{"en": "Passengers should move away from the doors after boarding.", "zh": "乘客上车后应离开车门附近。", "scenarioZh": "车厢广播提醒乘客让出门口"}],
+      "usageNotesZh": ["常见搭配：fellow passenger、passenger safety。", "复数 passengers 在公告中很常见。"],
+      "tags": ["transit", "people", "etiquette"]
+    },
+    {
+      "id": "transit-rider",
+      "term": "rider",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "乘车人；公共交通使用者",
+      "explanationZh": "乘坐公共交通、骑自行车或骑乘其他交通工具的人。交通机构常用 riders 泛指其乘客群体。",
+      "examples": [{"en": "Riders can report service issues through the transit app.", "zh": "乘客可以通过交通应用报告服务问题。", "scenarioZh": "查看公共交通机构的乘客通知"}],
+      "usageNotesZh": ["transit rider 指公共交通乘客。", "rider 也可指骑车人，具体含义由语境决定。"],
+      "tags": ["transit", "people", "services"]
+    },
+    {
+      "id": "transit-get-on",
+      "term": "get on",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "上车；登上公共交通工具",
+      "explanationZh": "登上公交、地铁、火车或飞机等较大型交通工具。与 get off（下车）相对。",
+      "examples": [{"en": "We got on the wrong train at Union Station.", "zh": "我们在 Union Station 上错了列车。", "scenarioZh": "发现乘坐方向错误后解释情况"}],
+      "usageNotesZh": ["常说 get on a bus、train 或 plane。", "上小汽车或出租车更常说 get in。"],
+      "tags": ["transit", "boarding", "phrasal-verb"]
+    },
+    {
+      "id": "transit-move-to-the-back",
+      "term": "move to the back",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "往车厢后部移动",
+      "explanationZh": "公交车拥挤时，驾驶员或广播请已上车乘客向后走，为车门和前部腾出空间的常用表达。",
+      "examples": [{"en": "Please move to the back so more people can board.", "zh": "请往后走，让更多人可以上车。", "scenarioZh": "高峰期公交车内为新乘客腾位置"}],
+      "usageNotesZh": ["也常听到 move further back。", "这里的 back 指车厢后部，不是返回原处。"],
+      "tags": ["transit", "bus", "etiquette"]
+    },
+    {
+      "id": "transit-let-passengers-off",
+      "term": "let passengers off",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "先让乘客下车",
+      "explanationZh": "上车前先给车内乘客留出下车通道，是地铁、公交和电梯中常见的礼仪提醒。",
+      "examples": [{"en": "Please let passengers off before you board the train.", "zh": "登上列车前，请先让乘客下车。", "scenarioZh": "地铁到站开门时排队上车"}],
+      "usageNotesZh": ["let someone off 在这里表示让某人下车。", "常与 stand aside 搭配，表示站到门口两侧。"],
+      "tags": ["transit", "boarding", "etiquette"]
+    },
+    {
+      "id": "transit-give-up-your-seat",
+      "term": "give up your seat",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "让座",
+      "explanationZh": "主动把座位让给更需要的人，例如长者、孕妇、残障人士或抱小孩的乘客。",
+      "examples": [{"en": "He gave up his seat to a passenger with a cane.", "zh": "他把座位让给了一位拄手杖的乘客。", "scenarioZh": "在拥挤地铁上为有需要的人让座"}],
+      "usageNotesZh": ["结构是 give up one's seat to someone。", "也可礼貌问 Would you like my seat?。"],
+      "tags": ["transit", "etiquette", "accessibility"]
+    },
+    {
+      "id": "transit-lost-and-found",
+      "term": "lost and found",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "失物招领处；失物招领服务",
+      "explanationZh": "集中登记、保管并归还遗失物品的服务或地点。公共交通遗失物通常需要提供路线、时间和物品特征。",
+      "examples": [{"en": "I contacted lost and found about the backpack I left on the bus.", "zh": "我联系了失物招领处，询问落在公交车上的背包。", "scenarioZh": "找回遗失在公共交通上的物品"}],
+      "usageNotesZh": ["常见搭配：contact、call 或 check with lost and found。", "作为标牌时也常写 Lost & Found。"],
+      "tags": ["transit", "lost-items", "services"]
+    },
+    {
+      "id": "transit-accessibility-ramp",
+      "term": "accessibility ramp",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "无障碍坡板；无障碍坡道",
+      "explanationZh": "帮助轮椅、助行器或其他行动辅助设备上下车辆或进入车站的坡板或坡道。",
+      "examples": [{"en": "The driver lowered the accessibility ramp for the wheelchair user.", "zh": "驾驶员为轮椅使用者放下了无障碍坡板。", "scenarioZh": "乘坐低地板公交车上车"}],
+      "usageNotesZh": ["车辆上的可移动装置常直接称 ramp。", "需要协助时可对驾驶员说 I need the ramp, please.。"],
+      "tags": ["transit", "accessibility", "equipment"]
+    },
+    {
+      "id": "transit-low-floor-bus",
+      "term": "low-floor bus",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "低地板公交车",
+      "explanationZh": "车厢地板较低、上下车台阶更少的公交车，通常可配合下沉功能或坡板提高无障碍性。",
+      "examples": [{"en": "This route uses low-floor buses with space for mobility devices.", "zh": "这条线路使用低地板公交车，并设有行动辅助设备空间。", "scenarioZh": "查询无障碍公交线路信息"}],
+      "usageNotesZh": ["low-floor 作前置修饰语时通常加连字符。", "mobility device 包括轮椅、助行器等。"],
+      "tags": ["transit", "bus", "accessibility"]
+    },
+    {
+      "id": "transit-stop-announcement",
+      "term": "stop announcement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "到站播报",
+      "explanationZh": "车内通过声音或显示屏提示下一站、换乘信息和服务变化的通知。",
+      "examples": [{"en": "I could not hear the stop announcement over the noise.", "zh": "周围太吵，我没听清到站播报。", "scenarioZh": "担心在陌生线路坐过站"}],
+      "usageNotesZh": ["常见搭配：audio stop announcement、automated stop announcement。", "可同时留意车内屏幕上的 next stop 信息。"],
+      "tags": ["transit", "announcements", "navigation"]
+    },
+    {
+      "id": "transit-service-alert",
+      "term": "service alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交通服务提醒",
+      "explanationZh": "交通机构发布的延误、绕行、停运、站点关闭或电梯故障等实时通知。",
+      "examples": [{"en": "Check the service alerts before leaving for the station.", "zh": "出发去车站前先查看交通服务提醒。", "scenarioZh": "通勤前确认线路是否正常"}],
+      "usageNotesZh": ["常用复数 service alerts 泛指当前所有提醒。", "常见搭配：issue、post 或 check a service alert。"],
+      "tags": ["transit", "service", "alerts"]
+    },
+    {
+      "id": "transit-platform-edge",
+      "term": "platform edge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "站台边缘",
+      "explanationZh": "站台靠近轨道的一侧边缘，通常有黄色线或触觉警示带。等车时应与边缘保持安全距离。",
+      "examples": [{"en": "Please stand back from the platform edge.", "zh": "请退后，远离站台边缘。", "scenarioZh": "列车进站前听到安全广播"}],
+      "usageNotesZh": ["常见表达：stay away from、stand back from the platform edge。", "不要把随身物品伸到站台边缘外。"],
+      "tags": ["transit", "platform", "safety"]
+    },
+    {
+      "id": "transit-elevator-access",
+      "term": "elevator access",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电梯通行条件；可乘电梯到达",
+      "explanationZh": "车站是否能通过电梯在街道、站厅和站台之间无障碍通行。电梯停运时可能需要改走其他车站。",
+      "examples": [{"en": "Is there elevator access to the subway platform?", "zh": "可以乘电梯到达地铁站台吗？", "scenarioZh": "携带大件行李前确认车站设施"}],
+      "usageNotesZh": ["常见表达：provide、have 或 require elevator access。", "查询时也要确认电梯是否当前正常运行。"],
+      "tags": ["transit", "accessibility", "station"]
+    },
+    {
+      "id": "transit-bus-shelter",
+      "term": "bus shelter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公交候车亭",
+      "explanationZh": "公交站设置的带顶棚候车设施，通常能遮雨挡雪，有些还配有座椅、照明和到站信息。",
+      "examples": [{"en": "We waited inside the bus shelter during the snowstorm.", "zh": "暴雪期间我们在公交候车亭里等车。", "scenarioZh": "冬季在室外公交站候车"}],
+      "usageNotesZh": ["bus stop 指站点；bus shelter 指站点上的候车设施。", "常见搭配：wait in、stand beside a bus shelter。"],
+      "tags": ["transit", "bus", "facilities"]
+    }
+  ]
+}
