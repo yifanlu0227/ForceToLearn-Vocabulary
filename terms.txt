@@ -5,6 +5,7 @@ a splash of
 abstract
 academic advisor
 academic calendar
+accessibility ramp
 accessibility services
 account number
 action item
@@ -121,6 +122,8 @@ burner
 bursary
 burst pipe
 bus a table
+bus bay
+bus shelter
 bus stop
 business day
 butcher
@@ -322,10 +325,12 @@ Dutch oven
 duvet
 e-transfer
 earmuffs
+eastbound
 eavestrough
 eggplant
 eh
 elective
+elevator access
 elevator booking
 elevator outage
 eligibility
@@ -348,6 +353,7 @@ exact change
 exchange
 exercise mat
 exhibit
+exit number
 expedite
 experiment
 expired
@@ -425,6 +431,7 @@ gas mileage
 gauze
 generic
 get off
+get on
 get the hang of it
 get towed
 ghost
@@ -432,6 +439,7 @@ gift receipt
 give it a shot
 give or take
 give someone a shout
+give up your seat
 glass cleaner
 glove compartment
 gloves
@@ -565,6 +573,7 @@ lease renewal
 lecture
 leftovers
 let it rest
+let passengers off
 level
 library card
 library database
@@ -588,6 +597,8 @@ locker room
 long shot
 long story short
 loonie
+lost and found
+low-floor bus
 loyalty card
 loyalty points
 lukewarm
@@ -627,6 +638,7 @@ monthly pass
 mop
 mould
 mouthwash
+move to the back
 move-in date
 move-in inspection
 move-out date
@@ -645,6 +657,7 @@ no-show
 noise complaint
 non-perishables
 non-stick
+northbound
 notarize
 notary public
 notice period
@@ -721,6 +734,7 @@ part-time
 party of
 party room
 pass/fail
+passenger
 pat dry
 patio
 pay stub
@@ -754,6 +768,8 @@ pitcher
 place a hold
 plagiarism
 plastic wrap
+platform edge
+platform number
 play it by ear
 PLU sticker
 plunger
@@ -858,6 +874,7 @@ return window
 reusable bag
 revise
 rewards program
+rider
 rideshare
 right of way
 rink
@@ -911,6 +928,7 @@ self-checkout
 sell-by date
 seminar
 send back
+service alert
 service disruption
 service fee
 service suspended
@@ -971,6 +989,7 @@ soap scum
 soggy
 sold loose
 sold out
+southbound
 souvenir
 space heater
 spackle
@@ -997,7 +1016,9 @@ start a tab
 start date
 statement balance
 static electricity
+station attendant
 station entrance
+station exit
 stationary bike
 steep
 step stool
@@ -1007,6 +1028,7 @@ still or sparkling
 stir-fry
 stitches
 stock up
+stop announcement
 stop request
 storage locker
 storage unit
@@ -1089,6 +1111,7 @@ toss
 total
 touch base
 tow truck
+track
 tracking number
 traction
 trailer
@@ -1099,6 +1122,7 @@ transcript
 transfer
 transfer window
 transit number
+transit operator
 transit pass
 treadmill
 triage
@@ -1155,6 +1179,7 @@ weatherstripping
 weigh
 weight room
 well done
+westbound
 wet wipes
 whip
 whisk
