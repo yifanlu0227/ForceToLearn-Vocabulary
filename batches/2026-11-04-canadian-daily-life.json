@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-04-canadian-daily-life",
+  "title": "加拿大日常生活：职场会议与项目协作",
+  "publishedOn": "2026-11-04",
+  "entries": [
+    {
+      "id": "calendar-invite",
+      "term": "calendar invite",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "日历会议邀请",
+      "explanationZh": "通过工作日历发送的会议邀请，通常包含时间、地点或视频链接。收到后一般要选择接受、暂定或拒绝。",
+      "examples": [{"en": "I sent you a calendar invite for our meeting on Thursday.", "zh": "我给你发了周四会议的日历邀请。", "scenarioZh": "同事确认会议安排"}],
+      "usageNotesZh": ["常见搭配：send、accept、decline a calendar invite。", "invite 在这里作名词，职场口语中很常见。"],
+      "tags": ["work", "meetings", "scheduling"]
+    },
+    {
+      "id": "meeting-room",
+      "term": "meeting room",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "会议室",
+      "explanationZh": "办公室里用于开会或讨论的房间。有些公司需要提前在内部系统里预订。",
+      "examples": [{"en": "I booked a meeting room on the third floor for 10 a.m.", "zh": "我订了三楼的会议室，上午十点使用。", "scenarioZh": "安排线下团队会议"}],
+      "usageNotesZh": ["常见搭配：book、reserve、find a meeting room。"],
+      "tags": ["work", "meetings", "office"]
+    },
+    {
+      "id": "video-call",
+      "term": "video call",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "视频通话；视频会议",
+      "explanationZh": "通过电脑或手机进行的带画面通话，常用于远程办公、面试和客户会议。",
+      "examples": [{"en": "Can we have a quick video call this afternoon?", "zh": "我们今天下午能快速开个视频会议吗？", "scenarioZh": "远程同事需要简短沟通"}],
+      "usageNotesZh": ["常见搭配：have、schedule、start a video call。", "quick video call 表示时间较短的线上沟通。"],
+      "tags": ["work", "meetings", "remote-work"]
+    },
+    {
+      "id": "join-a-call",
+      "term": "join a call",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "加入通话或线上会议",
+      "explanationZh": "点击会议链接或拨号进入电话、视频会议。也可以用来询问某人是否会参会。",
+      "examples": [{"en": "I'll join the call a few minutes early to test my audio.", "zh": "我会提前几分钟加入会议，测试一下音频。", "scenarioZh": "重要线上会议前做设备检查"}],
+      "usageNotesZh": ["join 后直接接 a call，不说 join into a call。"],
+      "tags": ["work", "meetings", "remote-work"]
+    },
+    {
+      "id": "screen-share",
+      "term": "screen share",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "屏幕共享；共享屏幕",
+      "explanationZh": "在线上会议中让其他人看到你的电脑画面。既可指这项功能，也可作动词表示共享画面。",
+      "examples": [{"en": "Could you screen share the spreadsheet so we can review it together?", "zh": "你能共享一下电子表格吗？我们可以一起检查。", "scenarioZh": "团队线上核对项目数据"}],
+      "usageNotesZh": ["也常说 share your screen，意思相同且更通用。", "共享前留意关闭含有私人信息的窗口。"],
+      "tags": ["work", "meetings", "technology"]
+    },
+    {
+      "id": "mute-call",
+      "term": "mute",
+      "partsOfSpeech": ["verb", "adjective"],
+      "definitionZh": "静音；处于静音状态的",
+      "explanationZh": "在线上会议中关闭自己的麦克风，避免背景噪声传给其他参会者。",
+      "examples": [{"en": "Please mute your microphone when you're not speaking.", "zh": "不发言时请把麦克风静音。", "scenarioZh": "主持人提醒多人会议的参会者"}],
+      "usageNotesZh": ["常见表达：You're on mute.（你现在是静音的。）", "mute your microphone 和 mute yourself 都很自然。"],
+      "tags": ["work", "meetings", "technology"]
+    },
+    {
+      "id": "unmute-call",
+      "term": "unmute",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "取消静音；打开麦克风",
+      "explanationZh": "在线上会议中恢复麦克风，让别人能听到你说话。",
+      "examples": [{"en": "You'll need to unmute before you answer the question.", "zh": "回答问题前你需要取消静音。", "scenarioZh": "同事在线上会议中准备发言"}],
+      "usageNotesZh": ["常见表达：Could you unmute yourself?（你能打开麦克风吗？）"],
+      "tags": ["work", "meetings", "technology"]
+    },
+    {
+      "id": "connection-issue",
+      "term": "connection issue",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "网络连接问题",
+      "explanationZh": "网络不稳定、掉线或无法进入线上会议等连接故障。职场中 issue 比 problem 语气稍缓和。",
+      "examples": [{"en": "Sorry, I missed the last part because I had a connection issue.", "zh": "抱歉，我刚才网络连接出了问题，没听到最后一部分。", "scenarioZh": "线上会议恢复连接后说明情况"}],
+      "usageNotesZh": ["常见搭配：have、experience、fix a connection issue。", "也常说 internet connection issue。"],
+      "tags": ["work", "meetings", "technology"]
+    },
+    {
+      "id": "follow-up-work",
+      "term": "follow up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "跟进；进一步确认",
+      "explanationZh": "在会议、邮件或任务之后再次联系，确认进度、补充信息或推动下一步。",
+      "examples": [{"en": "I'll follow up with the supplier tomorrow about the delivery date.", "zh": "我明天会联系供应商，跟进交货日期。", "scenarioZh": "同事分配会后跟进任务"}],
+      "usageNotesZh": ["follow up with someone 表示跟某人联系；follow up on something 表示跟进某件事。", "作名词或形容词时通常写作 follow-up。"],
+      "tags": ["work", "communication", "project-management"]
+    },
+    {
+      "id": "circle-back",
+      "term": "circle back",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "稍后再谈；回头再跟进",
+      "explanationZh": "职场口语，表示现在先放一放，获得更多信息或到合适时间后再回到这个话题。",
+      "examples": [{"en": "Let's circle back on the budget after we get the updated quote.", "zh": "等拿到更新后的报价，我们再回来讨论预算。", "scenarioZh": "会议中暂缓尚缺信息的议题"}],
+      "usageNotesZh": ["常见结构：circle back on a topic、circle back with someone。", "属于常见职场表达，正式文件中可换成 revisit 或 follow up。"],
+      "tags": ["work", "communication", "meetings"]
+    },
+    {
+      "id": "deadline-extension",
+      "term": "deadline extension",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "截止日期延期",
+      "explanationZh": "把任务原定的截止时间往后延。需要尽早说明原因，并提出明确的新日期。",
+      "examples": [{"en": "We requested a two-day deadline extension because the data arrived late.", "zh": "因为数据来晚了，我们申请把截止日期延后两天。", "scenarioZh": "项目资料延迟后与经理沟通"}],
+      "usageNotesZh": ["常见搭配：request、ask for、grant a deadline extension。"],
+      "tags": ["work", "deadlines", "project-management"]
+    },
+    {
+      "id": "status-update",
+      "term": "status update",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "进展情况更新",
+      "explanationZh": "简要说明任务目前做到哪里、有什么问题以及接下来要做什么，可通过会议、邮件或聊天发送。",
+      "examples": [{"en": "Please send me a status update by the end of the day.", "zh": "请在今天下班前给我发一份进展更新。", "scenarioZh": "经理了解当天项目进度"}],
+      "usageNotesZh": ["常见搭配：give、send、provide a status update。", "通常应包含已完成事项、风险和下一步。"],
+      "tags": ["work", "communication", "project-management"]
+    },
+    {
+      "id": "project-blocker",
+      "term": "blocker",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "阻碍项目推进的问题",
+      "explanationZh": "让工作无法继续或明显延误的障碍，例如缺少权限、资料或关键决定。项目会议中常直接询问有没有 blockers。",
+      "examples": [{"en": "My only blocker is that I still don't have access to the shared folder.", "zh": "我唯一的阻碍是还没有共享文件夹的访问权限。", "scenarioZh": "每日站会汇报任务受阻原因"}],
+      "usageNotesZh": ["常见表达：remove a blocker、identify blockers、No blockers.。"],
+      "tags": ["work", "problems", "project-management"]
+    },
+    {
+      "id": "project-dependency",
+      "term": "dependency",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "依赖项；前置条件",
+      "explanationZh": "一个任务开始或完成前必须先具备的条件，常常是另一项任务、某个决定或外部团队的交付。",
+      "examples": [{"en": "Approval from legal is a dependency for launching the new form.", "zh": "法务批准是上线新表格的前置条件。", "scenarioZh": "项目规划时说明任务之间的关系"}],
+      "usageNotesZh": ["常见搭配：key dependency、external dependency、manage dependencies。"],
+      "tags": ["work", "planning", "project-management"]
+    },
+    {
+      "id": "project-milestone",
+      "term": "milestone",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "里程碑；重要阶段节点",
+      "explanationZh": "项目中用来衡量进展的重要节点，例如完成设计、开始测试或正式上线。",
+      "examples": [{"en": "Completing the pilot program is our next major milestone.", "zh": "完成试点项目是我们的下一个重要里程碑。", "scenarioZh": "团队回顾项目阶段性目标"}],
+      "usageNotesZh": ["常见搭配：reach、meet、miss a milestone。"],
+      "tags": ["work", "planning", "project-management"]
+    },
+    {
+      "id": "project-timeline",
+      "term": "timeline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "时间表；项目进度安排",
+      "explanationZh": "列出项目各阶段及预定完成时间的安排，也可泛指完成一件事需要多久。",
+      "examples": [{"en": "The client asked for a revised timeline with realistic delivery dates.", "zh": "客户要求一份更新后的时间表，交付日期要切合实际。", "scenarioZh": "项目延期后重新规划进度"}],
+      "usageNotesZh": ["常见搭配：project timeline、revised timeline、stay on the timeline。"],
+      "tags": ["work", "planning", "project-management"]
+    },
+    {
+      "id": "project-scope",
+      "term": "scope",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "项目范围；工作涵盖内容",
+      "explanationZh": "项目承诺要完成哪些内容、不包含哪些内容。范围不清楚容易造成额外工作和延期。",
+      "examples": [{"en": "Adding a mobile app is outside the scope of this project.", "zh": "增加手机应用不在这个项目的范围内。", "scenarioZh": "客户提出额外需求时澄清边界"}],
+      "usageNotesZh": ["常见表达：within scope、out of scope、define the scope。"],
+      "tags": ["work", "planning", "project-management"]
+    },
+    {
+      "id": "work-priority",
+      "term": "priority",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "优先事项；优先级",
+      "explanationZh": "需要比其他任务更先处理的事情，或任务之间的轻重缓急。",
+      "examples": [{"en": "Fixing the payment error is our top priority this morning.", "zh": "修复付款错误是我们今天上午最优先的事情。", "scenarioZh": "团队确定当天工作顺序"}],
+      "usageNotesZh": ["常见搭配：top、high、low priority；也可说 set priorities。"],
+      "tags": ["work", "planning", "productivity"]
+    },
+    {
+      "id": "task-owner",
+      "term": "task owner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "任务负责人",
+      "explanationZh": "对某项任务的推进和完成负主要责任的人，不一定是团队经理。",
+      "examples": [{"en": "Let's assign a task owner before we end the meeting.", "zh": "会议结束前，我们给这项任务指定一位负责人吧。", "scenarioZh": "会议中明确后续行动责任"}],
+      "usageNotesZh": ["owner 在这里强调最终负责，不表示拥有任务。", "常见搭配：assign、name、identify a task owner。"],
+      "tags": ["work", "roles", "project-management"]
+    },
+    {
+      "id": "point-person",
+      "term": "point person",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "主要联系人；牵头人",
+      "explanationZh": "某件事上负责协调信息、回答问题或联系各方的主要人员。加拿大职场中很常见。",
+      "examples": [{"en": "Maya is the point person for questions about the office move.", "zh": "关于办公室搬迁的问题，Maya 是主要联系人。", "scenarioZh": "通知员工向谁咨询搬迁事宜"}],
+      "usageNotesZh": ["常见结构：the point person for something。", "不一定代表最终决策者，重点是统一联络窗口。"],
+      "tags": ["work", "roles", "communication"]
+    },
+    {
+      "id": "work-handoff",
+      "term": "handoff",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "工作交接",
+      "explanationZh": "把任务、资料和责任从一个人或团队转交给另一个人或团队的过程。清楚的交接应说明当前状态和下一步。",
+      "examples": [{"en": "We'll do a handoff to the support team after the final test.", "zh": "最终测试后，我们会把工作交接给支持团队。", "scenarioZh": "项目从开发阶段转入运营阶段"}],
+      "usageNotesZh": ["作名词通常写 handoff；动词写 hand off。", "常见搭配：smooth handoff、project handoff。"],
+      "tags": ["work", "teamwork", "project-management"]
+    },
+    {
+      "id": "take-over-task",
+      "term": "take over",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "接手；接管",
+      "explanationZh": "从别人那里接下某项任务、职责或班次，并继续负责。",
+      "examples": [{"en": "Could you take over the weekly report while I'm on vacation?", "zh": "我休假期间，你能接手每周报告吗？", "scenarioZh": "休假前安排工作代理"}],
+      "usageNotesZh": ["take over a task 表示接手任务；take over from someone 表示接替某人。"],
+      "tags": ["work", "teamwork", "responsibilities"]
+    },
+    {
+      "id": "work-bandwidth",
+      "term": "bandwidth",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可投入的时间和精力",
+      "explanationZh": "职场口语中表示一个人或团队目前还能承担多少额外工作，不是指网络带宽。",
+      "examples": [{"en": "I don't have the bandwidth to take on another project this week.", "zh": "我这周没有余力再接一个项目。", "scenarioZh": "向经理说明当前工作量已满"}],
+      "usageNotesZh": ["have the bandwidth to do something 表示有时间和精力去做。", "较正式时可改说 capacity 或 availability。"],
+      "tags": ["work", "workload", "communication"]
+    },
+    {
+      "id": "schedule-conflict",
+      "term": "schedule conflict",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "时间安排冲突",
+      "explanationZh": "两个会议、班次或其他安排落在同一时间，导致无法同时参加。",
+      "examples": [{"en": "I have a schedule conflict at 2 p.m. Can we move the meeting to 3?", "zh": "我下午两点时间有冲突。会议可以改到三点吗？", "scenarioZh": "收到会议邀请后请求改时间"}],
+      "usageNotesZh": ["常见搭配：have、avoid、resolve a schedule conflict。"],
+      "tags": ["work", "scheduling", "meetings"]
+    },
+    {
+      "id": "out-of-office",
+      "term": "out of office",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "不在办公室；暂时无法办公",
+      "explanationZh": "表示因休假、出差或其他原因暂时不工作，也常指自动回复邮件，告知联系人何时回来以及找谁代办。",
+      "examples": [{"en": "I'll be out of office on Friday and will reply on Monday.", "zh": "我周五不办公，会在周一回复。", "scenarioZh": "休假前告知同事和客户"}],
+      "usageNotesZh": ["常缩写为 OOO，多用于内部日历或状态。", "常见搭配：out-of-office message、out-of-office reply，其中作定语时加连字符。"],
+      "tags": ["work", "availability", "email"]
+    }
+  ]
+}
