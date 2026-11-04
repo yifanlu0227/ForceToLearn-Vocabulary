@@ -56,6 +56,7 @@ balance
 balcony
 ballpark
 Band-Aid
+bandwidth
 banister
 bank branch
 bank draft
@@ -87,6 +88,7 @@ blinds
 blinker
 blister
 block heater
+blocker
 blood work
 blowing snow
 board
@@ -137,6 +139,7 @@ by weight
 bylaw
 BYOB
 cage-free
+calendar invite
 call in sick
 call it a day
 call number
@@ -172,6 +175,7 @@ chequing account
 childproof cap
 chip in
 cilantro
+circle back
 circuit breaker
 circulation desk
 citation style
@@ -209,6 +213,7 @@ conditioner
 conference
 confirmation number
 connecting bus
+connection issue
 contactless payment
 conveyor belt
 cool down
@@ -259,6 +264,7 @@ day-old
 dead battery
 deadbolt
 deadline
+deadline extension
 debit card
 decaf
 decongestant
@@ -277,6 +283,7 @@ delivery window
 deodorant
 department
 departure board
+dependency
 deposit
 designated driver
 detour
@@ -404,6 +411,7 @@ flurries
 flyer
 fob access
 fold in
+follow up
 follow-up appointment
 food bank
 food coma
@@ -480,6 +488,7 @@ hand in
 hand sanitizer
 hand soap
 hand warmers
+handoff
 hang dry
 hang in there
 hangry
@@ -541,6 +550,7 @@ jaywalk
 job application
 job offer
 job posting
+join a call
 joint account
 journal
 jug
@@ -619,12 +629,14 @@ meat counter
 median
 medium rare
 meeting invite
+meeting room
 member price
 merge
 methodology
 microfiber cloth
 midterm
 mildew
+milestone
 mince
 minimum payment
 minutes
@@ -643,6 +655,7 @@ move-in date
 move-in inspection
 move-out date
 mudroom
+mute
 my bad
 my two cents
 nasal spray
@@ -698,6 +711,7 @@ original document
 original packaging
 original payment method
 ottoman
+out of office
 out of stock
 out-of-pocket
 outlet
@@ -774,6 +788,7 @@ play it by ear
 PLU sticker
 plunger
 poach
+point person
 pop
 posted transaction
 poster
@@ -796,6 +811,7 @@ price match
 price tag
 primary source
 prior authorization
+priority
 priority seating
 prix fixe
 probation period
@@ -909,9 +925,12 @@ savings account
 scale
 scarf
 scenic route
+schedule conflict
 scholarship
+scope
 scramble
 screen door
+screen share
 script
 scrub
 scrub brush
@@ -1020,6 +1039,7 @@ station attendant
 station entrance
 station exit
 stationary bike
+status update
 steep
 step stool
 stepladder
@@ -1069,11 +1089,13 @@ syllabus
 tailgate
 take a number
 take out the garbage
+take over
 takeout
 tap
 tap off
 tap on
 tarp
+task owner
 tea towel
 teaching assistant
 temporary position
@@ -1092,6 +1114,7 @@ threshold
 throw blanket
 ticket machine
 tied up
+timeline
 timesheet
 timetable
 Timmies
@@ -1143,6 +1166,7 @@ under the weather
 undergraduate
 unfurnished
 unit price
+unmute
 unopened
 up in the air
 urgent care
@@ -1157,6 +1181,7 @@ vegan
 vegetarian
 vent
 venue
+video call
 visitor parking
 visitor pass
 void cheque
