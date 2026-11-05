@@ -1,3 +1,4 @@
+311
 86
 a dollop of
 a pinch of
@@ -95,6 +96,7 @@ board
 board game
 body wash
 boil over
+boil water advisory
 bok choy
 book drop
 bookstore
@@ -116,6 +118,7 @@ bug spray
 building management
 building permit
 bulk bins
+bulky item
 bumper-to-bumper
 bunch
 bundle up
@@ -214,9 +217,11 @@ conference
 confirmation number
 connecting bus
 connection issue
+construction notice
 contactless payment
 conveyor belt
 cool down
+cooling centre
 core
 corkage fee
 cortisone cream
@@ -249,6 +254,7 @@ crosswalk
 cruise control
 crutches
 cul-de-sac
+curb
 curbside pickup
 curdle
 current balance
@@ -374,6 +380,7 @@ eye drops
 fabric softener
 faculty
 fair enough
+fallen tree
 family doctor
 family pack
 family style
@@ -462,6 +469,7 @@ grab a bite
 grace period
 grade
 graduate student
+graffiti
 grant
 grate
 gratuity
@@ -514,6 +522,7 @@ honk
 host
 hourly wage
 house wine
+household hazardous waste
 humidifier
 hybrid work
 hydro
@@ -684,6 +693,7 @@ Nutrition Facts table
 oat milk
 occupant
 off the top of my head
+off-leash area
 off-peak
 off-ramp
 office hours
@@ -785,6 +795,7 @@ plastic wrap
 platform edge
 platform number
 play it by ear
+playground
 PLU sticker
 plunger
 poach
@@ -828,6 +839,9 @@ proofread
 property manager
 property tax
 proposal
+public consultation
+public notice
+public washroom
 pull over
 pumped
 put your name down
@@ -874,6 +888,7 @@ rental listing
 rep
 replacement bus
 replacement card
+report a problem
 requisition
 reschedule
 research
@@ -897,6 +912,7 @@ rink
 rinse
 rip-off
 ripe
+road closure
 road conditions
 road rage
 road salt
@@ -950,6 +966,7 @@ send back
 service alert
 service disruption
 service fee
+service request
 service suspended
 set
 settle up
@@ -977,6 +994,7 @@ shut-off valve
 shuttle bus
 sick day
 side effects
+sidewalk
 sift
 simmer
 SIN
@@ -1020,6 +1038,7 @@ specimen
 speed bump
 speeding ticket
 spill the beans
+splash pad
 splinter
 split the check
 spoiled
@@ -1054,7 +1073,9 @@ storage locker
 storage unit
 store brand
 store credit
+storm drain
 streetcar
+streetlight
 strength training
 stretch
 stroller
@@ -1192,11 +1213,14 @@ walk-in clinic
 wall anchor
 ward
 warm up
+warming centre
 warranty
 washer fluid
 washroom
 water fountain
 water heater
+water main
+water shutoff
 watered down
 waterproof
 weather forecast
@@ -1228,6 +1252,7 @@ work schedule
 workload
 workout
 wrap up
+yard waste
 yield
 you bet
 zest
