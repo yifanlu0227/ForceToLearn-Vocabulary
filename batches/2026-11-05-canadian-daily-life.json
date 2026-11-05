@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-05-canadian-daily-life",
+  "title": "加拿大日常生活：市政设施与社区报修",
+  "publishedOn": "2026-11-05",
+  "entries": [
+    {
+      "id": "service-311",
+      "term": "311",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "市政非紧急服务热线",
+      "explanationZh": "许多加拿大城市用来查询市政服务或反映非紧急问题的电话和线上服务，例如垃圾、道路、树木或噪音问题。紧急情况应拨打 911。",
+      "examples": [{"en": "I called 311 to ask about a missed garbage pickup.", "zh": "我拨打了 311，询问垃圾漏收的问题。", "scenarioZh": "市政垃圾车没有按计划收走垃圾"}],
+      "usageNotesZh": ["常见表达：call 311、contact 311、submit a request through 311。", "服务范围因城市而异；涉及即时危险时不要用 311。"],
+      "tags": ["community-services", "municipal", "phone"]
+    },
+    {
+      "id": "municipal-service-request",
+      "term": "service request",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "服务申请；报修工单",
+      "explanationZh": "向市政府或物业正式提交的问题记录，通常会生成编号，方便后续查询处理进度。",
+      "examples": [{"en": "The city gave me a reference number for my service request.", "zh": "市政府给了我一个服务申请的查询编号。", "scenarioZh": "在线提交路灯故障后保存工单信息"}],
+      "usageNotesZh": ["常见搭配：submit、open、track、close a service request。", "reference number 或 request number 常用于查询进度。"],
+      "tags": ["community-services", "municipal", "requests"]
+    },
+    {
+      "id": "report-a-problem",
+      "term": "report a problem",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "报告问题；反映故障",
+      "explanationZh": "把道路、公共设施或社区中的问题告知负责部门。报告时通常要提供准确地点、问题描述和照片。",
+      "examples": [{"en": "You can report a problem with the sidewalk through the city's website.", "zh": "你可以通过市政府网站反映人行道的问题。", "scenarioZh": "发现公共设施损坏后寻找报修入口"}],
+      "usageNotesZh": ["report a problem to the city 表示向市政府反映问题。", "如果页面要求选择类别，应选择最接近的 issue type。"],
+      "tags": ["community-services", "municipal", "requests"]
+    },
+    {
+      "id": "streetlight",
+      "term": "streetlight",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "路灯",
+      "explanationZh": "道路或人行道旁用于夜间照明的灯。路灯不亮、闪烁或白天一直亮时，可以向市政部门报修。",
+      "examples": [{"en": "The streetlight outside our building has been out for two nights.", "zh": "我们楼外的路灯已经两晚不亮了。", "scenarioZh": "居民准备报告夜间照明故障"}],
+      "usageNotesZh": ["常见表达：a broken streetlight、a streetlight is out。", "报修时提供附近门牌号或灯杆编号会更方便定位。"],
+      "tags": ["community-services", "streets", "safety"]
+    },
+    {
+      "id": "public-sidewalk",
+      "term": "sidewalk",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "人行道",
+      "explanationZh": "道路旁供行人通行的铺装区域。加拿大日常交流常用 sidewalk，冬季是否由住户清雪要看当地规定。",
+      "examples": [{"en": "The sidewalk is uneven near the bus stop, so watch your step.", "zh": "公交站附近的人行道不平，走路小心。", "scenarioZh": "提醒同行者注意路面高低差"}],
+      "usageNotesZh": ["常见搭配：icy sidewalk、cracked sidewalk、sidewalk repair。", "英式英语常说 pavement，但在加拿大 sidewalk 更清楚。"],
+      "tags": ["community-services", "streets", "walking"]
+    },
+    {
+      "id": "road-closure",
+      "term": "road closure",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "道路封闭",
+      "explanationZh": "道路因施工、事故、活动或天气暂时不允许车辆通行。通知中通常会说明封闭路段、时间和绕行路线。",
+      "examples": [{"en": "There will be a road closure on King Street during the parade.", "zh": "游行期间 King Street 将封路。", "scenarioZh": "出门前查看市中心交通通知"}],
+      "usageNotesZh": ["常见搭配：temporary、full、partial road closure。", "closure 指封闭状态；detour 指绕行路线。"],
+      "tags": ["community-services", "roads", "traffic"]
+    },
+    {
+      "id": "construction-notice",
+      "term": "construction notice",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "施工通知",
+      "explanationZh": "提前告知居民道路、管线或建筑施工时间、影响范围和联系方式的通知，可能张贴在楼内或寄到住址。",
+      "examples": [{"en": "The construction notice says the work will start at 7 a.m. on Monday.", "zh": "施工通知说工程周一早上七点开始。", "scenarioZh": "居民查看即将开始的街道工程安排"}],
+      "usageNotesZh": ["通知里常见 expected completion date、work hours 和 contact information。"],
+      "tags": ["community-services", "construction", "notices"]
+    },
+    {
+      "id": "water-main",
+      "term": "water main",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "供水主管道",
+      "explanationZh": "把市政自来水输送到街区和建筑的主要地下管道。管道破裂可能造成路面积水、低水压或临时停水。",
+      "examples": [{"en": "Crews are repairing a broken water main on our street.", "zh": "工作人员正在抢修我们街上的破裂供水主管道。", "scenarioZh": "居民了解突然停水和道路施工的原因"}],
+      "usageNotesZh": ["常见搭配：water main break、water main repair。", "main 在这里指主管线，不是形容词。"],
+      "tags": ["community-services", "water", "infrastructure"]
+    },
+    {
+      "id": "water-shutoff",
+      "term": "water shutoff",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停水；供水关闭",
+      "explanationZh": "因维修、紧急故障或楼内施工而临时停止供水。计划性停水通常会提前通知预计开始和恢复时间。",
+      "examples": [{"en": "Fill a few containers before the scheduled water shutoff tomorrow.", "zh": "明天计划停水前，先装几桶水备用。", "scenarioZh": "公寓收到维修停水通知"}],
+      "usageNotesZh": ["也常写作 water shut-off。", "scheduled water shutoff 表示计划停水；emergency shutoff 表示紧急停水。"],
+      "tags": ["community-services", "water", "housing"]
+    },
+    {
+      "id": "boil-water-advisory",
+      "term": "boil water advisory",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "饮用水煮沸通知",
+      "explanationZh": "公共卫生或供水部门建议居民把自来水充分煮沸后再饮用或用于特定用途的通知，直到官方宣布解除。",
+      "examples": [{"en": "The boil water advisory remains in effect until further notice.", "zh": "饮用水煮沸通知仍然有效，解除时间另行通知。", "scenarioZh": "供水受影响后查看官方安全提醒"}],
+      "usageNotesZh": ["常见表达：issue、lift、remain under a boil water advisory。", "具体煮沸时间和用途应严格按当地官方指引执行。"],
+      "tags": ["community-services", "water", "public-health"]
+    },
+    {
+      "id": "street-curb",
+      "term": "curb",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "路缘；马路牙子",
+      "explanationZh": "分隔车道与人行道或绿地的凸起边缘。垃圾桶摆放、停车限制和无障碍坡道说明中经常出现。",
+      "examples": [{"en": "Leave the recycling bin at the curb before 7 a.m.", "zh": "早上七点前把回收箱放到路边。", "scenarioZh": "按要求摆放市政收运的回收箱"}],
+      "usageNotesZh": ["加拿大常用美式拼法 curb；英式拼法为 kerb。", "curb cut 指方便轮椅、婴儿车通行的路缘坡道。"],
+      "tags": ["community-services", "streets", "waste"]
+    },
+    {
+      "id": "storm-drain",
+      "term": "storm drain",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雨水排水口；雨水管道入口",
+      "explanationZh": "道路边用来排走雨水和融雪的格栅或入口。被树叶、冰雪堵住时，附近可能积水。",
+      "examples": [{"en": "Leaves are blocking the storm drain at the corner.", "zh": "树叶堵住了街角的雨水排水口。", "scenarioZh": "暴雨前发现道路排水不畅"}],
+      "usageNotesZh": ["不要把油漆、机油或化学品倒进 storm drain。", "有些市政页面也称 catch basin。"],
+      "tags": ["community-services", "drainage", "streets"]
+    },
+    {
+      "id": "public-washroom",
+      "term": "public washroom",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公共洗手间",
+      "explanationZh": "公园、社区中心、交通设施等公共场所供公众使用的洗手间。washroom 是加拿大最常见的礼貌说法。",
+      "examples": [{"en": "Is there an accessible public washroom in this park?", "zh": "这个公园里有无障碍公共洗手间吗？", "scenarioZh": "在户外活动时寻找卫生间"}],
+      "usageNotesZh": ["常见搭配：public washroom、accessible washroom、washroom hours。", "美国更常说 restroom，意思相同。"],
+      "tags": ["community-services", "public-facilities", "accessibility"]
+    },
+    {
+      "id": "public-playground",
+      "term": "playground",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "儿童游乐场",
+      "explanationZh": "设有滑梯、秋千等儿童游乐设施的户外区域，常位于公园、学校或社区中心附近。",
+      "examples": [{"en": "The playground is closed while the damaged slide is being repaired.", "zh": "损坏的滑梯维修期间，游乐场暂停开放。", "scenarioZh": "家长查看公园设施临时关闭通知"}],
+      "usageNotesZh": ["常见搭配：public playground、playground equipment、playground safety。"],
+      "tags": ["community-services", "parks", "children"]
+    },
+    {
+      "id": "splash-pad",
+      "term": "splash pad",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "儿童戏水喷泉区",
+      "explanationZh": "公园里设有喷头、水柱等设施的浅水或无积水戏水区域，天气炎热时供儿童免费玩水。",
+      "examples": [{"en": "The splash pad is open daily from June to September.", "zh": "这个戏水喷泉区从六月到九月每天开放。", "scenarioZh": "家长安排孩子夏季户外活动"}],
+      "usageNotesZh": ["常见搭配：splash pad hours、splash pad season。", "开放日期和水质维护安排应查看当地公园通知。"],
+      "tags": ["community-services", "parks", "summer"]
+    },
+    {
+      "id": "off-leash-area",
+      "term": "off-leash area",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "宠物免牵绳活动区",
+      "explanationZh": "公园内允许狗在符合规定的情况下不牵绳活动的指定区域，区域外通常仍须使用牵引绳。",
+      "examples": [{"en": "Dogs may run without a leash only inside the off-leash area.", "zh": "狗只能在免牵绳活动区内不牵绳奔跑。", "scenarioZh": "带狗去公园前确认活动范围"}],
+      "usageNotesZh": ["off-leash 作定语时通常加连字符。", "主人仍需看管宠物、清理排泄物并遵守现场标志。"],
+      "tags": ["community-services", "parks", "pets"]
+    },
+    {
+      "id": "warming-centre",
+      "term": "warming centre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "临时取暖中心",
+      "explanationZh": "严寒天气期间为需要的人提供室内取暖和基本支持的临时公共场所，开放条件和时段由当地政府公布。",
+      "examples": [{"en": "The city opened a warming centre because of the extreme cold warning.", "zh": "由于发布了极寒警报，市政府开放了临时取暖中心。", "scenarioZh": "严寒夜晚查询可进入的安全室内场所"}],
+      "usageNotesZh": ["加拿大也常拼作 warming center。", "是否全天开放、能否携带宠物等应查看最新官方公告。"],
+      "tags": ["community-services", "winter", "support"]
+    },
+    {
+      "id": "cooling-centre",
+      "term": "cooling centre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "避暑降温中心",
+      "explanationZh": "酷热天气期间向公众提供空调、饮水或休息空间的地点，常设在社区中心或其他公共建筑内。",
+      "examples": [{"en": "The library is serving as a cooling centre during the heat warning.", "zh": "高温警报期间，这家图书馆作为避暑降温中心开放。", "scenarioZh": "家中没有空调时寻找凉爽公共场所"}],
+      "usageNotesZh": ["加拿大也常拼作 cooling center。", "常见搭配：designated cooling centre、cooling centre hours。"],
+      "tags": ["community-services", "summer", "support"]
+    },
+    {
+      "id": "municipal-public-notice",
+      "term": "public notice",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公共通知；公告",
+      "explanationZh": "政府或公共机构正式发布给居民的信息，可能涉及施工、会议、政策变更或服务中断。",
+      "examples": [{"en": "The public notice lists the dates and locations of the upcoming road work.", "zh": "公告列出了即将进行的道路施工日期和地点。", "scenarioZh": "居民阅读市政网站上的工程信息"}],
+      "usageNotesZh": ["常见搭配：issue、post、publish a public notice。", "notice 常包含生效日期、意见提交方式和联系人。"],
+      "tags": ["community-services", "municipal", "notices"]
+    },
+    {
+      "id": "public-consultation",
+      "term": "public consultation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公众咨询；征求居民意见",
+      "explanationZh": "政府或公共机构在决定规划、交通或社区项目之前，通过问卷、会议等方式听取公众意见的过程。",
+      "examples": [{"en": "The city is holding a public consultation on the new bike lanes.", "zh": "市政府正在就新的自行车道举行公众咨询。", "scenarioZh": "居民参与社区交通规划讨论"}],
+      "usageNotesZh": ["常见搭配：hold、attend、participate in a public consultation。", "意见截止日常写作 comment deadline 或 feedback deadline。"],
+      "tags": ["community-services", "municipal", "civic-participation"]
+    },
+    {
+      "id": "bulky-item",
+      "term": "bulky item",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "大件废弃物",
+      "explanationZh": "普通垃圾桶装不下的家具、床垫等大件物品。是否上门收取、如何摆放以及哪些物品不接收，要看当地规定。",
+      "examples": [{"en": "Check the collection rules before putting a bulky item at the curb.", "zh": "把大件物品放到路边前，先查看收运规定。", "scenarioZh": "居民准备处理旧床垫或家具"}],
+      "usageNotesZh": ["常见搭配：bulky item pickup、bulky waste collection。", "家电和装修废料可能有单独的处理要求。"],
+      "tags": ["community-services", "waste", "housing"]
+    },
+    {
+      "id": "yard-waste",
+      "term": "yard waste",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "庭院有机废物",
+      "explanationZh": "落叶、枝条、草屑等庭院维护产生的有机废物，通常按季节和指定方式单独收运。",
+      "examples": [{"en": "Put the leaves in paper yard waste bags for collection.", "zh": "把落叶装进纸质庭院垃圾袋，等待收运。", "scenarioZh": "秋季清理院子里的落叶"}],
+      "usageNotesZh": ["常见搭配：yard waste bag、yard waste collection。", "泥土、树桩和粗大树枝不一定按普通 yard waste 接收。"],
+      "tags": ["community-services", "waste", "gardening"]
+    },
+    {
+      "id": "household-hazardous-waste",
+      "term": "household hazardous waste",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "家庭危险废物",
+      "explanationZh": "油漆、溶剂、部分清洁剂等可能易燃、有毒或腐蚀的家庭废弃物，通常不能放进普通垃圾或下水道。",
+      "examples": [{"en": "Take leftover paint to a household hazardous waste drop-off location.", "zh": "把剩余油漆送到家庭危险废物投放点。", "scenarioZh": "装修后安全处理剩余化学用品"}],
+      "usageNotesZh": ["常缩写为 HHW。", "投放前应查看当地接收清单、包装要求和开放时间。"],
+      "tags": ["community-services", "waste", "safety"]
+    },
+    {
+      "id": "fallen-tree",
+      "term": "fallen tree",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "倒下的树；倒伏树木",
+      "explanationZh": "因暴风、积雪或树木受损而倒下的树。如果阻挡道路、人行道或压到电线，应远离并向负责部门报告。",
+      "examples": [{"en": "A fallen tree is blocking the sidewalk near the school.", "zh": "一棵倒下的树挡住了学校附近的人行道。", "scenarioZh": "暴风后向市政部门报告通行障碍"}],
+      "usageNotesZh": ["常见搭配：report、remove、clear a fallen tree。", "如果树木接触电线，不要靠近或自行移动。"],
+      "tags": ["community-services", "trees", "safety"]
+    },
+    {
+      "id": "public-graffiti",
+      "term": "graffiti",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "涂鸦；乱写乱画",
+      "explanationZh": "未经许可画在墙面、标志或公共设施上的文字和图案。公共设施上的涂鸦通常可以向市政府报告清理。",
+      "examples": [{"en": "I reported the graffiti on the bus shelter through the city's online form.", "zh": "我通过市政府在线表格报告了公交候车亭上的涂鸦。", "scenarioZh": "居民发现公共设施被乱涂乱画"}],
+      "usageNotesZh": ["graffiti 通常作为不可数名词使用。", "报告时提供清晰照片和准确位置有助于安排清理。"],
+      "tags": ["community-services", "public-space", "maintenance"]
+    }
+  ]
+}
