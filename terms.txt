@@ -3,6 +3,7 @@
 a dollop of
 a pinch of
 a splash of
+absence
 abstract
 academic advisor
 academic calendar
@@ -40,6 +41,7 @@ area rug
 as needed
 assignment
 ATM
+attendance
 authorized user
 auto-load
 automatic payment
@@ -166,6 +168,7 @@ cast
 casters
 catch a break
 catch up
+catchment area
 caulk
 ceiling fan
 certified copy
@@ -337,12 +340,14 @@ dustpan
 Dutch oven
 duvet
 e-transfer
+early dismissal
 earmuffs
 eastbound
 eavestrough
 eggplant
 eh
 elective
+elementary school
 elevator access
 elevator booking
 elevator outage
@@ -394,6 +399,7 @@ faucet
 fed up
 feedback
 fender bender
+field trip
 fill up
 final exam
 final sale
@@ -485,6 +491,7 @@ group project
 grout
 guarantor
 guest policy
+guidance counsellor
 guided tour
 gym membership
 hail a cab
@@ -518,6 +525,7 @@ hit the spot
 hit up
 hold the
 hole in the wall
+homeroom
 honk
 host
 hourly wage
@@ -571,6 +579,7 @@ keep someone in the loop
 key deposit
 key fob
 keyword
+kindergarten
 knead
 lab
 ladle
@@ -580,6 +589,7 @@ last call
 last month's rent
 last train
 late fee
+late slip
 laundry card
 laundry detergent
 laundry pods
@@ -735,8 +745,10 @@ overdue
 overdue fine
 overtime
 P-trap
+PA day
 package room
 packed
+packed lunch
 paid time off
 painter's tape
 pantry staples
@@ -745,6 +757,7 @@ parallel park
 paraphrase
 parcel locker
 parchment paper
+parent-teacher interview
 paring knife
 parka
 parkade
@@ -770,6 +783,7 @@ peer review
 pending transaction
 performance review
 permanent position
+permission form
 personal day
 personal trainer
 pest control
@@ -821,6 +835,7 @@ price check
 price match
 price tag
 primary source
+principal
 prior authorization
 priority
 priority seating
@@ -841,6 +856,7 @@ property tax
 proposal
 public consultation
 public notice
+public school
 public washroom
 pull over
 pumped
@@ -858,6 +874,7 @@ razor
 reading week
 rear-end
 receipt
+recess
 recreation program
 recycling bin
 red tape
@@ -889,6 +906,7 @@ rep
 replacement bus
 replacement card
 report a problem
+report card
 requisition
 reschedule
 research
@@ -943,6 +961,10 @@ scarf
 scenic route
 schedule conflict
 scholarship
+school board
+school bus
+school council
+school registration
 scope
 scramble
 screen door
@@ -956,6 +978,7 @@ search term
 season
 season pass
 seat yourself
+secondary school
 secondary source
 security deposit
 seedless
@@ -1013,6 +1036,7 @@ smoke detector
 smoke-free
 snag a table
 snow boots
+snow day
 snow pants
 snow removal
 snow shovel
@@ -1098,6 +1122,7 @@ sump pump
 sunny side up
 superintendent
 supervisor
+supply teacher
 supporting documents
 surcharge
 swab
