@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-06-canadian-daily-life",
+  "title": "加拿大日常生活：中小学家校沟通与校园日常",
+  "publishedOn": "2026-11-06",
+  "entries": [
+    {
+      "id": "school-board",
+      "term": "school board",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "教育局；学区教育委员会",
+      "explanationZh": "负责管理一批公立学校的教育机构，常发布入学、校历、校车、停课和学校政策等信息。加拿大不同地区的正式名称可能不同。",
+      "examples": [{"en": "Check the school board website for updates about school closures.", "zh": "查看教育局网站，了解学校停课的最新消息。", "scenarioZh": "恶劣天气时确认学校是否开放"}],
+      "usageNotesZh": ["常见搭配：public school board、school board policy、school board website。", "不要机械理解成一所学校内部的董事会；它通常管理多所学校。"],
+      "tags": ["school", "administration", "canada"]
+    },
+    {
+      "id": "school-catchment-area",
+      "term": "catchment area",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学校招生片区；学区服务范围",
+      "explanationZh": "学校按照家庭住址划定的招生服务区域。住在某个 catchment area 内，通常会对应一所指定学校，但具体规则要看当地教育局。",
+      "examples": [{"en": "Our new address is outside the school's catchment area.", "zh": "我们的新地址不在这所学校的招生片区内。", "scenarioZh": "搬家后确认孩子对应的公立学校"}],
+      "usageNotesZh": ["常见搭配：school catchment area、live within the catchment area。", "有些地区也使用 attendance area 或 school boundary。"],
+      "tags": ["school", "registration", "housing"]
+    },
+    {
+      "id": "public-school",
+      "term": "public school",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公立学校",
+      "explanationZh": "由公共资金支持并由教育局管理的学校。符合条件的本地学生通常无需支付普通学费，但仍可能有活动或用品费用。",
+      "examples": [{"en": "Their children attend the local public school.", "zh": "他们的孩子在当地公立学校上学。", "scenarioZh": "家长介绍孩子就读的学校类型"}],
+      "usageNotesZh": ["在加拿大，public school 通常指公立学校；具体入学资格和文件要求由省份及教育局规定。"],
+      "tags": ["school", "education", "canada"]
+    },
+    {
+      "id": "elementary-school",
+      "term": "elementary school",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "小学；初等学校",
+      "explanationZh": "面向较低年级儿童的学校。包含哪些年级因省份和教育局而异，有的学校还包含幼儿园或初中阶段。",
+      "examples": [{"en": "The elementary school is a ten-minute walk from our apartment.", "zh": "这所小学从我们公寓步行十分钟就到。", "scenarioZh": "家庭考察住处附近的学校"}],
+      "usageNotesZh": ["常见搭配：local elementary school、elementary school student。", "加拿大日常也可能说 primary school，但 elementary school 更普遍。"],
+      "tags": ["school", "education", "children"]
+    },
+    {
+      "id": "secondary-school",
+      "term": "secondary school",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "中学；高中",
+      "explanationZh": "面向中学阶段学生的学校。在安大略省等地，secondary school 常直接指高中阶段学校。",
+      "examples": [{"en": "She will start secondary school next September.", "zh": "她明年九月开始上中学。", "scenarioZh": "家长讨论孩子下一学年的升学安排"}],
+      "usageNotesZh": ["high school 也是很常见的说法。", "具体年级范围因省份和学校体系而异。"],
+      "tags": ["school", "education", "teenagers"]
+    },
+    {
+      "id": "school-kindergarten",
+      "term": "kindergarten",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "幼儿园阶段；学前班",
+      "explanationZh": "儿童进入正式小学年级前的学校教育阶段。加拿大各省入学年龄和是否分 junior、senior kindergarten 等安排并不完全相同。",
+      "examples": [{"en": "My son is starting kindergarten this fall.", "zh": "我儿子今年秋天开始上幼儿园阶段的课程。", "scenarioZh": "家长介绍孩子首次入学安排"}],
+      "usageNotesZh": ["常见搭配：start kindergarten、kindergarten teacher、kindergarten registration。", "在学校语境中通常不加冠词说 start kindergarten。"],
+      "tags": ["school", "education", "children"]
+    },
+    {
+      "id": "school-registration",
+      "term": "school registration",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学校入学登记；学籍注册",
+      "explanationZh": "家长为孩子申请并登记入学的流程，通常需要提交住址、年龄、监护关系和身份等文件。",
+      "examples": [{"en": "We need proof of address for school registration.", "zh": "办理学校入学登记需要地址证明。", "scenarioZh": "家长准备公立学校注册材料"}],
+      "usageNotesZh": ["常见搭配：complete school registration、registration documents。", "所需材料和办理入口应以当地教育局通知为准。"],
+      "tags": ["school", "registration", "documents"]
+    },
+    {
+      "id": "school-report-card",
+      "term": "report card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学生成绩报告单",
+      "explanationZh": "学校定期发给学生和家长的学习情况报告，通常包含各科成绩、老师评语、学习习惯和出勤情况。",
+      "examples": [{"en": "The report card will be available in the parent portal on Friday.", "zh": "成绩报告单周五会在家长系统中开放查看。", "scenarioZh": "学校通知家长查看学期成绩"}],
+      "usageNotesZh": ["常见搭配：receive、review、sign a report card。", "大学更常用 transcript 或 grade report；report card 多见于中小学。"],
+      "tags": ["school", "assessment", "parents"]
+    },
+    {
+      "id": "parent-teacher-interview",
+      "term": "parent-teacher interview",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "家长会面；家长与教师面谈",
+      "explanationZh": "家长和老师就学生的学习、课堂表现和需要改进之处进行的短时间会谈，通常需要提前预约时段。",
+      "examples": [{"en": "I booked a ten-minute parent-teacher interview for Thursday evening.", "zh": "我预约了周四晚上的十分钟家长教师面谈。", "scenarioZh": "家长在学校系统选择面谈时间"}],
+      "usageNotesZh": ["加拿大也常说 parent-teacher conference。", "常见搭配：book、attend a parent-teacher interview。"],
+      "tags": ["school", "parents", "communication"]
+    },
+    {
+      "id": "school-permission-form",
+      "term": "permission form",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "家长同意书；许可表",
+      "explanationZh": "学校要求家长或监护人签署的表格，用于同意孩子参加校外活动、拍照、使用特定服务等。",
+      "examples": [{"en": "Please return the signed permission form by Monday.", "zh": "请在周一前交回签好的家长同意书。", "scenarioZh": "老师提醒校外活动的材料截止时间"}],
+      "usageNotesZh": ["常见搭配：sign、return、submit a permission form。", "表格可能同时要求紧急联系人和健康信息。"],
+      "tags": ["school", "parents", "forms"]
+    },
+    {
+      "id": "school-field-trip",
+      "term": "field trip",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "校外教学活动；学校组织的参观",
+      "explanationZh": "老师带学生离开校园到博物馆、农场、公园等地点开展的学习活动，通常需要家长同意并可能收取费用。",
+      "examples": [{"en": "The class is going on a field trip to the science centre.", "zh": "这个班要去科学中心参加校外教学活动。", "scenarioZh": "老师向家长说明班级出行安排"}],
+      "usageNotesZh": ["常见搭配：go on a field trip、field trip fee、field trip permission form。"],
+      "tags": ["school", "activities", "learning"]
+    },
+    {
+      "id": "school-bus",
+      "term": "school bus",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "校车",
+      "explanationZh": "接送符合条件学生上下学的专用车辆。路线、停靠点和乘车资格通常由教育局或校车机构安排。",
+      "examples": [{"en": "The school bus usually arrives at our stop at 8:05.", "zh": "校车通常在八点零五分到我们这个站。", "scenarioZh": "家长确认孩子早晨等车时间"}],
+      "usageNotesZh": ["常见搭配：take、miss、wait for the school bus。", "车辆停车并闪灯时，其他道路使用者应遵守当地校车停车法规。"],
+      "tags": ["school", "transportation", "children"]
+    },
+    {
+      "id": "packed-lunch",
+      "term": "packed lunch",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自带的盒饭；打包午餐",
+      "explanationZh": "从家里准备并带到学校或工作的午餐。学校可能有无坚果等食物安全规定，准备前要查看通知。",
+      "examples": [{"en": "I made a packed lunch for my daughter because the cafeteria is closed.", "zh": "因为食堂关闭，我给女儿准备了自带午餐。", "scenarioZh": "家长早晨为孩子准备学校午餐"}],
+      "usageNotesZh": ["也常说 pack a lunch，表示准备并带一份午餐。", "常见搭配：bring、eat a packed lunch。"],
+      "tags": ["school", "food", "daily-life"]
+    },
+    {
+      "id": "school-recess",
+      "term": "recess",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课间休息；课间活动时间",
+      "explanationZh": "中小学课堂之间让学生休息、吃点心或到户外活动的时间，尤其常见于小学。",
+      "examples": [{"en": "The children go outside for recess unless the weather is severe.", "zh": "除非天气很恶劣，孩子们课间会到户外活动。", "scenarioZh": "老师说明学生每天的户外活动安排"}],
+      "usageNotesZh": ["常见搭配：morning recess、recess time、during recess。", "这个词在学校语境中通常不可数。"],
+      "tags": ["school", "children", "daily-routine"]
+    },
+    {
+      "id": "school-homeroom",
+      "term": "homeroom",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "班级行政课；固定班级教室",
+      "explanationZh": "学生一天开始或指定时段集合、点名和接收学校通知的固定班级或教室，不一定是主要学科课程。",
+      "examples": [{"en": "Students should report to homeroom before the assembly.", "zh": "学生在集会前应先到固定班级报到。", "scenarioZh": "学校说明特殊活动当天的集合安排"}],
+      "usageNotesZh": ["homeroom teacher 指负责该固定班级的老师。", "常见表达：go to homeroom、homeroom period。"],
+      "tags": ["school", "classes", "daily-routine"]
+    },
+    {
+      "id": "supply-teacher",
+      "term": "supply teacher",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "代课老师",
+      "explanationZh": "正式老师请假时临时代课的教师。supply teacher 是加拿大尤其安大略省常见说法，其他地区也常说 substitute teacher。",
+      "examples": [{"en": "We had a supply teacher because our regular teacher was away.", "zh": "因为平时的老师请假了，我们今天由代课老师上课。", "scenarioZh": "学生回家介绍当天课堂变化"}],
+      "usageNotesZh": ["常简称为 supply；例如 We had a supply today。", "substitute teacher 或 sub 也是常见同义说法。"],
+      "tags": ["school", "teachers", "canada"]
+    },
+    {
+      "id": "school-attendance",
+      "term": "attendance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出勤；到课情况",
+      "explanationZh": "学生是否按时到校并参加课程的记录。学校通常要求家长及时报告缺席或迟到。",
+      "examples": [{"en": "You can view your child's attendance record online.", "zh": "你可以在线查看孩子的出勤记录。", "scenarioZh": "家长在学校系统核对到校情况"}],
+      "usageNotesZh": ["常见搭配：attendance record、take attendance、regular attendance。", "attendance 通常不可数。"],
+      "tags": ["school", "attendance", "administration"]
+    },
+    {
+      "id": "school-absence",
+      "term": "absence",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "缺席；未到校",
+      "explanationZh": "学生没有到校或没有参加某节课的情况。家长通常需要说明日期和原因，避免被记录为不明缺席。",
+      "examples": [{"en": "Please report your child's absence before the school day begins.", "zh": "请在上课日开始前报告孩子的缺席情况。", "scenarioZh": "孩子生病时家长向学校请假"}],
+      "usageNotesZh": ["常见搭配：report an absence、excused absence、unexplained absence。", "形容词 absent 常用结构是 be absent from school。"],
+      "tags": ["school", "attendance", "parents"]
+    },
+    {
+      "id": "school-late-slip",
+      "term": "late slip",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "迟到条；迟到登记单",
+      "explanationZh": "学生迟到后在学校办公室登记并领取、再交给老师的纸条或记录，用来确认已完成到校报到。",
+      "examples": [{"en": "Get a late slip from the school office before going to class.", "zh": "去上课前先到学校办公室领取迟到条。", "scenarioZh": "学生早晨迟到后按流程报到"}],
+      "usageNotesZh": ["常见搭配：get、bring、hand in a late slip。", "现在有些学校使用电子迟到记录，不一定发纸条。"],
+      "tags": ["school", "attendance", "administration"]
+    },
+    {
+      "id": "early-dismissal",
+      "term": "early dismissal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "提前放学；提前离校",
+      "explanationZh": "学生比平时更早结束课程或获准离校，可能是学校统一安排，也可能因预约等由家长提出申请。",
+      "examples": [{"en": "Friday is an early dismissal day, so classes end at noon.", "zh": "周五提前放学，课程中午结束。", "scenarioZh": "家长根据学校通知调整接孩子时间"}],
+      "usageNotesZh": ["常见搭配：early dismissal day、request early dismissal。", "家长接走学生时通常仍需按学校流程登记。"],
+      "tags": ["school", "schedule", "parents"]
+    },
+    {
+      "id": "school-snow-day",
+      "term": "snow day",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "因大雪停课日",
+      "explanationZh": "因降雪、结冰或道路条件恶劣，学校或校车服务取消的一天。学校建筑关闭和校车取消不一定完全等同，要看官方通知。",
+      "examples": [{"en": "The children are staying home because today is a snow day.", "zh": "孩子们今天因为大雪停课留在家里。", "scenarioZh": "冬季早晨收到学校停课通知"}],
+      "usageNotesZh": ["常见搭配：declare a snow day、school bus cancellation。", "应查看教育局最新公告，而不是只根据天气自行判断。"],
+      "tags": ["school", "winter", "weather"]
+    },
+    {
+      "id": "school-pa-day",
+      "term": "PA day",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "教师专业活动日；学生停课日",
+      "explanationZh": "professional activity day 的简称，教师进行培训、规划或评估，学生通常不用上课。安大略省学校日历中很常见。",
+      "examples": [{"en": "There is no school for students on Friday because it is a PA day.", "zh": "周五是教师专业活动日，学生不用上课。", "scenarioZh": "家长查看校历并安排孩子照看"}],
+      "usageNotesZh": ["PA 通常逐字母读作 P-A。", "各教育局的日期不同，应查看本学年的 school calendar。"],
+      "tags": ["school", "schedule", "canada"]
+    },
+    {
+      "id": "school-council",
+      "term": "school council",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学校家长委员会；校务咨询委员会",
+      "explanationZh": "由家长、学校工作人员和社区成员等组成、就学校事务提供建议并支持校园活动的组织。具体职责因地区而异。",
+      "examples": [{"en": "The school council meeting is open to all parents and guardians.", "zh": "学校家长委员会会议向所有家长和监护人开放。", "scenarioZh": "家长考虑参与学校社区事务"}],
+      "usageNotesZh": ["常见搭配：school council meeting、join the school council。", "它通常是咨询和社区参与组织，不等同于 school board。"],
+      "tags": ["school", "parents", "community"]
+    },
+    {
+      "id": "school-principal",
+      "term": "principal",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "校长；主要的",
+      "explanationZh": "作名词时指负责学校整体管理的校长；作形容词时表示主要的。在中小学语境中通常指校长。",
+      "examples": [{"en": "The principal sent families an update about the new safety policy.", "zh": "校长给各家庭发送了关于新安全政策的通知。", "scenarioZh": "家长阅读学校管理层的正式邮件"}],
+      "usageNotesZh": ["school principal 表示校长；vice-principal 表示副校长。", "注意不要与 principle（原则）混淆。"],
+      "tags": ["school", "staff", "administration"]
+    },
+    {
+      "id": "guidance-counsellor",
+      "term": "guidance counsellor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "升学与学业指导老师",
+      "explanationZh": "中学里帮助学生规划课程、毕业要求、升学和职业方向的工作人员，也可能为学生提供一般性的支持和资源转介。",
+      "examples": [{"en": "I met with the guidance counsellor to discuss my Grade 12 courses.", "zh": "我和升学指导老师见了面，讨论十二年级的课程选择。", "scenarioZh": "高中生规划毕业和大学申请课程"}],
+      "usageNotesZh": ["加拿大常拼作 counsellor，带两个 l；美式拼法常为 counselor。", "常见搭配：meet with、book an appointment with a guidance counsellor。"],
+      "tags": ["school", "student-support", "course-planning"]
+    }
+  ]
+}
