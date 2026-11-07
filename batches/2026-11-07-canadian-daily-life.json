@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-07-canadian-daily-life",
+  "title": "加拿大日常生活：个人银行账户与转账实务",
+  "publishedOn": "2026-11-07",
+  "entries": [
+    {
+      "id": "available-balance",
+      "term": "available balance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可用余额",
+      "explanationZh": "账户中目前可以实际花费或转出的金额。它可能已经扣除了银行冻结的资金，却还没有反映所有待处理交易，因此可能与当前余额不同。",
+      "examples": [
+        {
+          "en": "My available balance is lower because the cheque is still on hold.",
+          "zh": "因为这张支票仍在冻结期内，我的可用余额比较低。",
+          "scenarioZh": "存入支票后查看可以立即使用的金额"
+        }
+      ],
+      "usageNotesZh": [
+        "available balance 强调现在能用的钱；current balance 是页面显示的当前总余额，两者不一定相同。"
+      ],
+      "tags": ["banking", "accounts", "balances"]
+    },
+    {
+      "id": "pre-authorized-debit",
+      "term": "pre-authorized debit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预先授权扣款",
+      "explanationZh": "事先允许商家或机构按约定从银行账户自动扣款的安排，在加拿大常简称 PAD，常用于房租、保险和水电账单。",
+      "examples": [
+        {
+          "en": "The gym collects my monthly fee by pre-authorized debit.",
+          "zh": "健身房通过预先授权扣款收取我的月费。",
+          "scenarioZh": "查看会员费从银行账户自动扣除的方式"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：set up 或 cancel a pre-authorized debit（设置或取消预先授权扣款）。",
+        "取消服务时也要确认相关 PAD 已终止，并保留书面记录。"
+      ],
+      "tags": ["banking", "payments", "bill-payments"]
+    },
+    {
+      "id": "certified-cheque",
+      "term": "certified cheque",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "保付支票；银行认证支票",
+      "explanationZh": "由银行确认账户中有足够资金并将相应金额预留的一种支票。有些大额交易会要求使用，但具体是否接受要先问收款方。",
+      "examples": [
+        {
+          "en": "The landlord asked for a certified cheque for the deposit.",
+          "zh": "房东要求用保付支票支付押金。",
+          "scenarioZh": "确认租房押金可接受的付款方式"
+        }
+      ],
+      "usageNotesZh": [
+        "get a cheque certified 表示请银行认证一张支票。",
+        "certified cheque 与 bank draft 不完全相同，办理前应确认费用和收款方要求。"
+      ],
+      "tags": ["banking", "cheques", "payments"]
+    },
+    {
+      "id": "monthly-fee",
+      "term": "monthly fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "月费；每月收费",
+      "explanationZh": "每个月定期收取的费用。银行账户、手机套餐、健身会员和订阅服务里都很常见，可能满足条件后减免。",
+      "examples": [
+        {
+          "en": "This chequing account has no monthly fee if I keep the minimum balance.",
+          "zh": "如果我保持最低余额，这个日常交易账户就免月费。",
+          "scenarioZh": "比较不同银行账户的收费条件"
+        }
+      ],
+      "usageNotesZh": [
+        "常见表达：waive the monthly fee（免除月费）和 charge a monthly fee（收取月费）。"
+      ],
+      "tags": ["banking", "fees", "subscriptions"]
+    },
+    {
+      "id": "autodeposit",
+      "term": "Autodeposit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动收款；自动入账",
+      "explanationZh": "开启后，别人通过电子转账发来的钱可以直接进入指定账户，通常不必再回答安全问题。注册时要核对邮箱或手机号绑定的是哪个账户。",
+      "examples": [
+        {
+          "en": "I enabled Autodeposit so rent reimbursements go straight into my account.",
+          "zh": "我开启了自动收款，这样退给我的房租可以直接进入账户。",
+          "scenarioZh": "设置电子转账的自动收款功能"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：enable、set up 或 register for Autodeposit（开启或注册自动收款）。",
+        "收到转账通知时仍要核对发件人和金额，避免点击可疑链接。"
+      ],
+      "tags": ["banking", "e-transfers", "automation"]
+    },
+    {
+      "id": "security-question",
+      "term": "security question",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "安全问题；验证问题",
+      "explanationZh": "用于确认收款人或账户持有人身份的问题。电子转账中，未开自动收款时，收款人可能需要正确回答后才能收款。",
+      "examples": [
+        {
+          "en": "Send me the answer to the security question in a separate message.",
+          "zh": "请用另一条消息把安全问题的答案发给我。",
+          "scenarioZh": "向朋友发送需要验证答案的电子转账"
+        }
+      ],
+      "usageNotesZh": [
+        "不要把问题和答案放在同一条公开或容易转发的消息里。",
+        "answer a security question 表示回答安全问题。"
+      ],
+      "tags": ["banking", "security", "e-transfers"]
+    },
+    {
+      "id": "stop-payment",
+      "term": "stop payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "止付指示；停止付款",
+      "explanationZh": "请求银行阻止尚未处理的支票或预授权扣款支付。通常需要提供金额、日期和收款方等资料，也可能收取费用，而且不保证一定能拦截成功。",
+      "examples": [
+        {
+          "en": "I placed a stop payment on the cheque after it was lost in the mail.",
+          "zh": "支票在邮寄途中遗失后，我申请了止付。",
+          "scenarioZh": "联系银行阻止遗失支票被兑现"
+        }
+      ],
+      "usageNotesZh": [
+        "place a stop payment on something 表示对某笔付款发出止付指示。",
+        "止付不等于取消与商家的合同或欠款，应同时联系收款方。"
+      ],
+      "tags": ["banking", "cheques", "payments"]
+    },
+    {
+      "id": "transaction-history",
+      "term": "transaction history",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交易记录；交易历史",
+      "explanationZh": "账户中过去存款、消费、转账和收费等活动的列表。核对账单、找退款或排查陌生扣款时经常需要查看。",
+      "examples": [
+        {
+          "en": "I checked my transaction history to see whether the refund had arrived.",
+          "zh": "我查看了交易记录，确认退款是否已经到账。",
+          "scenarioZh": "等待退货退款时检查银行账户"
+        }
+      ],
+      "usageNotesZh": [
+        "view、download 或 search your transaction history 分别表示查看、下载或搜索交易记录。"
+      ],
+      "tags": ["banking", "transactions", "records"]
+    },
+    {
+      "id": "payment-due-date",
+      "term": "payment due date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "付款截止日；还款到期日",
+      "explanationZh": "账单要求最迟收到付款的日期。信用卡还款要给不同银行之间的转账预留处理时间，不能只在最后一天才操作。",
+      "examples": [
+        {
+          "en": "My credit card payment due date is next Monday.",
+          "zh": "我的信用卡还款截止日是下周一。",
+          "scenarioZh": "安排信用卡账单的还款时间"
+        }
+      ],
+      "usageNotesZh": [
+        "by the payment due date 表示在付款截止日之前或当天完成付款。",
+        "due date 不是账单生成日；逾期可能产生利息或费用。"
+      ],
+      "tags": ["banking", "credit-cards", "bill-payments"]
+    },
+    {
+      "id": "interest-charge",
+      "term": "interest charge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "利息费用",
+      "explanationZh": "因借款或没有按条件全额还清信用卡欠款而收取的利息金额。它通常会作为单独一笔交易出现在账单上。",
+      "examples": [
+        {
+          "en": "An interest charge appeared because I carried a balance from last month.",
+          "zh": "因为我上个月有余额没有还清，账单上出现了一笔利息费用。",
+          "scenarioZh": "查看信用卡账单中的额外收费"
+        }
+      ],
+      "usageNotesZh": [
+        "interest charge 指具体收取的金额；interest rate 指计算利息所用的利率。"
+      ],
+      "tags": ["banking", "interest", "credit-cards"]
+    },
+    {
+      "id": "mobile-deposit",
+      "term": "mobile deposit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "手机存支票；移动存款",
+      "explanationZh": "用银行手机应用拍摄支票正反面并存入账户的功能。提交后通常要按银行要求保留纸质支票一段时间，不要立即再次存入。",
+      "examples": [
+        {
+          "en": "I used mobile deposit instead of visiting a branch.",
+          "zh": "我用了手机存支票，没有去银行网点。",
+          "scenarioZh": "收到纸质支票后通过银行应用存入"
+        }
+      ],
+      "usageNotesZh": [
+        "make a mobile deposit 表示通过手机完成存款。",
+        "拍照前通常需要在支票背面签名，具体要求以银行提示为准。"
+      ],
+      "tags": ["banking", "cheques", "mobile-banking"]
+    },
+    {
+      "id": "hold-period",
+      "term": "hold period",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "资金冻结期；支票留置期",
+      "explanationZh": "存入支票后，银行暂时不让客户使用全部或部分资金的一段时间，用于完成处理和风险核查。期限会因账户、支票和存款方式而不同。",
+      "examples": [
+        {
+          "en": "The teller said the cheque would have a five-business-day hold period.",
+          "zh": "柜员说这张支票会有五个工作日的冻结期。",
+          "scenarioZh": "在柜台询问支票资金何时可以使用"
+        }
+      ],
+      "usageNotesZh": [
+        "a hold on funds 也可表示资金被暂时冻结。",
+        "冻结期结束不代表支票绝对不会退票。"
+      ],
+      "tags": ["banking", "cheques", "processing"]
+    },
+    {
+      "id": "routing-number",
+      "term": "routing number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行路由号码；银行识别号码",
+      "explanationZh": "用于识别银行和具体网点的一串号码。在加拿大填写跨境付款或某些工资表格时，可能需要按要求组合机构号和分行号。",
+      "examples": [
+        {
+          "en": "The payment form asks for my Canadian routing number.",
+          "zh": "这张付款表格要求填写我的加拿大银行路由号码。",
+          "scenarioZh": "设置跨境付款时填写银行资料"
+        }
+      ],
+      "usageNotesZh": [
+        "不同表格对 routing number 的格式要求可能不同，应按银行提供的账户资料填写。",
+        "不要把 routing number 与银行卡号混淆。"
+      ],
+      "tags": ["banking", "account-details", "transfers"]
+    },
+    {
+      "id": "fraud-alert",
+      "term": "fraud alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "欺诈警报；可疑交易提醒",
+      "explanationZh": "银行、发卡机构或信用机构针对可疑活动发出的提醒，或在信用档案上添加的防欺诈提示。收到后应通过官方应用或卡背电话核实。",
+      "examples": [
+        {
+          "en": "I received a fraud alert after an unusual purchase was attempted.",
+          "zh": "有人尝试进行一笔异常消费后，我收到了欺诈警报。",
+          "scenarioZh": "核实银行发来的可疑交易通知"
+        }
+      ],
+      "usageNotesZh": [
+        "respond to a fraud alert 表示回复或处理欺诈警报。",
+        "不要直接点击陌生短信中的链接，应从官方渠道登录或致电。"
+      ],
+      "tags": ["banking", "fraud", "security"]
+    },
+    {
+      "id": "chargeback",
+      "term": "chargeback",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退单；拒付处理",
+      "explanationZh": "银行卡交易发生争议后，发卡机构按规则调查并可能把款项从商家端退回的流程或结果。它不是普通退款，也不保证申请后一定成功。",
+      "examples": [
+        {
+          "en": "The bank asked for my receipt before opening a chargeback case.",
+          "zh": "银行在启动退单调查前要求我提供收据。",
+          "scenarioZh": "商家未解决争议后向发卡机构提交材料"
+        }
+      ],
+      "usageNotesZh": [
+        "file 或 request a chargeback 表示申请退单。",
+        "通常应先联系商家解决问题，并保留订单、收据和沟通记录。"
+      ],
+      "tags": ["banking", "disputes", "consumer-protection"]
+    },
+    {
+      "id": "cash-deposit",
+      "term": "cash deposit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "现金存款；存入现金",
+      "explanationZh": "把纸币或硬币存入银行账户的交易。可以在支持存款的 ATM 或柜台办理，金额较大时银行可能询问资金来源。",
+      "examples": [
+        {
+          "en": "I made a cash deposit at the ATM after work.",
+          "zh": "下班后，我在自动取款机上存了一笔现金。",
+          "scenarioZh": "把手头现金存入日常交易账户"
+        }
+      ],
+      "usageNotesZh": [
+        "make a cash deposit 表示存入现金。",
+        "办理后保留回执，并核对账户显示的存款金额。"
+      ],
+      "tags": ["banking", "cash", "deposits"]
+    },
+    {
+      "id": "cheque-deposit",
+      "term": "cheque deposit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "支票存款；存入支票",
+      "explanationZh": "把收到的支票存入银行账户的交易，可通过柜台、部分 ATM 或手机应用办理。资金可能需要经过冻结期后才能全部使用。",
+      "examples": [
+        {
+          "en": "The cheque deposit is showing in my account, but the funds are not available yet.",
+          "zh": "支票存款已经显示在账户里，但资金暂时还不能使用。",
+          "scenarioZh": "存入工资支票后查看到账状态"
+        }
+      ],
+      "usageNotesZh": [
+        "make a cheque deposit 表示存入支票。",
+        "加拿大通常拼作 cheque；美国英语常拼作 check。"
+      ],
+      "tags": ["banking", "cheques", "deposits"]
+    },
+    {
+      "id": "account-holder",
+      "term": "account holder",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账户持有人；户主",
+      "explanationZh": "银行账户登记在其名下、对账户拥有相应权利和责任的人。联名账户可以有多位账户持有人。",
+      "examples": [
+        {
+          "en": "The account holder's name must match the name on the identification.",
+          "zh": "账户持有人的姓名必须与身份证件上的姓名一致。",
+          "scenarioZh": "在银行核对开户人身份资料"
+        }
+      ],
+      "usageNotesZh": [
+        "primary account holder 指主要账户持有人。",
+        "account holder 不一定等同于某张卡的 authorized user。"
+      ],
+      "tags": ["banking", "accounts", "identity"]
+    },
+    {
+      "id": "transfer-limit",
+      "term": "transfer limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "转账限额",
+      "explanationZh": "银行对单笔、每日或特定周期内转账金额设定的上限。不同转账方式可能有不同限额，临时提高限额通常需要额外验证。",
+      "examples": [
+        {
+          "en": "The payment is above my daily transfer limit.",
+          "zh": "这笔付款超过了我的每日转账限额。",
+          "scenarioZh": "向房东转账时发现额度不足"
+        }
+      ],
+      "usageNotesZh": [
+        "increase 或 lower a transfer limit 表示提高或降低转账限额。",
+        "先确认限额是单笔限制还是每日总额限制。"
+      ],
+      "tags": ["banking", "transfers", "limits"]
+    },
+    {
+      "id": "foreign-currency",
+      "term": "foreign currency",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "外币；外国货币",
+      "explanationZh": "本国货币以外的货币，例如在加拿大语境中的美元、欧元或人民币。银行可以提供兑换、外币账户或外币现金服务，但汇率和费用各不相同。",
+      "examples": [
+        {
+          "en": "I ordered some foreign currency before my trip.",
+          "zh": "旅行前，我预订了一些外币。",
+          "scenarioZh": "出国前向银行准备少量现金"
+        }
+      ],
+      "usageNotesZh": [
+        "buy、sell 或 exchange foreign currency 分别表示买入、卖出或兑换外币。"
+      ],
+      "tags": ["banking", "currency", "travel"]
+    },
+    {
+      "id": "exchange-rate",
+      "term": "exchange rate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "汇率；兑换比率",
+      "explanationZh": "一种货币兑换成另一种货币时使用的比率。银行或银行卡实际采用的汇率可能还会叠加服务费或外币交易费。",
+      "examples": [
+        {
+          "en": "What exchange rate will you use for Canadian dollars to euros?",
+          "zh": "加元兑换欧元时，你们会使用什么汇率？",
+          "scenarioZh": "在银行柜台比较外币兑换成本"
+        }
+      ],
+      "usageNotesZh": [
+        "check、compare 或 lock in an exchange rate 分别表示查看、比较或锁定汇率。",
+        "比较成本时要同时询问汇率和额外手续费。"
+      ],
+      "tags": ["banking", "currency", "fees"]
+    },
+    {
+      "id": "paperless-statement",
+      "term": "paperless statement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "无纸化账单；电子对账单",
+      "explanationZh": "不再邮寄纸质版本，而是在网银或应用中提供的电子账单。通常可以下载 PDF，但银行保留历史账单的年限可能有限。",
+      "examples": [
+        {
+          "en": "I switched to paperless statements and downloaded a copy for my records.",
+          "zh": "我改用了无纸化账单，并下载了一份留档。",
+          "scenarioZh": "调整银行账单的接收方式"
+        }
+      ],
+      "usageNotesZh": [
+        "switch to 或 sign up for paperless statements 表示改用无纸化账单。",
+        "需要报税或办手续的账单应及时下载保存。"
+      ],
+      "tags": ["banking", "statements", "digital-services"]
+    },
+    {
+      "id": "card-activation",
+      "term": "card activation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行卡激活",
+      "explanationZh": "新卡或补发卡收到后，按银行要求完成验证并启用的过程。常见方式包括在官方应用操作、拨打卡背电话或首次插卡输入密码。",
+      "examples": [
+        {
+          "en": "Card activation only took a minute in the banking app.",
+          "zh": "我在银行应用里用一分钟就完成了银行卡激活。",
+          "scenarioZh": "收到补发的信用卡后启用新卡"
+        }
+      ],
+      "usageNotesZh": [
+        "complete card activation 表示完成银行卡激活。",
+        "激活后还应更新绑定旧卡号的自动付款信息。"
+      ],
+      "tags": ["banking", "cards", "security"]
+    },
+    {
+      "id": "freeze-a-card",
+      "term": "freeze a card",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "临时冻结银行卡",
+      "explanationZh": "暂时阻止银行卡进行大部分新交易，常用于卡片一时找不到或怀疑信息泄露的情况。找到卡后通常可以解除冻结；确认丢失则应报告并补卡。",
+      "examples": [
+        {
+          "en": "I froze my card as soon as I noticed it was missing.",
+          "zh": "我一发现卡不见了，就立刻把它临时冻结了。",
+          "scenarioZh": "在银行应用中暂时停用找不到的银行卡"
+        }
+      ],
+      "usageNotesZh": [
+        "也常说 lock a card；反向操作可说 unfreeze 或 unlock the card。",
+        "冻结卡片不一定会停止已经设定的自动付款，应查看银行说明。"
+      ],
+      "tags": ["banking", "cards", "security"]
+    },
+    {
+      "id": "line-of-credit",
+      "term": "line of credit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用额度贷款；循环信贷",
+      "explanationZh": "银行批准的一笔可反复借用和偿还的信用额度，通常只对实际使用的金额计息。它不是免费备用金，利率可能浮动，也有最低还款要求。",
+      "examples": [
+        {
+          "en": "I used part of my line of credit for an emergency repair.",
+          "zh": "我动用了一部分循环信贷支付紧急维修费用。",
+          "scenarioZh": "临时需要较大金额支付必要开支"
+        }
+      ],
+      "usageNotesZh": [
+        "draw from 或 borrow from a line of credit 表示动用信用额度。",
+        "常缩写为 LOC；申请前应比较利率、费用和还款条件。"
+      ],
+      "tags": ["banking", "borrowing", "credit"]
+    }
+  ]
+}
