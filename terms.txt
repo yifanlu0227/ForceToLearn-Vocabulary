@@ -9,6 +9,7 @@ academic advisor
 academic calendar
 accessibility ramp
 accessibility services
+account holder
 account number
 action item
 add a course
@@ -44,7 +45,9 @@ ATM
 attendance
 authorized user
 auto-load
+Autodeposit
 automatic payment
+available balance
 available credit
 backorder
 backseat driver
@@ -153,6 +156,7 @@ campus card
 candidate
 caramelize
 carbon monoxide detector
+card activation
 card balance
 card reader
 cardholder
@@ -163,6 +167,7 @@ cart corral
 carton
 cash advance
 cash back
+cash deposit
 cashier
 cast
 casters
@@ -171,12 +176,15 @@ catch up
 catchment area
 caulk
 ceiling fan
+certified cheque
 certified copy
 change room
+chargeback
 check out
 checkout
 checkout divider
 checkout lane
+cheque deposit
 chequing account
 childproof cap
 chip in
@@ -369,6 +377,7 @@ estimated delivery
 evidence
 exact change
 exchange
+exchange rate
 exercise mat
 exhibit
 exit number
@@ -430,11 +439,14 @@ food bank
 food coma
 for here or to go
 for sure
+foreign currency
 foreign transaction fee
+fraud alert
 free sample
 free shipping
 free weights
 free-range
+freeze a card
 freezing rain
 frostbite
 frozen pipe
@@ -523,6 +535,7 @@ hit the road
 hit the sack
 hit the spot
 hit up
+hold period
 hold the
 hole in the wall
 homeroom
@@ -559,6 +572,7 @@ insulated
 intake form
 intercom
 interest
+interest charge
 interlibrary loan
 intermission
 interview
@@ -611,6 +625,7 @@ lifeguard
 lifesaver
 lightheaded
 limescale
+line of credit
 line up
 linen closet
 lineup
@@ -662,9 +677,11 @@ minutes
 mittens
 mixing bowl
 mobile banking
+mobile deposit
 mocktail
 money order
 month-to-month
+monthly fee
 monthly pass
 mop
 mould
@@ -753,6 +770,7 @@ paid time off
 painter's tape
 pantry staples
 paper towel
+paperless statement
 parallel park
 paraphrase
 parcel locker
@@ -776,6 +794,7 @@ pat dry
 patio
 pay stub
 payee
+payment due date
 payroll
 peeler
 peephole
@@ -823,6 +842,7 @@ potluck
 pour-over
 power bar
 power outage
+pre-authorized debit
 pre-authorized payment
 pre-washed
 preheat
@@ -942,6 +962,7 @@ rotisserie chicken
 round
 roundabout
 route number
+routing number
 rowing machine
 rubber gloves
 rubberneck
@@ -981,6 +1002,7 @@ seat yourself
 secondary school
 secondary source
 security deposit
+security question
 seedless
 self-checkout
 sell-by date
@@ -1092,6 +1114,7 @@ stir-fry
 stitches
 stock up
 stop announcement
+stop payment
 stop request
 storage locker
 storage unit
@@ -1187,8 +1210,10 @@ trailer
 trailhead
 train car
 transaction
+transaction history
 transcript
 transfer
+transfer limit
 transfer window
 transit number
 transit operator
