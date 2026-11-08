@@ -24,6 +24,8 @@ al dente
 all ears
 all set
 all-purpose cleaner
+all-season tires
+all-weather tires
 all-you-can-eat
 Allen key
 aluminum foil
@@ -74,6 +76,7 @@ base layer
 baseboard
 baste
 batter
+battery booster
 beat
 bell pepper
 benefits
@@ -114,6 +117,7 @@ bottomless
 bowling
 box office
 box spring
+braking distance
 broil
 broke
 bruised
@@ -278,6 +282,7 @@ dairy-free
 damaged
 day pass
 day-old
+de-ice
 dead battery
 deadbolt
 deadline
@@ -288,6 +293,8 @@ decongestant
 deductible
 deep clean
 defective
+defog
+defrost
 defroster
 deglaze
 dehumidifier
@@ -305,6 +312,7 @@ deposit
 designated driver
 detour
 dice
+dig out
 dimmer switch
 dine-in
 direct deposit
@@ -435,12 +443,14 @@ fob access
 fold in
 follow up
 follow-up appointment
+following distance
 food bank
 food coma
 for here or to go
 for sure
 foreign currency
 foreign transaction fee
+four-wheel drive
 fraud alert
 free sample
 free shipping
@@ -549,7 +559,9 @@ hybrid work
 hydro
 hydro bill
 hypothermia
+ice cleats
 ice melt
+ice pellets
 ice scraper
 Iced Capp
 icy
@@ -587,6 +599,7 @@ journal
 jug
 julienne
 jump-start
+jumper cables
 junk drawer
 keener
 keep someone in the loop
@@ -974,6 +987,7 @@ rush hour
 salary
 sales tax
 salt
+salt truck
 saucepan
 sauté
 savings account
@@ -1040,6 +1054,7 @@ shuttle bus
 sick day
 side effects
 sidewalk
+sidewalk clearing
 sift
 simmer
 SIN
@@ -1048,6 +1063,7 @@ size down
 size up
 skate rental
 sketchy
+skid
 skillet
 sleet
 sling
@@ -1057,13 +1073,17 @@ small plates
 smoke detector
 smoke-free
 snag a table
+snow blower
 snow boots
+snow brush
 snow day
 snow pants
 snow removal
 snow shovel
 snow squall
 snowbank
+snowdrift
+snowed in
 snowfall
 snowplow
 snowstorm
@@ -1084,6 +1104,7 @@ specimen
 speed bump
 speeding ticket
 spill the beans
+spin out
 splash pad
 splinter
 split the check
@@ -1187,6 +1208,7 @@ timeline
 timesheet
 timetable
 Timmies
+tire pressure
 tissue
 to-go box
 toilet brush
@@ -1206,6 +1228,7 @@ tow truck
 track
 tracking number
 traction
+traction control
 trailer
 trailhead
 train car
@@ -1288,12 +1311,14 @@ wind chill
 window screen
 window sill
 windproof
+windshield washer fluid
 windshield wipers
 wing it
 winter storm warning
 winter tires
 wipe
 wipe down
+wiper blades
 wire transfer
 withdraw
 withdrawal limit
