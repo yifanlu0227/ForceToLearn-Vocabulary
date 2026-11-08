@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-08-canadian-daily-life",
+  "title": "加拿大日常生活：冬季道路与冰雪安全",
+  "publishedOn": "2026-11-08",
+  "entries": [
+    {
+      "id": "salt-truck",
+      "term": "salt truck",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "撒盐车；融雪剂喷撒车",
+      "explanationZh": "冬季在道路上撒盐或融雪材料的车辆，用来减少结冰并改善路面抓地力。车辆经过时可能扬起盐粒和泥水，应保持距离。",
+      "examples": [
+        {
+          "en": "A salt truck treated the bridge before the temperature dropped.",
+          "zh": "气温下降前，一辆撒盐车对桥面进行了处理。",
+          "scenarioZh": "冬季早晨查看主要道路的除冰情况"
+        }
+      ],
+      "usageNotesZh": [
+        "salt truck 也可泛指撒布道路融雪材料的车辆，不一定只撒普通盐。",
+        "开车遇到正在作业的撒盐车时应减速并留出安全距离。"
+      ],
+      "tags": ["winter", "roads", "snow-removal"]
+    },
+    {
+      "id": "snow-brush",
+      "term": "snow brush",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "汽车扫雪刷",
+      "explanationZh": "用来清除车顶、车窗和车身积雪的长柄刷子。出发前应把可能影响视线或掉落到路上的积雪清理干净。",
+      "examples": [
+        {
+          "en": "I keep a snow brush in the trunk all winter.",
+          "zh": "整个冬天，我都会在后备箱里放一把汽车扫雪刷。",
+          "scenarioZh": "准备冬季汽车应急和清雪用品"
+        }
+      ],
+      "usageNotesZh": [
+        "brush the snow off the car 表示把车上的雪刷掉。",
+        "有些工具一端是 snow brush，另一端是 ice scraper。"
+      ],
+      "tags": ["winter", "cars", "snow-removal"]
+    },
+    {
+      "id": "windshield-washer-fluid",
+      "term": "windshield washer fluid",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "挡风玻璃清洗液；玻璃水",
+      "explanationZh": "车辆喷到挡风玻璃上、配合雨刮器清洁泥水和盐渍的液体。加拿大冬季应使用标明适合低温的产品，以免结冰。",
+      "examples": [
+        {
+          "en": "I topped up the windshield washer fluid before the snowstorm.",
+          "zh": "暴风雪来临前，我补满了挡风玻璃清洗液。",
+          "scenarioZh": "冬季出发前检查车辆液体"
+        }
+      ],
+      "usageNotesZh": [
+        "top up washer fluid 表示补充玻璃水。",
+        "购买时要查看标签上的最低适用温度。"
+      ],
+      "tags": ["winter", "cars", "maintenance"]
+    },
+    {
+      "id": "all-season-tires",
+      "term": "all-season tires",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "四季轮胎",
+      "explanationZh": "为春夏秋和较温和冬季条件设计的通用轮胎。名字虽叫四季胎，但在严寒、深雪和冰面上的性能通常不如冬季轮胎。",
+      "examples": [
+        {
+          "en": "My car came with all-season tires, but I switch to winter tires in November.",
+          "zh": "我的车原配四季轮胎，但我会在十一月换成冬季轮胎。",
+          "scenarioZh": "为多伦多冬季安排换胎"
+        }
+      ],
+      "usageNotesZh": [
+        "all-season tires 与 winter tires 不是同一种轮胎。",
+        "加拿大英语通常使用复数 tires 来谈一整套轮胎。"
+      ],
+      "tags": ["winter", "cars", "tires"]
+    },
+    {
+      "id": "all-weather-tires",
+      "term": "all-weather tires",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "全天候轮胎",
+      "explanationZh": "可全年使用、同时具备较强冬季性能的一类轮胎，通常带有山峰雪花标志。它与普通四季胎不同，但在极端冬季条件下仍要结合实际需求选择。",
+      "examples": [
+        {
+          "en": "The mechanic explained the difference between all-weather tires and all-season tires.",
+          "zh": "技师解释了全天候轮胎和四季轮胎的区别。",
+          "scenarioZh": "在轮胎店比较全年使用方案"
+        }
+      ],
+      "usageNotesZh": [
+        "不要把 all-weather tires 和 all-season tires 当成同一个名称。",
+        "购买时可查看是否有 three-peak mountain snowflake 标志。"
+      ],
+      "tags": ["winter", "cars", "tires"]
+    },
+    {
+      "id": "tire-pressure",
+      "term": "tire pressure",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "轮胎气压",
+      "explanationZh": "轮胎内部空气的压力。气温下降时胎压往往会降低，过低或不均衡会影响操控、磨损和油耗。",
+      "examples": [
+        {
+          "en": "The tire pressure warning came on during the first cold week.",
+          "zh": "入冬第一周降温时，胎压警告灯亮了。",
+          "scenarioZh": "天气转冷后检查车辆仪表盘提醒"
+        }
+      ],
+      "usageNotesZh": [
+        "check 或 adjust the tire pressure 表示检查或调整胎压。",
+        "应参考车辆门框标签或说明书中的建议值，不要只看轮胎侧壁上限。"
+      ],
+      "tags": ["winter", "cars", "maintenance"]
+    },
+    {
+      "id": "battery-booster",
+      "term": "battery booster",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "汽车应急启动电源；电瓶助启器",
+      "explanationZh": "在汽车电瓶电量不足时帮助启动车辆的便携设备，不一定需要另一辆车供电。冬季低温容易让电瓶性能下降，因此很实用。",
+      "examples": [
+        {
+          "en": "I charged the battery booster before leaving it in the car.",
+          "zh": "把汽车应急启动电源放进车里前，我先给它充满了电。",
+          "scenarioZh": "准备冬季车辆应急用品"
+        }
+      ],
+      "usageNotesZh": [
+        "也常叫 portable jump starter 或 booster pack。",
+        "应按设备说明连接和使用，并定期检查剩余电量。"
+      ],
+      "tags": ["winter", "cars", "emergencies"]
+    },
+    {
+      "id": "jumper-cables",
+      "term": "jumper cables",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "汽车搭电线；跨接电缆",
+      "explanationZh": "连接两辆车电瓶、帮助没电车辆启动的一对带夹电缆。加拿大也常说 booster cables，使用时必须按正确顺序连接。",
+      "examples": [
+        {
+          "en": "Do you have jumper cables in your trunk?",
+          "zh": "你的后备箱里有汽车搭电线吗？",
+          "scenarioZh": "停车场里帮助电瓶没电的朋友"
+        }
+      ],
+      "usageNotesZh": [
+        "jumper cables 是美国和加拿大都常见的说法；加拿大也常用 booster cables。",
+        "不确定操作方法时应查看车辆说明书或联系道路救援。"
+      ],
+      "tags": ["winter", "cars", "emergencies"]
+    },
+    {
+      "id": "defrost",
+      "term": "defrost",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "除霜；解冻",
+      "explanationZh": "让冰霜融化或把冷冻物恢复到不冻结的状态。汽车里常指用暖风或加热装置清除挡风玻璃和车窗上的霜。",
+      "examples": [
+        {
+          "en": "Give the windshield a few minutes to defrost before driving.",
+          "zh": "开车前先等几分钟，让挡风玻璃除霜。",
+          "scenarioZh": "冬季早晨启动车辆并恢复视线"
+        }
+      ],
+      "usageNotesZh": [
+        "defrost the windshield 表示给挡风玻璃除霜。",
+        "defrost 也可用于冷冻食品，具体含义由场景决定。"
+      ],
+      "tags": ["winter", "cars", "visibility"]
+    },
+    {
+      "id": "defog",
+      "term": "defog",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "除雾；清除玻璃水汽",
+      "explanationZh": "清除车窗内侧因温差和湿气形成的雾气。冬季上车后玻璃很容易起雾，必须先恢复清晰视线再开车。",
+      "examples": [
+        {
+          "en": "Turn on the fan to defog the side windows.",
+          "zh": "打开风扇，把侧窗上的雾气吹掉。",
+          "scenarioZh": "多人上车后车窗迅速起雾"
+        }
+      ],
+      "usageNotesZh": [
+        "defog the windows 表示给车窗除雾。",
+        "defog 主要针对雾气，defrost 主要针对冰霜。"
+      ],
+      "tags": ["winter", "cars", "visibility"]
+    },
+    {
+      "id": "wiper-blades",
+      "term": "wiper blades",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雨刮片；雨刷胶条",
+      "explanationZh": "雨刮器上直接接触挡风玻璃、刮走雨雪和泥水的可更换部件。老化后会留下条纹、跳动或发出异响。",
+      "examples": [
+        {
+          "en": "I replaced the wiper blades because they were leaving streaks.",
+          "zh": "因为雨刮片会留下水痕，我把它们换掉了。",
+          "scenarioZh": "入冬前检查挡风玻璃清洁效果"
+        }
+      ],
+      "usageNotesZh": [
+        "replace the wiper blades 表示更换雨刮片。",
+        "wiper blades 指可更换的刮片，windshield wipers 可指整个雨刮装置。"
+      ],
+      "tags": ["winter", "cars", "maintenance"]
+    },
+    {
+      "id": "skid",
+      "term": "skid",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "打滑；侧滑",
+      "explanationZh": "车辆或物体在湿滑路面上失去抓地力、不受控制地滑动。冰雪天气中突然转向、急刹或加速都可能导致打滑。",
+      "examples": [
+        {
+          "en": "The car began to skid when the driver braked on the ice.",
+          "zh": "司机在冰面上刹车时，汽车开始打滑。",
+          "scenarioZh": "描述冰雪路面上的危险驾驶情况"
+        }
+      ],
+      "usageNotesZh": [
+        "go into a skid 表示车辆进入失控打滑状态。",
+        "skid 既可作动词，也可作名词。"
+      ],
+      "tags": ["winter", "driving", "road-safety"]
+    },
+    {
+      "id": "spin-out",
+      "term": "spin out",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "车辆打转失控；甩尾旋转",
+      "explanationZh": "车辆失去抓地力后在路面上旋转或偏离行驶方向。冰雪路面、速度过快或突然操作都可能造成这种情况。",
+      "examples": [
+        {
+          "en": "A car spun out on the icy ramp and blocked one lane.",
+          "zh": "一辆车在结冰匝道上打转失控，堵住了一条车道。",
+          "scenarioZh": "收听冬季道路事故信息"
+        }
+      ],
+      "usageNotesZh": [
+        "过去式和过去分词都是 spun out。",
+        "spin out 强调车辆旋转失控，比普通 skid 更具体。"
+      ],
+      "tags": ["winter", "driving", "road-safety"]
+    },
+    {
+      "id": "braking-distance",
+      "term": "braking distance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "制动距离；刹车距离",
+      "explanationZh": "从踩下刹车到车辆完全停住所行驶的距离。冰雪、速度、轮胎和路面状况都会显著影响它。",
+      "examples": [
+        {
+          "en": "Leave extra room because braking distance increases on snow.",
+          "zh": "要多留空间，因为雪地上的刹车距离会增加。",
+          "scenarioZh": "提醒新司机调整冬季驾驶习惯"
+        }
+      ],
+      "usageNotesZh": [
+        "increase 或 reduce braking distance 表示增加或缩短制动距离。",
+        "braking distance 不包括驾驶者发现危险并做出反应前行驶的距离。"
+      ],
+      "tags": ["winter", "driving", "road-safety"]
+    },
+    {
+      "id": "following-distance",
+      "term": "following distance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "跟车距离；车间安全距离",
+      "explanationZh": "本车与前车之间保留的距离。冬季路面湿滑时应比干燥天气留出更大的间隔，以便减速或停车。",
+      "examples": [
+        {
+          "en": "Increase your following distance when the roads are slippery.",
+          "zh": "路面湿滑时要增加跟车距离。",
+          "scenarioZh": "冬季驾驶课程讲解安全车距"
+        }
+      ],
+      "usageNotesZh": [
+        "maintain a safe following distance 表示保持安全跟车距离。",
+        "不要用平时干路上的距离应付积雪或结冰路面。"
+      ],
+      "tags": ["winter", "driving", "road-safety"]
+    },
+    {
+      "id": "traction-control",
+      "term": "traction control",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "牵引力控制系统；防滑控制",
+      "explanationZh": "车辆检测到车轮空转时，自动减少动力或对车轮制动以帮助恢复抓地力的系统。它能辅助驾驶，但不能突破冰雪路面的物理限制。",
+      "examples": [
+        {
+          "en": "The traction control light flashed as I pulled away on the snow.",
+          "zh": "我在雪地起步时，牵引力控制指示灯闪了。",
+          "scenarioZh": "观察车辆在积雪路面起步时的反应"
+        }
+      ],
+      "usageNotesZh": [
+        "traction control light 指牵引力控制指示灯。",
+        "正常道路上通常保持系统开启；特殊情况应参考车辆说明书。"
+      ],
+      "tags": ["winter", "cars", "road-safety"]
+    },
+    {
+      "id": "four-wheel-drive",
+      "term": "four-wheel drive",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "四轮驱动；四驱系统",
+      "explanationZh": "把动力传递到四个车轮的驱动方式，可能有助于在积雪或松软路面起步和行驶，但不会自动缩短冰面上的刹车距离。",
+      "examples": [
+        {
+          "en": "Four-wheel drive helps with traction, but I still slow down on ice.",
+          "zh": "四轮驱动有助于增加抓地力，但在冰面上我仍会减速。",
+          "scenarioZh": "讨论四驱车辆的冬季驾驶能力"
+        }
+      ],
+      "usageNotesZh": [
+        "常缩写为 4WD；all-wheel drive 常缩写为 AWD，两者系统设计可能不同。",
+        "四驱不能替代合适的轮胎和安全车速。"
+      ],
+      "tags": ["winter", "cars", "driving"]
+    },
+    {
+      "id": "snowed-in",
+      "term": "snowed in",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "因大雪被困住的；被雪封住的",
+      "explanationZh": "因为积雪太深、道路封闭或出入口被堵而无法离开某个地方。常用于住宅、汽车或整个社区。",
+      "examples": [
+        {
+          "en": "We were snowed in until the road was cleared.",
+          "zh": "道路清理完之前，我们一直因大雪被困在家里。",
+          "scenarioZh": "暴雪后说明无法按时出门的原因"
+        }
+      ],
+      "usageNotesZh": [
+        "be snowed in 是固定搭配，表示因大雪无法外出。",
+        "也可以说 the car was snowed in，表示车被积雪围住。"
+      ],
+      "tags": ["winter", "snowstorms", "daily-life"]
+    },
+    {
+      "id": "dig-out",
+      "term": "dig out",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "从雪中挖出；清雪脱困",
+      "explanationZh": "用铲子等工具清除周围积雪，让汽车、门口或道路重新可以使用。大雪后常要把停在路边的车从雪堆里挖出来。",
+      "examples": [
+        {
+          "en": "It took an hour to dig the car out after the storm.",
+          "zh": "暴风雪后，我们花了一个小时才把车从雪里挖出来。",
+          "scenarioZh": "清理被铲雪车推到路边车辆旁的积雪"
+        }
+      ],
+      "usageNotesZh": [
+        "dig a car out 或 dig out a car 都可以。",
+        "dig out 也可用于从一堆物品中翻找东西，含义由场景决定。"
+      ],
+      "tags": ["winter", "snow-removal", "cars"]
+    },
+    {
+      "id": "de-ice",
+      "term": "de-ice",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "除冰；融冰处理",
+      "explanationZh": "清除物体表面的冰，或使用盐、融雪剂和加热等方法防止冰层影响使用。常见于人行道、车辆和飞机。",
+      "examples": [
+        {
+          "en": "The building staff de-iced the front steps before sunrise.",
+          "zh": "天亮前，大楼工作人员给门前台阶做了除冰处理。",
+          "scenarioZh": "冬季早晨经过公寓入口"
+        }
+      ],
+      "usageNotesZh": [
+        "de-ice the sidewalk 或 de-ice the windshield 表示给人行道或挡风玻璃除冰。",
+        "名词 de-icer 指除冰剂或除冰设备。"
+      ],
+      "tags": ["winter", "ice", "maintenance"]
+    },
+    {
+      "id": "sidewalk-clearing",
+      "term": "sidewalk clearing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "人行道清雪；人行道清理",
+      "explanationZh": "清除人行道上的积雪和冰，使行人能够安全通过的工作。具体由市政府、物业或临街业主负责，要看当地规定和地址。",
+      "examples": [
+        {
+          "en": "Sidewalk clearing was delayed after the heavy snowfall.",
+          "zh": "大雪后，人行道清雪工作出现了延误。",
+          "scenarioZh": "查看社区冬季清雪进度通知"
+        }
+      ],
+      "usageNotesZh": [
+        "sidewalk snow clearing 也可表示人行道清雪。",
+        "发现危险积雪或结冰时，可按当地渠道联系物业或市政部门。"
+      ],
+      "tags": ["winter", "sidewalks", "snow-removal"]
+    },
+    {
+      "id": "ice-pellets",
+      "term": "ice pellets",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冰粒；冰丸",
+      "explanationZh": "从天空落下的小颗粒冰，落地时常会弹跳，能迅速让道路和人行道变滑。加拿大天气预报中很常见。",
+      "examples": [
+        {
+          "en": "The forecast calls for snow changing to ice pellets this afternoon.",
+          "zh": "预报说今天下午降雪会转成冰粒。",
+          "scenarioZh": "出门前查看冬季天气变化"
+        }
+      ],
+      "usageNotesZh": [
+        "ice pellets 与 freezing rain 不同：前者落下时已经是冰粒，后者接触地面后结冰。",
+        "通常使用复数形式 ice pellets。"
+      ],
+      "tags": ["winter", "weather", "precipitation"]
+    },
+    {
+      "id": "snowdrift",
+      "term": "snowdrift",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "风吹形成的雪堆；积雪堆",
+      "explanationZh": "积雪被风吹到一起形成的厚雪堆，常出现在路边、建筑物旁和空旷道路上，可能堵住出入口或遮挡路面。",
+      "examples": [
+        {
+          "en": "A snowdrift was blocking the side door.",
+          "zh": "一堆风吹形成的积雪堵住了侧门。",
+          "scenarioZh": "暴风雪后检查住宅各个出口"
+        }
+      ],
+      "usageNotesZh": [
+        "drifting snow 指正在被风吹动和堆积的雪；snowdrift 指形成的雪堆。"
+      ],
+      "tags": ["winter", "snow", "weather"]
+    },
+    {
+      "id": "snow-blower",
+      "term": "snow blower",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "吹雪机；抛雪机",
+      "explanationZh": "把车道或人行道上的积雪吸入并抛到一旁的动力设备，适合处理较大面积或较深积雪。使用时要注意抛雪方向和周围行人。",
+      "examples": [
+        {
+          "en": "Our neighbour used a snow blower to clear the driveway.",
+          "zh": "邻居用吹雪机清理了车道。",
+          "scenarioZh": "住宅区大雪后清理私人车道"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大也常写作 snowblower。",
+        "clear a driveway with a snow blower 表示用吹雪机清理车道。"
+      ],
+      "tags": ["winter", "snow-removal", "equipment"]
+    },
+    {
+      "id": "ice-cleats",
+      "term": "ice cleats",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "鞋底防滑冰爪；冰面防滑钉",
+      "explanationZh": "套在鞋底、用金属钉或防滑材料增加冰雪路面抓地力的用品。进入室内前通常应取下，以免在硬地面上打滑或损坏地板。",
+      "examples": [
+        {
+          "en": "I wear ice cleats when the sidewalks are covered in packed snow.",
+          "zh": "人行道被压实的积雪覆盖时，我会戴上鞋底防滑冰爪。",
+          "scenarioZh": "冬季步行前选择防滑装备"
+        }
+      ],
+      "usageNotesZh": [
+        "也可叫 traction cleats 或 ice grips。",
+        "进入商店、车站或光滑室内地面前要按产品说明取下。"
+      ],
+      "tags": ["winter", "walking", "safety"]
+    }
+  ]
+}
