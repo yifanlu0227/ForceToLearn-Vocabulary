@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-09-canadian-daily-life",
+  "title": "加拿大日常生活：厨房清洁与食品安全",
+  "publishedOn": "2026-11-09",
+  "entries": [
+    {
+      "id": "dish-soap",
+      "term": "dish soap",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "洗洁精；手洗餐具用清洁剂",
+      "explanationZh": "用手清洗碗盘、锅具和餐具时使用的液体清洁剂。在加拿大商店里，dish soap 是最常见的说法。",
+      "examples": [
+        {
+          "en": "We're almost out of dish soap, so I'll add it to the shopping list.",
+          "zh": "洗洁精快用完了，我会把它加到购物清单上。",
+          "scenarioZh": "整理厨房用品并准备采购"
+        }
+      ],
+      "usageNotesZh": [
+        "dish soap 也常叫 dishwashing liquid。",
+        "手洗用 dish soap 不应直接倒进自动洗碗机，否则可能产生大量泡沫。"
+      ],
+      "tags": ["kitchen", "cleaning", "dishwashing"]
+    },
+    {
+      "id": "dishwasher-detergent",
+      "term": "dishwasher detergent",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "洗碗机专用清洁剂",
+      "explanationZh": "专门用于自动洗碗机的清洁剂，常见形式有粉末、凝胶和清洁块。它与手洗餐具用的洗洁精不同。",
+      "examples": [
+        {
+          "en": "Put the dishwasher detergent in the dispenser before starting the cycle.",
+          "zh": "启动程序前，把洗碗机清洁剂放进投放盒。",
+          "scenarioZh": "在公寓厨房使用自动洗碗机"
+        }
+      ],
+      "usageNotesZh": [
+        "dishwasher detergent 强调是机器专用产品。",
+        "按包装和洗碗机说明使用，不要用普通 dish soap 代替。"
+      ],
+      "tags": ["kitchen", "cleaning", "dishwasher"]
+    },
+    {
+      "id": "rinse-aid",
+      "term": "rinse aid",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "洗碗机漂洗剂；亮碟剂",
+      "explanationZh": "洗碗机在最后漂洗阶段使用的辅助液体，帮助水从餐具表面流走，减少水渍并改善烘干效果。它不是主要清洁剂。",
+      "examples": [
+        {
+          "en": "The glasses had fewer water spots after I refilled the rinse aid.",
+          "zh": "我补充漂洗剂后，玻璃杯上的水渍少了。",
+          "scenarioZh": "改善洗碗机清洗玻璃杯的效果"
+        }
+      ],
+      "usageNotesZh": [
+        "refill the rinse aid 表示补充漂洗剂。",
+        "rinse aid 通常倒入专门的小槽，不要直接当洗涤剂使用。"
+      ],
+      "tags": ["kitchen", "dishwasher", "cleaning"]
+    },
+    {
+      "id": "dish-rack",
+      "term": "dish rack",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "沥水架；碗碟晾干架",
+      "explanationZh": "洗完餐具后用来直立放置碗盘、杯子和餐具，让水沥干并自然晾干的架子，通常放在水槽旁边。",
+      "examples": [
+        {
+          "en": "Leave the plates in the dish rack until they're completely dry.",
+          "zh": "把盘子留在沥水架上，等它们完全晾干。",
+          "scenarioZh": "手洗餐具后安排晾干"
+        }
+      ],
+      "usageNotesZh": [
+        "也可说 drying rack，但 dish rack 更明确指餐具沥水架。",
+        "沥水盘也要定期清洗，避免积水和污垢。"
+      ],
+      "tags": ["kitchen", "dishwashing", "storage"]
+    },
+    {
+      "id": "dish-towel",
+      "term": "dish towel",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "厨房擦碗巾；餐具擦干布",
+      "explanationZh": "厨房里用来擦干餐具或双手的布巾。湿毛巾容易滋生异味，应摊开晾干并经常清洗更换。",
+      "examples": [
+        {
+          "en": "Use a clean dish towel to dry the wine glasses.",
+          "zh": "用一条干净的厨房擦碗巾把酒杯擦干。",
+          "scenarioZh": "清洗易留下水痕的玻璃器皿"
+        }
+      ],
+      "usageNotesZh": [
+        "北美常说 dish towel；加拿大也常见 tea towel。",
+        "不要用擦过生肉汁液的布再擦干净餐具。"
+      ],
+      "tags": ["kitchen", "cleaning", "dishwashing"]
+    },
+    {
+      "id": "bottle-brush",
+      "term": "bottle brush",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "瓶刷；长柄清洁刷",
+      "explanationZh": "细长、可以伸进水瓶、保温杯或窄口容器内部清洗的刷子，适合清洁普通海绵够不到的位置。",
+      "examples": [
+        {
+          "en": "I use a bottle brush to clean the bottom of my travel mug.",
+          "zh": "我用瓶刷清洁随行杯的底部。",
+          "scenarioZh": "清洗窄口保温杯"
+        }
+      ],
+      "usageNotesZh": [
+        "clean something with a bottle brush 表示用瓶刷清洁某物。",
+        "使用后应冲洗刷头并让它充分晾干。"
+      ],
+      "tags": ["kitchen", "cleaning", "tools"]
+    },
+    {
+      "id": "degreaser",
+      "term": "degreaser",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "除油剂；强力去油清洁剂",
+      "explanationZh": "用于分解炉灶、抽油烟机或烤盘上顽固油脂的清洁产品。不同材质的表面可能有使用限制，应先看标签。",
+      "examples": [
+        {
+          "en": "I sprayed degreaser on the stovetop and let it sit for a few minutes.",
+          "zh": "我在炉灶表面喷了除油剂，让它停留了几分钟。",
+          "scenarioZh": "清理做饭后留下的厚重油污"
+        }
+      ],
+      "usageNotesZh": [
+        "kitchen degreaser 指厨房用除油剂。",
+        "使用后是否需要用清水彻底擦净，应遵循产品标签。"
+      ],
+      "tags": ["kitchen", "cleaning", "grease"]
+    },
+    {
+      "id": "food-residue",
+      "term": "food residue",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食物残渣；食物残留",
+      "explanationZh": "留在餐具、锅具、台面或设备上的少量食物和油污。清洗前先去掉较大的残渣，通常能减少水槽和洗碗机堵塞。",
+      "examples": [
+        {
+          "en": "Scrape off the food residue before loading the dishwasher.",
+          "zh": "把餐具放进洗碗机前，先刮掉食物残渣。",
+          "scenarioZh": "饭后整理准备机洗的餐具"
+        }
+      ],
+      "usageNotesZh": [
+        "remove 或 scrape off food residue 表示去除或刮掉食物残留。",
+        "residue 通常是不可数名词。"
+      ],
+      "tags": ["kitchen", "cleaning", "dishwashing"]
+    },
+    {
+      "id": "cross-contamination",
+      "term": "cross-contamination",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交叉污染",
+      "explanationZh": "细菌、过敏原或其他污染物从一种食物、器具或表面转移到另一处的情况，例如用切过生鸡肉的砧板直接切沙拉。",
+      "examples": [
+        {
+          "en": "Use separate utensils to prevent cross-contamination.",
+          "zh": "使用分开的厨具来防止交叉污染。",
+          "scenarioZh": "同时准备生肉和即食蔬菜"
+        }
+      ],
+      "usageNotesZh": [
+        "prevent cross-contamination 是食品安全中很常见的搭配。",
+        "处理生肉后要清洗双手、器具和接触过的表面。"
+      ],
+      "tags": ["kitchen", "food-safety", "hygiene"]
+    },
+    {
+      "id": "raw-meat",
+      "term": "raw meat",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "生肉；未烹熟的肉",
+      "explanationZh": "尚未经过充分烹饪的肉类。购物、储存和备菜时通常要与即食食品分开，避免肉汁接触其他食物。",
+      "examples": [
+        {
+          "en": "Keep raw meat on the bottom shelf of the fridge.",
+          "zh": "把生肉放在冰箱最下面一层。",
+          "scenarioZh": "整理刚买回家的肉类食材"
+        }
+      ],
+      "usageNotesZh": [
+        "handle raw meat 表示处理生肉。",
+        "存放时使用防漏容器，避免汁液滴到下面或其他食物上。"
+      ],
+      "tags": ["kitchen", "food-safety", "meat"]
+    },
+    {
+      "id": "sanitize",
+      "term": "sanitize",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "进行卫生处理；降低有害微生物数量",
+      "explanationZh": "在完成普通清洁后，进一步用合适的方法把表面上的有害微生物降到安全水平。它与简单擦去污渍不完全相同。",
+      "examples": [
+        {
+          "en": "Clean and sanitize the counter after preparing raw chicken.",
+          "zh": "处理完生鸡肉后，要清洁并进行台面卫生处理。",
+          "scenarioZh": "备餐后处理接触过生肉的工作台"
+        }
+      ],
+      "usageNotesZh": [
+        "clean and sanitize 强调先去掉污垢，再进行卫生处理。",
+        "应按产品标签的浓度、接触时间和是否需要冲洗等要求操作。"
+      ],
+      "tags": ["kitchen", "food-safety", "cleaning"]
+    },
+    {
+      "id": "food-safe",
+      "term": "food-safe",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "可安全接触食品的；食品级安全的",
+      "explanationZh": "表示材料、容器或产品在按说明使用时适合直接接触食品。并不是所有清洁剂、胶水或塑料都属于食品接触安全用品。",
+      "examples": [
+        {
+          "en": "Make sure the container is food-safe before storing soup in it.",
+          "zh": "用容器装汤之前，要确认它适合安全接触食品。",
+          "scenarioZh": "选择可以存放熟食的容器"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：food-safe container、food-safe material 和 food-safe cleaner。",
+        "food-safe 不一定表示可以微波或放进洗碗机，还要分别查看标志。"
+      ],
+      "tags": ["kitchen", "food-safety", "containers"]
+    },
+    {
+      "id": "best-before-date",
+      "term": "best-before date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "最佳食用日期；最佳品质日期",
+      "explanationZh": "食品在未开封并按要求储存时，预计保持最佳新鲜度、味道和营养品质的日期。它通常不是食物过了当天就必然不安全的意思。",
+      "examples": [
+        {
+          "en": "The best-before date is next week, but the yogurt has already been opened.",
+          "zh": "最佳食用日期是下周，但这盒酸奶已经开封了。",
+          "scenarioZh": "判断开封食品还能保存多久"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大包装上常写 best before，也可能缩写为 BB/MA。",
+        "开封后应结合包装说明、冷藏时间和食物状态判断，不能只看日期。"
+      ],
+      "tags": ["kitchen", "food-safety", "food-labels"]
+    },
+    {
+      "id": "airtight-container",
+      "term": "airtight container",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "密封容器；气密保鲜盒",
+      "explanationZh": "盖紧后能明显减少空气和水汽进入的食品容器，常用于保存干货、剩菜或切开的食材，帮助减少串味和变干。",
+      "examples": [
+        {
+          "en": "Store the leftovers in an airtight container in the fridge.",
+          "zh": "把剩菜放进密封容器，再放入冰箱。",
+          "scenarioZh": "晚饭后妥善保存剩余食物"
+        }
+      ],
+      "usageNotesZh": [
+        "store something in an airtight container 表示把某物放在密封容器中保存。",
+        "装热食前要确认容器材质和产品说明是否允许。"
+      ],
+      "tags": ["kitchen", "food-storage", "containers"]
+    },
+    {
+      "id": "refrigerate",
+      "term": "refrigerate",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "冷藏；放入冰箱保鲜",
+      "explanationZh": "把食物放在冰箱冷藏室的低温环境中保存，以减缓变质。包装上的 refrigerate after opening 表示开封后必须冷藏。",
+      "examples": [
+        {
+          "en": "Refrigerate the sauce after opening the jar.",
+          "zh": "开罐后请把这款酱料冷藏保存。",
+          "scenarioZh": "阅读调味酱包装上的储存说明"
+        }
+      ],
+      "usageNotesZh": [
+        "keep refrigerated 表示需要一直保持冷藏。",
+        "refrigerate 是冷藏，不是 freeze（冷冻）。"
+      ],
+      "tags": ["kitchen", "food-storage", "refrigeration"]
+    },
+    {
+      "id": "room-temperature",
+      "term": "room temperature",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "室温；常温",
+      "explanationZh": "室内环境的一般温度。食谱可能要求食材回到室温，但需要冷藏的食物不应长时间放在室温下。",
+      "examples": [
+        {
+          "en": "Don't leave the cooked chicken at room temperature all afternoon.",
+          "zh": "不要让熟鸡肉整个下午都放在室温下。",
+          "scenarioZh": "聚餐后及时收好容易变质的食物"
+        }
+      ],
+      "usageNotesZh": [
+        "at room temperature 表示在室温下。",
+        "bring something to room temperature 表示让某物恢复到室温。"
+      ],
+      "tags": ["kitchen", "food-safety", "temperature"]
+    },
+    {
+      "id": "food-poisoning",
+      "term": "food poisoning",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食物中毒",
+      "explanationZh": "食用被有害细菌、病毒、毒素或其他污染物影响的食物后出现的疾病，常见症状包括恶心、呕吐、腹泻和腹痛。",
+      "examples": [
+        {
+          "en": "Several guests reported food poisoning after the event.",
+          "zh": "活动结束后，有几位客人报告出现食物中毒。",
+          "scenarioZh": "描述多人吃同一批食物后出现不适"
+        }
+      ],
+      "usageNotesZh": [
+        "get 或 have food poisoning 表示食物中毒。",
+        "症状严重、持续不退或涉及高风险人群时，应及时寻求医疗建议。"
+      ],
+      "tags": ["kitchen", "food-safety", "health"]
+    },
+    {
+      "id": "mouldy",
+      "term": "mouldy",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "发霉的；长霉的",
+      "explanationZh": "表面长出霉菌或带有明显霉味的状态，常见于面包、水果和潮湿食物。是否能只去掉发霉部分，要看具体食物类型。",
+      "examples": [
+        {
+          "en": "The berries at the bottom of the container were mouldy.",
+          "zh": "容器底部的莓果已经发霉了。",
+          "scenarioZh": "整理冰箱中的水果"
+        }
+      ],
+      "usageNotesZh": [
+        "加拿大英语通常写 mouldy；美国英语常写 moldy。",
+        "不要仅凭去掉可见霉点就假定食物其余部分一定安全。"
+      ],
+      "tags": ["kitchen", "food-safety", "spoilage"]
+    },
+    {
+      "id": "contaminated",
+      "term": "contaminated",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "被污染的；受到有害物质影响的",
+      "explanationZh": "食物、水、器具或表面混入了细菌、化学物质、过敏原或其他不应存在的东西，可能因此不再安全。",
+      "examples": [
+        {
+          "en": "Throw away any food that may have been contaminated by the leak.",
+          "zh": "把可能被泄漏物污染的食物丢掉。",
+          "scenarioZh": "冰箱中有生肉汁液漏出后检查其他食物"
+        }
+      ],
+      "usageNotesZh": [
+        "contaminated with bacteria 或 chemicals 表示被细菌或化学物质污染。",
+        "动词 contaminate 表示污染；名词 contamination 表示污染情况。"
+      ],
+      "tags": ["kitchen", "food-safety", "hygiene"]
+    },
+    {
+      "id": "dishwasher-safe",
+      "term": "dishwasher-safe",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "可用洗碗机清洗的",
+      "explanationZh": "表示餐具或容器在按说明摆放和使用洗碗机时，不容易因高温、水流或清洁剂而损坏。产品可能只允许放上层。",
+      "examples": [
+        {
+          "en": "Is this plastic container dishwasher-safe?",
+          "zh": "这个塑料容器可以放进洗碗机清洗吗？",
+          "scenarioZh": "清洗新买的食品保鲜盒"
+        }
+      ],
+      "usageNotesZh": [
+        "top-rack dishwasher-safe 表示只能放在洗碗机上层清洗。",
+        "dishwasher-safe 不代表可以微波加热或冷冻。"
+      ],
+      "tags": ["kitchen", "dishwasher", "care-instructions"]
+    },
+    {
+      "id": "hand-wash-only",
+      "term": "hand-wash only",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "仅限手洗；不可机洗",
+      "explanationZh": "产品护理说明，表示应当用手清洗，不能放进洗碗机或洗衣机。厨房里常见于木制品、保温杯部件和精细器皿。",
+      "examples": [
+        {
+          "en": "The lid is hand-wash only, but the container can go in the dishwasher.",
+          "zh": "盖子只能手洗，但容器可以放进洗碗机。",
+          "scenarioZh": "查看保鲜盒不同部件的清洗要求"
+        }
+      ],
+      "usageNotesZh": [
+        "标签上也可能写 hand wash only，不加连字符。",
+        "按说明手洗可以减少变形、涂层损坏或密封件老化。"
+      ],
+      "tags": ["kitchen", "cleaning", "care-instructions"]
+    },
+    {
+      "id": "food-scraps",
+      "term": "food scraps",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "厨余碎屑；食物残余",
+      "explanationZh": "备菜和吃饭后剩下、不再食用的果皮、菜叶、骨头或小块食物。应根据当地垃圾分类规则放入厨余、绿色垃圾桶或普通垃圾。",
+      "examples": [
+        {
+          "en": "Put the food scraps in the green bin, not the recycling bin.",
+          "zh": "把厨余放进绿色垃圾桶，不要放进回收桶。",
+          "scenarioZh": "在多伦多公寓厨房进行垃圾分类"
+        }
+      ],
+      "usageNotesZh": [
+        "food scraps 通常使用复数。",
+        "可投放项目因城市和大楼收集方式不同，应查看当地规定。"
+      ],
+      "tags": ["kitchen", "waste", "composting"]
+    },
+    {
+      "id": "food-thermometer",
+      "term": "food thermometer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食品温度计；食物测温计",
+      "explanationZh": "插入食物内部测量温度的工具，用来确认肉类等食物是否达到安全的内部温度，而不是只凭颜色或时间判断。",
+      "examples": [
+        {
+          "en": "Use a food thermometer to check the thickest part of the chicken.",
+          "zh": "用食品温度计检查鸡肉最厚的部位。",
+          "scenarioZh": "烤鸡出炉前确认是否完全熟透"
+        }
+      ],
+      "usageNotesZh": [
+        "insert a food thermometer into the thickest part 表示把温度计插入最厚处。",
+        "每次使用前后都要按说明清洁探针。"
+      ],
+      "tags": ["kitchen", "food-safety", "cooking"]
+    },
+    {
+      "id": "internal-temperature",
+      "term": "internal temperature",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "内部温度；食物中心温度",
+      "explanationZh": "食物内部、尤其是最厚部位测得的温度。烹饪肉类时，它比表面颜色更能帮助判断是否达到安全熟度。",
+      "examples": [
+        {
+          "en": "Check that the meat has reached a safe internal temperature.",
+          "zh": "确认肉类已经达到安全的内部温度。",
+          "scenarioZh": "用温度计检查烤肉是否熟透"
+        }
+      ],
+      "usageNotesZh": [
+        "reach an internal temperature of ... 表示内部温度达到某个数值。",
+        "不同食物的安全温度不同，应参考可靠的食品安全指南。"
+      ],
+      "tags": ["kitchen", "food-safety", "temperature"]
+    },
+    {
+      "id": "clean-up-a-spill",
+      "term": "clean up a spill",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "清理洒出的液体或食物",
+      "explanationZh": "把意外洒在地面、台面或设备上的饮料、油或食物清理干净。厨房里应尽快处理，以免滑倒、留下污渍或吸引害虫。",
+      "examples": [
+        {
+          "en": "Please clean up the spill before someone slips.",
+          "zh": "请在有人滑倒前把洒出的东西清理干净。",
+          "scenarioZh": "厨房地板上不小心洒了饮料"
+        }
+      ],
+      "usageNotesZh": [
+        "spill 可指洒出的液体，也可泛指散落出来的东西。",
+        "油污或碎玻璃等情况需要选择合适工具，避免徒手处理。"
+      ],
+      "tags": ["kitchen", "cleaning", "safety"]
+    }
+  ]
+}
