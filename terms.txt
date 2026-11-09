@@ -19,6 +19,7 @@ advisor
 agenda
 air filter
 air out
+airtight container
 aisle
 al dente
 all ears
@@ -81,6 +82,7 @@ beat
 bell pepper
 benefits
 best before date
+best-before date
 bibliography
 bike rack
 bike storage
@@ -111,6 +113,7 @@ bookstore
 booster shot
 booth
 borrow
+bottle brush
 bottle deposit
 bottle return
 bottomless
@@ -201,6 +204,7 @@ cite
 city councillor
 claim
 clamshell
+clean up a spill
 cleaning supplies
 clearance
 clock in
@@ -234,6 +238,7 @@ connecting bus
 connection issue
 construction notice
 contactless payment
+contaminated
 conveyor belt
 cool down
 cooling centre
@@ -265,6 +270,7 @@ credit report
 credit score
 crisper drawer
 crockpot
+cross-contamination
 crosswalk
 cruise control
 crutches
@@ -297,6 +303,7 @@ defog
 defrost
 defroster
 deglaze
+degreaser
 dehumidifier
 delay
 deli
@@ -316,6 +323,11 @@ dig out
 dimmer switch
 dine-in
 direct deposit
+dish rack
+dish soap
+dish towel
+dishwasher detergent
+dishwasher-safe
 disinfect
 disinfectant
 dispute a charge
@@ -446,6 +458,11 @@ follow-up appointment
 following distance
 food bank
 food coma
+food poisoning
+food residue
+food scraps
+food thermometer
+food-safe
 for here or to go
 for sure
 foreign currency
@@ -525,6 +542,7 @@ hand in
 hand sanitizer
 hand soap
 hand warmers
+hand-wash only
 handoff
 hang dry
 hang in there
@@ -587,6 +605,7 @@ interest
 interest charge
 interlibrary loan
 intermission
+internal temperature
 interview
 it's on me
 jaywalk
@@ -698,6 +717,7 @@ monthly fee
 monthly pass
 mop
 mould
+mouldy
 mouthwash
 move to the back
 move-in date
@@ -903,6 +923,7 @@ radiator
 rain check
 rain date
 rash
+raw meat
 razor
 reading week
 rear-end
@@ -918,6 +939,7 @@ reference check
 reference number
 referral
 refill
+refrigerate
 refund
 register
 registrar
@@ -961,6 +983,7 @@ rideshare
 right of way
 rink
 rinse
+rinse aid
 rip-off
 ripe
 road closure
@@ -970,6 +993,7 @@ road salt
 roadside assistance
 rolling pin
 room for cream
+room temperature
 roommate
 rotisserie chicken
 round
@@ -988,6 +1012,7 @@ salary
 sales tax
 salt
 salt truck
+sanitize
 saucepan
 sauté
 savings account
