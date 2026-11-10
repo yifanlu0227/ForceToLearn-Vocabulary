@@ -16,11 +16,13 @@ add a course
 admission
 Advil
 advisor
+age restriction
 agenda
 air filter
 air out
 airtight container
 aisle
+aisle seat
 al dente
 all ears
 all set
@@ -43,9 +45,11 @@ apply
 appointment
 area rug
 as needed
+assigned seating
 assignment
 ATM
 attendance
+audio description
 authorized user
 auto-load
 Autodeposit
@@ -109,6 +113,7 @@ boil over
 boil water advisory
 bok choy
 book drop
+booking fee
 bookstore
 booster shot
 booth
@@ -210,10 +215,12 @@ clearance
 clock in
 clock out
 clog
+closed captioning
 clothespin
 co-insurance
 co-pay
 co-signer
+coat check
 coffee run
 coin laundry
 colander
@@ -334,6 +341,7 @@ dispute a charge
 dissertation
 dive bar
 doctor's note
+doors open
 doorstop
 dosage
 double-bag
@@ -360,6 +368,7 @@ drowsy
 dry air
 dryer sheet
 drywall
+dubbed
 duct tape
 due date
 dumbbell
@@ -367,6 +376,7 @@ dust
 dustpan
 Dutch oven
 duvet
+e-ticket
 e-transfer
 early dismissal
 earmuffs
@@ -387,6 +397,7 @@ employment contract
 en-suite laundry
 encore
 end cap
+end credits
 enrol
 enrolment deadline
 entrée
@@ -475,6 +486,7 @@ free weights
 free-range
 freeze a card
 freezing rain
+front row
 frostbite
 frozen pipe
 full text
@@ -489,6 +501,7 @@ garbage disposal
 garnish
 gas mileage
 gauze
+general admission
 generic
 get off
 get on
@@ -552,6 +565,7 @@ hard water
 have a lot on your plate
 hazard lights
 head
+headliner
 heads-up
 health card
 heartburn
@@ -723,6 +737,7 @@ move to the back
 move-in date
 move-in inspection
 move-out date
+movie theatre
 mudroom
 mute
 my bad
@@ -773,6 +788,7 @@ online banking
 online order
 online portal
 open enrollment
+opening act
 order confirmation
 order number
 order status
@@ -867,6 +883,7 @@ plunger
 poach
 point person
 pop
+post-credit scene
 posted transaction
 poster
 pot lights
@@ -879,6 +896,7 @@ pre-authorized debit
 pre-authorized payment
 pre-washed
 preheat
+premiere
 premium
 prepaid label
 prerequisite
@@ -1007,6 +1025,7 @@ run late
 run something by someone
 runners
 runny
+runtime
 rush hour
 salary
 sales tax
@@ -1029,6 +1048,7 @@ scope
 scramble
 screen door
 screen share
+screening
 script
 scrub
 scrub brush
@@ -1037,6 +1057,8 @@ sear
 search term
 season
 season pass
+seat number
+seat selection
 seat yourself
 secondary school
 secondary source
@@ -1053,6 +1075,7 @@ service fee
 service request
 service suspended
 set
+setlist
 settle up
 settlement worker
 shallot
@@ -1228,6 +1251,7 @@ thesis
 threshold
 throw blanket
 ticket machine
+ticket transfer
 tied up
 timeline
 timesheet
@@ -1289,6 +1313,7 @@ unmute
 unopened
 up in the air
 urgent care
+usher
 utilities
 utility account
 utility knife
