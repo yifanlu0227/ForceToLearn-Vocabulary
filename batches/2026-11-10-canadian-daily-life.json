@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-10-canadian-daily-life",
+  "title": "加拿大日常生活：电影院与现场演出",
+  "publishedOn": "2026-11-10",
+  "entries": [
+    {
+      "id": "movie-theatre",
+      "term": "movie theatre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电影院",
+      "explanationZh": "公开放映电影、设有一个或多个影厅的场所。在加拿大英语中通常写作 theatre，美国英语常写作 theater。",
+      "examples": [
+        {
+          "en": "There's a movie theatre near Yonge-Dundas Square.",
+          "zh": "央街—登打士广场附近有一家电影院。",
+          "scenarioZh": "和朋友商量在多伦多市中心看电影"
+        }
+      ],
+      "usageNotesZh": [
+        "go to the movie theatre 表示去电影院；口语也常直接说 go to the movies。",
+        "加拿大常用拼写 movie theatre。"
+      ],
+      "tags": ["leisure", "cinema", "canada"]
+    },
+    {
+      "id": "screening",
+      "term": "screening",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电影放映；放映场次；筛查",
+      "explanationZh": "娱乐语境中指一场电影的公开放映，尤其常用于电影节、特别场次或外语片。医疗和安全语境中还可表示筛查或检查。",
+      "examples": [
+        {
+          "en": "The director will answer questions after the screening.",
+          "zh": "电影放映结束后，导演会回答观众问题。",
+          "scenarioZh": "参加带映后交流的电影节场次"
+        }
+      ],
+      "usageNotesZh": [
+        "attend a screening 表示参加电影放映。",
+        "a special screening 指特别放映；注意 screening 也可表示健康筛查。"
+      ],
+      "tags": ["leisure", "cinema", "events"]
+    },
+    {
+      "id": "premiere",
+      "term": "premiere",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "首映；首次公演；首播",
+      "explanationZh": "电影、戏剧、节目或作品第一次正式向公众放映或演出，也可作动词表示首次亮相。",
+      "examples": [
+        {
+          "en": "The film will have its Canadian premiere at the festival.",
+          "zh": "这部电影将在电影节上进行加拿大首映。",
+          "scenarioZh": "查看电影节节目介绍"
+        }
+      ],
+      "usageNotesZh": [
+        "world premiere 是全球首映；Canadian premiere 是加拿大首映。",
+        "premiere 作动词时可说 the film premieres on Friday。"
+      ],
+      "tags": ["leisure", "cinema", "performances"]
+    },
+    {
+      "id": "seat-selection",
+      "term": "seat selection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "选座；座位选择",
+      "explanationZh": "购票过程中从座位图上选择具体位置的步骤。部分场次免费选座，另一些可能对更好的位置收取额外费用。",
+      "examples": [
+        {
+          "en": "Seat selection opens after you choose the showtime.",
+          "zh": "选择场次后，系统会进入选座页面。",
+          "scenarioZh": "在影院网站购买电影票"
+        }
+      ],
+      "usageNotesZh": [
+        "seat selection fee 指选座费。",
+        "完成付款前要核对影厅、排数和座位号。"
+      ],
+      "tags": ["leisure", "tickets", "seating"]
+    },
+    {
+      "id": "assigned-seating",
+      "term": "assigned seating",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "指定座位制；对号入座",
+      "explanationZh": "每张票对应一个确定座位的安排，入场后应坐在票面标注的位置，而不是先到先选。电影院和剧院中很常见。",
+      "examples": [
+        {
+          "en": "This concert has assigned seating, so our tickets show a row and seat number.",
+          "zh": "这场音乐会实行对号入座，所以门票上标有排数和座位号。",
+          "scenarioZh": "确认现场演出的座位安排"
+        }
+      ],
+      "usageNotesZh": [
+        "assigned seating 与 reserved seating 意思接近。",
+        "与 general admission 相对，后者通常不分配具体座位。"
+      ],
+      "tags": ["leisure", "tickets", "seating"]
+    },
+    {
+      "id": "general-admission",
+      "term": "general admission",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "普通入场票；不指定座位的入场方式",
+      "explanationZh": "持票人可以进入指定区域，但通常没有固定座位的票种，常见于演唱会站立区、节庆活动或先到先坐的场次。",
+      "examples": [
+        {
+          "en": "The floor is general admission, so we should arrive early.",
+          "zh": "内场是不指定位置的普通入场区，所以我们应该早点到。",
+          "scenarioZh": "安排演唱会到场时间"
+        }
+      ],
+      "usageNotesZh": [
+        "常缩写为 GA。",
+        "general admission 不一定代表站票，应查看场馆对座位和区域的说明。"
+      ],
+      "tags": ["leisure", "tickets", "performances"]
+    },
+    {
+      "id": "aisle-seat",
+      "term": "aisle seat",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "靠过道的座位",
+      "explanationZh": "紧邻过道、方便进出的座位。在电影院、剧院、飞机和火车上都可使用这个说法。",
+      "examples": [
+        {
+          "en": "Could we get two aisle seats if any are still available?",
+          "zh": "如果还有的话，我们可以要两个靠过道的座位吗？",
+          "scenarioZh": "在售票处询问方便进出的座位"
+        }
+      ],
+      "usageNotesZh": [
+        "an aisle seat 与 a middle seat、a window seat 相对。",
+        "在演出场馆中，靠过道不一定意味着视野更好。"
+      ],
+      "tags": ["leisure", "seating", "cinema"]
+    },
+    {
+      "id": "front-row",
+      "term": "front row",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "第一排；前排",
+      "explanationZh": "最靠近银幕、舞台或表演区域的一排座位。距离很近，但在影院中可能需要抬头观看，未必适合所有人。",
+      "examples": [
+        {
+          "en": "Only front-row seats were left for the late show.",
+          "zh": "晚场只剩下第一排座位了。",
+          "scenarioZh": "临时购买热门电影的剩余座位"
+        }
+      ],
+      "usageNotesZh": [
+        "sit in the front row 表示坐在第一排。",
+        "front-row seat 也可比喻近距离观看重要事件的位置。"
+      ],
+      "tags": ["leisure", "seating", "cinema"]
+    },
+    {
+      "id": "seat-number",
+      "term": "seat number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "座位号",
+      "explanationZh": "用来标识具体座位的数字或字母，通常与区域、楼层和排号一起显示在门票上。",
+      "examples": [
+        {
+          "en": "Your row is G and your seat number is 14.",
+          "zh": "你的排号是 G，座位号是 14。",
+          "scenarioZh": "入场后根据电子票寻找座位"
+        }
+      ],
+      "usageNotesZh": [
+        "check the row and seat number 表示核对排号和座位号。",
+        "大型场馆还要先确认 section 或 level。"
+      ],
+      "tags": ["leisure", "tickets", "seating"]
+    },
+    {
+      "id": "coat-check",
+      "term": "coat check",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "衣帽寄存处；衣物寄存服务",
+      "explanationZh": "剧院、音乐厅、夜店或活动场馆中代为保管外套和包的柜台或服务。可能免费，也可能按件收费。",
+      "examples": [
+        {
+          "en": "We left our winter coats at the coat check before entering the hall.",
+          "zh": "进入大厅前，我们把冬季外套寄存在衣帽处。",
+          "scenarioZh": "冬天参加室内音乐会"
+        }
+      ],
+      "usageNotesZh": [
+        "check your coat 表示把外套寄存起来。",
+        "寄存后要保管好领取凭证 coat-check ticket。"
+      ],
+      "tags": ["leisure", "venues", "services"]
+    },
+    {
+      "id": "opening-act",
+      "term": "opening act",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "暖场表演者；开场节目",
+      "explanationZh": "在主要表演者之前登台的歌手、乐队或节目，用来为整场演出开场并带动气氛。",
+      "examples": [
+        {
+          "en": "The opening act starts at seven, and the main band comes on later.",
+          "zh": "暖场表演七点开始，主乐队稍后登台。",
+          "scenarioZh": "确认演唱会不同表演者的上台时间"
+        }
+      ],
+      "usageNotesZh": [
+        "也可说 support act 或 supporting act。",
+        "票面开演时间可能是 opening act 的开始时间，不一定是主角登台时间。"
+      ],
+      "tags": ["leisure", "concerts", "performances"]
+    },
+    {
+      "id": "headliner",
+      "term": "headliner",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "压轴主角；领衔表演者",
+      "explanationZh": "演唱会、音乐节或喜剧演出中最主要、通常最后登场或最受关注的表演者。",
+      "examples": [
+        {
+          "en": "The headliner is scheduled to go on at nine thirty.",
+          "zh": "领衔表演者预计在九点半上台。",
+          "scenarioZh": "查看音乐节当天的演出时间表"
+        }
+      ],
+      "usageNotesZh": [
+        "headline a festival 表示担任音乐节的领衔表演者。",
+        "headliner 与 opening act 的演出地位和时段通常不同。"
+      ],
+      "tags": ["leisure", "concerts", "performances"]
+    },
+    {
+      "id": "setlist",
+      "term": "setlist",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "演出曲目单；现场歌单",
+      "explanationZh": "歌手或乐队在一场现场演出中计划演唱或演奏的曲目及顺序，有时演出后也会被粉丝记录分享。",
+      "examples": [
+        {
+          "en": "They changed the setlist and added an older song for the encore.",
+          "zh": "他们调整了演出曲目单，并在返场时加入了一首老歌。",
+          "scenarioZh": "和朋友讨论音乐会现场曲目"
+        }
+      ],
+      "usageNotesZh": [
+        "setlist 常写作一个词，也可见 set list。",
+        "曲目单可能临时变化，不一定与网上流传的版本完全相同。"
+      ],
+      "tags": ["leisure", "concerts", "music"]
+    },
+    {
+      "id": "usher",
+      "term": "usher",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "引座员；带领入座",
+      "explanationZh": "在电影院、剧院或活动场馆检查区域、指引座位和协助观众的工作人员。作动词时表示引导某人进入或就座。",
+      "examples": [
+        {
+          "en": "An usher showed us to our seats in the balcony.",
+          "zh": "一位引座员带我们到楼座的座位。",
+          "scenarioZh": "在剧院内找不到座位时寻求帮助"
+        }
+      ],
+      "usageNotesZh": [
+        "ask an usher for help 表示向引座员求助。",
+        "usher someone in 或 usher someone to a seat 表示引导某人进入或就座。"
+      ],
+      "tags": ["leisure", "venues", "staff"]
+    },
+    {
+      "id": "e-ticket",
+      "term": "e-ticket",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电子票",
+      "explanationZh": "通过邮箱、应用或网页提供、入场时展示二维码或条形码的票，不需要打印纸质版本，除非场馆特别要求。",
+      "examples": [
+        {
+          "en": "Save the e-ticket to your phone before you arrive at the venue.",
+          "zh": "到场馆之前，先把电子票保存到手机上。",
+          "scenarioZh": "出发参加演出前准备入场凭证"
+        }
+      ],
+      "usageNotesZh": [
+        "show 或 scan an e-ticket 表示出示或扫描电子票。",
+        "提前下载可以避免场馆入口网络拥堵时无法加载。"
+      ],
+      "tags": ["leisure", "tickets", "digital-services"]
+    },
+    {
+      "id": "ticket-transfer",
+      "term": "ticket transfer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "门票转让；电子票转移",
+      "explanationZh": "通过官方票务系统把一张门票发送到另一位观众账户的功能。它通常不会自动完成收付款，也不等同于退款。",
+      "examples": [
+        {
+          "en": "I used ticket transfer to send my extra ticket to a friend.",
+          "zh": "我用门票转让功能把多出来的一张票发给了朋友。",
+          "scenarioZh": "同行朋友分别保管各自的电子票"
+        }
+      ],
+      "usageNotesZh": [
+        "transfer a ticket 表示转让一张票。",
+        "使用官方转让功能前要核对接收人的邮箱或账户信息。"
+      ],
+      "tags": ["leisure", "tickets", "digital-services"]
+    },
+    {
+      "id": "booking-fee",
+      "term": "booking fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "订票手续费；预订服务费",
+      "explanationZh": "购买电影、演出或活动门票时，票价之外收取的预订或处理费用。它可能按订单或按每张票计算。",
+      "examples": [
+        {
+          "en": "The online price includes a three-dollar booking fee per ticket.",
+          "zh": "网上价格包含每张票三元的订票手续费。",
+          "scenarioZh": "结账前比较门票标价和最终价格"
+        }
+      ],
+      "usageNotesZh": [
+        "也常见 service fee、handling fee 或 convenience fee。",
+        "结账前应查看总价，因为 booking fee 可能不可退。"
+      ],
+      "tags": ["leisure", "tickets", "fees"]
+    },
+    {
+      "id": "age-restriction",
+      "term": "age restriction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "年龄限制",
+      "explanationZh": "活动、影片或场馆规定观众必须达到某个年龄，或未成年人必须由成年人陪同。入场时可能检查带照片的证件。",
+      "examples": [
+        {
+          "en": "Check the age restriction before buying tickets for the late show.",
+          "zh": "购买晚场门票前，先查看年龄限制。",
+          "scenarioZh": "为年轻家人选择电影或现场活动"
+        }
+      ],
+      "usageNotesZh": [
+        "an 18-plus age restriction 表示仅限十八岁及以上。",
+        "电影分级、酒类供应和活动规定可能分别影响入场年龄。"
+      ],
+      "tags": ["leisure", "admission", "rules"]
+    },
+    {
+      "id": "doors-open",
+      "term": "doors open",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "开始允许观众入场；开门时间",
+      "explanationZh": "场馆开始让观众进入的时间，通常早于正式演出时间。票面上的 doors open 和 show starts 应分别查看。",
+      "examples": [
+        {
+          "en": "Doors open at six thirty, and the show starts at eight.",
+          "zh": "六点半开始入场，演出八点开始。",
+          "scenarioZh": "规划到达音乐会场馆的时间"
+        }
+      ],
+      "usageNotesZh": [
+        "doors at 6:30 是活动页面上常见的简写。",
+        "提前到场要给安检、寄存和找座位预留时间。"
+      ],
+      "tags": ["leisure", "venues", "schedules"]
+    },
+    {
+      "id": "runtime",
+      "term": "runtime",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "片长；演出时长；运行时间",
+      "explanationZh": "电影、节目或演出从开始到结束的大致时长。技术语境中也可指程序运行时间或运行环境。",
+      "examples": [
+        {
+          "en": "The movie has a runtime of two hours and twenty minutes.",
+          "zh": "这部电影片长两小时二十分钟。",
+          "scenarioZh": "订票前估算电影结束时间"
+        }
+      ],
+      "usageNotesZh": [
+        "a runtime of two hours 表示时长为两小时。",
+        "演出页面应确认 runtime 是否包含 intermission。"
+      ],
+      "tags": ["leisure", "cinema", "schedules"]
+    },
+    {
+      "id": "end-credits",
+      "term": "end credits",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "片尾字幕；演职员表",
+      "explanationZh": "电影或节目结束时滚动显示演员、导演、制作人员、音乐和版权等信息的字幕。",
+      "examples": [
+        {
+          "en": "We stayed through the end credits to see who composed the music.",
+          "zh": "我们看完了片尾字幕，想知道配乐是谁创作的。",
+          "scenarioZh": "电影结束后查看制作人员信息"
+        }
+      ],
+      "usageNotesZh": [
+        "stay through the end credits 表示一直看到片尾字幕结束。",
+        "opening credits 指片头字幕。"
+      ],
+      "tags": ["leisure", "cinema", "film"]
+    },
+    {
+      "id": "post-credit-scene",
+      "term": "post-credit scene",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "片尾彩蛋；演职员表后的额外场景",
+      "explanationZh": "在片尾字幕中间或结束后播放的短场景，可能补充笑点、剧情信息或下一部作品的线索。",
+      "examples": [
+        {
+          "en": "Don't leave yet—there's a post-credit scene.",
+          "zh": "先别走，片尾还有一个彩蛋。",
+          "scenarioZh": "提醒同行朋友电影结束后继续等待"
+        }
+      ],
+      "usageNotesZh": [
+        "也常写作 post-credits scene。",
+        "mid-credit scene 指在片尾字幕进行到中间时出现的额外场景。"
+      ],
+      "tags": ["leisure", "cinema", "film"]
+    },
+    {
+      "id": "dubbed",
+      "term": "dubbed",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "配音版的；重新配过对白的",
+      "explanationZh": "影片原有对白被另一种语言的配音替换。购票时要区分 dubbed version 和保留原声、另加字幕的版本。",
+      "examples": [
+        {
+          "en": "Is this screening dubbed or in Japanese with English subtitles?",
+          "zh": "这场是配音版，还是日语原声配英文字幕？",
+          "scenarioZh": "购买外语电影票前确认语言版本"
+        }
+      ],
+      "usageNotesZh": [
+        "dubbed in English 表示配成英语。",
+        "dubbed 与 subtitled 相对，前者替换声音，后者保留声音并显示文字。"
+      ],
+      "tags": ["leisure", "cinema", "language-access"]
+    },
+    {
+      "id": "closed-captioning",
+      "term": "closed captioning",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "隐藏式字幕；无障碍字幕服务",
+      "explanationZh": "可由观众选择开启的字幕服务，除了对白，通常还会标注说话者、音乐和音效，主要帮助听障观众理解内容。",
+      "examples": [
+        {
+          "en": "The theatre offers closed captioning devices for this movie.",
+          "zh": "这家影院为这部电影提供隐藏式字幕设备。",
+          "scenarioZh": "查看影院场次的无障碍服务"
+        }
+      ],
+      "usageNotesZh": [
+        "closed captions 常缩写为 CC。",
+        "影院的 closed captioning 可能通过个人显示设备提供，并不一定直接显示在大银幕上。"
+      ],
+      "tags": ["leisure", "cinema", "accessibility"]
+    },
+    {
+      "id": "audio-description",
+      "term": "audio description",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "口述影像；画面解说服务",
+      "explanationZh": "在对白空隙中用声音描述动作、场景、人物表情和画面信息的无障碍服务，主要帮助视障观众理解影视内容。",
+      "examples": [
+        {
+          "en": "Audio description is available through a headset at the box office.",
+          "zh": "可以在售票处领取耳机，使用口述影像服务。",
+          "scenarioZh": "向影院询问视障观众可用的辅助服务"
+        }
+      ],
+      "usageNotesZh": [
+        "audio-described performance 指提供口述影像的演出。",
+        "影院可能要求提前预订接收设备，应查看具体场次说明。"
+      ],
+      "tags": ["leisure", "cinema", "accessibility"]
+    }
+  ]
+}
