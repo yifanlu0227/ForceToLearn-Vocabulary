@@ -7,6 +7,7 @@ absence
 abstract
 academic advisor
 academic calendar
+acceptance letter
 accessibility ramp
 accessibility services
 account holder
@@ -16,6 +17,7 @@ add a course
 admission
 Advil
 advisor
+affiliation
 age restriction
 agenda
 air filter
@@ -34,6 +36,7 @@ Allen key
 aluminum foil
 amenity
 annual fee
+anonymize
 antibiotics
 antihistamine
 antiperspirant
@@ -50,6 +53,7 @@ assignment
 ATM
 attendance
 audio description
+author guidelines
 authorized user
 auto-load
 Autodeposit
@@ -241,6 +245,7 @@ concierge
 conditioner
 conference
 confirmation number
+conflict of interest
 connecting bus
 connection issue
 construction notice
@@ -249,8 +254,10 @@ contaminated
 conveyor belt
 cool down
 cooling centre
+copy edit
 core
 corkage fee
+corresponding author
 cortisone cream
 cost an arm and a leg
 cottage
@@ -302,6 +309,7 @@ deadline
 deadline extension
 debit card
 decaf
+decision letter
 decongestant
 deductible
 deep clean
@@ -324,6 +332,7 @@ departure board
 dependency
 deposit
 designated driver
+desk rejection
 detour
 dice
 dig out
@@ -345,6 +354,7 @@ doors open
 doorstop
 dosage
 double-bag
+double-blind review
 double-double
 down for
 down jacket
@@ -478,6 +488,7 @@ for here or to go
 for sure
 foreign currency
 foreign transaction fee
+formatting requirements
 four-wheel drive
 fraud alert
 free sample
@@ -696,6 +707,7 @@ lunch break
 mail in
 mailroom
 maintenance request
+major revision
 management office
 manuscript
 marinate
@@ -719,6 +731,7 @@ mildew
 milestone
 mince
 minimum payment
+minor revision
 minutes
 mittens
 mixing bowl
@@ -815,6 +828,8 @@ PA day
 package room
 packed
 packed lunch
+page limit
+page proof
 paid time off
 painter's tape
 pantry staples
@@ -929,6 +944,7 @@ public consultation
 public notice
 public school
 public washroom
+publication fee
 pull over
 pumped
 put your name down
@@ -945,6 +961,7 @@ raw meat
 razor
 reading week
 rear-end
+rebuttal
 receipt
 recess
 recreation program
@@ -986,14 +1003,18 @@ research
 reserve
 resident
 resistance band
+response letter
 rest stop
 restock
 restocking fee
+resubmit
 resume
 return label
 return policy
 return window
 reusable bag
+review comments
+reviewer
 revise
 rewards program
 rider
@@ -1205,6 +1226,8 @@ study room
 stuffy nose
 sub
 sublet
+submission deadline
+submission portal
 submit
 substitution
 subtitles
@@ -1214,6 +1237,7 @@ sump pump
 sunny side up
 superintendent
 supervisor
+supplementary material
 supply teacher
 supporting documents
 surcharge
@@ -1373,6 +1397,7 @@ wire transfer
 withdraw
 withdrawal limit
 wok
+word limit
 work schedule
 workload
 workout
