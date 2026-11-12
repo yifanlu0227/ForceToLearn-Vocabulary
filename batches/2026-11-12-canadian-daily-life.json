@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-12-canadian-daily-life",
+  "title": "加拿大日常生活：退租搬出与租客权益",
+  "publishedOn": "2026-11-12",
+  "entries": [
+    {
+      "id": "rental-unit",
+      "term": "rental unit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出租住宅单位；租赁房屋",
+      "explanationZh": "供租客居住的独立或非独立房屋空间，可以是公寓、地下室套间、房屋中的一个单元或其他合法出租住所。合同和政府表格中经常用这个较正式的说法。",
+      "examples": [
+        {
+          "en": "The landlord must keep the rental unit in a good state of repair.",
+          "zh": "房东必须让出租住宅保持良好的维修状态。",
+          "scenarioZh": "查看租客维修责任说明"
+        }
+      ],
+      "usageNotesZh": [
+        "常见搭配：enter、inspect、repair 或 vacate a rental unit。",
+        "unit 在租房语境中不一定是整栋房子，也可能只是其中一个住宅单元。"
+      ],
+      "tags": ["housing", "renting", "legal-terms"]
+    },
+    {
+      "id": "pay-rent",
+      "term": "pay rent",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "交房租；支付租金",
+      "explanationZh": "按照租约约定向房东支付住房租金。常见方式包括电子转账、预授权扣款或支票；应保留付款记录，并按需要索取收据。",
+      "examples": [
+        {
+          "en": "I pay rent by e-transfer on the first day of each month.",
+          "zh": "我每月一号通过电子转账交房租。",
+          "scenarioZh": "向新室友说明每月房租付款方式"
+        }
+      ],
+      "usageNotesZh": [
+        "pay rent on time 表示按时交租；pay the rent 也很常见。",
+        "rent 通常不加冠词时表示固定的房租支出。"
+      ],
+      "tags": ["housing", "renting", "payments"]
+    },
+    {
+      "id": "overdue-rent",
+      "term": "overdue rent",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "逾期未付的房租",
+      "explanationZh": "已经超过约定付款日仍未支付的租金。发现付款失败或可能迟交时，应尽快联系房东并保留沟通记录，不能假定口头宽限会自动改变租约。",
+      "examples": [
+        {
+          "en": "The notice says I have overdue rent from last month.",
+          "zh": "通知上说我上个月有房租逾期未付。",
+          "scenarioZh": "核对房东发来的欠租通知"
+        }
+      ],
+      "usageNotesZh": [
+        "pay overdue rent 表示补交逾期房租。",
+        "如果认为记录有误，应提供付款凭证并书面要求核对。"
+      ],
+      "tags": ["housing", "renting", "payments"]
+    },
+    {
+      "id": "rent-arrears",
+      "term": "rent arrears",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "拖欠租金；欠租金额",
+      "explanationZh": "租客已到期但尚未支付的房租，常见于正式通知、租赁委员会文件或账户记录中。它比 overdue rent 更正式，也可指累计欠下的总额。",
+      "examples": [
+        {
+          "en": "The tenant paid the rent arrears before the hearing.",
+          "zh": "租客在听证会前补交了拖欠的租金。",
+          "scenarioZh": "了解租赁纠纷文件中的付款进展"
+        }
+      ],
+      "usageNotesZh": [
+        "be in rent arrears 表示处于欠租状态；pay off the arrears 表示还清欠款。",
+        "arrears 形式上通常用复数，但指的是一笔欠款或欠款状态。"
+      ],
+      "tags": ["housing", "renting", "legal-terms"]
+    },
+    {
+      "id": "eviction",
+      "term": "eviction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "驱逐租客；依法收回出租房",
+      "explanationZh": "通过法定程序要求租客搬出的过程。在安省，房东发通知通常只是程序的一步；最终强制执行需要租赁委员会命令及依法执行，房东不能自行换锁赶人。",
+      "examples": [
+        {
+          "en": "The tenant got legal advice after receiving papers about an eviction.",
+          "zh": "租客收到有关驱逐程序的文件后寻求了法律建议。",
+          "scenarioZh": "处理可能影响住房的正式法律文件"
+        }
+      ],
+      "usageNotesZh": [
+        "face eviction 表示面临被驱逐；eviction process 表示驱逐程序。",
+        "各省程序不同，收到文件时应核对表格、期限和官方说明。"
+      ],
+      "tags": ["housing", "tenant-rights", "legal-terms"]
+    },
+    {
+      "id": "eviction-notice",
+      "term": "eviction notice",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "驱逐通知；要求终止租约的通知",
+      "explanationZh": "房东因欠租、违规或其他法定理由发出的正式通知。日常会笼统叫 eviction notice，但通知本身通常不等于最终驱逐令，也不一定要求租客当场搬走。",
+      "examples": [
+        {
+          "en": "Do not ignore an eviction notice; check the deadline and get advice promptly.",
+          "zh": "不要忽视驱逐通知；应立即核对期限并寻求建议。",
+          "scenarioZh": "社区法律服务人员提醒租客处理文件"
+        }
+      ],
+      "usageNotesZh": [
+        "receive 或 serve an eviction notice 表示收到或送达驱逐通知。",
+        "在安省应查看通知上的具体表格编号和理由，而不能只看口头说法。"
+      ],
+      "tags": ["housing", "tenant-rights", "notices"]
+    },
+    {
+      "id": "notice-of-termination",
+      "term": "notice of termination",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "终止租约通知",
+      "explanationZh": "一方向另一方正式说明希望在某日结束租赁关系的文件。租客主动退租和房东基于法定理由终止租约使用的表格、期限和条件可能不同。",
+      "examples": [
+        {
+          "en": "I sent my notice of termination before the required deadline.",
+          "zh": "我在规定期限前递交了终止租约通知。",
+          "scenarioZh": "租客按程序通知房东准备搬出"
+        }
+      ],
+      "usageNotesZh": [
+        "give、send 或 serve a notice of termination 都表示发出终止通知。",
+        "不要把普通短信自动当作有效通知；应核对当地要求的表格、送达方式和通知期。"
+      ],
+      "tags": ["housing", "moving-out", "notices"]
+    },
+    {
+      "id": "tenant-rights",
+      "term": "tenant rights",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租客权利；房客权益",
+      "explanationZh": "租客依法律和租约享有的权利，例如合理使用住所、获得必要维修、隐私和依法收到通知。具体规则由所在省份和住房类型决定。",
+      "examples": [
+        {
+          "en": "The community clinic offers free information about tenant rights.",
+          "zh": "社区法律诊所免费提供租客权利方面的信息。",
+          "scenarioZh": "遇到租房纠纷时寻找可靠帮助"
+        }
+      ],
+      "usageNotesZh": [
+        "know 或 understand your tenant rights 表示了解自己的租客权利。",
+        "rights 常用复数；学生宿舍、共享厨房住房等情形可能适用不同规则。"
+      ],
+      "tags": ["housing", "tenant-rights", "community-services"]
+    },
+    {
+      "id": "rent-control",
+      "term": "rent control",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租金管制；租金涨幅限制制度",
+      "explanationZh": "政府对部分出租住房的租金上涨方式或幅度作出的限制。是否适用取决于省份、房屋首次使用时间、租赁状态和例外规定，不能只凭楼龄判断。",
+      "examples": [
+        {
+          "en": "I checked whether the apartment is covered by rent control before signing the lease.",
+          "zh": "签租约前，我查了这套公寓是否受租金管制。",
+          "scenarioZh": "比较不同出租房的长期居住成本"
+        }
+      ],
+      "usageNotesZh": [
+        "be covered by rent control 表示受租金管制规则保护。",
+        "安省的适用范围和豁免可能变化，应以当时的省政府和租赁委员会资料为准。"
+      ],
+      "tags": ["housing", "renting", "tenant-rights"]
+    },
+    {
+      "id": "lease-assignment",
+      "term": "lease assignment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租约转让；承租权转让",
+      "explanationZh": "原租客把租约中的承租地位转给新租客，由新租客在剩余租期内接手。它与短期转租不同，通常需要按当地法律和租约取得房东同意。",
+      "examples": [
+        {
+          "en": "I asked the property manager for permission to arrange a lease assignment.",
+          "zh": "我向物业经理申请同意办理租约转让。",
+          "scenarioZh": "固定租期结束前因工作原因准备搬走"
+        }
+      ],
+      "usageNotesZh": [
+        "request、approve 或 refuse a lease assignment 表示申请、同意或拒绝租约转让。",
+        "assignment 通常由新租客接替原租客；sublet 则常指原租客日后仍会回来。"
+      ],
+      "tags": ["housing", "leases", "moving-out"]
+    },
+    {
+      "id": "co-tenant",
+      "term": "co-tenant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "共同承租人；联名租客",
+      "explanationZh": "与其他人一起作为租客签在同一份租约上的人。共同承租人与只是同住的 roommate 不一定相同，租金责任和退租方式应看租约及当地规则。",
+      "examples": [
+        {
+          "en": "Both co-tenants are named on the lease and share responsibility for the rent.",
+          "zh": "两位共同承租人的名字都写在租约上，并共同承担房租责任。",
+          "scenarioZh": "与朋友合租前确认合同责任"
+        }
+      ],
+      "usageNotesZh": [
+        "co-tenant 也可写作 cotenant，但带连字符的拼法很常见。",
+        "不要仅凭是否分摊房租判断身份，应查看谁被列为租约当事人。"
+      ],
+      "tags": ["housing", "leases", "shared-housing"]
+    },
+    {
+      "id": "rental-move-out-inspection",
+      "term": "move-out inspection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退租验房；搬出检查",
+      "explanationZh": "租客搬出前后，房东或物业对房屋清洁、损坏和物品状况进行的检查。租客可用入住记录、照片和书面沟通区分原有问题、正常损耗与新损坏。",
+      "examples": [
+        {
+          "en": "Can we schedule the move-out inspection for Friday afternoon?",
+          "zh": "我们可以把退租验房安排在周五下午吗？",
+          "scenarioZh": "搬家前与物业协调检查时间"
+        }
+      ],
+      "usageNotesZh": [
+        "schedule 或 attend a move-out inspection 表示安排或参加退租验房。",
+        "inspection 规则因省份和物业而异；重要情况应拍照并保留双方确认。"
+      ],
+      "tags": ["housing", "moving-out", "inspections"]
+    },
+    {
+      "id": "wear-and-tear",
+      "term": "wear and tear",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "正常使用造成的自然损耗",
+      "explanationZh": "房屋和设备在正常居住过程中逐渐出现的老化或轻微磨损，例如地毯随时间变旧。它通常与因疏忽、滥用或事故造成的损坏相区别。",
+      "examples": [
+        {
+          "en": "The small marks on the old floor look like normal wear and tear.",
+          "zh": "旧地板上的轻微痕迹看起来属于正常损耗。",
+          "scenarioZh": "退租时讨论房屋状况和责任"
+        }
+      ],
+      "usageNotesZh": [
+        "normal wear and tear 是最常见的完整搭配。",
+        "哪些情况属于正常损耗需要结合使用年限、程度、证据和当地规则判断。"
+      ],
+      "tags": ["housing", "moving-out", "maintenance"]
+    },
+    {
+      "id": "rental-damage-charge",
+      "term": "damage charge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "损坏赔偿费；维修扣费",
+      "explanationZh": "房东或物业因认定租客造成损坏而要求支付的费用。收到收费时应核对损坏证据、维修明细、入住记录和当地租赁规则，而不是只接受一个总金额。",
+      "examples": [
+        {
+          "en": "I asked for photos and an itemized invoice for the damage charge.",
+          "zh": "我要求提供损坏照片和这笔赔偿费的明细账单。",
+          "scenarioZh": "对退租后的维修收费进行核对"
+        }
+      ],
+      "usageNotesZh": [
+        "dispute 或 pay a damage charge 表示对损坏收费提出异议或支付费用。",
+        "charge 是否合理与责任归属要看证据和当地程序，不能自动从任何款项中随意扣除。"
+      ],
+      "tags": ["housing", "fees", "moving-out"]
+    },
+    {
+      "id": "rental-cleaning-fee",
+      "term": "cleaning fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "清洁费",
+      "explanationZh": "因入住、退租或额外清洁服务而收取的费用。长期租房、短租和公寓服务的规则并不相同，签约或付款前应确认费用是否允许、何时收取及包含什么。",
+      "examples": [
+        {
+          "en": "Is the cleaning fee included in this amount, or is it charged separately?",
+          "zh": "这个金额包含清洁费吗，还是要另外收取？",
+          "scenarioZh": "签租房文件前确认所有费用"
+        }
+      ],
+      "usageNotesZh": [
+        "charge、pay 或 waive a cleaning fee 表示收取、支付或免除清洁费。",
+        "在安省长期住宅租赁中，额外收费受规则限制，应核对官方规定和合同性质。"
+      ],
+      "tags": ["housing", "fees", "cleaning"]
+    },
+    {
+      "id": "forwarding-address",
+      "term": "forwarding address",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "搬家后的转寄地址；新通信地址",
+      "explanationZh": "搬出后用于接收信件、账单或退款的新地址。退租时房东、保险公司、银行和邮政转寄服务都可能要求提供。",
+      "examples": [
+        {
+          "en": "Please email your forwarding address after you move out.",
+          "zh": "搬出后请通过邮件提供你的新通信地址。",
+          "scenarioZh": "物业准备寄送退租后的文件"
+        }
+      ],
+      "usageNotesZh": [
+        "provide 或 leave a forwarding address 表示提供搬家后的地址。",
+        "设置邮件转寄时还应分别更新政府证件、银行和订阅服务中的地址。"
+      ],
+      "tags": ["housing", "moving", "mail"]
+    },
+    {
+      "id": "vacate",
+      "term": "vacate",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "腾空并搬离；迁出",
+      "explanationZh": "正式表达从房屋或房间搬走并停止占用，常见于租约、物业邮件和法律通知。日常对话中 move out 更口语。",
+      "examples": [
+        {
+          "en": "We will vacate the unit by noon on the final day of the tenancy.",
+          "zh": "我们会在租期最后一天中午前搬空并离开这套房。",
+          "scenarioZh": "书面确认退租当天的搬出时间"
+        }
+      ],
+      "usageNotesZh": [
+        "vacate the premises 或 vacate the unit 都表示迁出房屋。",
+        "vacate 较正式；普通交流可说 move out of the apartment。"
+      ],
+      "tags": ["housing", "moving-out", "formal-language"]
+    },
+    {
+      "id": "return-the-keys",
+      "term": "return the keys",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "归还钥匙",
+      "explanationZh": "退租时把房门、邮箱、储物间或车库等钥匙交还给房东或物业。通常还要一并归还门禁卡和停车遥控器，并记录交接时间。",
+      "examples": [
+        {
+          "en": "Where should I return the keys after the move-out inspection?",
+          "zh": "退租验房后，我应该把钥匙交到哪里？",
+          "scenarioZh": "向物业确认退租交接流程"
+        }
+      ],
+      "usageNotesZh": [
+        "return all keys and fobs 表示归还所有钥匙和门禁卡。",
+        "可要求收据或邮件确认，避免日后对交还时间和数量产生争议。"
+      ],
+      "tags": ["housing", "moving-out", "handover"]
+    },
+    {
+      "id": "rental-history",
+      "term": "rental history",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租房记录；过往租住情况",
+      "explanationZh": "申请人过去在哪里租住、是否按时交租以及与前房东关系等记录。新房东可能会在申请过程中询问地址和联系人，但信息收集仍应符合适用的隐私和人权规则。",
+      "examples": [
+        {
+          "en": "The application asks for two years of rental history.",
+          "zh": "这份申请要求填写过去两年的租房记录。",
+          "scenarioZh": "填写新公寓的租赁申请表"
+        }
+      ],
+      "usageNotesZh": [
+        "provide 或 verify rental history 表示提供或核实租房记录。",
+        "第一次租房没有历史记录时，可询问能否提供其他可靠材料。"
+      ],
+      "tags": ["housing", "rental-applications", "records"]
+    },
+    {
+      "id": "rental-scam",
+      "term": "rental scam",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租房骗局",
+      "explanationZh": "骗子用虚假房源、冒充房东或要求提前转账等方式骗取租金、押金或个人信息。价格异常低、拒绝看房、催促用不可追回方式付款都是常见警讯。",
+      "examples": [
+        {
+          "en": "The listing was a rental scam, so I reported it and did not send any money.",
+          "zh": "那个房源是租房骗局，所以我举报了它，没有转任何钱。",
+          "scenarioZh": "发现网上房源使用了盗来的照片"
+        }
+      ],
+      "usageNotesZh": [
+        "avoid、spot 或 report a rental scam 表示避免、识别或举报租房骗局。",
+        "付款前应核实房源、出租人身份和合同，不向陌生人发送不必要的敏感证件。"
+      ],
+      "tags": ["housing", "fraud-prevention", "rental-listings"]
+    },
+    {
+      "id": "basement-apartment",
+      "term": "basement apartment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "地下室公寓；地下层出租套间",
+      "explanationZh": "位于独立屋或其他建筑地下层的出租住宅，可能有独立入口、厨房和卫生间。看房时应留意采光、潮湿、逃生出口、供暖和是否符合当地规定。",
+      "examples": [
+        {
+          "en": "The basement apartment has a separate entrance and two large windows.",
+          "zh": "这套地下室公寓有独立入口和两扇大窗户。",
+          "scenarioZh": "查看租房广告中的房屋条件"
+        }
+      ],
+      "usageNotesZh": [
+        "也常见 basement suite，尤其在加拿大西部。",
+        "地下层并不自动代表不合法，但应核实安全条件和当地登记要求。"
+      ],
+      "tags": ["housing", "apartments", "rental-listings"]
+    },
+    {
+      "id": "bachelor-apartment",
+      "term": "bachelor apartment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "开间公寓；无独立卧室的小户型",
+      "explanationZh": "起居和睡眠区域通常在同一开放空间内、没有单独卧室的公寓，是加拿大租房广告中的常见说法，与 studio apartment 基本相近。",
+      "examples": [
+        {
+          "en": "I'm looking for a bachelor apartment near the subway.",
+          "zh": "我在找一套靠近地铁的开间公寓。",
+          "scenarioZh": "向租房经纪说明预算内的户型需求"
+        }
+      ],
+      "usageNotesZh": [
+        "bachelor apartment 和 studio apartment 通常都指没有独立卧室的户型。",
+        "广告中的 bachelor 不表示只租给单身男性。"
+      ],
+      "tags": ["housing", "apartments", "rental-listings"]
+    },
+    {
+      "id": "separate-entrance",
+      "term": "separate entrance",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "独立入口；单独出入口",
+      "explanationZh": "租住空间有不必经过房东或其他住户生活区域的出入口。地下室套间和分层住宅广告中常强调这一点，但它不等于整套住房的其他设施也完全独立。",
+      "examples": [
+        {
+          "en": "Does the unit have a separate entrance from the backyard?",
+          "zh": "这个单元有从后院进入的独立入口吗？",
+          "scenarioZh": "看地下室套间时确认进出方式"
+        }
+      ],
+      "usageNotesZh": [
+        "a private entrance 也常表示仅供该住户使用的入口。",
+        "看房时应实际确认门锁、照明、冬季清雪和逃生路线。"
+      ],
+      "tags": ["housing", "rental-listings", "home-features"]
+    },
+    {
+      "id": "shared-accommodation",
+      "term": "shared accommodation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "合住房；共享居住空间",
+      "explanationZh": "与其他住户共享厨房、卫生间或公共区域的住宿安排，常见于学生租房和按房间出租。共享哪些设施会影响隐私、费用分摊和可能适用的租赁规则。",
+      "examples": [
+        {
+          "en": "This is shared accommodation with three other graduate students.",
+          "zh": "这是与另外三名研究生合住的住房。",
+          "scenarioZh": "房东说明按房间出租的居住安排"
+        }
+      ],
+      "usageNotesZh": [
+        "shared housing 和 shared accommodation 意思相近。",
+        "若与房东共享厨房或卫生间，法律适用范围可能不同，签约前应确认。"
+      ],
+      "tags": ["housing", "shared-housing", "rental-listings"]
+    },
+    {
+      "id": "utilities-included",
+      "term": "utilities included",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "水电暖等费用已包含在租金内",
+      "explanationZh": "租房广告中表示部分或全部公用事业费用已经算在月租里。具体可能只包含水和暖气，也可能包括电费或网络，必须逐项确认。",
+      "examples": [
+        {
+          "en": "The rent is $1,900 a month with heat and water utilities included.",
+          "zh": "月租是 1,900 加元，其中包含暖气费和水费。",
+          "scenarioZh": "比较两套公寓的实际每月支出"
+        }
+      ],
+      "usageNotesZh": [
+        "广告也常简写为 utilities incl.，但要询问具体包含哪些项目。",
+        "all utilities included 表示全部公用事业费包含在内，仍应确认是否有用量上限。"
+      ],
+      "tags": ["housing", "utilities", "rental-listings"]
+    }
+  ]
+}
