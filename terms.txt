@@ -60,6 +60,7 @@ Autodeposit
 automatic payment
 available balance
 available credit
+bachelor apartment
 backorder
 backseat driver
 backsplash
@@ -83,6 +84,7 @@ barbell
 barcode
 base layer
 baseboard
+basement apartment
 baste
 batter
 battery booster
@@ -214,6 +216,7 @@ city councillor
 claim
 clamshell
 clean up a spill
+cleaning fee
 cleaning supplies
 clearance
 clock in
@@ -224,6 +227,7 @@ clothespin
 co-insurance
 co-pay
 co-signer
+co-tenant
 coat check
 coffee run
 coin laundry
@@ -299,6 +303,7 @@ cut to the chase
 cutting board
 dairy section
 dairy-free
+damage charge
 damaged
 day pass
 day-old
@@ -415,6 +420,8 @@ EOB
 ER
 escalator
 estimated delivery
+eviction
+eviction notice
 evidence
 exact change
 exchange
@@ -489,6 +496,7 @@ for sure
 foreign currency
 foreign transaction fee
 formatting requirements
+forwarding address
 four-wheel drive
 fraud alert
 free sample
@@ -669,6 +677,7 @@ layer up
 leak
 lean ground beef
 lease
+lease assignment
 lease renewal
 lecture
 leftovers
@@ -750,6 +759,7 @@ move to the back
 move-in date
 move-in inspection
 move-out date
+move-out inspection
 movie theatre
 mudroom
 mute
@@ -770,6 +780,7 @@ non-stick
 northbound
 notarize
 notary public
+notice of termination
 notice period
 notice to enter
 NSF fee
@@ -822,6 +833,7 @@ overdraft
 overdraft protection
 overdue
 overdue fine
+overdue rent
 overtime
 P-trap
 PA day
@@ -856,6 +868,7 @@ pass/fail
 passenger
 pat dry
 patio
+pay rent
 pay stub
 payee
 payment due date
@@ -988,10 +1001,15 @@ reload
 remote work
 renew
 renewal limit
+rent arrears
+rent control
 rent increase
 rent receipt
 rental application
+rental history
 rental listing
+rental scam
+rental unit
 rep
 replacement bus
 replacement card
@@ -1011,6 +1029,7 @@ resubmit
 resume
 return label
 return policy
+return the keys
 return window
 reusable bag
 review comments
@@ -1090,6 +1109,7 @@ self-checkout
 sell-by date
 seminar
 send back
+separate entrance
 service alert
 service disruption
 service fee
@@ -1101,6 +1121,7 @@ settle up
 settlement worker
 shallot
 shampoo
+shared accommodation
 shaving cream
 shelf
 shift
@@ -1264,6 +1285,7 @@ temporary position
 tenancy
 tenant
 tenant insurance
+tenant rights
 tenderize
 terminal
 thaw
@@ -1339,8 +1361,10 @@ up in the air
 urgent care
 usher
 utilities
+utilities included
 utility account
 utility knife
+vacate
 vacation request
 vacuum
 valance
@@ -1370,6 +1394,7 @@ water main
 water shutoff
 watered down
 waterproof
+wear and tear
 weather forecast
 weatherstripping
 weigh
