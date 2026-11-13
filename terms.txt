@@ -33,6 +33,7 @@ all-season tires
 all-weather tires
 all-you-can-eat
 Allen key
+alteration
 aluminum foil
 amenity
 annual fee
@@ -46,6 +47,7 @@ application form
 application status
 apply
 appointment
+arch support
 area rug
 as needed
 assigned seating
@@ -286,6 +288,7 @@ credit check
 credit limit
 credit report
 credit score
+crew neck
 crisper drawer
 crockpot
 cross-contamination
@@ -381,6 +384,7 @@ drop-in
 drop-in fee
 drowsy
 dry air
+dry clean only
 dryer sheet
 drywall
 dubbed
@@ -588,6 +592,7 @@ headliner
 heads-up
 health card
 heartburn
+hem
 high beams
 hinge
 hiring manager
@@ -629,6 +634,7 @@ in-store pickup
 in-text citation
 ingredient list
 inhaler
+inseam
 institution number
 insufficient funds
 insulated
@@ -713,6 +719,7 @@ loyalty card
 loyalty points
 lukewarm
 lunch break
+machine washable
 mail in
 mailroom
 maintenance request
@@ -959,6 +966,7 @@ public school
 public washroom
 publication fee
 pull over
+pullover
 pumped
 put your name down
 putty knife
@@ -993,10 +1001,12 @@ register
 registrar
 registration fee
 regular
+regular fit
 regular price
 reheat
 reimburse
 reimbursement
+relaxed fit
 reload
 remote work
 renew
@@ -1044,6 +1054,7 @@ rinse
 rinse aid
 rip-off
 ripe
+rise
 road closure
 road conditions
 road rage
@@ -1065,6 +1076,8 @@ run late
 run something by someone
 runners
 runny
+runs large
+runs small
 runtime
 rush hour
 salary
@@ -1127,6 +1140,7 @@ shelf
 shift
 shipping address
 shipping fee
+shoe size
 shoot someone a text
 shopping cart
 short-staffed
@@ -1149,6 +1163,7 @@ sift
 simmer
 SIN
 single fare
+size chart
 size down
 size up
 skate rental
@@ -1156,6 +1171,7 @@ sketchy
 skid
 skillet
 sleet
+slim fit
 sling
 slotted spoon
 slush
@@ -1232,6 +1248,7 @@ storage unit
 store brand
 store credit
 storm drain
+straight leg
 streetcar
 streetlight
 strength training
@@ -1277,6 +1294,7 @@ takeout
 tap
 tap off
 tap on
+tapered leg
 tarp
 task owner
 tea towel
@@ -1340,6 +1358,7 @@ treadmill
 triage
 trip planner
 trivet
+true to size
 try on
 tub
 tuition
@@ -1364,6 +1383,7 @@ utilities
 utilities included
 utility account
 utility knife
+V-neck
 vacate
 vacation request
 vacuum
@@ -1377,6 +1397,7 @@ video call
 visitor parking
 visitor pass
 void cheque
+waist size
 waitlist
 waive
 walk-in
@@ -1392,6 +1413,7 @@ water fountain
 water heater
 water main
 water shutoff
+water-resistant
 watered down
 waterproof
 wear and tear
@@ -1405,6 +1427,8 @@ wet wipes
 whip
 whisk
 whiteout
+wide fit
+wide leg
 wilted
 wind chill
 window screen
@@ -1433,5 +1457,6 @@ you bet
 zest
 zip tie
 zip up
+zip-up
 zone out
 zucchini
