@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-13-canadian-daily-life",
+  "title": "加拿大日常生活：服装鞋履、尺码与试穿",
+  "publishedOn": "2026-11-13",
+  "entries": [
+    {
+      "id": "clothing-size-chart",
+      "term": "size chart",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "尺码表；尺寸对照表",
+      "explanationZh": "品牌或商店列出的身体尺寸与服装、鞋子尺码对应关系。不同品牌的同一个字母或数字尺码可能差很多，网购前最好按实际测量值核对。",
+      "examples": [
+        {
+          "en": "I checked the size chart before ordering the jacket online.",
+          "zh": "我在网上订购这件夹克前查了尺码表。",
+          "scenarioZh": "网购外套时选择合适尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "consult 或 check the size chart 表示查看尺码表。",
+        "加拿大商店可能同时列加拿大、美国、欧洲或英国尺码，注意看清单位和地区。"
+      ],
+      "tags": ["shopping", "clothing", "sizing"]
+    },
+    {
+      "id": "clothing-true-to-size",
+      "term": "true to size",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "尺码标准；按平常尺码购买即可",
+      "explanationZh": "表示衣服或鞋子的实际大小与通常尺码预期一致，不会明显偏大或偏小。商品评价和店员推荐中很常见。",
+      "examples": [
+        {
+          "en": "These shoes are true to size, so I bought my usual size.",
+          "zh": "这双鞋尺码标准，所以我买了平常穿的尺码。",
+          "scenarioZh": "根据顾客评价选择运动鞋尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "fit true to size 表示穿起来尺码标准。",
+        "常缩写为 TTS，但正式商品说明中写全更清楚。"
+      ],
+      "tags": ["shopping", "clothing", "sizing"]
+    },
+    {
+      "id": "clothing-runs-small",
+      "term": "runs small",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "尺码偏小",
+      "explanationZh": "表示某款衣服或鞋子相对于常见尺码标准做得偏小，顾客可能需要选择比平常更大的尺码。这里的 run 是描述该款商品整体尺码规律。",
+      "examples": [
+        {
+          "en": "This sweater runs small, so you may want to try one size up.",
+          "zh": "这件毛衣尺码偏小，你可能需要试大一码。",
+          "scenarioZh": "店员帮助顾客挑选毛衣"
+        }
+      ],
+      "usageNotesZh": [
+        "run small 和 fit small 都能表示尺码偏小。",
+        "说具体一件穿着紧可用 It feels tight；runs small 更强调这款商品普遍偏小。"
+      ],
+      "tags": ["shopping", "clothing", "sizing"]
+    },
+    {
+      "id": "clothing-runs-large",
+      "term": "runs large",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "尺码偏大",
+      "explanationZh": "表示某款衣服或鞋子相对于常见尺码标准做得偏大，可能需要选择比平常小一码。网购评论里常用来提醒其他顾客。",
+      "examples": [
+        {
+          "en": "The coat runs large, so I ordered a medium instead of a large.",
+          "zh": "这件大衣尺码偏大，所以我没买大号，而是订了中号。",
+          "scenarioZh": "根据商品评价调整网购尺码"
+        }
+      ],
+      "usageNotesZh": [
+        "run large 和 fit large 意思相近。",
+        "oversized 可能是刻意设计的宽松版型，不一定代表尺码标注不准。"
+      ],
+      "tags": ["shopping", "clothing", "sizing"]
+    },
+    {
+      "id": "clothing-waist-size",
+      "term": "waist size",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "腰围尺码；腰部尺寸",
+      "explanationZh": "裤子或裙子腰部的尺寸，也可以指人的腰围。加拿大男裤常用英寸标注，例如 30 表示标称腰围约 30 英寸，但实际尺寸会因品牌和版型不同。",
+      "examples": [
+        {
+          "en": "What waist size do you usually wear in jeans?",
+          "zh": "你穿牛仔裤通常选多大腰围？",
+          "scenarioZh": "店员帮顾客寻找合适的牛仔裤"
+        }
+      ],
+      "usageNotesZh": [
+        "measure your waist 表示测量腰围；a 30-inch waist 表示三十英寸腰围。",
+        "裤标上的 waist size 不一定等于衣服平铺测量宽度。"
+      ],
+      "tags": ["shopping", "clothing", "measurements"]
+    },
+    {
+      "id": "clothing-inseam",
+      "term": "inseam",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "裤子内侧裤长；内缝长度",
+      "explanationZh": "从裤裆沿腿内侧量到裤脚的长度，用来决定裤子是否太长或太短。男裤尺码中的第二个数字常表示 inseam，例如 30×32 中的 32。",
+      "examples": [
+        {
+          "en": "I need a 30-inch waist with a 32-inch inseam.",
+          "zh": "我需要腰围 30 英寸、内侧裤长 32 英寸的裤子。",
+          "scenarioZh": "向店员说明牛仔裤尺寸"
+        }
+      ],
+      "usageNotesZh": [
+        "measure the inseam 表示测量内侧裤长。",
+        "inseam 与总裤长不同，测量起点在裤裆而不是腰头。"
+      ],
+      "tags": ["shopping", "clothing", "measurements"]
+    },
+    {
+      "id": "clothing-rise",
+      "term": "rise",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "裤腰高度；裆到腰头的长度",
+      "explanationZh": "服装语境中指裤裆到腰头之间的高度，决定裤子穿在腰部的哪个位置。常见有 low-rise、mid-rise 和 high-rise。",
+      "examples": [
+        {
+          "en": "I prefer a mid-rise jean because it sits comfortably at my waist.",
+          "zh": "我更喜欢中腰牛仔裤，因为它穿在腰部很舒服。",
+          "scenarioZh": "试穿时比较不同腰型的牛仔裤"
+        }
+      ],
+      "usageNotesZh": [
+        "high-rise、mid-rise 和 low-rise 分别表示高腰、中腰和低腰。",
+        "rise 在其他语境中还有上升等含义，服装店里需结合裤装语境理解。"
+      ],
+      "tags": ["shopping", "clothing", "jeans"]
+    },
+    {
+      "id": "clothing-slim-fit",
+      "term": "slim fit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "修身版型",
+      "explanationZh": "比常规版型更贴近身体线条、但通常没有紧身款那么贴的剪裁。衬衫、西装、裤子和外套中都常见。",
+      "examples": [
+        {
+          "en": "The slim fit is too tight across my shoulders.",
+          "zh": "这件修身版型在我的肩部太紧了。",
+          "scenarioZh": "试穿衬衫后向店员反馈"
+        }
+      ],
+      "usageNotesZh": [
+        "a slim-fit shirt 中常用连字符作定语。",
+        "不同品牌对 slim fit 的宽松程度定义不同，最好实际试穿。"
+      ],
+      "tags": ["shopping", "clothing", "fit"]
+    },
+    {
+      "id": "clothing-regular-fit",
+      "term": "regular fit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "常规版型；标准合身版",
+      "explanationZh": "不特别紧身也不刻意宽松的常规剪裁，通常为身体活动留有适度空间。它是相对于 slim fit 或 relaxed fit 的常见分类。",
+      "examples": [
+        {
+          "en": "Do you have this shirt in a regular fit?",
+          "zh": "这件衬衫有常规版型的吗？",
+          "scenarioZh": "向店员寻找不太修身的衬衫"
+        }
+      ],
+      "usageNotesZh": [
+        "regular-fit 作定语时通常加连字符。",
+        "regular 可能指版型，也可能指普通长度或尺码系列，应查看商品说明。"
+      ],
+      "tags": ["shopping", "clothing", "fit"]
+    },
+    {
+      "id": "clothing-relaxed-fit",
+      "term": "relaxed fit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "宽松版型；舒适宽松剪裁",
+      "explanationZh": "在腰、臀、腿或上身留出更多空间的剪裁，强调活动舒适和较松的轮廓。它通常比 regular fit 宽松，但不一定像 oversized 那样明显放大。",
+      "examples": [
+        {
+          "en": "These relaxed-fit pants are comfortable for long flights.",
+          "zh": "这条宽松版型的裤子很适合长途飞行，穿起来舒服。",
+          "scenarioZh": "挑选旅行时穿的休闲裤"
+        }
+      ],
+      "usageNotesZh": [
+        "relaxed-fit jeans 表示宽松版型牛仔裤。",
+        "relaxed fit 描述剪裁，不代表一定需要买小一码。"
+      ],
+      "tags": ["shopping", "clothing", "fit"]
+    },
+    {
+      "id": "clothing-wide-leg",
+      "term": "wide leg",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "阔腿版型；宽裤腿",
+      "explanationZh": "裤腿从大腿到裤脚整体较宽的裤型，常见于牛仔裤、西裤和休闲裤。它描述裤腿轮廓，不等于腰围也很宽。",
+      "examples": [
+        {
+          "en": "I'm looking for wide-leg jeans with a high rise.",
+          "zh": "我想找一条高腰阔腿牛仔裤。",
+          "scenarioZh": "向店员说明想要的牛仔裤款式"
+        }
+      ],
+      "usageNotesZh": [
+        "wide-leg 作定语时通常加连字符，如 wide-leg pants。",
+        "阔腿裤的裤脚较宽，与 flare 的喇叭形扩张方式不同。"
+      ],
+      "tags": ["shopping", "clothing", "pants"]
+    },
+    {
+      "id": "clothing-straight-leg",
+      "term": "straight leg",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "直筒裤型；直腿版型",
+      "explanationZh": "裤腿从大腿或膝部到裤脚保持较接近的宽度，整体线条笔直。牛仔裤和休闲裤商品名称中很常见。",
+      "examples": [
+        {
+          "en": "These straight-leg jeans fit well over my boots.",
+          "zh": "这条直筒牛仔裤套在我的靴子外面很合适。",
+          "scenarioZh": "试穿牛仔裤并搭配冬靴"
+        }
+      ],
+      "usageNotesZh": [
+        "straight-leg pants 中作定语时通常加连字符。",
+        "straight leg 不等于 skinny；裤腿通常会保留更多空间。"
+      ],
+      "tags": ["shopping", "clothing", "pants"]
+    },
+    {
+      "id": "clothing-tapered-leg",
+      "term": "tapered leg",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "锥形裤腿；向裤脚逐渐收窄的版型",
+      "explanationZh": "裤腿从大腿或膝部开始向脚踝方向逐渐变窄的剪裁，既能给上部留出活动空间，又让裤脚看起来更利落。",
+      "examples": [
+        {
+          "en": "The tapered leg is roomy at the thigh but narrow at the ankle.",
+          "zh": "这种锥形裤腿在大腿处宽松，在脚踝处较窄。",
+          "scenarioZh": "比较不同通勤裤版型"
+        }
+      ],
+      "usageNotesZh": [
+        "tapered-leg trousers 表示锥形裤腿的长裤。",
+        "tapered 描述逐渐收窄，不一定像 skinny fit 那样全腿贴身。"
+      ],
+      "tags": ["shopping", "clothing", "pants"]
+    },
+    {
+      "id": "clothing-crew-neck",
+      "term": "crew neck",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "圆领；贴近颈部的圆形领口",
+      "explanationZh": "没有翻领、沿颈部形成圆弧的常见领口，T 恤、毛衣和卫衣上都很常见。它通常比 scoop neck 开口更高、更小。",
+      "examples": [
+        {
+          "en": "I prefer a crew-neck sweater for layering under a jacket.",
+          "zh": "我喜欢用圆领毛衣搭在夹克里面穿。",
+          "scenarioZh": "挑选适合秋冬叠穿的毛衣"
+        }
+      ],
+      "usageNotesZh": [
+        "crew-neck 作定语时常加连字符，如 a crew-neck T-shirt。",
+        "crew neck 描述领口形状，不代表衣服本身的松紧。"
+      ],
+      "tags": ["shopping", "clothing", "necklines"]
+    },
+    {
+      "id": "clothing-v-neck",
+      "term": "V-neck",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "V 领；V 字形领口",
+      "explanationZh": "前方领口呈 V 字形的设计，常见于 T 恤、针织衫和连衣裙。V 的深浅会影响露肤程度和叠穿效果。",
+      "examples": [
+        {
+          "en": "Do you have this V-neck in navy blue?",
+          "zh": "这件 V 领上衣有海军蓝色的吗？",
+          "scenarioZh": "向店员询问同款不同颜色"
+        }
+      ],
+      "usageNotesZh": [
+        "a V-neck sweater 表示 V 领毛衣。",
+        "V 常大写并带连字符；也可看到 v-neck 的写法。"
+      ],
+      "tags": ["shopping", "clothing", "necklines"]
+    },
+    {
+      "id": "clothing-zip-up",
+      "term": "zip-up",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "拉链式上衣；带前拉链的",
+      "explanationZh": "作名词时常指前面有全长拉链的卫衣或外套；作形容词时表示通过拉链开合。相比套头款，穿脱和调节温度更方便。",
+      "examples": [
+        {
+          "en": "I bought a zip-up that I can wear over a T-shirt at the gym.",
+          "zh": "我买了一件拉链上衣，去健身房时可以套在 T 恤外面。",
+          "scenarioZh": "挑选方便穿脱的运动上衣"
+        }
+      ],
+      "usageNotesZh": [
+        "zip-up hoodie 表示拉链连帽衫；a zip-up 可单独指拉链上衣。",
+        "zip up 不带连字符时也可作动词短语，表示把拉链拉上。"
+      ],
+      "tags": ["shopping", "clothing", "outerwear"]
+    },
+    {
+      "id": "clothing-pullover",
+      "term": "pullover",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "套头衫；套头款上衣",
+      "explanationZh": "没有前部全长开口、需要从头上套穿的毛衣、卫衣或外套。商品名称中的 pullover 常用来与 zip-up 区分。",
+      "examples": [
+        {
+          "en": "This pullover is warm enough for a cool fall evening.",
+          "zh": "这件套头衫在凉爽的秋夜穿足够暖和。",
+          "scenarioZh": "在商店挑选秋季休闲上衣"
+        }
+      ],
+      "usageNotesZh": [
+        "pullover sweater 和 pullover hoodie 都是常见搭配。",
+        "pull over 分开写时通常是动词短语，可表示靠边停车，不要混淆。"
+      ],
+      "tags": ["shopping", "clothing", "tops"]
+    },
+    {
+      "id": "clothing-water-resistant",
+      "term": "water-resistant",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "防泼水的；能抵挡一定水分的",
+      "explanationZh": "表示面料能应付小雨或短时间水滴，但通常不能保证在大雨或长时间浸水下保持完全干燥。买加拿大秋冬外套或鞋靴时很实用。",
+      "examples": [
+        {
+          "en": "The water-resistant shell is fine for light rain, but not for a downpour.",
+          "zh": "这层防泼水外壳应付小雨没问题，但不适合暴雨。",
+          "scenarioZh": "比较通勤外套的防水性能"
+        }
+      ],
+      "usageNotesZh": [
+        "water-resistant jacket 表示防泼水夹克。",
+        "water-resistant 通常弱于 waterproof；应查看防水等级、接缝和使用说明。"
+      ],
+      "tags": ["shopping", "clothing", "weather"]
+    },
+    {
+      "id": "clothing-machine-washable",
+      "term": "machine washable",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "可机洗的",
+      "explanationZh": "表示衣物可以放入洗衣机清洗，但仍要按照洗标选择水温、洗涤程序和是否使用洗衣袋。可机洗不等于可以用高温烘干。",
+      "examples": [
+        {
+          "en": "I chose this coat because the label says it is machine washable.",
+          "zh": "我选了这件大衣，因为洗标上写着可以机洗。",
+          "scenarioZh": "购买方便日常护理的外套"
+        }
+      ],
+      "usageNotesZh": [
+        "machine-washable 作名词前定语时也常加连字符。",
+        "清洗前应同时查看 wash cold、gentle cycle 和 tumble dry 等具体说明。"
+      ],
+      "tags": ["shopping", "clothing-care", "laundry"]
+    },
+    {
+      "id": "clothing-dry-clean-only",
+      "term": "dry clean only",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "只能干洗",
+      "explanationZh": "洗标说明这件衣物不建议用普通水洗，应交给专业干洗店处理。西装、大衣和某些精细面料上常见，购买前可把后续护理成本也考虑进去。",
+      "examples": [
+        {
+          "en": "This wool blazer is dry clean only.",
+          "zh": "这件羊毛西装外套只能干洗。",
+          "scenarioZh": "购买前查看衣物护理标签"
+        }
+      ],
+      "usageNotesZh": [
+        "标签上常用大写 DRY CLEAN ONLY。",
+        "dry-clean 作动词时可说 I need to have this coat dry-cleaned。"
+      ],
+      "tags": ["shopping", "clothing-care", "laundry"]
+    },
+    {
+      "id": "clothing-alteration",
+      "term": "alteration",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "衣服改尺寸；修改剪裁",
+      "explanationZh": "为了让衣服更合身而做的修改，例如收腰、改袖长、改裤长或调整肩部。有些商店提供付费或免费的 alteration service。",
+      "examples": [
+        {
+          "en": "The suit needs a small alteration at the waist.",
+          "zh": "这套西装的腰部需要稍微改一下。",
+          "scenarioZh": "试穿西装后与裁缝讨论修改"
+        }
+      ],
+      "usageNotesZh": [
+        "clothing alterations 常用复数，表示多项衣服修改服务。",
+        "have something altered 表示请人把某件衣服改合身。"
+      ],
+      "tags": ["shopping", "clothing", "tailoring"]
+    },
+    {
+      "id": "clothing-hem",
+      "term": "hem",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "衣物下摆；给裤脚或下摆锁边、改短",
+      "explanationZh": "作名词时指裤脚、裙摆或衣服下缘折叠缝好的边；作动词时表示通过重新缝制下摆来调整长度。买裤子后改裤长时特别常用。",
+      "examples": [
+        {
+          "en": "Could you hem these pants by two inches?",
+          "zh": "你能把这条裤子的裤脚改短两英寸吗？",
+          "scenarioZh": "在改衣店说明裤长修改需求"
+        }
+      ],
+      "usageNotesZh": [
+        "have pants hemmed 表示请人改裤脚。",
+        "the hem came undone 表示下摆或裤脚的缝线开了。"
+      ],
+      "tags": ["shopping", "clothing", "tailoring"]
+    },
+    {
+      "id": "footwear-shoe-size",
+      "term": "shoe size",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "鞋码",
+      "explanationZh": "鞋子长度和整体大小的标号。加拿大商店通常使用美国或北美尺码体系，男鞋、女鞋和童鞋的数字并不直接相同。",
+      "examples": [
+        {
+          "en": "What shoe size do you wear in men's shoes?",
+          "zh": "你穿男鞋是多大鞋码？",
+          "scenarioZh": "店员为顾客取试穿鞋款"
+        }
+      ],
+      "usageNotesZh": [
+        "What size are you? 在鞋店也可以直接询问鞋码。",
+        "网购时应确认页面使用的是 men's、women's 还是 children's sizing。"
+      ],
+      "tags": ["shopping", "footwear", "sizing"]
+    },
+    {
+      "id": "footwear-wide-fit",
+      "term": "wide fit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "宽楦版；适合较宽脚型的版型",
+      "explanationZh": "鞋头或鞋身宽度比标准版更大的鞋型，为脚掌较宽或需要更多空间的人设计。商品可能用 Wide、W 或具体宽度字母标注。",
+      "examples": [
+        {
+          "en": "Do these running shoes come in a wide fit?",
+          "zh": "这款跑鞋有宽楦版吗？",
+          "scenarioZh": "试鞋时感觉前掌过紧"
+        }
+      ],
+      "usageNotesZh": [
+        "wide-fit shoes 表示宽楦鞋；extra wide 表示更宽的版本。",
+        "买大一码不一定能解决宽度问题，可能只是让鞋变得过长。"
+      ],
+      "tags": ["shopping", "footwear", "fit"]
+    },
+    {
+      "id": "footwear-arch-support",
+      "term": "arch support",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "足弓支撑",
+      "explanationZh": "鞋底或鞋垫在脚掌内侧足弓位置提供的承托。长时间走路、站立或运动时，有些人会特别关注支撑感，但合适程度因脚型和用途而异。",
+      "examples": [
+        {
+          "en": "I need walking shoes with better arch support.",
+          "zh": "我需要足弓支撑更好的步行鞋。",
+          "scenarioZh": "向店员说明日常通勤鞋需求"
+        }
+      ],
+      "usageNotesZh": [
+        "good、firm 或 built-in arch support 都是常见搭配。",
+        "支撑越硬不一定越适合；若持续疼痛，应咨询合适的医疗专业人士。"
+      ],
+      "tags": ["shopping", "footwear", "comfort"]
+    }
+  ]
+}
