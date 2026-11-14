@@ -91,6 +91,7 @@ baste
 batter
 battery booster
 beat
+behind schedule
 bell pepper
 benefits
 best before date
@@ -173,6 +174,7 @@ call it a day
 call number
 campus
 campus card
+cancelled
 candidate
 caramelize
 carbon monoxide detector
@@ -192,6 +194,7 @@ cashier
 cast
 casters
 catch a break
+catch the bus
 catch up
 catchment area
 caulk
@@ -244,6 +247,7 @@ common area
 community centre
 community garden
 commute
+commuter train
 comp
 compost bin
 concession stand
@@ -509,6 +513,7 @@ free weights
 free-range
 freeze a card
 freezing rain
+frequency
 front row
 frostbite
 frozen pipe
@@ -695,6 +700,7 @@ library database
 licence plate
 lifeguard
 lifesaver
+light rail
 lightheaded
 limescale
 line of credit
@@ -749,6 +755,7 @@ mince
 minimum payment
 minor revision
 minutes
+miss a connection
 mittens
 mixing bowl
 mobile banking
@@ -812,6 +819,7 @@ on the house
 on the rocks
 on the same page
 on the side
+on time
 on-ramp
 onboarding
 one-way street
@@ -860,6 +868,7 @@ parcel locker
 parchment paper
 parent-teacher interview
 paring knife
+park and ride
 parka
 parkade
 parking ban
@@ -880,6 +889,8 @@ pay stub
 payee
 payment due date
 payroll
+peak hours
+peak period
 peeler
 peephole
 peer review
@@ -909,6 +920,7 @@ pitcher
 place a hold
 plagiarism
 plastic wrap
+platform change
 platform edge
 platform number
 play it by ear
@@ -981,6 +993,7 @@ rash
 raw meat
 razor
 reading week
+real-time arrival
 rear-end
 rebuttal
 receipt
@@ -997,6 +1010,7 @@ referral
 refill
 refrigerate
 refund
+regional transit
 register
 registrar
 registration fee
@@ -1023,6 +1037,7 @@ rental unit
 rep
 replacement bus
 replacement card
+replacement stop
 report a problem
 report card
 requisition
@@ -1067,6 +1082,8 @@ roommate
 rotisserie chicken
 round
 roundabout
+route diversion
+route map
 route number
 routing number
 rowing machine
@@ -1092,6 +1109,7 @@ scale
 scarf
 scenic route
 schedule conflict
+scheduled arrival
 scholarship
 school board
 school bus
@@ -1143,6 +1161,7 @@ shipping fee
 shoe size
 shoot someone a text
 shopping cart
+short turn
 short-staffed
 shotgun
 shoulder
@@ -1241,6 +1260,7 @@ stir-fry
 stitches
 stock up
 stop announcement
+stop closure
 stop payment
 stop request
 storage locker
@@ -1250,6 +1270,7 @@ store credit
 storm drain
 straight leg
 streetcar
+streetcar stop
 streetlight
 strength training
 stretch
@@ -1286,6 +1307,7 @@ swimsuit
 swing by
 swollen
 syllabus
+system map
 tailgate
 take a number
 take out the garbage
@@ -1300,6 +1322,7 @@ task owner
 tea towel
 teaching assistant
 temporary position
+temporary stop
 tenancy
 tenant
 tenant insurance
@@ -1350,6 +1373,7 @@ transaction history
 transcript
 transfer
 transfer limit
+transfer point
 transfer window
 transit number
 transit operator
@@ -1419,6 +1443,7 @@ waterproof
 wear and tear
 weather forecast
 weatherstripping
+weekend service
 weigh
 weight room
 well done
