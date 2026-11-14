@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-14-canadian-daily-life",
+  "title": "加拿大日常生活：实时到站、临时改线与区域通勤",
+  "publishedOn": "2026-11-14",
+  "entries": [
+    {
+      "id": "transit-peak-period",
+      "term": "peak period",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交通高峰时段",
+      "explanationZh": "通勤客流最多、车辆和道路最繁忙的一段时间，通常是工作日早晚。公共交通可能在这时增加班次，部分票价或停车规则也可能不同。",
+      "examples": [
+        {
+          "en": "Trains run more frequently during the morning peak period.",
+          "zh": "早高峰期间列车班次更频繁。",
+          "scenarioZh": "查看工作日通勤时刻表说明"
+        }
+      ],
+      "usageNotesZh": [
+        "during peak periods 表示在高峰时段；peak service 表示高峰期服务。",
+        "peak period 比 rush hour 更正式，而且实际可能持续不止一小时。"
+      ],
+      "tags": ["public-transit", "commuting", "schedules"]
+    },
+    {
+      "id": "transit-peak-hours",
+      "term": "peak hours",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "高峰时间；繁忙时段",
+      "explanationZh": "一天中乘客最多、服务需求最高的几个小时，常指工作日上下班时间。站台、车辆和换乘通道通常会比平时拥挤。",
+      "examples": [
+        {
+          "en": "The subway is usually crowded during peak hours.",
+          "zh": "地铁在高峰时间通常很拥挤。",
+          "scenarioZh": "向新同事介绍通勤客流情况"
+        }
+      ],
+      "usageNotesZh": [
+        "during peak hours 是最常见搭配。",
+        "peak hours 也可用于商店、电力和网络等繁忙时段，要结合上下文。"
+      ],
+      "tags": ["public-transit", "commuting", "crowding"]
+    },
+    {
+      "id": "transit-commuter-train",
+      "term": "commuter train",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "通勤列车；市郊列车",
+      "explanationZh": "连接市中心与郊区或周边城市、主要服务日常上下班乘客的列车。它通常站距比地铁长，并按照固定时刻表运行。",
+      "examples": [
+        {
+          "en": "I take a commuter train from the suburbs to downtown every morning.",
+          "zh": "我每天早上从郊区乘通勤列车去市中心。",
+          "scenarioZh": "说明跨城市上班的通勤方式"
+        }
+      ],
+      "usageNotesZh": [
+        "commuter rail 指通勤铁路系统；commuter train 指具体列车。",
+        "这类列车与地铁的票制、班次和停靠站可能不同。"
+      ],
+      "tags": ["public-transit", "regional-travel", "commuting"]
+    },
+    {
+      "id": "transit-regional-transit",
+      "term": "regional transit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "区域公共交通；跨城市交通系统",
+      "explanationZh": "连接多个城市、郊区或较大区域的公共交通服务，可能包括通勤列车和区域巴士。它常与只在单个城市内运行的 local transit 相区别。",
+      "examples": [
+        {
+          "en": "The regional transit fare is separate from the local bus fare.",
+          "zh": "区域公共交通票价与本地公交票价分开计算。",
+          "scenarioZh": "规划从多伦多前往周边城市的行程"
+        }
+      ],
+      "usageNotesZh": [
+        "regional transit system 表示区域公共交通系统。",
+        "换乘优惠是否适用要查看具体运营机构和当时政策。"
+      ],
+      "tags": ["public-transit", "regional-travel", "fares"]
+    },
+    {
+      "id": "transit-light-rail",
+      "term": "light rail",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "轻轨；轻型铁路交通",
+      "explanationZh": "使用轨道车辆、运量和车辆规模通常介于有轨电车与重型地铁之间的公共交通。线路可能在地面、专用路权或地下运行。",
+      "examples": [
+        {
+          "en": "The new light rail line connects several neighbourhoods to the subway.",
+          "zh": "新的轻轨线路把多个社区连接到地铁。",
+          "scenarioZh": "了解新开通的城市交通线路"
+        }
+      ],
+      "usageNotesZh": [
+        "light rail transit 常缩写为 LRT。",
+        "light rail 描述交通类型，不代表列车一定只在地面行驶。"
+      ],
+      "tags": ["public-transit", "rail", "city-travel"]
+    },
+    {
+      "id": "transit-streetcar-stop",
+      "term": "streetcar stop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "有轨电车站；街车停靠点",
+      "explanationZh": "有轨电车上下乘客的位置，可能设在路边、安全岛或与普通公交共用的站牌处。部分站点没有独立站台，上下车时要特别注意道路交通。",
+      "examples": [
+        {
+          "en": "The streetcar stop is on the far side of the intersection.",
+          "zh": "有轨电车站在路口另一侧。",
+          "scenarioZh": "在多伦多市中心寻找乘车位置"
+        }
+      ],
+      "usageNotesZh": [
+        "at the streetcar stop 表示在有轨电车站。",
+        "far-side stop 指过路口后的站点，near-side stop 指路口前的站点。"
+      ],
+      "tags": ["public-transit", "streetcar", "stops"]
+    },
+    {
+      "id": "transit-route-map",
+      "term": "route map",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "线路图；单条路线地图",
+      "explanationZh": "显示某一条公交、地铁或列车线路经过哪些道路、站点和换乘位置的地图。它比整个交通网络图更聚焦于一条具体路线。",
+      "examples": [
+        {
+          "en": "Check the route map to see whether the bus stops near the clinic.",
+          "zh": "查看线路图，看看这班公交是否在诊所附近停靠。",
+          "scenarioZh": "出发前确认公交站点位置"
+        }
+      ],
+      "usageNotesZh": [
+        "bus route map、subway route map 都是常见搭配。",
+        "线路图未必显示实时车辆位置，应另外查看到站信息。"
+      ],
+      "tags": ["public-transit", "navigation", "maps"]
+    },
+    {
+      "id": "transit-system-map",
+      "term": "system map",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交通系统总图；全网线路图",
+      "explanationZh": "展示一个公共交通网络中多条线路、主要车站和换乘关系的地图，适合规划跨线路行程。细小站点或临时改线可能不会完整标出。",
+      "examples": [
+        {
+          "en": "The system map shows where the subway and commuter train connect.",
+          "zh": "交通系统总图显示了地铁与通勤列车在哪里换乘。",
+          "scenarioZh": "规划跨系统的周末出行"
+        }
+      ],
+      "usageNotesZh": [
+        "transit system map 表示公共交通全网图。",
+        "system map 侧重整体网络，route map 侧重单条线路。"
+      ],
+      "tags": ["public-transit", "navigation", "maps"]
+    },
+    {
+      "id": "transit-real-time-arrival",
+      "term": "real-time arrival",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "实时到站信息；预计实际到达时间",
+      "explanationZh": "根据车辆当前位置和运行状况更新的预计到站信息，比静态时刻表更能反映延误。但信号或数据中断时也可能不准确。",
+      "examples": [
+        {
+          "en": "The app shows a real-time arrival in six minutes.",
+          "zh": "应用显示车辆预计六分钟后实时到站。",
+          "scenarioZh": "在公交站查看下一班车"
+        }
+      ],
+      "usageNotesZh": [
+        "real-time arrival information 表示实时到站信息。",
+        "实时预测会变化，赶重要行程时应预留余量。"
+      ],
+      "tags": ["public-transit", "real-time-information", "schedules"]
+    },
+    {
+      "id": "transit-scheduled-arrival",
+      "term": "scheduled arrival",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "计划到达时间；时刻表到站时间",
+      "explanationZh": "运营时刻表原先安排的到站时间，不一定等于车辆当天的实际到达时间。查看延误时常把它与 estimated arrival 对照。",
+      "examples": [
+        {
+          "en": "The scheduled arrival is 9:10, but the train is running late.",
+          "zh": "计划到达时间是 9:10，但列车晚点了。",
+          "scenarioZh": "在车站比较时刻表与实际运行状态"
+        }
+      ],
+      "usageNotesZh": [
+        "scheduled departure 是计划发车时间。",
+        "scheduled 强调原定安排；estimated 强调根据当前情况预测。"
+      ],
+      "tags": ["public-transit", "schedules", "arrivals"]
+    },
+    {
+      "id": "transit-on-time",
+      "term": "on time",
+      "partsOfSpeech": ["adverb", "phrase"],
+      "definitionZh": "准时；按时",
+      "explanationZh": "表示车辆按照预定时间到达或出发，没有明显延误。也可用于人按约定时间到达，是非常常见的日常表达。",
+      "examples": [
+        {
+          "en": "The train left on time despite the snow.",
+          "zh": "尽管下雪，列车还是准时出发了。",
+          "scenarioZh": "查看冬季通勤列车运行情况"
+        }
+      ],
+      "usageNotesZh": [
+        "arrive、leave 或 run on time 都很常见。",
+        "on time 表示不迟到；in time 表示来得及做某事。"
+      ],
+      "tags": ["public-transit", "schedules", "daily-expressions"]
+    },
+    {
+      "id": "transit-behind-schedule",
+      "term": "behind schedule",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "晚于计划；进度落后",
+      "explanationZh": "表示车辆或服务比原定时刻晚，也可泛指工作进度落后。交通广播中可能用来说明列车或公交正在延误。",
+      "examples": [
+        {
+          "en": "The bus is running about ten minutes behind schedule.",
+          "zh": "这班公交目前比计划晚大约十分钟。",
+          "scenarioZh": "实时到站应用显示车辆延误"
+        }
+      ],
+      "usageNotesZh": [
+        "run behind schedule 表示运行晚点。",
+        "ahead of schedule 表示早于计划，on schedule 表示按计划进行。"
+      ],
+      "tags": ["public-transit", "delays", "schedules"]
+    },
+    {
+      "id": "transit-cancelled",
+      "term": "cancelled",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "已取消的",
+      "explanationZh": "表示原定的公交、列车、航班或活动不再运行或举行。加拿大英语常见双写 l 的 cancelled，美国英语也常写 canceled。",
+      "examples": [
+        {
+          "en": "The 8:30 train has been cancelled because of a mechanical issue.",
+          "zh": "8:30 的列车因机械故障已被取消。",
+          "scenarioZh": "在车站电子屏查看班次状态"
+        }
+      ],
+      "usageNotesZh": [
+        "be cancelled 或 get cancelled 都表示被取消。",
+        "取消与延误不同；应查看是否有下一班车或替代交通。"
+      ],
+      "tags": ["public-transit", "service-changes", "delays"]
+    },
+    {
+      "id": "transit-route-diversion",
+      "term": "route diversion",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "临时改线；路线绕行",
+      "explanationZh": "由于道路施工、事故或活动，公交或有轨电车暂时离开正常路线，改走其他道路。改线期间部分原站点可能暂停使用。",
+      "examples": [
+        {
+          "en": "There is a route diversion around the construction site this weekend.",
+          "zh": "本周末线路会绕开施工区域临时改道。",
+          "scenarioZh": "查看周末公交服务公告"
+        }
+      ],
+      "usageNotesZh": [
+        "be on diversion 表示车辆正在临时改线。",
+        "北美通知中也常直接使用 detour；应查看临时站点地图。"
+      ],
+      "tags": ["public-transit", "service-changes", "roadwork"]
+    },
+    {
+      "id": "transit-short-turn",
+      "term": "short turn",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "中途折返；提前终止本趟行程",
+      "explanationZh": "车辆没有开到原定终点，而是在中途掉头返回，用来调整班次间隔或应对前方中断。乘客通常需要下车并换乘后续车辆。",
+      "examples": [
+        {
+          "en": "This streetcar will short turn at the next major intersection.",
+          "zh": "这辆有轨电车将在下一个主要路口中途折返。",
+          "scenarioZh": "车内广播通知行程提前结束"
+        }
+      ],
+      "usageNotesZh": [
+        "作名词可说 a short turn；作动词可说 the bus will short turn。",
+        "听到通知后应确认在哪里下车以及如何继续前往目的地。"
+      ],
+      "tags": ["public-transit", "service-changes", "streetcar"]
+    },
+    {
+      "id": "transit-temporary-stop",
+      "term": "temporary stop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "临时停靠站",
+      "explanationZh": "在施工、活动或改线期间暂时设置的上下车地点，用来替代正常站点。位置可能只用便携站牌或公告标出。",
+      "examples": [
+        {
+          "en": "The temporary stop is one block east of the regular bus stop.",
+          "zh": "临时站位于正常公交站以东一个街区。",
+          "scenarioZh": "施工期间寻找替代上车点"
+        }
+      ],
+      "usageNotesZh": [
+        "use、move to 或 board at the temporary stop 都是常见表达。",
+        "临时站可能不具备原站全部无障碍设施，出行前应查看公告。"
+      ],
+      "tags": ["public-transit", "stops", "service-changes"]
+    },
+    {
+      "id": "transit-stop-closure",
+      "term": "stop closure",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "站点关闭；停靠点暂停使用",
+      "explanationZh": "公交站、车站入口或整个站点因施工、安全或运营原因暂时不能使用。公告通常会说明关闭时间和最近的替代站点。",
+      "examples": [
+        {
+          "en": "A stop closure is in effect until the roadwork is finished.",
+          "zh": "该站点将在道路施工完成前暂停使用。",
+          "scenarioZh": "查看公交站牌上的施工通知"
+        }
+      ],
+      "usageNotesZh": [
+        "temporary stop closure 表示临时关闭站点。",
+        "station closure 通常指较大的车站关闭，stop closure 常指单个停靠点。"
+      ],
+      "tags": ["public-transit", "stops", "service-changes"]
+    },
+    {
+      "id": "transit-replacement-stop",
+      "term": "replacement stop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "替代站点；临时替换停靠点",
+      "explanationZh": "正常站点关闭或线路改道时供乘客使用的其他停靠位置，可能在附近街道或另一侧路口。公告中常配有方向和步行距离。",
+      "examples": [
+        {
+          "en": "Follow the signs to the replacement stop on King Street.",
+          "zh": "请跟随指示牌前往国王街上的替代站点。",
+          "scenarioZh": "原有轨电车站因施工暂停使用"
+        }
+      ],
+      "usageNotesZh": [
+        "nearest replacement stop 表示最近的替代站点。",
+        "replacement stop 与 replacement bus 不同，前者是地点，后者是替代车辆。"
+      ],
+      "tags": ["public-transit", "stops", "service-changes"]
+    },
+    {
+      "id": "transit-platform-change",
+      "term": "platform change",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "站台变更",
+      "explanationZh": "列车改到与原计划不同的站台到发。车站可能通过电子屏、广播和应用通知，乘客需要尽快确认新站台和方向。",
+      "examples": [
+        {
+          "en": "There has been a platform change for the westbound train.",
+          "zh": "西行列车的站台已经变更。",
+          "scenarioZh": "候车时听到车站广播"
+        }
+      ],
+      "usageNotesZh": [
+        "announce a platform change 表示宣布站台变更。",
+        "赶往新站台时要留意楼梯、电梯位置和列车方向。"
+      ],
+      "tags": ["public-transit", "stations", "service-changes"]
+    },
+    {
+      "id": "transit-miss-a-connection",
+      "term": "miss a connection",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "错过接驳班次；没赶上换乘",
+      "explanationZh": "因为前一段延误、步行时间不足或走错站台，没有赶上原计划换乘的下一班公交或列车。跨区域通勤时尤其常见。",
+      "examples": [
+        {
+          "en": "If this bus is any later, I'll miss my train connection.",
+          "zh": "这班公交要是再晚一点，我就会错过换乘的列车。",
+          "scenarioZh": "通勤途中担心赶不上下一段行程"
+        }
+      ],
+      "usageNotesZh": [
+        "miss a bus、train 或 flight connection 都可以。",
+        "make a connection 表示成功赶上换乘，a tight connection 表示换乘时间很紧。"
+      ],
+      "tags": ["public-transit", "transfers", "delays"]
+    },
+    {
+      "id": "transit-catch-the-bus",
+      "term": "catch the bus",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "赶上公交；乘坐公交",
+      "explanationZh": "既可以表示及时赶上某一班公交，也可以泛指去乘公交车。是否强调“赶”要结合具体上下文。",
+      "examples": [
+        {
+          "en": "We need to leave now to catch the last bus home.",
+          "zh": "我们现在得走了，才能赶上回家的末班公交。",
+          "scenarioZh": "晚上活动结束后安排返程"
+        }
+      ],
+      "usageNotesZh": [
+        "catch a bus 比 take a bus 更可能强调赶上某一班车。",
+        "miss the bus 表示没赶上公交，也可比喻错过机会。"
+      ],
+      "tags": ["public-transit", "buses", "daily-expressions"]
+    },
+    {
+      "id": "transit-transfer-point",
+      "term": "transfer point",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "换乘点；转车地点",
+      "explanationZh": "乘客从一条线路或一种交通方式换到另一条线路或方式的地点，可以是车站、公交枢纽或两个相邻站点。",
+      "examples": [
+        {
+          "en": "This terminal is the main transfer point for buses heading north.",
+          "zh": "这个总站是北行公交的主要换乘点。",
+          "scenarioZh": "查看区域公交网络说明"
+        }
+      ],
+      "usageNotesZh": [
+        "major transfer point 表示主要换乘点。",
+        "有些换乘需要步行出站，规划时应查看是否要重新付费或重新刷卡。"
+      ],
+      "tags": ["public-transit", "transfers", "stations"]
+    },
+    {
+      "id": "transit-frequency",
+      "term": "frequency",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "班次频率；发车频密程度",
+      "explanationZh": "车辆在一段时间内运行得多频繁，例如每十分钟一班。高频服务通常意味着等车时间较短，但实际运行仍会受交通和故障影响。",
+      "examples": [
+        {
+          "en": "Service frequency drops to every thirty minutes after 10 p.m.",
+          "zh": "晚上十点后，班次频率降为每三十分钟一班。",
+          "scenarioZh": "查看夜间公交服务安排"
+        }
+      ],
+      "usageNotesZh": [
+        "increase 或 reduce service frequency 表示增加或降低班次频率。",
+        "frequency 关注发车频密程度；timetable 列出具体时间。"
+      ],
+      "tags": ["public-transit", "schedules", "service-levels"]
+    },
+    {
+      "id": "transit-weekend-service",
+      "term": "weekend service",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "周末公共交通服务",
+      "explanationZh": "周六、周日运行的公交或列车安排，班次、首末车时间和停靠站可能与工作日不同。施工也经常安排在周末，出发前值得检查。",
+      "examples": [
+        {
+          "en": "Weekend service is less frequent on this route.",
+          "zh": "这条线路周末的班次比较少。",
+          "scenarioZh": "计划周日早晨出行"
+        }
+      ],
+      "usageNotesZh": [
+        "weekend service changes 表示周末服务调整。",
+        "不要默认工作日时刻表适用于周末或法定节假日。"
+      ],
+      "tags": ["public-transit", "weekends", "schedules"]
+    },
+    {
+      "id": "transit-park-and-ride",
+      "term": "park and ride",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "停车换乘；停车后转乘公交的设施",
+      "explanationZh": "把汽车停在车站或交通枢纽附近的停车场，再换乘公交或列车进入市区的出行方式和设施。标志上常写作 Park & Ride。",
+      "examples": [
+        {
+          "en": "We left the car at the park and ride and took the train downtown.",
+          "zh": "我们把车停在停车换乘场，然后坐火车进了市中心。",
+          "scenarioZh": "周末从郊区前往市中心活动"
+        }
+      ],
+      "usageNotesZh": [
+        "park-and-ride lot 中作定语时常加连字符。",
+        "使用前应确认停车费用、开放时间和是否允许过夜停车。"
+      ],
+      "tags": ["public-transit", "parking", "commuting"]
+    }
+  ]
+}
