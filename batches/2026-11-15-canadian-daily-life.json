@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-15-canadian-daily-life",
+  "title": "加拿大日常生活：求职申请与面试沟通",
+  "publishedOn": "2026-11-15",
+  "entries": [
+    {
+      "id": "jobsearch-job-opening",
+      "term": "job opening",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "职位空缺；招聘岗位",
+      "explanationZh": "公司目前需要招聘人员填补的岗位。招聘网站、公司官网和熟人推荐中都很常见，既可指一个具体职位，也可泛指现有的招聘机会。",
+      "examples": [{"en": "I saw a job opening for a research engineer in Toronto.", "zh": "我看到多伦多有一个研究工程师的职位空缺。", "scenarioZh": "在招聘网站上寻找合适岗位"}],
+      "usageNotesZh": ["常见搭配：a job opening at a company、apply for an opening。", "opening 在求职语境中就是空缺职位，不是开业或开场。"],
+      "tags": ["work", "job-search", "applications"]
+    },
+    {
+      "id": "jobsearch-apply-for-a-job",
+      "term": "apply for a job",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "申请工作；应聘职位",
+      "explanationZh": "向雇主提交简历、申请表或其他材料，正式争取某个工作机会。加拿大招聘通常通过公司网站或招聘平台在线申请。",
+      "examples": [{"en": "She applied for a job at a local community centre.", "zh": "她申请了当地社区中心的一份工作。", "scenarioZh": "向朋友说明最近的求职进展"}],
+      "usageNotesZh": ["apply for 后接职位；apply to 后通常接公司或机构。", "已提交申请可说 I applied for the position yesterday。"],
+      "tags": ["work", "job-search", "applications"]
+    },
+    {
+      "id": "jobsearch-references",
+      "term": "references",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "推荐人；工作证明联系人",
+      "explanationZh": "愿意向潜在雇主说明你的工作表现、能力或品行的人，常见人选包括前主管、教授或合作过的同事。招聘后期雇主可能联系他们核实信息。",
+      "examples": [{"en": "The employer asked me to provide two professional references.", "zh": "雇主要求我提供两位职业推荐人。", "scenarioZh": "面试后按要求补交推荐人信息"}],
+      "usageNotesZh": ["professional references 指职业推荐人，personal references 指个人品行推荐人。", "提供前应先征得对方同意，并确认其姓名、职位、邮箱和电话。"],
+      "tags": ["work", "job-search", "references"]
+    },
+    {
+      "id": "jobsearch-recruiter",
+      "term": "recruiter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "招聘人员；招聘顾问",
+      "explanationZh": "负责寻找候选人、初步沟通和协调招聘流程的人，可能是公司内部员工，也可能来自外部猎头或招聘机构。",
+      "examples": [{"en": "A recruiter contacted me about a machine learning position.", "zh": "一位招聘人员联系我，询问我是否考虑一个机器学习岗位。", "scenarioZh": "收到招聘人员在求职平台发来的消息"}],
+      "usageNotesZh": ["in-house recruiter 指公司内部招聘人员，agency recruiter 指招聘机构顾问。", "回复时可先确认公司、岗位、工作地点和薪资范围。"],
+      "tags": ["work", "job-search", "hiring"]
+    },
+    {
+      "id": "jobsearch-phone-screening",
+      "term": "phone screening",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电话初筛；电话预面试",
+      "explanationZh": "正式面试前由招聘人员进行的简短电话沟通，用来确认基本经历、求职动机、工作资格、薪资预期和到岗时间。",
+      "examples": [{"en": "My phone screening is scheduled for Tuesday afternoon.", "zh": "我的电话初筛安排在周二下午。", "scenarioZh": "确认招聘流程的第一轮沟通时间"}],
+      "usageNotesZh": ["也常说 recruiter screening 或 screening call。", "通常比正式面试短，但仍应提前了解岗位并准备简洁自我介绍。"],
+      "tags": ["work", "interviews", "hiring"]
+    },
+    {
+      "id": "jobsearch-job-interview",
+      "term": "job interview",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "求职面试",
+      "explanationZh": "雇主与候选人围绕工作经历、能力和岗位匹配度进行的正式交流，可以在线、电话或现场进行，也可能包含多轮。",
+      "examples": [{"en": "I have a job interview with a software company tomorrow morning.", "zh": "我明天上午要参加一家软件公司的求职面试。", "scenarioZh": "告诉室友第二天需要安静准备面试"}],
+      "usageNotesZh": ["have、attend 或 prepare for a job interview 都很常见。", "面试地点不明时可确认 whether it is virtual or in person。"],
+      "tags": ["work", "interviews", "job-search"]
+    },
+    {
+      "id": "jobsearch-interview-panel",
+      "term": "interview panel",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "面试小组；面试官团队",
+      "explanationZh": "由两名或更多面试官组成、共同提问和评估候选人的小组，成员可能来自招聘、人事、直属团队和其他合作部门。",
+      "examples": [{"en": "The interview panel included the team lead and two engineers.", "zh": "面试小组包括团队负责人和两名工程师。", "scenarioZh": "了解下一轮面试会有哪些人参加"}],
+      "usageNotesZh": ["panel interview 指由多位面试官同时参加的小组面试。", "回答时可先看向提问者，再自然地与其他成员保持目光交流。"],
+      "tags": ["work", "interviews", "hiring"]
+    },
+    {
+      "id": "jobsearch-qualifications",
+      "term": "qualifications",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "任职资格；资历条件",
+      "explanationZh": "岗位要求或候选人具备的教育背景、技能、证书和经验。招聘信息常把必要条件和优先条件分开列出。",
+      "examples": [{"en": "The posting lists Python experience as one of the required qualifications.", "zh": "招聘信息把 Python 经验列为必备任职资格之一。", "scenarioZh": "判断自己是否适合申请某个岗位"}],
+      "usageNotesZh": ["required qualifications 是必备条件，preferred qualifications 是优先条件。", "没有满足每一项优先条件也可以申请，重点说明相关能力。"],
+      "tags": ["work", "job-search", "skills"]
+    },
+    {
+      "id": "jobsearch-relevant-experience",
+      "term": "relevant experience",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "相关经验",
+      "explanationZh": "与所申请岗位的职责、行业或技能直接有关的工作、实习、研究、志愿服务或项目经历。雇主关注的是经验与岗位的联系，不只是年限。",
+      "examples": [{"en": "My internship gave me relevant experience in computer vision.", "zh": "我的实习让我积累了计算机视觉方面的相关经验。", "scenarioZh": "在面试中说明自己的经历为何匹配岗位"}],
+      "usageNotesZh": ["years of relevant experience 表示相关经验年限。", "没有完全相同的职位经历时，可以用项目成果说明技能的相关性。"],
+      "tags": ["work", "job-search", "experience"]
+    },
+    {
+      "id": "jobsearch-transferable-skills",
+      "term": "transferable skills",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可迁移技能；通用能力",
+      "explanationZh": "可以从一个岗位、行业或学习经历带到另一个岗位使用的能力，例如沟通、项目管理、数据分析、解决问题和团队协作。",
+      "examples": [{"en": "Project management and communication are transferable skills.", "zh": "项目管理和沟通都是可迁移技能。", "scenarioZh": "转行时向面试官解释已有能力的价值"}],
+      "usageNotesZh": ["highlight transferable skills 表示突出可迁移技能。", "最好搭配具体例子，说明技能如何在新岗位产生作用。"],
+      "tags": ["work", "job-search", "skills"]
+    },
+    {
+      "id": "jobsearch-salary-range",
+      "term": "salary range",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "薪资范围；工资区间",
+      "explanationZh": "雇主为某个岗位预计支付的最低到最高薪资。加拿大招聘信息可能写年薪、时薪或总薪酬范围，并注明是否包含奖金。",
+      "examples": [{"en": "Could you share the salary range for this position?", "zh": "你可以告知这个职位的薪资范围吗？", "scenarioZh": "与招聘人员进行初步沟通"}],
+      "usageNotesZh": ["常见搭配：a salary range of $X to $Y、within the posted range。", "比较时应确认是 base salary 还是包含奖金和股权的 total compensation。"],
+      "tags": ["work", "compensation", "job-search"]
+    },
+    {
+      "id": "jobsearch-salary-expectations",
+      "term": "salary expectations",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "薪资期望",
+      "explanationZh": "候选人希望获得的工资或总薪酬水平，招聘人员常在申请表或初筛中询问，以确认双方预算是否接近。",
+      "examples": [{"en": "The recruiter asked about my salary expectations during the first call.", "zh": "招聘人员在第一次通话时询问了我的薪资期望。", "scenarioZh": "电话初筛中讨论薪酬"}],
+      "usageNotesZh": ["询问对方预算可说 What range has been budgeted for the role?", "回答前应了解市场水平，并说明期望是否针对基本工资或总薪酬。"],
+      "tags": ["work", "compensation", "interviews"]
+    },
+    {
+      "id": "jobsearch-full-time-position",
+      "term": "full-time position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "全职职位",
+      "explanationZh": "按照雇主规定的完整工作时数安排的岗位，通常比兼职工时更多，并可能附带医疗、休假或退休储蓄等福利。具体工时和福利以合同为准。",
+      "examples": [{"en": "I'm looking for a full-time position after graduation.", "zh": "我毕业后想找一份全职工作。", "scenarioZh": "向学校职业顾问说明求职目标"}],
+      "usageNotesZh": ["full-time 作定语时带连字符。", "全职并不自动代表 permanent，应分别确认合同期限和福利。"],
+      "tags": ["work", "employment-types", "job-search"]
+    },
+    {
+      "id": "jobsearch-part-time-position",
+      "term": "part-time position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "兼职职位",
+      "explanationZh": "每周工作时数少于单位标准全职工时的岗位，排班可能固定，也可能随业务需求变化。学生、兼顾家庭的人和希望增加经验的人常会申请。",
+      "examples": [{"en": "The library is hiring for a part-time position on weekends.", "zh": "图书馆正在招聘一个周末兼职职位。", "scenarioZh": "寻找适合课余时间的工作"}],
+      "usageNotesZh": ["part-time 作定语时带连字符。", "申请前应确认每周小时数、排班时间以及是否需要节假日工作。"],
+      "tags": ["work", "employment-types", "schedules"]
+    },
+    {
+      "id": "jobsearch-contract-position",
+      "term": "contract position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "合同制职位；定期岗位",
+      "explanationZh": "按特定期限或项目聘用的岗位，可能持续数月或一年。合同工的福利、休假、税务处理和续约安排可能与长期员工不同。",
+      "examples": [{"en": "This is a twelve-month contract position with a possible extension.", "zh": "这是一个为期十二个月、可能延长的合同制职位。", "scenarioZh": "阅读招聘信息中的聘用期限"}],
+      "usageNotesZh": ["fixed-term contract position 强调有明确结束日期。", "签约前应确认雇员还是独立承包人身份，两者的税务和福利不同。"],
+      "tags": ["work", "employment-types", "contracts"]
+    },
+    {
+      "id": "jobsearch-entry-level-position",
+      "term": "entry-level position",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "入门级职位；初级岗位",
+      "explanationZh": "面向职业经验较少者的岗位，常适合应届毕业生或转入新行业的人。它仍可能要求实习、课程项目或基础专业技能。",
+      "examples": [{"en": "The company offers several entry-level positions for new graduates.", "zh": "这家公司为应届毕业生提供了多个入门级职位。", "scenarioZh": "在校园招聘会上了解初级岗位"}],
+      "usageNotesZh": ["entry-level 作定语时通常带连字符。", "不要只看职位名称，也要阅读职责和经验要求。"],
+      "tags": ["work", "job-search", "early-career"]
+    },
+    {
+      "id": "jobsearch-background-check",
+      "term": "background check",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "背景调查",
+      "explanationZh": "雇主在录用前核实候选人的身份、教育、就业经历或其他与岗位相关信息的过程。检查范围取决于岗位和候选人的同意。",
+      "examples": [{"en": "The offer is conditional on a successful background check.", "zh": "这份录用通知以顺利通过背景调查为条件。", "scenarioZh": "阅读有条件录用通知中的条款"}],
+      "usageNotesZh": ["conduct 或 complete a background check 都很常见。", "收到授权表时应阅读检查范围，并按要求准确填写姓名和经历。"],
+      "tags": ["work", "hiring", "verification"]
+    },
+    {
+      "id": "jobsearch-criminal-record-check",
+      "term": "criminal record check",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "犯罪记录核查；无犯罪记录检查",
+      "explanationZh": "由警方或获授权机构查询个人犯罪记录的正式检查。一些涉及儿童、弱势群体、安保或特定信任职责的加拿大岗位可能要求办理。",
+      "examples": [{"en": "The daycare requires a criminal record check before the first day of work.", "zh": "这家日托中心要求员工上班前完成犯罪记录核查。", "scenarioZh": "接受涉及儿童照护的工作"}],
+      "usageNotesZh": ["它只是 background check 的一种，不代表所有工作都会要求。", "若岗位要求 vulnerable sector check，应按雇主说明申请正确类型。"],
+      "tags": ["work", "hiring", "verification"]
+    },
+    {
+      "id": "jobsearch-work-sample",
+      "term": "work sample",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "工作样本；作品示例",
+      "explanationZh": "用来展示候选人实际能力的成品或任务，例如文章、设计、代码、分析报告或演示文稿。应避免提交前雇主的机密内容。",
+      "examples": [{"en": "Please attach a work sample that demonstrates your writing skills.", "zh": "请附上一份能够展示你写作能力的工作样本。", "scenarioZh": "按照申请要求补充证明材料"}],
+      "usageNotesZh": ["writing sample、code sample 和 design sample 都是更具体的说法。", "提交前可删去客户姓名、内部数据和其他无权披露的信息。"],
+      "tags": ["work", "applications", "skills"]
+    },
+    {
+      "id": "jobsearch-portfolio",
+      "term": "portfolio",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "作品集；项目成果集",
+      "explanationZh": "集中展示个人代表性作品、项目和成果的材料，可以是网站、PDF 或实体文件。设计、写作、软件和研究类求职中都可能使用。",
+      "examples": [{"en": "I included a link to my portfolio in the application.", "zh": "我在申请材料中附上了作品集链接。", "scenarioZh": "在线提交创意或技术岗位申请"}],
+      "usageNotesZh": ["online portfolio 指在线作品集，portfolio link 指作品集链接。", "选择与目标岗位最相关的作品，并简要说明自己的具体贡献。"],
+      "tags": ["work", "applications", "portfolio"]
+    },
+    {
+      "id": "jobsearch-availability",
+      "term": "availability",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可工作时间；有空时段",
+      "explanationZh": "在求职和排班中指你能够面试、开始工作或承担班次的日期与时段。零售、餐饮和兼职申请表经常要求填写。",
+      "examples": [{"en": "Please indicate your availability for evenings and weekends.", "zh": "请注明你在晚上和周末可以工作的时间。", "scenarioZh": "填写兼职岗位申请表"}],
+      "usageNotesZh": ["open availability 表示时间安排较灵活，通常多数时段都能上班。", "填写时要如实说明课程、照护责任或其他固定冲突。"],
+      "tags": ["work", "schedules", "applications"]
+    },
+    {
+      "id": "jobsearch-available-to-start",
+      "term": "available to start",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "可以开始上班；可到岗",
+      "explanationZh": "用来说明候选人最早能够开始工作的日期，通常需要考虑现职通知期、搬家、学业或工作许可等安排。",
+      "examples": [{"en": "I would be available to start on December 1.", "zh": "我可以从 12 月 1 日开始上班。", "scenarioZh": "面试结束前确认最早到岗日期"}],
+      "usageNotesZh": ["available to start immediately 表示可以立即到岗。", "若日期可协商，可补充 but I can be flexible。"],
+      "tags": ["work", "hiring", "start-date"]
+    },
+    {
+      "id": "jobsearch-shortlist",
+      "term": "shortlist",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "候选名单；列入候选名单",
+      "explanationZh": "从全部申请者中筛选出的少数较合适候选人名单，也可作动词表示把某人选入下一阶段。进入候选名单通常意味着会安排面试或进一步评估。",
+      "examples": [{"en": "Only shortlisted candidates will be contacted for an interview.", "zh": "只有入选候选名单的人会收到面试联系。", "scenarioZh": "阅读招聘信息中的后续通知说明"}],
+      "usageNotesZh": ["be shortlisted for a position 表示入选某职位的候选名单。", "没有收到联系不一定马上代表拒绝，招聘流程可能需要数周。"],
+      "tags": ["work", "hiring", "applications"]
+    },
+    {
+      "id": "jobsearch-second-interview",
+      "term": "second interview",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "第二轮面试；复试",
+      "explanationZh": "通过初步面试后进行的下一轮评估，通常会更深入讨论技术能力、团队合作和岗位细节，也可能让未来主管或更多团队成员参加。",
+      "examples": [{"en": "They invited me back for a second interview next week.", "zh": "他们邀请我下周参加第二轮面试。", "scenarioZh": "收到招聘团队的复试邀请"}],
+      "usageNotesZh": ["be invited to a second interview 表示受邀参加复试。", "新一轮可能重复部分问题，应保持回答一致并准备更具体的例子。"],
+      "tags": ["work", "interviews", "hiring"]
+    },
+    {
+      "id": "jobsearch-thank-you-email",
+      "term": "thank-you email",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "感谢邮件；面试后致谢邮件",
+      "explanationZh": "面试后发给面试官或招聘人员的简短邮件，用来感谢对方的时间、重申对岗位的兴趣，并补充必要信息。它应简洁、具体且礼貌。",
+      "examples": [{"en": "I sent a thank-you email to the interview panel the next morning.", "zh": "第二天早上，我给面试小组发了一封感谢邮件。", "scenarioZh": "完成面试后礼貌跟进"}],
+      "usageNotesZh": ["thank-you 作定语时通常带连字符。", "可提到面试中的一个具体话题，但不要频繁催问结果。"],
+      "tags": ["work", "interviews", "email"]
+    }
+  ]
+}
