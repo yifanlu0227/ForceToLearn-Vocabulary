@@ -191,6 +191,7 @@ carpool lane
 carsick
 cart corral
 carton
+caseworker
 cash advance
 cash back
 cash deposit
@@ -233,6 +234,7 @@ clock out
 clog
 closed captioning
 clothespin
+clothing drive
 co-insurance
 co-pay
 co-signer
@@ -249,6 +251,7 @@ comforter
 committee
 common area
 community centre
+community event
 community garden
 commute
 commuter train
@@ -368,6 +371,9 @@ dispute a charge
 dissertation
 dive bar
 doctor's note
+donate
+donation bin
+donation drive
 doors open
 doorstop
 dosage
@@ -391,6 +397,7 @@ drop cloth
 drop off
 drop the ball
 drop-in
+drop-in centre
 drop-in fee
 drowsy
 dry air
@@ -419,8 +426,10 @@ elevator access
 elevator booking
 elevator outage
 eligibility
+eligibility assessment
 elliptical
 emergency kit
+emergency shelter
 employee badge
 employment contract
 en-suite laundry
@@ -605,6 +614,7 @@ headliner
 heads-up
 health card
 heartburn
+helpline
 hem
 high beams
 hinge
@@ -651,6 +661,7 @@ inseam
 institution number
 insufficient funds
 insulated
+intake appointment
 intake form
 intercom
 interest
@@ -725,6 +736,7 @@ loading zone
 loaf
 loan period
 local bus
+local charity
 locker
 locker room
 long shot
@@ -749,6 +761,7 @@ mash
 matinee
 mattress topper
 may contain
+meal program
 measuring cup
 meat counter
 median
@@ -792,6 +805,7 @@ my bad
 my two cents
 nasal spray
 neat
+neighbourhood association
 newcomer services
 next stop
 nightcap
@@ -802,6 +816,7 @@ no-show
 noise complaint
 non-perishables
 non-stick
+nonprofit organization
 northbound
 notarize
 notary public
@@ -851,6 +866,7 @@ out of office
 out of stock
 out-of-pocket
 outlet
+outreach program
 outstanding balance
 oven mitt
 over easy
@@ -1047,6 +1063,7 @@ rent arrears
 rent control
 rent increase
 rent receipt
+rent-geared-to-income
 rental application
 rental history
 rental listing
@@ -1201,6 +1218,7 @@ side effects
 sidewalk
 sidewalk clearing
 sift
+sign up
 simmer
 SIN
 single fare
@@ -1236,6 +1254,7 @@ snowplow
 snowstorm
 soak
 soap scum
+social worker
 soggy
 sold loose
 sold out
@@ -1310,6 +1329,7 @@ sublet
 submission deadline
 submission portal
 submit
+subsidized housing
 substitution
 subtitles
 subtotal
@@ -1320,6 +1340,7 @@ superintendent
 supervisor
 supplementary material
 supply teacher
+support group
 supporting documents
 surcharge
 swab
@@ -1384,6 +1405,7 @@ toss
 total
 touch base
 tow truck
+town hall
 track
 tracking number
 traction
@@ -1445,6 +1467,9 @@ video call
 visitor parking
 visitor pass
 void cheque
+volunteer
+volunteer orientation
+volunteer shift
 waist size
 waitlist
 waive
