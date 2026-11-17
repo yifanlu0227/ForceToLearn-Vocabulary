@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-17-canadian-daily-life",
+  "title": "加拿大日常生活：社区互助、志愿活动与社会支持",
+  "publishedOn": "2026-11-17",
+  "entries": [
+    {
+      "id": "community-volunteer",
+      "term": "volunteer",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "志愿者；自愿参加",
+      "explanationZh": "作为名词指不以领取正常工资为目的、主动帮助机构或社区活动的人；作为动词表示自愿提供时间、技能或承担任务。加拿大社区中心、学校、医院和慈善机构常招募志愿者。",
+      "examples": [{"en": "I volunteer at the neighbourhood food program twice a month.", "zh": "我每个月在社区食品援助项目做两次志愿服务。", "scenarioZh": "向新朋友介绍自己的社区活动"}],
+      "usageNotesZh": ["volunteer at an organization 表示在某机构做志愿者；volunteer for a task 表示自愿承担任务。", "申请前应确认职责、时段以及是否需要培训或背景核查。"],
+      "tags": ["community-services", "volunteering", "neighbourhood"]
+    },
+    {
+      "id": "community-volunteer-shift",
+      "term": "volunteer shift",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "志愿服务班次",
+      "explanationZh": "志愿者被安排提供服务的一段固定时间，例如活动签到、整理捐赠物或分发餐食。它通常有明确的开始、结束时间和负责人。",
+      "examples": [{"en": "My volunteer shift starts at nine on Saturday morning.", "zh": "我的志愿服务班次周六早上九点开始。", "scenarioZh": "确认周末社区活动的值班时间"}],
+      "usageNotesZh": ["sign up for、cover 或 cancel a volunteer shift 都是常见搭配。", "无法参加时应尽早通知协调员，不要直接缺席。"],
+      "tags": ["community-services", "volunteering", "schedules"]
+    },
+    {
+      "id": "community-volunteer-orientation",
+      "term": "volunteer orientation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "志愿者入门培训；志愿服务说明会",
+      "explanationZh": "新志愿者开始服务前参加的介绍或培训，通常说明机构使命、岗位职责、安全规则、保密要求和签到方式。",
+      "examples": [{"en": "All new helpers must attend the volunteer orientation.", "zh": "所有新加入的志愿者都必须参加入门培训。", "scenarioZh": "报名社区服务后查看开始前要求"}],
+      "usageNotesZh": ["attend 或 complete volunteer orientation 表示参加或完成培训。", "有些机构会把线上视频和小测验也算作 orientation 的一部分。"],
+      "tags": ["community-services", "volunteering", "training"]
+    },
+    {
+      "id": "community-sign-up",
+      "term": "sign up",
+      "partsOfSpeech": ["phrasal_verb"],
+      "definitionZh": "报名；登记参加",
+      "explanationZh": "把自己的姓名和联系方式登记到活动、课程、志愿班次或服务名单中。既可以在线填写表格，也可以现场登记。",
+      "examples": [{"en": "You can sign up online for the park cleanup.", "zh": "你可以在网上报名参加公园清洁活动。", "scenarioZh": "查看社区活动海报上的报名方式"}],
+      "usageNotesZh": ["sign up for 后接活动或服务；sign someone up 表示替某人报名。", "名词或定语常写作 sign-up，例如 a sign-up form。"],
+      "tags": ["community-services", "registration", "events"]
+    },
+    {
+      "id": "community-donate",
+      "term": "donate",
+      "partsOfSpeech": ["verb"],
+      "definitionZh": "捐赠；捐助",
+      "explanationZh": "把钱、食物、衣物、家具或时间自愿提供给慈善机构、社区项目或有需要的人。实物捐赠通常需要符合机构公布的接收条件。",
+      "examples": [{"en": "We donated warm coats to a local shelter.", "zh": "我们向当地收容所捐赠了保暖外套。", "scenarioZh": "冬季整理家中闲置衣物"}],
+      "usageNotesZh": ["donate something to an organization 表示把某物捐给某机构。", "捐赠前应确认接收时间、物品状况要求以及能否开具 donation receipt。"],
+      "tags": ["community-services", "donations", "charity"]
+    },
+    {
+      "id": "community-donation-drive",
+      "term": "donation drive",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "集中募捐活动",
+      "explanationZh": "在一段时间内集中募集特定物资或善款的社区活动，例如食品、冬衣、玩具或卫生用品募集。主办方通常会列出最需要和不接收的物品。",
+      "examples": [{"en": "The school is holding a donation drive for winter supplies.", "zh": "学校正在为冬季用品举行集中募捐活动。", "scenarioZh": "阅读学校发来的社区援助通知"}],
+      "usageNotesZh": ["food drive、toy drive 和 coat drive 都是具体类型。", "hold、organize 或 support a donation drive 都很常见。"],
+      "tags": ["community-services", "donations", "events"]
+    },
+    {
+      "id": "community-clothing-drive",
+      "term": "clothing drive",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "衣物募捐活动",
+      "explanationZh": "集中收集可穿衣物并交给慈善机构或社区成员的活动。加拿大入冬前常募集干净、状况良好的外套、靴子、手套和保暖层。",
+      "examples": [{"en": "Please wash the coats before bringing them to the clothing drive.", "zh": "把外套送到衣物募捐活动前请先清洗。", "scenarioZh": "按照社区中心要求准备捐赠衣物"}],
+      "usageNotesZh": ["donate to a clothing drive 表示向衣物募捐活动捐赠。", "不要默认所有旧衣都可接收，应查看尺码、季节和物品状态要求。"],
+      "tags": ["community-services", "donations", "clothing"]
+    },
+    {
+      "id": "community-donation-bin",
+      "term": "donation bin",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "捐赠箱；旧衣回收箱",
+      "explanationZh": "设置在停车场、商场或社区设施附近，用于投放指定捐赠物的箱体。不同箱子可能分别接收衣物、书籍或食品，应先看清运营机构和标签。",
+      "examples": [{"en": "The donation bin accepts clean clothing and shoes in sealed bags.", "zh": "这个捐赠箱接收装在密封袋里的干净衣物和鞋。", "scenarioZh": "在公寓附近处理可捐赠物品"}],
+      "usageNotesZh": ["put something in a donation bin 表示把物品投入捐赠箱。", "箱满时不要把袋子放在旁边，应改找其他接收点。"],
+      "tags": ["community-services", "donations", "drop-off"]
+    },
+    {
+      "id": "community-community-event",
+      "term": "community event",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区活动",
+      "explanationZh": "面向附近居民举办的活动，例如节庆、讲座、清洁日、义卖或家庭娱乐。活动可能免费，也可能要求提前报名或购买门票。",
+      "examples": [{"en": "The community event will take place in the school gym.", "zh": "这场社区活动将在学校体育馆举行。", "scenarioZh": "查看邻里活动的地点通知"}],
+      "usageNotesZh": ["attend、host 或 organize a community event 都很常见。", "出发前可确认是否免费、是否适合儿童以及是否因天气改期。"],
+      "tags": ["community-services", "events", "neighbourhood"]
+    },
+    {
+      "id": "community-neighbourhood-association",
+      "term": "neighbourhood association",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区居民协会；邻里协会",
+      "explanationZh": "由某个社区居民组成、关注本地事务和邻里活动的组织，可能讨论交通、开发、公共空间、安全和社区活动。它通常不是政府部门。",
+      "examples": [{"en": "The neighbourhood association is hosting a meeting about traffic safety.", "zh": "社区居民协会将举办一场交通安全会议。", "scenarioZh": "了解住所附近的居民参与渠道"}],
+      "usageNotesZh": ["join 或 contact the neighbourhood association 表示加入或联系居民协会。", "association 的代表性和职能因社区而异，不能代替市政府正式程序。"],
+      "tags": ["community-services", "neighbourhood", "civic-participation"]
+    },
+    {
+      "id": "community-town-hall",
+      "term": "town hall",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "居民大会；公开问答会",
+      "explanationZh": "官员、机构或组织与公众交流并回答问题的开放会议。加拿大城市里即使没有传统意义上的镇政府大楼，也常把这种公开交流活动叫 town hall。",
+      "examples": [{"en": "The councillor is holding a town hall about the new development.", "zh": "市议员将就新的开发项目举行居民大会。", "scenarioZh": "参加本地规划议题的公开交流"}],
+      "usageNotesZh": ["hold、attend 或 speak at a town hall 都很常见。", "town hall meeting 侧重会议形式，不一定是在 town hall 建筑内举行。"],
+      "tags": ["community-services", "civic-participation", "meetings"]
+    },
+    {
+      "id": "community-local-charity",
+      "term": "local charity",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "本地慈善机构",
+      "explanationZh": "主要服务某个城市或社区、以公益目的开展援助的慈善组织。可能提供食物、住房、衣物、心理支持或新移民服务。",
+      "examples": [{"en": "The store is collecting donations for a local charity.", "zh": "这家商店正在为一家本地慈善机构募集捐款。", "scenarioZh": "结账时看到商店的公益募捐说明"}],
+      "usageNotesZh": ["support、donate to 或 volunteer with a local charity 都很常见。", "需要抵税收据时，应确认机构是否为 registered charity。"],
+      "tags": ["community-services", "charity", "local-support"]
+    },
+    {
+      "id": "community-nonprofit-organization",
+      "term": "nonprofit organization",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "非营利组织",
+      "explanationZh": "不以向所有者分配利润为主要目的、围绕社会、文化、体育或社区目标运作的组织。非营利组织不一定具有加拿大注册慈善机构资格。",
+      "examples": [{"en": "She works for a nonprofit organization that supports newcomers.", "zh": "她在一家帮助新移民的非营利组织工作。", "scenarioZh": "介绍社区服务机构的性质"}],
+      "usageNotesZh": ["加拿大也常写 non-profit organization。", "nonprofit 与 registered charity 不是完全相同的法律和税务类别。"],
+      "tags": ["community-services", "nonprofit", "local-support"]
+    },
+    {
+      "id": "community-outreach-program",
+      "term": "outreach program",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "外展服务项目；主动联系社区的援助项目",
+      "explanationZh": "机构主动走进社区、接触可能无法自行前往服务点的人群，并提供信息、转介或实际帮助的项目。服务可能在街头、学校、图书馆或移动服务车开展。",
+      "examples": [{"en": "The outreach program helps seniors apply for local services.", "zh": "这个外展服务项目帮助老年人申请本地服务。", "scenarioZh": "了解社区机构主动提供的援助"}],
+      "usageNotesZh": ["community outreach program 是常见完整表达。", "outreach 强调主动接触目标人群，不只是等待居民上门。"],
+      "tags": ["community-services", "outreach", "social-support"]
+    },
+    {
+      "id": "community-meal-program",
+      "term": "meal program",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "供餐项目；社区餐食服务",
+      "explanationZh": "由社区中心、学校、宗教机构或慈善组织提供免费或低价餐食的项目，可能面向学生、长者、低收入家庭或无家可归者。",
+      "examples": [{"en": "The community centre runs a free meal program on weekday evenings.", "zh": "社区中心在工作日晚上提供免费供餐项目。", "scenarioZh": "为有需要的邻居查找餐食支持"}],
+      "usageNotesZh": ["school meal program 和 seniors' meal program 是常见类型。", "使用前应确认服务对象、时间、是否需要登记以及能否外带。"],
+      "tags": ["community-services", "food-support", "social-support"]
+    },
+    {
+      "id": "community-emergency-shelter",
+      "term": "emergency shelter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "紧急收容所；临时庇护所",
+      "explanationZh": "为暂时无安全住处的人提供短期住宿和基本支持的设施，可能服务无家可归者、遭受家庭暴力者或极端天气中的居民。入住规则和可用床位会变化。",
+      "examples": [{"en": "The outreach worker found an emergency shelter with an available bed.", "zh": "外展工作人员找到了一家有空床位的紧急收容所。", "scenarioZh": "帮助暂时没有安全住所的人寻找过夜地点"}],
+      "usageNotesZh": ["stay at、refer someone to 或 find an emergency shelter 都很常见。", "紧急情况下应联系当地紧急服务；床位和接收条件需向具体机构确认。"],
+      "tags": ["community-services", "housing-support", "emergency-support"]
+    },
+    {
+      "id": "community-drop-in-centre",
+      "term": "drop-in centre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "无需预约的社区服务中心；临时休息服务点",
+      "explanationZh": "通常无需预约即可进入、获得短时休息和基本支持的场所，可能提供餐食、淋浴、洗衣、电话、网络或社工服务。加拿大英语常用 centre 拼写。",
+      "examples": [{"en": "The drop-in centre offers showers and help with housing applications.", "zh": "这家临时服务中心提供淋浴和住房申请协助。", "scenarioZh": "查找无需预约的社区支持"}],
+      "usageNotesZh": ["go to 或 visit a drop-in centre 表示前往服务中心。", "各中心服务对象和开放时段不同，前往前最好核实。"],
+      "tags": ["community-services", "drop-in-services", "social-support"]
+    },
+    {
+      "id": "community-helpline",
+      "term": "helpline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "求助热线；咨询热线",
+      "explanationZh": "通过电话、短信或在线聊天提供信息、情绪支持或服务指引的渠道。不同热线可能专门处理心理健康、住房、法律、家庭或其他问题。",
+      "examples": [{"en": "The housing helpline can explain which local programs you may qualify for.", "zh": "住房求助热线可以说明你可能符合哪些本地项目的条件。", "scenarioZh": "不确定应联系哪个住房支持机构"}],
+      "usageNotesZh": ["call、text 或 contact a helpline 都很常见。", "若存在即时人身危险，应联系紧急服务，而不是只留言给普通咨询热线。"],
+      "tags": ["community-services", "information", "support-lines"]
+    },
+    {
+      "id": "community-social-worker",
+      "term": "social worker",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社会工作者；社工",
+      "explanationZh": "帮助个人和家庭应对住房、健康、家庭、收入和社区资源等困难的专业人员，可能在医院、学校、政府或非营利机构工作。",
+      "examples": [{"en": "The hospital social worker helped us arrange home-care support.", "zh": "医院社工帮助我们安排了居家护理支持。", "scenarioZh": "出院前协调后续社区服务"}],
+      "usageNotesZh": ["speak with 或 be referred to a social worker 都很常见。", "社工可帮助评估需要和连接资源，但不一定直接决定项目资格。"],
+      "tags": ["community-services", "social-work", "care-support"]
+    },
+    {
+      "id": "community-caseworker",
+      "term": "caseworker",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "个案工作人员；负责具体申请或服务档案的工作人员",
+      "explanationZh": "负责跟进某位服务使用者的申请、资格、文件和后续安排的工作人员。常见于社会援助、住房、移民安置和儿童家庭服务。",
+      "examples": [{"en": "My caseworker asked me to upload one more document.", "zh": "我的个案工作人员让我再上传一份文件。", "scenarioZh": "跟进社会服务申请的材料要求"}],
+      "usageNotesZh": ["contact your caseworker 表示联系负责你个案的工作人员。", "联系时准备好姓名、档案编号和问题，可减少来回沟通。"],
+      "tags": ["community-services", "case-management", "applications"]
+    },
+    {
+      "id": "community-intake-appointment",
+      "term": "intake appointment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "首次登记评估预约；服务接案预约",
+      "explanationZh": "第一次正式了解个人情况、登记基本信息并判断适合哪些服务的预约。工作人员可能询问住房、收入、健康、家庭和紧急需要。",
+      "examples": [{"en": "I have an intake appointment with the housing agency on Thursday.", "zh": "我周四与住房服务机构有一次首次登记评估预约。", "scenarioZh": "开始使用新的社区援助服务"}],
+      "usageNotesZh": ["book、attend 或 reschedule an intake appointment 都很常见。", "可提前询问需要携带的身份证明、收入或住址材料。"],
+      "tags": ["community-services", "intake", "appointments"]
+    },
+    {
+      "id": "community-eligibility-assessment",
+      "term": "eligibility assessment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "资格评估",
+      "explanationZh": "服务机构根据收入、年龄、住址、家庭情况或其他项目规则，判断申请人是否符合服务条件的过程。评估可能需要文件证明。",
+      "examples": [{"en": "The eligibility assessment usually takes about two weeks.", "zh": "资格评估通常需要大约两周。", "scenarioZh": "询问社区补助申请的处理时间"}],
+      "usageNotesZh": ["complete 或 undergo an eligibility assessment 表示完成或接受资格评估。", "符合资格不一定代表立刻有名额，还可能需要等待。"],
+      "tags": ["community-services", "eligibility", "applications"]
+    },
+    {
+      "id": "community-subsidized-housing",
+      "term": "subsidized housing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "补贴住房；政府资助的可负担住房",
+      "explanationZh": "由政府或相关项目补贴、让符合条件住户以低于市场的成本居住的住房。申请通常涉及收入和家庭情况审核，等待时间可能较长。",
+      "examples": [{"en": "She applied for subsidized housing through the city's online portal.", "zh": "她通过市政府在线平台申请了补贴住房。", "scenarioZh": "为长期住房成本寻找支持"}],
+      "usageNotesZh": ["apply for 或 be eligible for subsidized housing 都很常见。", "它是广义说法，具体租金计算和住房类型取决于当地项目。"],
+      "tags": ["community-services", "housing-support", "affordable-housing"]
+    },
+    {
+      "id": "community-rent-geared-to-income",
+      "term": "rent-geared-to-income",
+      "partsOfSpeech": ["noun", "adjective"],
+      "definitionZh": "按收入计算租金的住房；收入挂钩租金",
+      "explanationZh": "加拿大常见的补贴住房形式，租金按照住户收入的一定规则计算，而不是直接按市场价收取。常缩写为 RGI，收入或家庭情况变化时可能需要申报。",
+      "examples": [{"en": "The building includes several rent-geared-to-income units.", "zh": "这栋楼包含若干按收入计算租金的住房单元。", "scenarioZh": "阅读可负担住房项目介绍"}],
+      "usageNotesZh": ["rent-geared-to-income housing 和 RGI housing 都很常见。", "具体租金比例、资产规则和年度审核要求应查看当地项目说明。"],
+      "tags": ["community-services", "housing-support", "affordable-housing"]
+    },
+    {
+      "id": "community-support-group",
+      "term": "support group",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "互助小组；支持小组",
+      "explanationZh": "由经历相似问题的人定期交流、分享经验并获得情绪或实际支持的小组，主题可能涉及照护、哀伤、健康、成瘾或新移民适应。",
+      "examples": [{"en": "The community centre hosts a weekly support group for caregivers.", "zh": "社区中心每周为照护者举办一次互助小组。", "scenarioZh": "为长期照护压力寻找同伴支持"}],
+      "usageNotesZh": ["join、attend 或 facilitate a support group 都很常见。", "有些小组由专业人员带领，有些由同伴组织；报名和保密规则可能不同。"],
+      "tags": ["community-services", "peer-support", "wellbeing"]
+    }
+  ]
+}
