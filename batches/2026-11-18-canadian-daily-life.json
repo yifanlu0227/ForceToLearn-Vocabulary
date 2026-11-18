@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-18-canadian-daily-life",
+  "title": "加拿大日常生活：大学课程参与、学业状态与成绩处理",
+  "publishedOn": "2026-11-18",
+  "entries": [
+    {
+      "id": "school-class-participation",
+      "term": "class participation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课堂参与；课堂表现",
+      "explanationZh": "学生在课堂讨论、提问、小组活动和其他互动中的参与情况。有些加拿大大学课程会把它作为成绩的一部分，而不只是看是否到场。",
+      "examples": [{"en": "Class participation counts for ten percent of the final grade.", "zh": "课堂参与占最终成绩的百分之十。", "scenarioZh": "查看课程评分构成"}],
+      "usageNotesZh": ["participation mark 或 participation grade 指课堂参与分。", "发言次数不是唯一标准，教师也可能考虑准备程度和讨论质量。"],
+      "tags": ["school", "university", "classroom"]
+    },
+    {
+      "id": "school-attendance-policy",
+      "term": "attendance policy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "出勤规定",
+      "explanationZh": "课程对到课、迟到、缺席和请假的具体规则，通常写在课程大纲中。实验课、讨论课或专业训练课程可能有更严格的出勤要求。",
+      "examples": [{"en": "Check the attendance policy before missing a tutorial.", "zh": "缺席辅导课前先查看出勤规定。", "scenarioZh": "因身体不适考虑请假"}],
+      "usageNotesZh": ["strict attendance policy 表示严格的出勤规定。", "有正当理由也应按要求及时通知并提交证明，不要默认可以补课。"],
+      "tags": ["school", "attendance", "course-rules"]
+    },
+    {
+      "id": "school-learning-management-system",
+      "term": "learning management system",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学习管理系统；课程在线平台",
+      "explanationZh": "学校用来发布课程资料、作业、公告、成绩和讨论内容的在线系统，常缩写为 LMS。不同学校可能使用不同品牌的平台。",
+      "examples": [{"en": "The assignment instructions are posted on the learning management system.", "zh": "作业说明已经发布在学习管理系统上。", "scenarioZh": "查找课程作业要求"}],
+      "usageNotesZh": ["log in to 或 check the LMS 都很常见。", "重要截止日期应同时核对课程大纲，避免只依赖平台提醒。"],
+      "tags": ["school", "online-learning", "course-tools"]
+    },
+    {
+      "id": "school-online-course",
+      "term": "online course",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "在线课程；网课",
+      "explanationZh": "主要通过互联网完成教学和学习活动的课程，可能有固定直播时间，也可能让学生在规定期限内自行观看材料和完成任务。",
+      "examples": [{"en": "This online course has a live lecture every Wednesday evening.", "zh": "这门在线课程每周三晚上有直播讲座。", "scenarioZh": "选择适合工作时间的课程"}],
+      "usageNotesZh": ["synchronous online course 有固定实时课堂；asynchronous course 多为自主安排。", "选课前应确认考试是否仍需到校参加。"],
+      "tags": ["school", "online-learning", "courses"]
+    },
+    {
+      "id": "school-in-person-class",
+      "term": "in-person class",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "线下课；面对面课堂",
+      "explanationZh": "学生和教师在校园教室、实验室或其他地点现场参加的课程，与完全在线授课相区别。具体教室可能在学期中临时调整。",
+      "examples": [{"en": "The first in-person class will be held in Room 210.", "zh": "第一次线下课将在 210 教室举行。", "scenarioZh": "开学前查看上课地点"}],
+      "usageNotesZh": ["in-person 作定语时通常带连字符。", "课程网页写了 campus 也应继续确认具体楼宇和教室。"],
+      "tags": ["school", "campus", "courses"]
+    },
+    {
+      "id": "school-hybrid-course",
+      "term": "hybrid course",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "混合式课程；线上线下结合课程",
+      "explanationZh": "同时包含线上学习和线下课堂的课程。部分内容可能自主在线完成，实验、讨论或考试则要求到校。",
+      "examples": [{"en": "The hybrid course meets on campus every second Friday.", "zh": "这门混合式课程每隔一周的周五到校上课。", "scenarioZh": "安排通勤和工作时间"}],
+      "usageNotesZh": ["hybrid 不表示每次都可自由选择线上或线下。", "注册前应阅读具体到校日期和参与方式。"],
+      "tags": ["school", "online-learning", "courses"]
+    },
+    {
+      "id": "school-course-section",
+      "term": "course section",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程班次；同一课程的分班",
+      "explanationZh": "同一门课程因时间、教师或上课方式不同而划分的具体班次。选课时通常要选择某个 section，而不只是课程代码。",
+      "examples": [{"en": "I switched to an earlier course section because of a schedule conflict.", "zh": "因为时间冲突，我换到了更早的课程班次。", "scenarioZh": "调整学期课表"}],
+      "usageNotesZh": ["lecture section、tutorial section 和 lab section 都很常见。", "更换分班前应确认名额以及相关辅导课是否需要一起更换。"],
+      "tags": ["school", "course-registration", "schedules"]
+    },
+    {
+      "id": "school-waitlisted",
+      "term": "waitlisted",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "已列入候补名单的",
+      "explanationZh": "因为课程或项目暂时没有空位，申请人被放入等待名单，只有前面的人退出或学校增加名额后才可能正式进入。",
+      "examples": [{"en": "I'm waitlisted for the afternoon lab section.", "zh": "我在下午实验课分班的候补名单上。", "scenarioZh": "查看选课系统中的注册状态"}],
+      "usageNotesZh": ["be waitlisted for a course 表示进入某门课候补名单。", "候补规则可能按顺序或优先级处理，应留意邮件和确认期限。"],
+      "tags": ["school", "course-registration", "waitlists"]
+    },
+    {
+      "id": "school-seat-available",
+      "term": "seat available",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "有空余名额；有可选课位",
+      "explanationZh": "表示课程、分班、考试或活动仍有一个可以注册的位置。选课系统中的空位可能因其他学生加退课而随时变化。",
+      "examples": [{"en": "A seat became available in the morning section.", "zh": "上午班次空出了一个名额。", "scenarioZh": "候补期间收到选课系统通知"}],
+      "usageNotesZh": ["a seat is available 和 a seat opens up 都很常见。", "收到名额后可能必须在限定时间内确认，否则会顺延给下一人。"],
+      "tags": ["school", "course-registration", "availability"]
+    },
+    {
+      "id": "school-audit-a-course",
+      "term": "audit a course",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "旁听课程",
+      "explanationZh": "经学校或教师许可参加课程学习，但通常不获得正式学分或成绩。是否可以交作业、参加考试和使用课程平台取决于学校规定。",
+      "examples": [{"en": "She received permission to audit a course outside her program.", "zh": "她获准旁听一门本专业之外的课程。", "scenarioZh": "希望学习感兴趣但不计学分的课程"}],
+      "usageNotesZh": ["audit 在这里作动词，不是财务审计。", "旁听仍可能需要登记或缴费，不能默认直接进教室。"],
+      "tags": ["school", "courses", "academic-options"]
+    },
+    {
+      "id": "school-withdraw-from-a-course",
+      "term": "withdraw from a course",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "退修课程；退出课程",
+      "explanationZh": "在已经注册并开始上课后，按学校程序正式退出一门课程。它可能与早期的 drop 不同，并可能在成绩单上留下退课标记。",
+      "examples": [{"en": "I spoke with my advisor before withdrawing from the course.", "zh": "我在退修这门课之前咨询了学业顾问。", "scenarioZh": "课程负担过重时评估退课影响"}],
+      "usageNotesZh": ["withdraw from 后接课程；名词形式是 course withdrawal。", "退课可能影响学费、全日制身份、奖学金或学习许可要求，应先核实。"],
+      "tags": ["school", "course-registration", "withdrawal"]
+    },
+    {
+      "id": "school-withdrawal-deadline",
+      "term": "withdrawal deadline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退课截止日期",
+      "explanationZh": "学生可以按照某种学术或财务后果退出课程的最后日期。不同时间退课可能决定是否退款、是否显示在成绩单上。",
+      "examples": [{"en": "The withdrawal deadline is listed in the academic calendar.", "zh": "退课截止日期列在校历中。", "scenarioZh": "决定是否继续修读困难课程"}],
+      "usageNotesZh": ["before the withdrawal deadline 表示在退课截止日前。", "退款截止日和学术退课截止日可能不是同一天。"],
+      "tags": ["school", "deadlines", "withdrawal"]
+    },
+    {
+      "id": "school-academic-standing",
+      "term": "academic standing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学业状态；学术资格状态",
+      "explanationZh": "学校根据成绩、学分完成情况和项目规则评定的学生状态，例如良好、警告、留校察看或停学。它会影响继续注册和毕业资格。",
+      "examples": [{"en": "Students can view their academic standing in the student portal.", "zh": "学生可以在学生门户中查看自己的学业状态。", "scenarioZh": "学期成绩公布后核实注册资格"}],
+      "usageNotesZh": ["good academic standing 表示学业状态良好。", "不同院系的判断标准可能不同，应查看项目规定。"],
+      "tags": ["school", "academic-status", "student-records"]
+    },
+    {
+      "id": "school-academic-probation",
+      "term": "academic probation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "留校察看；学业警示期",
+      "explanationZh": "学生因成绩或学业进展未达到要求而进入的观察状态，通常需要在规定时间内改善，否则可能面临停学或退出项目。",
+      "examples": [{"en": "He met with an advisor after being placed on academic probation.", "zh": "被列入学业警示期后，他与学业顾问见了面。", "scenarioZh": "制定下一学期的学业改善计划"}],
+      "usageNotesZh": ["be placed on academic probation 是常见搭配。", "这不是纪律处分的同义词，通常专门针对学业表现。"],
+      "tags": ["school", "academic-status", "advising"]
+    },
+    {
+      "id": "school-degree-requirements",
+      "term": "degree requirements",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学位要求",
+      "explanationZh": "获得某个学位必须完成的全部条件，包括总学分、必修课、平均成绩、研究或实习要求等。不同入学年份的要求可能不同。",
+      "examples": [{"en": "I reviewed the degree requirements before choosing my final-year courses.", "zh": "选择最后一年课程前，我查看了学位要求。", "scenarioZh": "规划毕业前剩余课程"}],
+      "usageNotesZh": ["meet、complete 或 satisfy degree requirements 都很常见。", "应按自己的项目和入学年份核对，不能只参考同学的课表。"],
+      "tags": ["school", "degree-planning", "graduation"]
+    },
+    {
+      "id": "school-major",
+      "term": "major",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "主修专业；主修",
+      "explanationZh": "作为名词指本科阶段主要学习的学科方向；作为动词表示以某学科为主修。不同加拿大大学也可能使用 specialist、program 等其他分类。",
+      "examples": [{"en": "Her major is computer science, and she is also taking economics courses.", "zh": "她的主修专业是计算机科学，同时也在修经济学课程。", "scenarioZh": "向同学介绍自己的学习方向"}],
+      "usageNotesZh": ["major in computer science 表示主修计算机科学。", "major 的正式含义取决于学校项目结构，不一定等同于中国大学的专业设置。"],
+      "tags": ["school", "degree-planning", "programs"]
+    },
+    {
+      "id": "school-minor",
+      "term": "minor",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "辅修专业；辅修",
+      "explanationZh": "学生在主修之外完成的一组较少学分的课程方向。辅修通常会显示在学业记录中，但具体要求和是否开放申请由学校决定。",
+      "examples": [{"en": "I'm considering a minor in statistics.", "zh": "我在考虑辅修统计学。", "scenarioZh": "规划本科阶段的第二学习方向"}],
+      "usageNotesZh": ["minor in statistics 表示辅修统计学。", "minor 也有“未成年人”或“较小的”含义，要结合校园语境判断。"],
+      "tags": ["school", "degree-planning", "programs"]
+    },
+    {
+      "id": "school-program-requirements",
+      "term": "program requirements",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "项目要求；专业培养要求",
+      "explanationZh": "完成某个具体专业、主修、辅修或研究生项目必须满足的课程和学术条件。它可能只是整个学位要求的一部分。",
+      "examples": [{"en": "This course fulfils one of the program requirements.", "zh": "这门课满足其中一项专业项目要求。", "scenarioZh": "确认某门选修课能否计入专业"}],
+      "usageNotesZh": ["fulfil 或 meet program requirements 都很常见。", "degree requirements 侧重整个学位，program requirements 侧重具体专业或项目。"],
+      "tags": ["school", "degree-planning", "programs"]
+    },
+    {
+      "id": "school-transfer-credit",
+      "term": "transfer credit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "转学分；认可的外校学分",
+      "explanationZh": "学校认可学生在另一所学校、交换项目或先前课程中取得的学习成果，并将其计入当前学位。它可能只计总学分，也可能替代具体课程。",
+      "examples": [{"en": "The department approved my transfer credit for the introductory course.", "zh": "系里批准用我的转学分抵扣这门入门课。", "scenarioZh": "转学后确认旧课程如何计入新项目"}],
+      "usageNotesZh": ["apply for 或 receive transfer credit 都很常见。", "批准的学分不一定带入原成绩，应查看学校的成绩计算规则。"],
+      "tags": ["school", "student-records", "credits"]
+    },
+    {
+      "id": "school-academic-integrity",
+      "term": "academic integrity",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "学术诚信",
+      "explanationZh": "在学习、作业和考试中诚实、规范地使用资料和展示自己的工作，包括正确引用、遵守合作范围以及不使用未经允许的帮助。",
+      "examples": [{"en": "The course includes a module on academic integrity and citation.", "zh": "这门课包含一个关于学术诚信和引用的学习模块。", "scenarioZh": "开学时完成必修的诚信培训"}],
+      "usageNotesZh": ["academic integrity policy 表示学术诚信规定。", "生成式 AI、协作和代码复用是否允许必须按具体课程规则判断。"],
+      "tags": ["school", "academic-integrity", "course-rules"]
+    },
+    {
+      "id": "school-rubric",
+      "term": "rubric",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "评分量表；评分标准表",
+      "explanationZh": "把作业或展示分成若干评价项目，并说明不同表现对应多少分的表格或说明。它能帮助学生理解教师具体看重什么。",
+      "examples": [{"en": "Read the rubric before starting the presentation.", "zh": "开始准备展示之前先阅读评分量表。", "scenarioZh": "根据评分要求规划作业内容"}],
+      "usageNotesZh": ["grading rubric 和 assessment rubric 都很常见。", "提交前可逐项对照 rubric 检查是否遗漏要求。"],
+      "tags": ["school", "assessment", "grading"]
+    },
+    {
+      "id": "school-marking-scheme",
+      "term": "marking scheme",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "评分方案；给分细则",
+      "explanationZh": "说明题目、步骤或课程组成部分如何分配分数的规则。加拿大英语常使用 mark 和 marking，也常与 grading scheme 互换。",
+      "examples": [{"en": "The marking scheme awards partial marks for showing your work.", "zh": "评分方案规定，写出解题过程可以获得部分分数。", "scenarioZh": "查看数学考试的给分方式"}],
+      "usageNotesZh": ["according to the marking scheme 表示按照评分细则。", "rubric 常描述表现等级，marking scheme 更常直接说明分数如何分配。"],
+      "tags": ["school", "assessment", "grading"]
+    },
+    {
+      "id": "school-grade-appeal",
+      "term": "grade appeal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "成绩申诉",
+      "explanationZh": "学生认为评分存在程序、计算或评判问题时，按照学校规定请求复核成绩的正式程序。它通常有明确理由、步骤和截止日期。",
+      "examples": [{"en": "She submitted a grade appeal after reviewing the marked exam.", "zh": "查看批改后的试卷后，她提交了成绩申诉。", "scenarioZh": "认为考试评分与标准不一致"}],
+      "usageNotesZh": ["file、submit 或 review a grade appeal 都很常见。", "先区分简单算分错误和正式申诉，并保存课程规则、评分反馈等证据。"],
+      "tags": ["school", "grading", "appeals"]
+    },
+    {
+      "id": "school-make-up-exam",
+      "term": "make-up exam",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "补考；另行安排的考试",
+      "explanationZh": "因获认可的原因错过原考试后，由课程或学校另行安排的考试。是否批准、考试形式和日期取决于课程政策。",
+      "examples": [{"en": "My make-up exam is scheduled for next Monday morning.", "zh": "我的补考安排在下周一上午。", "scenarioZh": "因生病错过原定考试后确认新时间"}],
+      "usageNotesZh": ["take 或 write a make-up exam 都很常见；加拿大校园中 write an exam 很自然。", "make-up 作定语时通常带连字符。"],
+      "tags": ["school", "exams", "accommodations"]
+    },
+    {
+      "id": "school-deferred-exam",
+      "term": "deferred exam",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "延期考试；延后举行的考试",
+      "explanationZh": "经学校批准，把原定考试推迟到之后的正式考试期或指定日期参加。常见原因包括疾病、紧急情况或获认可的宗教安排。",
+      "examples": [{"en": "The registrar approved my request for a deferred exam.", "zh": "注册办公室批准了我的延期考试申请。", "scenarioZh": "因突发疾病无法参加期末考试"}],
+      "usageNotesZh": ["apply for、request 或 write a deferred exam 都很常见。", "deferred exam 不一定等于普通补考，通常有学校正式审批流程。"],
+      "tags": ["school", "exams", "academic-procedures"]
+    }
+  ]
+}
