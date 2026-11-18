@@ -7,6 +7,9 @@ absence
 abstract
 academic advisor
 academic calendar
+academic integrity
+academic probation
+academic standing
 acceptance letter
 accessibility ramp
 accessibility services
@@ -55,7 +58,9 @@ assigned seating
 assignment
 ATM
 attendance
+attendance policy
 audio description
+audit a course
 author guidelines
 authorized user
 auto-load
@@ -225,6 +230,7 @@ cite
 city councillor
 claim
 clamshell
+class participation
 clean up a spill
 cleaning fee
 cleaning supplies
@@ -287,6 +293,7 @@ course load
 course outline
 course registration
 course reserve
+course section
 cover a shift
 cover charge
 cover letter
@@ -335,11 +342,13 @@ decongestant
 deductible
 deep clean
 defective
+deferred exam
 defog
 defrost
 defroster
 deglaze
 degreaser
+degree requirements
 dehumidifier
 delay
 deli
@@ -571,6 +580,7 @@ GPA
 grab a bite
 grace period
 grade
+grade appeal
 graduate student
 graffiti
 grant
@@ -634,6 +644,7 @@ hourly wage
 house wine
 household hazardous waste
 humidifier
+hybrid course
 hybrid work
 hydro
 hydro bill
@@ -653,6 +664,7 @@ in season
 in stock
 in the same boat
 in-network
+in-person class
 in-store pickup
 in-text citation
 ingredient list
@@ -709,6 +721,7 @@ laundry room
 layer up
 leak
 lean ground beef
+learning management system
 lease
 lease assignment
 lease renewal
@@ -752,11 +765,14 @@ machine washable
 mail in
 mailroom
 maintenance request
+major
 major revision
+make-up exam
 management office
 manuscript
 marinate
 marked down
+marking scheme
 mash
 matinee
 mattress topper
@@ -777,6 +793,7 @@ mildew
 milestone
 mince
 minimum payment
+minor
 minor revision
 minutes
 miss a connection
@@ -850,6 +867,7 @@ on-ramp
 onboarding
 one-way street
 online banking
+online course
 online order
 online portal
 open enrollment
@@ -992,6 +1010,7 @@ probation period
 processing time
 produce
 produce section
+program requirements
 promo code
 proof of address
 proof of income
@@ -1124,6 +1143,7 @@ routing number
 rowing machine
 rubber gloves
 rubberneck
+rubric
 run late
 run something by someone
 runners
@@ -1165,6 +1185,7 @@ sear
 search term
 season
 season pass
+seat available
 seat number
 seat selection
 seat yourself
@@ -1417,6 +1438,7 @@ transaction
 transaction history
 transcript
 transfer
+transfer credit
 transfer limit
 transfer point
 transfer window
@@ -1472,6 +1494,7 @@ volunteer orientation
 volunteer shift
 waist size
 waitlist
+waitlisted
 waive
 walk-in
 walk-in clinic
@@ -1518,6 +1541,8 @@ wipe down
 wiper blades
 wire transfer
 withdraw
+withdraw from a course
+withdrawal deadline
 withdrawal limit
 wok
 word limit
