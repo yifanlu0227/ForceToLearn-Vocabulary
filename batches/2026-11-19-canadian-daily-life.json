@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-19-canadian-daily-life",
+  "title": "加拿大日常生活：信用记录、借贷与还款成本",
+  "publishedOn": "2026-11-19",
+  "entries": [
+    {
+      "id": "banking-rewards-points",
+      "term": "rewards points",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "奖励积分；信用卡积分",
+      "explanationZh": "使用符合条件的银行卡消费后累积、可兑换旅行、商品、礼卡或账单抵扣的积分。不同消费类别、兑换方式和有效期可能不同。",
+      "examples": [{"en": "I used my rewards points to reduce the cost of the flight.", "zh": "我用奖励积分抵扣了一部分机票费用。", "scenarioZh": "在信用卡奖励平台兑换旅行权益"}],
+      "usageNotesZh": ["earn、redeem 或 transfer rewards points 都很常见。", "比较价值时应查看兑换比例、税费以及是否有最低兑换门槛。"],
+      "tags": ["banking", "credit-cards", "rewards"]
+    },
+    {
+      "id": "banking-introductory-rate",
+      "term": "introductory rate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "新客户优惠利率；初始利率",
+      "explanationZh": "银行在开户或办卡后的限定时期提供的较低利率，期限结束后会改为正常利率。常见于信用卡余额转移、储蓄账户和贷款。",
+      "examples": [{"en": "The introductory rate applies for the first six months.", "zh": "这个新客户优惠利率适用于最初六个月。", "scenarioZh": "阅读信用卡促销条款"}],
+      "usageNotesZh": ["introductory interest rate 是更完整的说法。", "不要只看优惠数字，还应确认结束日期、适用交易和之后的正常利率。"],
+      "tags": ["banking", "interest-rates", "promotions"]
+    },
+    {
+      "id": "banking-promotional-rate",
+      "term": "promotional rate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "促销利率；限时优惠利率",
+      "explanationZh": "金融机构为特定产品、客户或一段时间提供的优惠利率。它不一定只针对新客户，也可能需要满足存款、转账或按时付款等条件。",
+      "examples": [{"en": "The savings account offers a promotional rate until the end of March.", "zh": "这个储蓄账户在三月底前提供促销利率。", "scenarioZh": "比较银行的限时储蓄优惠"}],
+      "usageNotesZh": ["qualify for a promotional rate 表示符合促销利率条件。", "应确认优惠结束后账户适用的常规利率和费用。"],
+      "tags": ["banking", "interest-rates", "promotions"]
+    },
+    {
+      "id": "banking-purchase-interest",
+      "term": "purchase interest",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "消费利息；信用卡购物利息",
+      "explanationZh": "信用卡购物余额没有按规定全额还清时，对未偿还消费金额收取的利息。它通常与现金预借或余额转移的利率分开列示。",
+      "examples": [{"en": "Purchase interest was charged because I did not pay the full statement balance.", "zh": "因为我没有全额支付账单余额，账户被收取了消费利息。", "scenarioZh": "核对信用卡账单上的利息项目"}],
+      "usageNotesZh": ["purchase interest rate 指消费适用利率。", "只支付最低还款额通常不能避免利息，应查看具体持卡协议。"],
+      "tags": ["banking", "credit-cards", "interest"]
+    },
+    {
+      "id": "banking-balance-transfer",
+      "term": "balance transfer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用卡余额转移",
+      "explanationZh": "把一张信用卡或其他符合条件的债务余额转到另一张信用卡，通常为了使用较低的促销利率。转移可能收取手续费，并有金额和期限限制。",
+      "examples": [{"en": "The balance transfer has a three-percent fee.", "zh": "这笔信用卡余额转移要收取百分之三的手续费。", "scenarioZh": "评估信用卡低息转移优惠"}],
+      "usageNotesZh": ["make 或 request a balance transfer 都很常见。", "应同时比较转移费、优惠利率期限和优惠结束后的利率。"],
+      "tags": ["banking", "credit-cards", "debt-management"]
+    },
+    {
+      "id": "banking-credit-card-statement",
+      "term": "credit card statement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用卡账单",
+      "explanationZh": "按账单周期汇总信用卡交易、付款、退款、利息、费用和应还金额的正式记录。账单还会列出付款截止日和最低还款额。",
+      "examples": [{"en": "I review my credit card statement for unfamiliar charges every month.", "zh": "我每个月都会检查信用卡账单中是否有不熟悉的扣款。", "scenarioZh": "月度账单出来后核对交易"}],
+      "usageNotesZh": ["paper 或 electronic credit card statement 分别指纸质或电子账单。", "statement 是一个账期的正式记录，不等于应用中随时变化的 current balance。"],
+      "tags": ["banking", "credit-cards", "statements"]
+    },
+    {
+      "id": "banking-statement-date",
+      "term": "statement date",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单日；结账日期",
+      "explanationZh": "银行完成本期信用卡或账户账单并确定账单余额的日期。账单日之后的新交易通常会进入下一期账单。",
+      "examples": [{"en": "My statement date is the twelfth of each month.", "zh": "我的账单日是每月十二号。", "scenarioZh": "安排信用卡付款时间"}],
+      "usageNotesZh": ["statement date 与 payment due date 不同，前者生成账单，后者要求付款。", "交易显示日期和计入账单的日期可能因入账时间而不同。"],
+      "tags": ["banking", "credit-cards", "billing-cycle"]
+    },
+    {
+      "id": "banking-late-payment",
+      "term": "late payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "逾期付款；迟交款项",
+      "explanationZh": "在规定付款截止日之后才收到的还款。信用卡、贷款和账单的逾期付款可能产生费用、利息或影响信用记录。",
+      "examples": [{"en": "A late payment may affect your credit history.", "zh": "逾期付款可能影响你的信用记录。", "scenarioZh": "了解错过信用卡截止日的后果"}],
+      "usageNotesZh": ["make a late payment 表示迟交款项；late payment fee 指逾期费。", "如果只是刚发现，应尽快付款并联系金融机构确认账户状态。"],
+      "tags": ["banking", "payments", "credit-history"]
+    },
+    {
+      "id": "banking-missed-payment",
+      "term": "missed payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "漏还款；未按期支付的一期款项",
+      "explanationZh": "某一期应付金额没有按要求支付，常用于信用卡、贷款、手机账单或其他定期费用。它可能是忘记、余额不足或自动付款失败造成的。",
+      "examples": [{"en": "I received an alert about a missed loan payment.", "zh": "我收到了一条贷款漏还款提醒。", "scenarioZh": "查看银行发来的付款异常通知"}],
+      "usageNotesZh": ["miss a payment 是动词表达，missed payment 是名词短语。", "应查明自动扣款是否失败，并避免未经确认重复付款。"],
+      "tags": ["banking", "payments", "loans"]
+    },
+    {
+      "id": "banking-partial-payment",
+      "term": "partial payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "部分付款；未全额支付",
+      "explanationZh": "只支付应付总额中的一部分。信用卡部分还款可能满足最低还款要求，但剩余余额通常仍会产生利息。",
+      "examples": [{"en": "I made a partial payment and paid the rest after payday.", "zh": "我先付了一部分，发薪日后再付清剩余金额。", "scenarioZh": "现金流紧张时安排账单还款"}],
+      "usageNotesZh": ["make 或 accept a partial payment 都很常见。", "部分付款是否避免逾期取决于最低应付金额和到款日期。"],
+      "tags": ["banking", "payments", "credit-cards"]
+    },
+    {
+      "id": "banking-credit-utilization",
+      "term": "credit utilization",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用额度使用率",
+      "explanationZh": "信用卡已用余额相对于可用信用额度的比例，可针对单张卡或所有循环信用账户计算。该比例是理解个人信用状况时常见的指标。",
+      "examples": [{"en": "Paying down the balance lowered my credit utilization.", "zh": "偿还部分余额后，我的信用额度使用率降低了。", "scenarioZh": "查看信用报告中的额度使用情况"}],
+      "usageNotesZh": ["credit utilization ratio 是更完整的说法。", "银行上报时间可能与付款时间不同，应用显示的比例不一定实时更新。"],
+      "tags": ["banking", "credit-score", "credit-cards"]
+    },
+    {
+      "id": "banking-hard-inquiry",
+      "term": "hard inquiry",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "硬查询；正式信用查询",
+      "explanationZh": "申请信用卡、贷款或其他信贷时，贷款方经授权调取信用档案进行评估的查询。它通常会记录在信用报告中，并可能短期影响信用评分。",
+      "examples": [{"en": "The credit card application resulted in a hard inquiry.", "zh": "这次信用卡申请产生了一次硬查询。", "scenarioZh": "查看信用报告上的新查询记录"}],
+      "usageNotesZh": ["hard credit inquiry 和 hard credit check 也是常见说法。", "在短期内频繁申请不同信贷产品前，应了解查询可能带来的影响。"],
+      "tags": ["banking", "credit-report", "applications"]
+    },
+    {
+      "id": "banking-soft-inquiry",
+      "term": "soft inquiry",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "软查询；非正式信用查询",
+      "explanationZh": "不属于正式借贷审批的信用档案查询，例如本人查看信用报告、部分预先资格评估或账户监测。它通常不会影响信用评分。",
+      "examples": [{"en": "Checking my own credit report is considered a soft inquiry.", "zh": "我自己查看信用报告通常算作软查询。", "scenarioZh": "定期检查个人信用档案"}],
+      "usageNotesZh": ["soft credit inquiry 和 soft credit check 也很常见。", "若不确定某项申请会产生哪种查询，应在提交前向机构确认。"],
+      "tags": ["banking", "credit-report", "credit-monitoring"]
+    },
+    {
+      "id": "banking-pre-approved",
+      "term": "pre-approved",
+      "partsOfSpeech": ["adjective"],
+      "definitionZh": "预先批准的；预批的",
+      "explanationZh": "金融机构根据已有信息初步表示某项信用产品可能获批，但最终额度、利率和资格通常仍需核实身份、收入或其他条件。",
+      "examples": [{"en": "The bank sent me a pre-approved credit limit increase offer.", "zh": "银行给我发来一份预批的信用额度提升优惠。", "scenarioZh": "在手机银行中看到个性化信贷优惠"}],
+      "usageNotesZh": ["pre-approved offer 表示预批优惠。", "预批不一定是无条件保证，应阅读有效期、利率和最终审批条款。"],
+      "tags": ["banking", "credit-applications", "offers"]
+    },
+    {
+      "id": "banking-credit-application",
+      "term": "credit application",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信贷申请；信用卡或贷款申请",
+      "explanationZh": "向金融机构申请信用卡、信用额度或贷款时提交的正式资料，通常包括身份、住址、收入、就业和现有债务信息。",
+      "examples": [{"en": "The bank asked for proof of income with my credit application.", "zh": "银行要求我在信贷申请中提供收入证明。", "scenarioZh": "申请个人贷款时补交材料"}],
+      "usageNotesZh": ["submit、review 或 approve a credit application 都很常见。", "应准确填写信息，并确认提交是否会产生正式信用查询。"],
+      "tags": ["banking", "credit-applications", "documents"]
+    },
+    {
+      "id": "banking-credit-limit-increase",
+      "term": "credit limit increase",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信用额度提升",
+      "explanationZh": "银行提高信用卡或信用额度账户的最高可借金额。提升可能由银行主动提供，也可能由客户申请，并可能需要重新评估收入和信用。",
+      "examples": [{"en": "I requested a credit limit increase before booking the trip.", "zh": "预订旅行前，我申请提高信用额度。", "scenarioZh": "准备支付金额较大的旅行费用"}],
+      "usageNotesZh": ["request、accept 或 decline a credit limit increase 都很常见。", "额度提高不是额外收入，仍应按预算和还款能力使用。"],
+      "tags": ["banking", "credit-cards", "credit-limits"]
+    },
+    {
+      "id": "banking-personal-loan",
+      "term": "personal loan",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "个人贷款",
+      "explanationZh": "个人为装修、车辆、整合债务或其他用途向银行或贷款机构借入的一笔资金，通常按固定期限分期偿还。它可以是有抵押或无抵押贷款。",
+      "examples": [{"en": "She took out a personal loan to replace the furnace.", "zh": "她申请了一笔个人贷款来更换暖炉。", "scenarioZh": "家庭出现较大的必要维修支出"}],
+      "usageNotesZh": ["apply for 或 take out a personal loan 都很常见。", "比较时应看年利率、费用、期限和提前还款条件，而不只看月供。"],
+      "tags": ["banking", "loans", "borrowing"]
+    },
+    {
+      "id": "banking-loan-payment",
+      "term": "loan payment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "贷款还款；一期贷款付款",
+      "explanationZh": "按照贷款协议定期支付的金额，通常包含本金和利息，也可能包含其他费用。付款频率可以是每周、每两周或每月。",
+      "examples": [{"en": "My monthly loan payment comes out of my chequing account automatically.", "zh": "我的每月贷款还款会自动从支票账户扣除。", "scenarioZh": "检查自动扣款安排"}],
+      "usageNotesZh": ["make、miss 或 schedule a loan payment 都很常见。", "额外付款是否直接减少本金，应查看贷款合同。"],
+      "tags": ["banking", "loans", "payments"]
+    },
+    {
+      "id": "banking-loan-term",
+      "term": "loan term",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "贷款期限",
+      "explanationZh": "贷款协议规定的还款时间长度，例如三年或五年。期限越长通常每期付款越低，但总利息可能更高。",
+      "examples": [{"en": "A longer loan term would lower the monthly payment.", "zh": "更长的贷款期限会降低每月还款额。", "scenarioZh": "比较两种汽车贷款方案"}],
+      "usageNotesZh": ["a five-year loan term 表示五年贷款期限。", "term 与 amortization period 在某些产品中含义不同，签约前应确认。"],
+      "tags": ["banking", "loans", "repayment"]
+    },
+    {
+      "id": "banking-fixed-interest-rate",
+      "term": "fixed interest rate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "固定利率",
+      "explanationZh": "在约定期限内保持不变的借款或存款利率。用于贷款时，它能让利息计算和付款更可预测，但合同结束或续期后利率可能变化。",
+      "examples": [{"en": "We chose a fixed interest rate for more predictable payments.", "zh": "为了让还款更可预测，我们选择了固定利率。", "scenarioZh": "比较不同住房贷款方案"}],
+      "usageNotesZh": ["fixed-rate loan 或 fixed-rate mortgage 也是常见说法。", "固定利率不代表所有费用固定，应另外查看罚金和服务费。"],
+      "tags": ["banking", "interest-rates", "loans"]
+    },
+    {
+      "id": "banking-variable-interest-rate",
+      "term": "variable interest rate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "浮动利率；可变利率",
+      "explanationZh": "会按照基准利率或合同公式变化的利率。市场利率变化时，贷款付款金额、偿还本金速度或总成本可能受到影响。",
+      "examples": [{"en": "The variable interest rate increased after the bank changed its prime rate.", "zh": "银行调整最优惠利率后，这项浮动利率上升了。", "scenarioZh": "查看贷款付款变化的原因"}],
+      "usageNotesZh": ["variable-rate loan 和 variable-rate mortgage 都很常见。", "应确认利率变化会改变每期付款，还是改变本金与利息的分配。"],
+      "tags": ["banking", "interest-rates", "loans"]
+    },
+    {
+      "id": "banking-mortgage-pre-approval",
+      "term": "mortgage pre-approval",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "房贷预批；按揭预先审批",
+      "explanationZh": "贷款机构根据收入、债务、首付和信用资料，初步评估可借房贷额度和条件的过程。它有助于确定购房预算，但不等于最终放款承诺。",
+      "examples": [{"en": "We got a mortgage pre-approval before making an offer on a condo.", "zh": "我们在给公寓报价前取得了房贷预批。", "scenarioZh": "准备在多伦多开始看房"}],
+      "usageNotesZh": ["get 或 apply for mortgage pre-approval 都很常见。", "房屋、收入或财务情况变化后仍可能需要重新审核。"],
+      "tags": ["banking", "mortgages", "home-buying"]
+    },
+    {
+      "id": "banking-amortization-period",
+      "term": "amortization period",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "摊还期；预计还清贷款的总年限",
+      "explanationZh": "按照当前付款计划把贷款本金和利息全部偿还所需的总时间。加拿大房贷中，它常长于单次 mortgage term，需要在多个期限后续约。",
+      "examples": [{"en": "The mortgage has a twenty-five-year amortization period.", "zh": "这笔房贷的摊还期是二十五年。", "scenarioZh": "阅读房贷方案摘要"}],
+      "usageNotesZh": ["amortization period 越长，每期付款通常较低，但总利息可能更高。", "它与 mortgage term 不同，后者是当前利率和合同条件持续的期限。"],
+      "tags": ["banking", "mortgages", "repayment"]
+    },
+    {
+      "id": "banking-collateral",
+      "term": "collateral",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "抵押物；担保资产",
+      "explanationZh": "借款人用来保障贷款偿还的资产，例如房屋、车辆或存款。如果借款人严重违约，贷款方可能依法处置抵押物。",
+      "examples": [{"en": "The car serves as collateral for the auto loan.", "zh": "这辆车是汽车贷款的抵押物。", "scenarioZh": "了解有抵押贷款的基本结构"}],
+      "usageNotesZh": ["use 或 offer something as collateral 都很常见。", "secured loan 有抵押物；unsecured loan 通常没有指定抵押物。"],
+      "tags": ["banking", "loans", "security"]
+    },
+    {
+      "id": "banking-loan-agreement",
+      "term": "loan agreement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "贷款协议；借款合同",
+      "explanationZh": "记录借款金额、利率、付款计划、费用、违约后果和提前还款规则的正式合同。签署后双方都应按其中条款履行。",
+      "examples": [{"en": "Read the loan agreement carefully before signing it.", "zh": "签署贷款协议前请仔细阅读。", "scenarioZh": "在银行确认个人贷款文件"}],
+      "usageNotesZh": ["sign、review 或 amend a loan agreement 都很常见。", "重点核对总借款成本、付款频率、可变条款和提前还款限制。"],
+      "tags": ["banking", "loans", "contracts"]
+    }
+  ]
+}
