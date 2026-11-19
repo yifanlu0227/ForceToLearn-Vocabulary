@@ -39,6 +39,7 @@ Allen key
 alteration
 aluminum foil
 amenity
+amortization period
 annual fee
 anonymize
 antibiotics
@@ -82,6 +83,7 @@ bakery section
 baking sheet
 balaclava
 balance
+balance transfer
 balcony
 ballpark
 Band-Aid
@@ -252,6 +254,7 @@ colander
 cold cuts
 cold snap
 collaborate
+collateral
 collection day
 comforter
 committee
@@ -302,11 +305,15 @@ crack an egg
 crash
 cream
 credit
+credit application
 credit card
+credit card statement
 credit check
 credit limit
+credit limit increase
 credit report
 credit score
+credit utilization
 crew neck
 criminal record check
 crisper drawer
@@ -500,6 +507,7 @@ first month's rent
 fitness class
 fitted sheet
 fitting room
+fixed interest rate
 fixed-term lease
 flag down
 flapper
@@ -616,6 +624,7 @@ hang dry
 hang in there
 hangry
 happy hour
+hard inquiry
 hard water
 have a lot on your plate
 hazard lights
@@ -683,6 +692,7 @@ intermission
 internal temperature
 interview
 interview panel
+introductory rate
 it's on me
 jaywalk
 job application
@@ -713,6 +723,7 @@ last call
 last month's rent
 last train
 late fee
+late payment
 late slip
 laundry card
 laundry detergent
@@ -747,7 +758,10 @@ lint trap
 literature review
 loading zone
 loaf
+loan agreement
+loan payment
 loan period
+loan term
 local bus
 local charity
 locker
@@ -797,6 +811,7 @@ minor
 minor revision
 minutes
 miss a connection
+missed payment
 mittens
 mixing bowl
 mobile banking
@@ -807,6 +822,7 @@ month-to-month
 monthly fee
 monthly pass
 mop
+mortgage pre-approval
 mould
 mouldy
 mouthwash
@@ -924,6 +940,7 @@ parking spot
 parking ticket
 part-time
 part-time position
+partial payment
 party of
 party room
 pass/fail
@@ -945,6 +962,7 @@ performance review
 permanent position
 permission form
 personal day
+personal loan
 personal trainer
 pest control
 pet policy
@@ -987,6 +1005,7 @@ potluck
 pour-over
 power bar
 power outage
+pre-approved
 pre-authorized debit
 pre-authorized payment
 pre-washed
@@ -1012,6 +1031,7 @@ produce
 produce section
 program requirements
 promo code
+promotional rate
 proof of address
 proof of income
 proof of payment
@@ -1029,6 +1049,7 @@ publication fee
 pull over
 pullover
 pumped
+purchase interest
 put your name down
 putty knife
 qualifications
@@ -1114,6 +1135,7 @@ reusable bag
 review comments
 reviewer
 revise
+rewards points
 rewards program
 rider
 rideshare
@@ -1276,6 +1298,7 @@ snowstorm
 soak
 soap scum
 social worker
+soft inquiry
 soggy
 sold loose
 sold out
@@ -1307,6 +1330,7 @@ stall
 start a tab
 start date
 statement balance
+statement date
 static electricity
 station attendant
 station entrance
@@ -1481,6 +1505,7 @@ vacation request
 vacuum
 valance
 valid
+variable interest rate
 vegan
 vegetarian
 vent
