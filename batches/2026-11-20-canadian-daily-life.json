@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-20-canadian-daily-life",
+  "title": "加拿大日常生活：冬季户外活动与滑雪场",
+  "publishedOn": "2026-11-20",
+  "entries": [
+    {
+      "id": "winter-ski-resort",
+      "term": "ski resort",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪度假区；滑雪场",
+      "explanationZh": "提供滑雪雪道、缆车、租赁和餐饮等设施的冬季度假场所，规模通常比单纯的本地滑雪坡更大，也可能提供住宿。",
+      "examples": [{"en": "We booked a room near the ski resort for the weekend.", "zh": "我们订了滑雪度假区附近的房间，准备周末去住。", "scenarioZh": "安排冬季周末短途旅行"}],
+      "usageNotesZh": ["at a ski resort 表示在滑雪度假区；住宿型场所也常说 stay at a ski resort。", "加拿大滑雪场开放情况受积雪、造雪和天气影响，出发前应查看当天公告。"],
+      "tags": ["winter", "outdoor-activities", "skiing", "travel"]
+    },
+    {
+      "id": "winter-ski-hill",
+      "term": "ski hill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪坡；本地滑雪场",
+      "explanationZh": "加拿大口语里常指供高山滑雪或单板滑雪的场地，尤其是城市附近规模较小、当天往返的滑雪场，不一定真的是天然山地。",
+      "examples": [{"en": "The local ski hill offers evening lessons on weekdays.", "zh": "本地滑雪场在工作日晚上开设课程。", "scenarioZh": "查找下班后可以参加的滑雪活动"}],
+      "usageNotesZh": ["go to the ski hill 是很自然的加拿大日常说法。", "ski hill 强调滑雪场地；ski resort 往往还包括住宿和更多度假设施。"],
+      "tags": ["winter", "outdoor-activities", "skiing", "local-recreation"]
+    },
+    {
+      "id": "winter-lift-ticket",
+      "term": "lift ticket",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪缆车票",
+      "explanationZh": "在指定日期或时段使用滑雪场缆车并进入开放雪道的票。价格常因平日、周末、年龄和使用时长不同。",
+      "examples": [{"en": "I bought the lift ticket online to avoid the lineup at the hill.", "zh": "我在网上买了滑雪缆车票，免得到了滑雪场还要排队。", "scenarioZh": "提前购买滑雪场入场票"}],
+      "usageNotesZh": ["常见搭配有 day lift ticket、evening lift ticket 和 half-day lift ticket。", "有些票使用可重复感应的卡片，首次购买时可能另收卡费或押金。"],
+      "tags": ["winter", "skiing", "tickets", "recreation"]
+    },
+    {
+      "id": "winter-equipment-rental",
+      "term": "equipment rental",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "装备租赁；器材租用",
+      "explanationZh": "按小时或按天租用滑雪板、雪杖、雪鞋、头盔等活动装备的服务，也可指租来的整套器材。",
+      "examples": [{"en": "Equipment rental is not included in the lesson price.", "zh": "课程价格不包含装备租赁费用。", "scenarioZh": "核对初学者滑雪课程的收费项目"}],
+      "usageNotesZh": ["rental package 常指包含多件器材的租赁套餐。", "预约时通常要提供身高、体重、鞋码和滑雪水平，以便调校装备。"],
+      "tags": ["winter", "rentals", "skiing", "costs"]
+    },
+    {
+      "id": "winter-rental-shop",
+      "term": "rental shop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "租赁店；器材出租处",
+      "explanationZh": "办理装备领取、试穿、调整和归还的店铺或服务柜台。滑雪场内外都可能有，价格和归还时间各不相同。",
+      "examples": [{"en": "Please return the skis to the rental shop before it closes.", "zh": "请在租赁店关门前归还滑雪板。", "scenarioZh": "工作人员说明租赁装备的归还要求"}],
+      "usageNotesZh": ["pick up equipment at the rental shop 表示到出租处领取装备。", "场外 rental shop 有时更便宜，但需要自己把装备运到滑雪场。"],
+      "tags": ["winter", "rentals", "skiing", "services"]
+    },
+    {
+      "id": "winter-ski-lesson",
+      "term": "ski lesson",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪课",
+      "explanationZh": "由教练教授滑雪基本动作、安全规则或进阶技巧的课程，可分团体课和私人课，也常按年龄和水平分班。",
+      "examples": [{"en": "My first ski lesson starts at ten, so I need to arrive early for my rentals.", "zh": "我的第一堂滑雪课十点开始，所以我要早点到场领取租赁装备。", "scenarioZh": "规划初次上滑雪课的到场时间"}],
+      "usageNotesZh": ["book、take 或 sign up for a ski lesson 都很常见。", "group lesson 是团体课，private lesson 是私人课。"],
+      "tags": ["winter", "skiing", "lessons", "learning"]
+    },
+    {
+      "id": "winter-beginner-slope",
+      "term": "beginner slope",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "初学者雪坡；入门雪道",
+      "explanationZh": "坡度较缓、方便练习刹车和转弯的滑雪区域。它通常与高速滑行的进阶雪道分开，适合第一次上雪的人。",
+      "examples": [{"en": "Let's practise stopping on the beginner slope before taking the chairlift.", "zh": "坐吊椅缆车前，我们先在初学者雪坡练习停车吧。", "scenarioZh": "陪朋友第一次练习滑雪"}],
+      "usageNotesZh": ["on the beginner slope 表示在初学者雪坡上。", "beginner slope 是通用描述，具体难度仍应以滑雪场当天标示为准。"],
+      "tags": ["winter", "skiing", "beginners", "safety"]
+    },
+    {
+      "id": "winter-bunny-hill",
+      "term": "bunny hill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "练习坡；初学者小雪坡",
+      "explanationZh": "对非常平缓的入门滑雪区的口语称呼，通常供初学者或儿童练习，可能配有魔毯式传送带而不是大型缆车。",
+      "examples": [{"en": "The kids spent the morning learning to turn on the bunny hill.", "zh": "孩子们上午一直在练习坡上学习转弯。", "scenarioZh": "描述儿童滑雪课程"}],
+      "usageNotesZh": ["bunny hill 语气轻松，是北美滑雪场常见说法。", "它不表示正式的难度等级；看地图时还要确认雪道颜色和标志。"],
+      "tags": ["winter", "skiing", "beginners", "family"]
+    },
+    {
+      "id": "winter-chairlift",
+      "term": "chairlift",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "吊椅式滑雪缆车",
+      "explanationZh": "用连续移动的悬挂座椅把滑雪者送上坡顶的缆车。乘坐时要在指定位置排队、放下安全杆，并按标志下车。",
+      "examples": [{"en": "Keep your ski tips up when you get off the chairlift.", "zh": "从吊椅缆车下车时，要把滑雪板前端抬起来。", "scenarioZh": "教练讲解缆车下车动作"}],
+      "usageNotesZh": ["get on、ride 和 get off the chairlift 分别表示上、乘坐和下吊椅缆车。", "如果需要减速或协助，应提前告诉 lift attendant。"],
+      "tags": ["winter", "skiing", "lifts", "safety"]
+    },
+    {
+      "id": "winter-gondola",
+      "term": "gondola",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "封闭式缆车；贡多拉缆车",
+      "explanationZh": "在索道上运行的封闭车厢，可把滑雪者和装备送上山。相比开放式吊椅，它通常更能遮风保暖。",
+      "examples": [{"en": "We took the gondola to the upper mountain because it was very windy.", "zh": "因为风很大，我们乘封闭式缆车去了山上区域。", "scenarioZh": "在寒风天气选择上山缆车"}],
+      "usageNotesZh": ["take the gondola up/down 表示乘封闭式缆车上山或下山。", "滑雪场语境中的 gondola 指缆车车厢，不是威尼斯的小船。"],
+      "tags": ["winter", "skiing", "lifts", "transportation"]
+    },
+    {
+      "id": "winter-ski-run",
+      "term": "ski run",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪道；一趟滑雪路线",
+      "explanationZh": "滑雪场内标记并维护的下坡路线，也可指从上到下滑完的一趟。不同雪道会标示不同难度。",
+      "examples": [{"en": "This ski run closes at four, so this will be our last run.", "zh": "这条滑雪道四点关闭，所以这是我们最后一趟了。", "scenarioZh": "临近雪道关闭时间安排最后一次滑行"}],
+      "usageNotesZh": ["do a run 或 take a run 可表示滑一趟。", "不要进入标为 closed 的 ski run，即使看起来仍有积雪。"],
+      "tags": ["winter", "skiing", "trails", "recreation"]
+    },
+    {
+      "id": "winter-trail-map",
+      "term": "trail map",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "雪道地图；路线图",
+      "explanationZh": "标出雪道名称、难度、缆车、服务设施和边界的地图。滑雪场网站、手机应用和山上告示牌通常都能看到。",
+      "examples": [{"en": "Check the trail map before we choose a route back to the lodge.", "zh": "我们选返回服务小屋的路线前，先看一下雪道地图。", "scenarioZh": "在山上规划安全返回路线"}],
+      "usageNotesZh": ["consult 或 check the trail map 表示查看路线图。", "纸质或静态地图可能不显示实时关闭情况，应同时看现场标志。"],
+      "tags": ["winter", "skiing", "navigation", "safety"]
+    },
+    {
+      "id": "winter-green-run",
+      "term": "green run",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "绿色初级雪道",
+      "explanationZh": "在北美滑雪场通常用绿色圆形标志标出的较容易雪道，适合已掌握基本刹车和转弯的初学者。",
+      "examples": [{"en": "We stayed on green runs until everyone could control their speed.", "zh": "在每个人都能控制速度之前，我们一直只滑绿色初级雪道。", "scenarioZh": "初学者团队选择合适难度"}],
+      "usageNotesZh": ["green circle 也可指绿色圆形难度标志。", "不同滑雪场的相对难度会有差异，绿色雪道也可能有较陡路段。"],
+      "tags": ["winter", "skiing", "trail-ratings", "beginners"]
+    },
+    {
+      "id": "winter-blue-run",
+      "term": "blue run",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "蓝色中级雪道",
+      "explanationZh": "在北美滑雪场通常用蓝色方形标志表示的中等难度雪道，适合能够稳定转弯、停车和控制速度的人。",
+      "examples": [{"en": "Ask your instructor before moving from a green run to a blue run.", "zh": "从绿色雪道进阶到蓝色雪道前，先问问你的教练。", "scenarioZh": "判断自己是否适合升级雪道难度"}],
+      "usageNotesZh": ["blue square 是蓝色中级雪道的常见标志名称。", "是否适合不能只看颜色，还应考虑结冰、能见度和拥挤程度。"],
+      "tags": ["winter", "skiing", "trail-ratings", "intermediate"]
+    },
+    {
+      "id": "winter-black-diamond",
+      "term": "black diamond",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "黑钻高级雪道",
+      "explanationZh": "北美滑雪场用于标示高难度雪道的黑色菱形符号或这类雪道本身，常有陡坡、冰面、树林或复杂地形。",
+      "examples": [{"en": "That black diamond is beyond my skill level, so I'll take the blue run.", "zh": "那条黑钻雪道超过我的水平，所以我会走蓝色雪道。", "scenarioZh": "根据自身能力选择安全路线"}],
+      "usageNotesZh": ["double black diamond 通常表示更高难度，非熟练者不应尝试。", "a black-diamond run 也可作复合形容词结构使用。"],
+      "tags": ["winter", "skiing", "trail-ratings", "advanced"]
+    },
+    {
+      "id": "winter-terrain-park",
+      "term": "terrain park",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪地形公园；技巧区",
+      "explanationZh": "设有跳台、栏杆、箱体等人工地形的滑雪或单板技巧区域，风险通常高于普通雪道，入口会标明规则和难度。",
+      "examples": [{"en": "The terrain park is closed while the crew repairs the jumps.", "zh": "工作人员维修跳台期间，滑雪地形公园暂时关闭。", "scenarioZh": "查看滑雪场当天的区域开放情况"}],
+      "usageNotesZh": ["进入前应查看 feature ratings 和现场规则，并先观察落地区域。", "terrain park 不等于儿童游乐区，通常要求较强的控板能力。"],
+      "tags": ["winter", "skiing", "snowboarding", "safety"]
+    },
+    {
+      "id": "winter-snowmaking",
+      "term": "snowmaking",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "人工造雪",
+      "explanationZh": "滑雪场在温度和湿度合适时用设备制造雪，以补充天然降雪、铺设雪道或延长雪季。造雪期间附近可能能见度较低。",
+      "examples": [{"en": "Cold overnight temperatures allowed snowmaking to continue.", "zh": "夜间的低温让人工造雪得以继续进行。", "scenarioZh": "阅读滑雪场的雪况更新"}],
+      "usageNotesZh": ["snowmaking machine 或 snow gun 指造雪设备。", "man-made snow 指人工雪，但实际滑行感受也会受到压雪和天气影响。"],
+      "tags": ["winter", "skiing", "snow-conditions", "operations"]
+    },
+    {
+      "id": "winter-groomed-trail",
+      "term": "groomed trail",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "压整过的雪道；维护过的冬季路线",
+      "explanationZh": "由压雪车或专用设备整理过的滑雪路线，表面通常更平整。高山滑雪和越野滑雪场都可能使用这个说法。",
+      "examples": [{"en": "The groomed trail is easier to follow after fresh snow.", "zh": "下过新雪后，压整过的雪道更容易辨认和跟随。", "scenarioZh": "选择适合清晨滑行的路线"}],
+      "usageNotesZh": ["trail grooming 表示雪道压整维护。", "groomed 不代表没有冰面、坑洼或其他风险，仍要按现场情况控制速度。"],
+      "tags": ["winter", "skiing", "trails", "snow-conditions"]
+    },
+    {
+      "id": "winter-fresh-powder",
+      "term": "fresh powder",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "新下的松软粉雪",
+      "explanationZh": "刚落下、尚未被压实或大量滑过的松软雪。滑雪者常喜欢这种雪况，但深雪也可能遮住障碍并增加体力消耗。",
+      "examples": [{"en": "There was fresh powder on the hill after last night's snowfall.", "zh": "昨晚下雪后，滑雪坡上铺着新鲜的松软粉雪。", "scenarioZh": "朋友分享早晨的滑雪雪况"}],
+      "usageNotesZh": ["powder day 常指适合滑粉雪的一天。", "fresh powder 是不可数概念，通常不说 a fresh powder。"],
+      "tags": ["winter", "skiing", "snow-conditions", "weather"]
+    },
+    {
+      "id": "winter-ski-patrol",
+      "term": "ski patrol",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪巡逻救援队",
+      "explanationZh": "负责雪道安全、事故急救、伤员转运和关闭危险区域的专业或志愿人员团队。遇到受伤者时应标记现场并尽快联系他们。",
+      "examples": [{"en": "Ski patrol helped the injured skier down the mountain.", "zh": "滑雪巡逻救援队帮助受伤的滑雪者下了山。", "scenarioZh": "描述雪道上的救援处理"}],
+      "usageNotesZh": ["call、notify 或 wait for ski patrol 都很常见。", "报告事故时尽量说明雪道名称、最近的标志和伤者状况。"],
+      "tags": ["winter", "skiing", "emergency", "safety"]
+    },
+    {
+      "id": "winter-day-lodge",
+      "term": "day lodge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪场日间服务小屋",
+      "explanationZh": "供当天游客取暖、休息、吃饭、换装备或使用洗手间的主建筑，一般不提供过夜住宿。",
+      "examples": [{"en": "Let's meet by the cafeteria in the day lodge at noon.", "zh": "我们中午在日间服务小屋的餐厅旁碰面吧。", "scenarioZh": "和同伴约定滑雪途中集合地点"}],
+      "usageNotesZh": ["leave your bag in the day lodge 之前应确认储物规定；贵重物品最好使用 locker。", "day lodge 与提供住宿的 lodge 不完全相同。"],
+      "tags": ["winter", "skiing", "facilities", "services"]
+    },
+    {
+      "id": "winter-warming-hut",
+      "term": "warming hut",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取暖小屋；暖房",
+      "explanationZh": "设在滑雪、滑冰或冬季步道附近，供人短暂避风和取暖的小屋。设施可能很简单，也不一定有工作人员。",
+      "examples": [{"en": "We stopped at the warming hut to warm our hands and drink some water.", "zh": "我们在取暖小屋停下来暖手、喝水。", "scenarioZh": "越野滑雪途中休息防寒"}],
+      "usageNotesZh": ["warm up in a warming hut 表示进取暖小屋缓一缓。", "不要假设小屋一定开放或有饮用水，长途活动仍要自行准备。"],
+      "tags": ["winter", "outdoor-activities", "facilities", "cold-weather"]
+    },
+    {
+      "id": "winter-ski-goggles",
+      "term": "ski goggles",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪护目镜",
+      "explanationZh": "滑雪时保护眼睛免受风、雪和强光影响的贴合式护目镜。不同镜片适合晴天、阴天或夜间等光线条件。",
+      "examples": [{"en": "My ski goggles fogged up when I covered the vents with my hat.", "zh": "我的帽子挡住通风口后，滑雪护目镜起雾了。", "scenarioZh": "处理冬季运动护目镜起雾问题"}],
+      "usageNotesZh": ["goggles 通常使用复数形式，如 a pair of ski goggles。", "选择时要确认与头盔贴合，并避免刮擦镜片内侧的防雾涂层。"],
+      "tags": ["winter", "skiing", "equipment", "eye-protection"]
+    },
+    {
+      "id": "winter-ski-helmet",
+      "term": "ski helmet",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑雪头盔",
+      "explanationZh": "为滑雪和单板滑雪设计的防护头盔，用于降低碰撞或跌倒时头部受伤的风险。正确尺码应贴合但不夹痛。",
+      "examples": [{"en": "Make sure the ski helmet sits level and the chin strap is snug.", "zh": "要确保滑雪头盔戴平，颏带也贴合稳固。", "scenarioZh": "帮孩子检查滑雪防护装备"}],
+      "usageNotesZh": ["wear、rent 和 fit a ski helmet 都很常见。", "头盔不能消除所有风险；受过明显撞击后应按制造商指引检查或更换。"],
+      "tags": ["winter", "skiing", "equipment", "safety"]
+    },
+    {
+      "id": "winter-cross-country-skiing",
+      "term": "cross-country skiing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "越野滑雪",
+      "explanationZh": "使用较轻的滑雪板和雪杖沿平地、缓坡或整理过的轨道前进的冬季运动，与主要依靠缆车上山的高山滑雪不同。",
+      "examples": [{"en": "The conservation area has ten kilometres of trails for cross-country skiing.", "zh": "这个自然保护区有十公里可供越野滑雪的路线。", "scenarioZh": "查找城市附近的冬季户外活动"}],
+      "usageNotesZh": ["go cross-country skiing 表示去越野滑雪。", "常见类型有 classic 和 skate skiing，装备与压好的轨道也有所不同。"],
+      "tags": ["winter", "outdoor-activities", "skiing", "fitness"]
+    }
+  ]
+}
