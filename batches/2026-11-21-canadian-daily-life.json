@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-21-canadian-daily-life",
+  "title": "加拿大日常生活：感冒症状、药房购药与居家护理",
+  "publishedOn": "2026-11-21",
+  "entries": [
+    {
+      "id": "health-sore-throat",
+      "term": "sore throat",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "喉咙痛；咽喉疼痛",
+      "explanationZh": "吞咽、说话或休息时喉咙发痛或发痒的常见症状，可能随感冒、流感或其他感染出现。描述症状时通常说 have a sore throat。",
+      "examples": [{"en": "I have a sore throat, and it hurts when I swallow.", "zh": "我喉咙痛，吞咽时会疼。", "scenarioZh": "在药房向药剂师描述不适"}],
+      "usageNotesZh": ["have a sore throat 是最常见搭配；sore 在这里表示疼痛不适。", "如果伴随呼吸困难、严重吞咽困难或症状持续加重，应及时寻求医疗帮助。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "pharmacy"]
+    },
+    {
+      "id": "health-runny-nose",
+      "term": "runny nose",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "流鼻涕",
+      "explanationZh": "鼻腔分泌物不断流出的症状，常见于感冒、过敏或冷空气刺激。日常描述通常使用 a runny nose。",
+      "examples": [{"en": "My runny nose started yesterday, but I do not have a fever.", "zh": "我昨天开始流鼻涕，但没有发烧。", "scenarioZh": "向诊所接待人员说明症状和开始时间"}],
+      "usageNotesZh": ["have a runny nose 表示正在流鼻涕。", "runny 是口语中很自然的说法，不要直译为鼻子在跑。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "everyday-english"]
+    },
+    {
+      "id": "health-nasal-congestion",
+      "term": "nasal congestion",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "鼻塞；鼻腔充血",
+      "explanationZh": "鼻腔肿胀或分泌物增加造成的不通气感，是包装说明、药剂师和医护人员常用的较正式说法。",
+      "examples": [{"en": "The nasal congestion is making it hard for me to sleep.", "zh": "鼻塞让我很难入睡。", "scenarioZh": "咨询适合夜间使用的缓解方法"}],
+      "usageNotesZh": ["congestion 单独使用时也可能指鼻塞或胸闷，要结合语境。", "日常口语可说 my nose is blocked，但 nasal congestion 更适合医疗和药品语境。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "medical-english"]
+    },
+    {
+      "id": "health-cough",
+      "term": "cough",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "咳嗽；咳",
+      "explanationZh": "呼吸道受刺激时把空气突然呼出的动作，也指这种症状。它既可作名词，也可作动词。",
+      "examples": [{"en": "I have had this cough for three days, and I cough more at night.", "zh": "我已经咳嗽三天了，而且晚上咳得更厉害。", "scenarioZh": "向医生说明咳嗽持续时间和规律"}],
+      "usageNotesZh": ["名词常说 have a cough；动词直接说 I keep coughing。", "描述时可补充是否有痰、是否夜间加重以及持续多久。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "medical-english"]
+    },
+    {
+      "id": "health-dry-cough",
+      "term": "dry cough",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "干咳；无痰咳嗽",
+      "explanationZh": "没有明显痰液、常让喉咙发痒或受刺激的咳嗽。购买止咳药时，药剂师常会先确认是干咳还是有痰咳嗽。",
+      "examples": [{"en": "It is a dry cough with no mucus.", "zh": "这是没有痰的干咳。", "scenarioZh": "回答药剂师关于咳嗽类型的问题"}],
+      "usageNotesZh": ["a persistent dry cough 表示持续不退的干咳。", "dry cough 描述咳嗽性质，不说明具体病因。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "pharmacy"]
+    },
+    {
+      "id": "health-fever",
+      "term": "fever",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "发烧；发热",
+      "explanationZh": "体温高于正常范围的症状。加拿大通常也会使用摄氏度记录体温，向医护人员说明时最好给出测得的温度和时间。",
+      "examples": [{"en": "My temperature was 38.5 degrees, so I think I have a fever.", "zh": "我的体温是 38.5 摄氏度，所以我觉得自己发烧了。", "scenarioZh": "电话咨询时报告测量到的体温"}],
+      "usageNotesZh": ["have a fever 表示发烧；a high fever 表示高烧。", "break a fever 常指发烧开始退下，不等于病因已经解决。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "temperature"]
+    },
+    {
+      "id": "health-chills",
+      "term": "chills",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "发冷；寒战",
+      "explanationZh": "即使环境不冷也感到强烈发冷、起鸡皮疙瘩或身体颤抖的症状，常与发烧或感染一起出现。",
+      "examples": [{"en": "I woke up with chills and a fever during the night.", "zh": "我夜里醒来时发冷，还发着烧。", "scenarioZh": "向医生描述夜间出现的症状"}],
+      "usageNotesZh": ["chills 通常使用复数形式，如 have chills 或 get the chills。", "感觉冷可说 feel cold；chills 更强调不由自主的发冷或颤抖。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "medical-english"]
+    },
+    {
+      "id": "health-body-aches",
+      "term": "body aches",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "全身酸痛；身体疼痛",
+      "explanationZh": "肌肉和关节多处发酸或疼痛的感觉，常随流感、发烧或其他感染出现，也可能与运动劳累有关。",
+      "examples": [{"en": "The fever is gone, but I still have body aches.", "zh": "烧已经退了，但我还是全身酸痛。", "scenarioZh": "更新症状变化情况"}],
+      "usageNotesZh": ["have body aches 是常见搭配，也可说 aches and pains。", "说明症状时可区分全身酸痛与某一个部位的剧烈疼痛。"],
+      "tags": ["health", "cold-and-flu", "symptoms", "pain"]
+    },
+    {
+      "id": "health-headache",
+      "term": "headache",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "头痛",
+      "explanationZh": "头部一个或多个区域出现疼痛、胀痛或跳痛的症状。感冒、脱水、压力和多种其他情况都可能引起头痛。",
+      "examples": [{"en": "I have a mild headache and feel tired, but I can still eat normally.", "zh": "我有轻微头痛，也觉得累，但仍能正常吃东西。", "scenarioZh": "说明整体症状严重程度"}],
+      "usageNotesZh": ["have a headache 表示头痛；mild、severe 或 throbbing 可进一步描述程度和感觉。", "突然出现的异常剧烈头痛需要及时进行医疗评估。"],
+      "tags": ["health", "symptoms", "pain", "everyday-english"]
+    },
+    {
+      "id": "health-common-cold",
+      "term": "common cold",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "普通感冒",
+      "explanationZh": "由多种病毒引起的常见上呼吸道感染，通常出现流鼻涕、鼻塞、喉咙痛或咳嗽。日常口语更常直接说 a cold。",
+      "examples": [{"en": "It may just be a common cold, but I am staying home so I do not spread it.", "zh": "可能只是普通感冒，但我会待在家里，免得传给别人。", "scenarioZh": "向同事说明居家休息的原因"}],
+      "usageNotesZh": ["catch a cold 表示患上感冒；have a cold 表示正在感冒。", "common cold 与流感不是同一种疾病，症状重时不要自行假定只是感冒。"],
+      "tags": ["health", "cold-and-flu", "illness", "prevention"]
+    },
+    {
+      "id": "health-flu",
+      "term": "flu",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "流感；流行性感冒",
+      "explanationZh": "influenza 的日常简称，是一种呼吸道传染病，往往比普通感冒更突然，并可能伴随发烧、寒战、全身酸痛和明显疲劳。",
+      "examples": [{"en": "Several people at work are away with the flu this week.", "zh": "这周单位里有好几个人因为流感请假。", "scenarioZh": "讨论工作场所近期的患病情况"}],
+      "usageNotesZh": ["have the flu 和 come down with the flu 都很常见。", "stomach flu 常被用来指胃肠炎，但它通常不是流感病毒引起的真正 influenza。"],
+      "tags": ["health", "cold-and-flu", "illness", "workplace"]
+    },
+    {
+      "id": "health-over-the-counter-medication",
+      "term": "over-the-counter medication",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "非处方药；柜台药",
+      "explanationZh": "无需医生处方即可在药房购买的药物，常缩写为 OTC medication。虽然不需要处方，也仍需核对剂量、禁忌和与其他药物的相互作用。",
+      "examples": [{"en": "Can you recommend an over-the-counter medication for a sore throat?", "zh": "您能推荐一种缓解喉咙痛的非处方药吗？", "scenarioZh": "在药房请药剂师协助选药"}],
+      "usageNotesZh": ["over-the-counter 常缩写为 OTC，并可作形容词修饰 medicine 或 medication。", "加拿大部分非处方药可能放在药剂师柜台后，需要先咨询才能购买。"],
+      "tags": ["health", "pharmacy", "medication", "shopping"]
+    },
+    {
+      "id": "health-prescription-medication",
+      "term": "prescription medication",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "处方药",
+      "explanationZh": "需要由获授权的医疗专业人员开具处方、再由药房配发的药物。取药时要核对姓名、用法和剩余续配次数。",
+      "examples": [{"en": "Please tell the pharmacist about every prescription medication you take.", "zh": "请把你正在服用的所有处方药告诉药剂师。", "scenarioZh": "药房核对用药记录和潜在相互作用"}],
+      "usageNotesZh": ["prescription medicine 与 prescription medication 意思相近。", "不要与他人分享处方药，也不要按别人的剂量服用。"],
+      "tags": ["health", "pharmacy", "medication", "prescriptions"]
+    },
+    {
+      "id": "health-pain-reliever",
+      "term": "pain reliever",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "止痛药；镇痛药",
+      "explanationZh": "用于减轻头痛、肌肉痛或其他疼痛的药物类别。不同成分的适用人群、最大剂量和注意事项不同。",
+      "examples": [{"en": "Which pain reliever is safe to take with my other medication?", "zh": "哪种止痛药可以和我正在服用的其他药一起安全使用？", "scenarioZh": "向药剂师咨询合并用药"}],
+      "usageNotesZh": ["take a pain reliever 表示服用止痛药。", "不要只看品牌名；应检查 active ingredient，以免不同产品重复含有同一成分。"],
+      "tags": ["health", "pharmacy", "medication", "pain"]
+    },
+    {
+      "id": "health-fever-reducer",
+      "term": "fever reducer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退烧药；退热药",
+      "explanationZh": "用于降低发热和缓解伴随不适的药物类别。有些成分同时也是止痛药，因此组合感冒药中可能已经包含。",
+      "examples": [{"en": "Does this cold medicine already contain a fever reducer?", "zh": "这种感冒药里已经含有退烧成分了吗？", "scenarioZh": "避免同时服用重复成分的药物"}],
+      "usageNotesZh": ["fever-reducing medication 是更完整的说法。", "儿童剂量常按年龄或体重计算，应使用适合的产品和量具并遵循专业建议。"],
+      "tags": ["health", "pharmacy", "medication", "fever"]
+    },
+    {
+      "id": "health-cough-syrup",
+      "term": "cough syrup",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "止咳糖浆；咳嗽药水",
+      "explanationZh": "液体形式的咳嗽药，可能用于抑制咳嗽、帮助排痰或缓解多种感冒症状。不同产品的有效成分和作用并不相同。",
+      "examples": [{"en": "Use the measuring cup that comes with the cough syrup.", "zh": "请使用止咳糖浆随附的量杯。", "scenarioZh": "按照包装说明准确量取液体药物"}],
+      "usageNotesZh": ["一剂可说 a dose of cough syrup。", "不要用普通厨房汤匙估量；还应确认产品是否会导致嗜睡。"],
+      "tags": ["health", "pharmacy", "medication", "cough"]
+    },
+    {
+      "id": "health-throat-lozenge",
+      "term": "throat lozenge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "润喉含片；喉糖",
+      "explanationZh": "放在口中慢慢溶化、用于暂时舒缓喉咙疼痛或刺激感的含片。有些含药物成分，有些主要用于润喉。",
+      "examples": [{"en": "Let the throat lozenge dissolve slowly instead of chewing it.", "zh": "让润喉含片慢慢溶化，不要嚼碎。", "scenarioZh": "阅读含片的正确使用方法"}],
+      "usageNotesZh": ["suck on a throat lozenge 表示含一颗润喉含片。", "lozenge 的包装可能注明年龄限制和每日最大用量，应按标签使用。"],
+      "tags": ["health", "pharmacy", "medication", "sore-throat"]
+    },
+    {
+      "id": "health-pharmacist",
+      "term": "pharmacist",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "药剂师；药师",
+      "explanationZh": "在药房负责审核和配发处方、解释用药方法，并就非处方药和药物相互作用提供专业建议的持牌医疗人员。",
+      "examples": [{"en": "I would like to speak with the pharmacist before choosing a cold medicine.", "zh": "在选择感冒药之前，我想先和药剂师谈谈。", "scenarioZh": "在连锁药房请求专业用药咨询"}],
+      "usageNotesZh": ["ask the pharmacist 或 speak to the pharmacist 都很常见。", "pharmacist 是专业人员；pharmacy 是药房或药学，不要混用。"],
+      "tags": ["health", "pharmacy", "professionals", "services"]
+    },
+    {
+      "id": "health-pharmacy-counter",
+      "term": "pharmacy counter",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "药房柜台；处方药柜台",
+      "explanationZh": "药房内递交处方、取药、付款或咨询药剂师的服务柜台。它可能与商店普通收银台分开，也有不同营业时间。",
+      "examples": [{"en": "Your prescription will be ready at the pharmacy counter in twenty minutes.", "zh": "您的处方药二十分钟后可以在药房柜台领取。", "scenarioZh": "工作人员告知处方配药等待时间"}],
+      "usageNotesZh": ["pick up a prescription at the pharmacy counter 表示到药房柜台取处方药。", "药店本身营业不代表 pharmacy counter 仍开放，晚间和节假日尤其应先确认。"],
+      "tags": ["health", "pharmacy", "services", "prescriptions"]
+    },
+    {
+      "id": "health-medication-label",
+      "term": "medication label",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "药品标签；用药说明标签",
+      "explanationZh": "药盒、药瓶或药房容器上列出药名、有效成分、剂量、使用方法、警告和储存要求的标签。处方药标签还会注明患者姓名。",
+      "examples": [{"en": "Read the medication label carefully before taking the first dose.", "zh": "服用第一剂之前，请仔细阅读药品标签。", "scenarioZh": "首次使用新药前核对说明"}],
+      "usageNotesZh": ["check 或 follow the medication label 都很常见。", "看不懂缩写或说明时应直接询问药剂师，不要自行猜测。"],
+      "tags": ["health", "pharmacy", "medication", "instructions"]
+    },
+    {
+      "id": "health-drug-interaction",
+      "term": "drug interaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "药物相互作用",
+      "explanationZh": "一种药物与另一种药物、补充剂、食物或酒精互相影响，使药效或副作用发生变化的情况。",
+      "examples": [{"en": "The pharmacist checked for a drug interaction with my regular medication.", "zh": "药剂师检查了它是否会和我平时服用的药发生相互作用。", "scenarioZh": "购买非处方药前核对现有用药"}],
+      "usageNotesZh": ["check for drug interactions 表示检查药物相互作用。", "向药剂师提供处方药、非处方药和补充剂的完整清单更有助于判断风险。"],
+      "tags": ["health", "pharmacy", "medication", "safety"]
+    },
+    {
+      "id": "health-sick-note",
+      "term": "sick note",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "病假证明；医生证明",
+      "explanationZh": "由医疗专业人员出具、说明某人因健康原因需要缺勤或调整工作安排的文件。雇主或学校是否要求以及需要哪些内容取决于具体政策。",
+      "examples": [{"en": "My employer asked whether I could provide a sick note for the extended absence.", "zh": "因为请假时间较长，雇主问我能否提供病假证明。", "scenarioZh": "和主管沟通连续病假的材料要求"}],
+      "usageNotesZh": ["doctor's note 也是北美常见说法，范围可能不只限于病假。", "获取证明前可先确认机构政策、接受的签发人以及是否产生费用。"],
+      "tags": ["health", "workplace", "documents", "sick-leave"]
+    },
+    {
+      "id": "health-stay-hydrated",
+      "term": "stay hydrated",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "保持水分充足；注意补水",
+      "explanationZh": "通过规律饮用适合的液体来避免脱水的常用表达。生病、发烧或活动量大时，经常会听到这项建议。",
+      "examples": [{"en": "Try to stay hydrated by taking small sips of water throughout the day.", "zh": "尽量全天少量多次喝水，保持水分充足。", "scenarioZh": "居家休养时遵循补水建议"}],
+      "usageNotesZh": ["hydrated 作形容词，stay hydrated 强调持续保持身体水分。", "如果持续呕吐、无法饮水或出现明显脱水迹象，应寻求医疗建议。"],
+      "tags": ["health", "home-care", "hydration", "cold-and-flu"]
+    },
+    {
+      "id": "health-get-some-rest",
+      "term": "get some rest",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "休息一下；好好休息",
+      "explanationZh": "劝人暂停工作或活动、让身体恢复的自然日常表达，生病、疲劳或熬夜后都常使用。",
+      "examples": [{"en": "You should go home, get some rest, and see how you feel tomorrow.", "zh": "你应该回家好好休息，明天再看看感觉怎么样。", "scenarioZh": "同事身体不舒服时劝其回家休养"}],
+      "usageNotesZh": ["get some rest 比 have a rest 在加拿大日常英语里更自然。", "也可说 get plenty of rest，强调要充分休息。"],
+      "tags": ["health", "home-care", "rest", "everyday-english"]
+    },
+    {
+      "id": "health-symptom-relief",
+      "term": "symptom relief",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "症状缓解",
+      "explanationZh": "减轻疼痛、鼻塞、咳嗽等不适，而不一定治疗引起症状的根本原因。感冒药包装和药剂师说明中常见。",
+      "examples": [{"en": "This product provides temporary symptom relief but does not cure the cold.", "zh": "这个产品只能暂时缓解症状，并不能治愈感冒。", "scenarioZh": "阅读非处方感冒药的作用说明"}],
+      "usageNotesZh": ["temporary symptom relief 表示暂时缓解症状。", "relieve symptoms 是对应的动词表达；缓解不等于疾病已经痊愈。"],
+      "tags": ["health", "pharmacy", "medication", "cold-and-flu"]
+    }
+  ]
+}
