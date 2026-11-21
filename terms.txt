@@ -131,6 +131,7 @@ blowing snow
 blue run
 board
 board game
+body aches
 body wash
 boil over
 boil water advisory
@@ -227,6 +228,7 @@ checkout lane
 cheque deposit
 chequing account
 childproof cap
+chills
 chip in
 cilantro
 circle back
@@ -264,6 +266,7 @@ collection day
 comforter
 committee
 common area
+common cold
 community centre
 community event
 community garden
@@ -295,7 +298,9 @@ cost an arm and a leg
 cottage
 cottage cheese
 cotton swab
+cough
 cough drop
+cough syrup
 coupon
 course load
 course outline
@@ -423,8 +428,10 @@ drop-in
 drop-in centre
 drop-in fee
 drowsy
+drug interaction
 dry air
 dry clean only
+dry cough
 dryer sheet
 drywall
 dubbed
@@ -504,6 +511,8 @@ faucet
 fed up
 feedback
 fender bender
+fever
+fever reducer
 field trip
 fill up
 final exam
@@ -525,6 +534,7 @@ flat white
 fleece
 flip
 floss
+flu
 flu shot
 flurries
 flyer
@@ -576,6 +586,7 @@ general admission
 generic
 get off
 get on
+get some rest
 get the hang of it
 get towed
 ghost
@@ -641,6 +652,7 @@ hard water
 have a lot on your plate
 hazard lights
 head
+headache
 headliner
 heads-up
 health card
@@ -808,6 +820,7 @@ meal program
 measuring cup
 meat counter
 median
+medication label
 medium rare
 meeting invite
 meeting room
@@ -849,6 +862,7 @@ mudroom
 mute
 my bad
 my two cents
+nasal congestion
 nasal spray
 neat
 neighbourhood association
@@ -918,6 +932,7 @@ outstanding balance
 oven mitt
 over easy
 over-the-counter
+over-the-counter medication
 overdraft
 overdraft protection
 overdue
@@ -932,6 +947,7 @@ packed lunch
 page limit
 page proof
 paid time off
+pain reliever
 painter's tape
 pantry staples
 paper towel
@@ -979,6 +995,8 @@ personal loan
 personal trainer
 pest control
 pet policy
+pharmacist
+pharmacy counter
 phone screen
 phone screening
 photocopy
@@ -1027,6 +1045,7 @@ premiere
 premium
 prepaid label
 prerequisite
+prescription medication
 presentation
 price adjustment
 price check
@@ -1184,6 +1203,7 @@ run late
 run something by someone
 runners
 runny
+runny nose
 runs large
 runs small
 runtime
@@ -1271,6 +1291,7 @@ shred
 shut-off valve
 shuttle bus
 sick day
+sick note
 side effects
 sidewalk
 sidewalk clearing
@@ -1324,6 +1345,7 @@ soft inquiry
 soggy
 sold loose
 sold out
+sore throat
 southbound
 souvenir
 space heater
@@ -1359,6 +1381,7 @@ station entrance
 station exit
 stationary bike
 status update
+stay hydrated
 steep
 step stool
 stepladder
@@ -1417,6 +1440,7 @@ swimsuit
 swing by
 swollen
 syllabus
+symptom relief
 system map
 tailgate
 take a number
@@ -1448,6 +1472,7 @@ thermal underwear
 thermostat
 thesis
 threshold
+throat lozenge
 throw blanket
 ticket machine
 ticket transfer
