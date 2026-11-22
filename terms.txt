@@ -52,6 +52,7 @@ application status
 apply
 apply for a job
 appointment
+aquafit
 arch support
 area rug
 as needed
@@ -102,6 +103,7 @@ baste
 batter
 battery booster
 beat
+beginner class
 beginner slope
 behind schedule
 bell pepper
@@ -150,6 +152,7 @@ bowling
 box office
 box spring
 braking distance
+bring your own
 broil
 broke
 bruised
@@ -190,6 +193,7 @@ call it a day
 call number
 campus
 campus card
+cancellation policy
 cancelled
 candidate
 caramelize
@@ -240,6 +244,7 @@ city councillor
 claim
 clamshell
 class participation
+class schedule
 clean up a spill
 cleaning fee
 cleaning supplies
@@ -427,6 +432,7 @@ drop the ball
 drop-in
 drop-in centre
 drop-in fee
+drop-in program
 drowsy
 drug interaction
 dry air
@@ -471,6 +477,7 @@ enrolment deadline
 entry-level position
 entrée
 EOB
+equipment included
 equipment rental
 ER
 escalator
@@ -501,6 +508,7 @@ fallen tree
 family doctor
 family pack
 family style
+family swim
 fare
 fare card
 fare gate
@@ -704,6 +712,7 @@ ingredient list
 inhaler
 inseam
 institution number
+instructor
 insufficient funds
 insulated
 intake appointment
@@ -712,6 +721,7 @@ intercom
 interest
 interest charge
 interlibrary loan
+intermediate class
 intermission
 internal temperature
 interview
@@ -725,6 +735,7 @@ job offer
 job opening
 job posting
 join a call
+join the waitlist
 joint account
 journal
 jug
@@ -762,6 +773,7 @@ lease assignment
 lease renewal
 lecture
 leftovers
+leisure swim
 let it rest
 let passengers off
 level
@@ -914,6 +926,7 @@ online course
 online order
 online portal
 open enrollment
+open gym
 opening act
 order confirmation
 order number
@@ -1061,6 +1074,7 @@ probation period
 processing time
 produce
 produce section
+program registration
 program requirements
 promo code
 promotional rate
@@ -1076,6 +1090,8 @@ proposal
 public consultation
 public notice
 public school
+public skating
+public swim
 public washroom
 publication fee
 pull over
@@ -1101,6 +1117,7 @@ rear-end
 rebuttal
 receipt
 recess
+recreation centre
 recreation program
 recruiter
 recycling bin
@@ -1115,10 +1132,13 @@ referral
 refill
 refrigerate
 refund
+refund policy
 regional transit
 register
 registrar
+registration deadline
 registration fee
+registration opens
 regular
 regular fit
 regular price
@@ -1261,6 +1281,7 @@ service disruption
 service fee
 service request
 service suspended
+session fee
 set
 setlist
 settle up
@@ -1304,6 +1325,8 @@ size chart
 size down
 size up
 skate rental
+skate sharpening
+skating session
 sketchy
 ski goggles
 ski helmet
@@ -1436,6 +1459,7 @@ surcharge
 swab
 swamped
 Swiffer
+swimming lessons
 swimsuit
 swing by
 swollen
@@ -1521,6 +1545,7 @@ transit operator
 transit pass
 treadmill
 triage
+trial class
 trip planner
 trivet
 true to size
