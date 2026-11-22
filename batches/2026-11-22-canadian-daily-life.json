@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-22-canadian-daily-life",
+  "title": "加拿大日常生活：社区娱乐课程、游泳滑冰与活动报名",
+  "publishedOn": "2026-11-22",
+  "entries": [
+    {
+      "id": "recreation-centre",
+      "term": "recreation centre",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区康体中心；文体活动中心",
+      "explanationZh": "由市政府、社区机构或私人单位运营，提供游泳池、健身房、球场、课程和儿童活动等设施的场所。加拿大拼写常用 centre。",
+      "examples": [{"en": "The recreation centre offers swimming, skating, and fitness programs.", "zh": "这家社区康体中心提供游泳、滑冰和健身项目。", "scenarioZh": "查看社区冬季休闲活动选择"}],
+      "usageNotesZh": ["也常简写为 rec centre，属于自然的加拿大口语。", "不同设施可能需要会员资格、单次入场费或提前注册。"],
+      "tags": ["recreation", "community-services", "facilities", "canadian-english"]
+    },
+    {
+      "id": "recreation-program-registration",
+      "term": "program registration",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "活动项目报名；课程注册",
+      "explanationZh": "为社区中心、体育课程、夏令营或兴趣班登记参加者信息并付款的流程，很多市政项目会在固定日期统一开放。",
+      "examples": [{"en": "Online program registration begins at seven tomorrow morning.", "zh": "活动项目网上报名明早七点开始。", "scenarioZh": "准备抢报市政游泳课程"}],
+      "usageNotesZh": ["complete program registration 表示完成项目报名。", "热门课程可能很快满员，报名账户和付款方式最好提前准备。"],
+      "tags": ["recreation", "registration", "community-programs", "online-services"]
+    },
+    {
+      "id": "recreation-registration-opens",
+      "term": "registration opens",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "报名开放；开始接受注册",
+      "explanationZh": "表示某项课程或活动从指定日期和时间起可以报名。这里的 opens 指报名系统开始受理，而不是建筑物开门。",
+      "examples": [{"en": "Registration opens on Tuesday for Toronto residents.", "zh": "多伦多居民的报名将于周二开放。", "scenarioZh": "阅读市政活动报名通知"}],
+      "usageNotesZh": ["常见结构是 Registration opens on 日期 at 时间。", "若分居民和非居民开放，需仔细核对自己适用的开始时间。"],
+      "tags": ["recreation", "registration", "scheduling", "community-programs"]
+    },
+    {
+      "id": "recreation-registration-deadline",
+      "term": "registration deadline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "报名截止日期；注册截止时间",
+      "explanationZh": "提交报名资料和付款的最后期限。到期前名额也可能提前满，因此它不等于一定能报到的保证日期。",
+      "examples": [{"en": "The registration deadline is Friday, unless the class fills earlier.", "zh": "报名截止到周五，但课程也可能更早满员。", "scenarioZh": "确认兴趣班报名的最后时间"}],
+      "usageNotesZh": ["meet、miss 或 extend the registration deadline 都很常见。", "deadline 可能精确到某个时区和时间，网上报名时要查看完整说明。"],
+      "tags": ["recreation", "registration", "deadlines", "scheduling"]
+    },
+    {
+      "id": "recreation-join-the-waitlist",
+      "term": "join the waitlist",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "加入候补名单；排队等名额",
+      "explanationZh": "课程或活动满员后，把名字加入候补队列，以便有人退出时按规则递补。加入候补不代表一定能获得名额。",
+      "examples": [{"en": "The class is full, but you can join the waitlist online.", "zh": "这门课已经满了，但你可以在网上加入候补名单。", "scenarioZh": "报名热门滑冰课程时发现满员"}],
+      "usageNotesZh": ["get off the waitlist 常表示候补成功、获得正式名额。", "收到递补通知后通常要在限定时间内确认和付款。"],
+      "tags": ["recreation", "registration", "waitlists", "community-programs"]
+    },
+    {
+      "id": "recreation-drop-in-program",
+      "term": "drop-in program",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "随到随参加的活动；单次参与项目",
+      "explanationZh": "不必报名完整一期、可按单次时间参加的社区或康体活动。有些可以直接到场，有些仍需当天网上预留位置。",
+      "examples": [{"en": "This drop-in program costs five dollars per visit.", "zh": "这个随到随参加的活动每次收费五加元。", "scenarioZh": "比较单次参加和长期课程的费用"}],
+      "usageNotesZh": ["drop-in fee 是单次入场费；drop-in schedule 是单次活动时间表。", "drop-in 不一定表示完全免预约，应查看当日容量和签到规则。"],
+      "tags": ["recreation", "drop-in", "community-programs", "fees"]
+    },
+    {
+      "id": "recreation-open-gym",
+      "term": "open gym",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "开放体育馆时段；自由活动时段",
+      "explanationZh": "体育馆在指定时段向公众开放，可自由进行篮球、羽毛球等活动，而不是参加由教练带领的固定课程。",
+      "examples": [{"en": "Open gym for adults runs from six to eight tonight.", "zh": "今晚六点到八点是成人开放体育馆时段。", "scenarioZh": "查看社区中心晚间活动安排"}],
+      "usageNotesZh": ["open gym 具体允许哪些运动取决于场馆安排。", "有些时段按年龄分组，也可能要求自带球拍或球。"],
+      "tags": ["recreation", "sports", "drop-in", "facilities"]
+    },
+    {
+      "id": "recreation-public-swim",
+      "term": "public swim",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公众游泳时段；公共开放游泳",
+      "explanationZh": "泳池面向一般公众开放的时段，通常以休闲玩水为主，不一定划出专门的连续游泳泳道。",
+      "examples": [{"en": "Public swim starts at two, and children must be supervised.", "zh": "公众游泳时段两点开始，儿童必须有人看护。", "scenarioZh": "带家人去市政泳池前查看规定"}],
+      "usageNotesZh": ["go to public swim 或 attend a public swim 都可使用。", "儿童看护比例、深水区测试和救生衣要求因场馆而异。"],
+      "tags": ["recreation", "swimming", "pools", "family"]
+    },
+    {
+      "id": "recreation-leisure-swim",
+      "term": "leisure swim",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "休闲游泳时段",
+      "explanationZh": "以轻松游泳、玩水和家庭活动为主的泳池开放时段，与训练用的分泳道游泳有所区别。市政时间表中很常见。",
+      "examples": [{"en": "The leisure swim uses the shallow pool and part of the main pool.", "zh": "休闲游泳时段会使用浅水池和主泳池的一部分。", "scenarioZh": "查看泳池各区域的开放情况"}],
+      "usageNotesZh": ["leisure swim 和 public swim 在一些场馆可能指相近活动。", "是否开放跳水板、滑梯或深水区要以当天公告为准。"],
+      "tags": ["recreation", "swimming", "pools", "leisure"]
+    },
+    {
+      "id": "recreation-family-swim",
+      "term": "family swim",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "家庭游泳时段；亲子游泳时段",
+      "explanationZh": "主要供儿童与家长或监护人一起参加的泳池时段，通常强调成人必须在水中近距离看护年幼儿童。",
+      "examples": [{"en": "An adult must be in the water with each child during family swim.", "zh": "家庭游泳时段，每名儿童都必须有一位成人陪同下水。", "scenarioZh": "阅读亲子游泳的陪同规则"}],
+      "usageNotesZh": ["family swim 不一定只限有亲属关系的人，具体入场条件看场馆政策。", "with each child 和 within arm's reach 常出现在儿童看护要求中。"],
+      "tags": ["recreation", "swimming", "family", "safety"]
+    },
+    {
+      "id": "recreation-aquafit",
+      "term": "aquafit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "水中健身课；水中有氧运动",
+      "explanationZh": "在泳池中跟随教练进行的低冲击有氧和力量训练课程，利用水的阻力锻炼身体。加拿大社区中心常直接称为 Aquafit。",
+      "examples": [{"en": "You do not need to be a strong swimmer for the shallow-water aquafit class.", "zh": "参加浅水水中健身课不需要很强的游泳能力。", "scenarioZh": "询问水中健身课的参加要求"}],
+      "usageNotesZh": ["deep-water aquafit 通常需要使用浮力腰带，要求与浅水课程不同。", "参加前应确认水深、器材以及是否需要提前预订。"],
+      "tags": ["recreation", "swimming", "fitness", "classes"]
+    },
+    {
+      "id": "recreation-skating-session",
+      "term": "skating session",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "滑冰场次；滑冰时段",
+      "explanationZh": "冰场安排的一段固定开放时间，可用于公众滑冰、练习或特定年龄组活动。门票通常只适用于所选场次。",
+      "examples": [{"en": "The evening skating session is sold out, so we booked the afternoon one.", "zh": "晚上的滑冰场次已经售罄，所以我们订了下午场。", "scenarioZh": "网上预订周末滑冰时段"}],
+      "usageNotesZh": ["book a skating session 表示预订一个滑冰场次。", "入场、换鞋和离场时间可能包含在场次时长内，应提前到达。"],
+      "tags": ["recreation", "skating", "scheduling", "tickets"]
+    },
+    {
+      "id": "recreation-public-skating",
+      "term": "public skating",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "公众滑冰；公共开放滑冰",
+      "explanationZh": "冰场向普通公众开放、大家按统一方向休闲滑行的时段，通常不是花样滑冰训练或冰球活动。",
+      "examples": [{"en": "Helmets are strongly recommended during public skating.", "zh": "公众滑冰时强烈建议佩戴头盔。", "scenarioZh": "查看市政冰场安全提示"}],
+      "usageNotesZh": ["go public skating 表示去参加公众滑冰。", "冰场常禁止使用球杆、冰球和高速危险动作。"],
+      "tags": ["recreation", "skating", "ice-rinks", "safety"]
+    },
+    {
+      "id": "recreation-skate-sharpening",
+      "term": "skate sharpening",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "冰刀磨刃；冰鞋磨刀服务",
+      "explanationZh": "用专用机器打磨冰刀底部，使刀刃恢复适合滑行的沟槽和抓冰能力。新冰鞋通常也需要先开刃。",
+      "examples": [{"en": "Do you offer skate sharpening, and how long does it take?", "zh": "你们提供冰刀磨刃服务吗，需要多长时间？", "scenarioZh": "在体育用品店询问冰鞋维护"}],
+      "usageNotesZh": ["get my skates sharpened 表示把冰鞋拿去磨刃。", "磨刃频率取决于使用次数、冰面状况和个人偏好，并非越频繁越好。"],
+      "tags": ["recreation", "skating", "equipment", "services"]
+    },
+    {
+      "id": "recreation-swimming-lessons",
+      "term": "swimming lessons",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "游泳课；游泳课程",
+      "explanationZh": "由教练分级教授水中安全、呼吸、漂浮和泳姿的课程，可面向儿童或成人，通常按若干周为一期。",
+      "examples": [{"en": "Adult swimming lessons are available for complete beginners.", "zh": "这里有面向零基础成人的游泳课。", "scenarioZh": "寻找适合初学者的社区课程"}],
+      "usageNotesZh": ["take swimming lessons 表示上游泳课。", "报名前应阅读 level description，避免只按年龄选择而忽略实际技能。"],
+      "tags": ["recreation", "swimming", "lessons", "learning"]
+    },
+    {
+      "id": "recreation-beginner-class",
+      "term": "beginner class",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "初级班；入门课程",
+      "explanationZh": "面向没有经验或刚开始学习某项活动的人开设的课程，通常从安全规则和基本动作讲起。",
+      "examples": [{"en": "I signed up for the beginner class because I have never skated before.", "zh": "因为我以前从没滑过冰，所以报了初级班。", "scenarioZh": "根据个人经验选择滑冰课程等级"}],
+      "usageNotesZh": ["beginner-friendly 表示对新手友好，但不一定是正式分级课程。", "有些 beginner class 仍有最低年龄、装备或水性要求。"],
+      "tags": ["recreation", "classes", "beginners", "learning"]
+    },
+    {
+      "id": "recreation-intermediate-class",
+      "term": "intermediate class",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "中级班；进阶课程",
+      "explanationZh": "面向已经掌握基本动作、准备学习更复杂技能的人开设的课程，通常会列出明确的先修能力。",
+      "examples": [{"en": "The intermediate class requires students to swim twenty-five metres without stopping.", "zh": "中级班要求学员能连续游二十五米。", "scenarioZh": "核对游泳课程的先修技能"}],
+      "usageNotesZh": ["move up to an intermediate class 表示升入中级班。", "不同机构的 intermediate 标准不统一，应查看具体课程描述或参加评估。"],
+      "tags": ["recreation", "classes", "intermediate", "learning"]
+    },
+    {
+      "id": "recreation-trial-class",
+      "term": "trial class",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "体验课；试听课",
+      "explanationZh": "在报名整期课程前参加的一次体验课程，用来了解教学方式、难度和个人兴趣。它可能免费，也可能收取单次费用。",
+      "examples": [{"en": "Can I take a trial class before registering for the full session?", "zh": "在报名整期课程前，我可以先上一节体验课吗？", "scenarioZh": "向活动机构咨询试听安排"}],
+      "usageNotesZh": ["book 或 attend a trial class 都很常见。", "并非所有市政课程都提供体验课，取消和退款规则也可能不同。"],
+      "tags": ["recreation", "classes", "trial", "registration"]
+    },
+    {
+      "id": "recreation-instructor",
+      "term": "instructor",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "教练；课程指导员",
+      "explanationZh": "教授游泳、滑冰、健身或其他技能，并负责组织课程和提供安全指导的人。具体资质要求因项目而异。",
+      "examples": [{"en": "Tell the instructor about your previous injury before the class begins.", "zh": "上课前请把你以前的伤情告诉教练。", "scenarioZh": "参加健身课程前沟通身体限制"}],
+      "usageNotesZh": ["swimming instructor、skating instructor 和 fitness instructor 都很常见。", "instructor 强调教学职责；coach 更常用于持续训练和竞技指导，但两者有时重叠。"],
+      "tags": ["recreation", "classes", "staff", "learning"]
+    },
+    {
+      "id": "recreation-class-schedule",
+      "term": "class schedule",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "课程时间表；上课安排",
+      "explanationZh": "列出课程日期、开始时间、地点和可能停课日期的安排。节假日、场馆维修或教练变动都可能导致更新。",
+      "examples": [{"en": "The class schedule shows no lesson during the holiday weekend.", "zh": "课程时间表显示节假日周末不上课。", "scenarioZh": "确认长周末是否正常上课"}],
+      "usageNotesZh": ["check 或 view the class schedule 表示查看课程安排。", "schedule 在加拿大口语中常按北美读法发音，但词条不需要单独记录发音字段。"],
+      "tags": ["recreation", "classes", "scheduling", "community-programs"]
+    },
+    {
+      "id": "recreation-session-fee",
+      "term": "session fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "整期费用；场次费用",
+      "explanationZh": "参加一整期课程或某个指定场次需要支付的费用。语境不同，session 可能指连续数周的课程，也可能指一次活动。",
+      "examples": [{"en": "The session fee covers eight classes but does not include equipment rental.", "zh": "整期费用包含八节课，但不含装备租赁。", "scenarioZh": "核对课程价格包含的项目"}],
+      "usageNotesZh": ["pay the session fee 表示支付整期或场次费用。", "报名前应确认税费、器材、保险和场馆入场是否另计。"],
+      "tags": ["recreation", "fees", "classes", "costs"]
+    },
+    {
+      "id": "recreation-equipment-included",
+      "term": "equipment included",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "包含装备；器材已含在费用内",
+      "explanationZh": "表示报名费、租赁费或活动价格中已经提供所需器材，不必另付费租用。仍需确认具体包含哪些物品和尺码。",
+      "examples": [{"en": "The beginner package has skates and a helmet included.", "zh": "初学者套餐包含冰鞋和头盔。", "scenarioZh": "比较滑冰课程套餐内容"}],
+      "usageNotesZh": ["Is equipment included? 是报名活动前很实用的问法。", "included 不一定表示可以带走，通常只是活动期间使用。"],
+      "tags": ["recreation", "equipment", "fees", "registration"]
+    },
+    {
+      "id": "recreation-bring-your-own",
+      "term": "bring your own",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "自带；请自行携带",
+      "explanationZh": "通知参加者自行携带所需物品的常用表达，后面接装备、毛巾、水瓶或其他名词，也常缩写为 BYO。",
+      "examples": [{"en": "Please bring your own yoga mat and water bottle.", "zh": "请自带瑜伽垫和水瓶。", "scenarioZh": "阅读社区健身课程的准备清单"}],
+      "usageNotesZh": ["bring your own equipment 表示自带装备。", "BYOB 在不同语境中可能特指自带酒水，不要把所有 BYO 通知都作同样理解。"],
+      "tags": ["recreation", "equipment", "instructions", "everyday-english"]
+    },
+    {
+      "id": "recreation-cancellation-policy",
+      "term": "cancellation policy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取消政策；退订规则",
+      "explanationZh": "说明参加者或主办方取消课程、预约或场次时如何处理费用、积分和改期的规则，通常规定提前通知期限。",
+      "examples": [{"en": "The cancellation policy requires twenty-four hours' notice for a credit.", "zh": "取消政策规定，至少提前二十四小时通知才能获得账户额度。", "scenarioZh": "取消已预约的健身课程前查看规则"}],
+      "usageNotesZh": ["under the cancellation policy 表示按照取消政策。", "天气导致的场馆关闭可能适用与个人取消不同的处理规则。"],
+      "tags": ["recreation", "cancellations", "policies", "fees"]
+    },
+    {
+      "id": "recreation-refund-policy",
+      "term": "refund policy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退款政策；退费规则",
+      "explanationZh": "说明在何种条件、期限和方式下可以退回课程或活动费用的规则，也会列明手续费、不可退款项目和按比例退款方式。",
+      "examples": [{"en": "Check the refund policy before paying for the full ten-week program.", "zh": "支付完整十周课程费用前，请先查看退款政策。", "scenarioZh": "报名长期兴趣班前评估退费风险"}],
+      "usageNotesZh": ["eligible for a refund 表示符合退款条件。", "refund、account credit 和 transfer to another class 是不同处理方式，应确认自己得到哪一种。"],
+      "tags": ["recreation", "refunds", "policies", "registration"]
+    }
+  ]
+}
