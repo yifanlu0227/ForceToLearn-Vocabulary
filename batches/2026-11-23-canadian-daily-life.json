@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "life-2026-11-23-canadian-daily-life",
+  "title": "加拿大日常生活：研究组协作、实验进展与学术署名",
+  "publishedOn": "2026-11-23",
+  "entries": [
+    {
+      "id": "academic-research-assistant",
+      "term": "research assistant",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究助理",
+      "explanationZh": "协助教师、实验室或研究项目完成文献整理、实验、数据处理和行政事务的人，常缩写为 RA。职位可能是学生资助、兼职或全职雇佣。",
+      "examples": [{"en": "I work as a research assistant in a computer vision lab.", "zh": "我在一个计算机视觉实验室担任研究助理。", "scenarioZh": "向同学介绍自己的校内研究工作"}],
+      "usageNotesZh": ["work as a research assistant 和 hire a research assistant 都很常见。", "RA 在不同学校也可能指 resident assistant，需结合研究或宿舍语境判断。"],
+      "tags": ["academic", "research", "university", "employment"]
+    },
+    {
+      "id": "academic-principal-investigator",
+      "term": "principal investigator",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "首席研究员；项目负责人",
+      "explanationZh": "对研究项目的设计、经费、合规和团队管理承担主要责任的研究人员，常缩写为 PI。在大学实验室里通常是教授或资深研究员。",
+      "examples": [{"en": "The principal investigator approved the revised study plan.", "zh": "项目负责人批准了修改后的研究计划。", "scenarioZh": "研究团队确认实验方案变更"}],
+      "usageNotesZh": ["principal investigator 常缩写为 PI，复数为 principal investigators。", "PI 不一定等同于日常指导你的直接导师，要看项目组织结构。"],
+      "tags": ["academic", "research", "leadership", "university"]
+    },
+    {
+      "id": "academic-lab-meeting",
+      "term": "lab meeting",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "实验室组会；研究组会议",
+      "explanationZh": "研究团队定期汇报进展、讨论论文、实验和项目安排的会议。即使不是湿实验室，计算机科学研究组也常使用这个说法。",
+      "examples": [{"en": "I will present my latest results at Friday's lab meeting.", "zh": "我会在周五的组会上汇报最新结果。", "scenarioZh": "安排本周研究进展汇报"}],
+      "usageNotesZh": ["at the lab meeting 表示在组会上；weekly lab meeting 表示每周组会。", "不要把 lab meeting 理解成只在实验室房间里举行，它也可能线上进行。"],
+      "tags": ["academic", "research", "meetings", "collaboration"]
+    },
+    {
+      "id": "academic-one-on-one-meeting",
+      "term": "one-on-one meeting",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一对一会议；单独会谈",
+      "explanationZh": "两个人单独进行的会议，研究生常用来与导师讨论进度、困难、论文方向和职业规划。",
+      "examples": [{"en": "Could we move our one-on-one meeting to Thursday afternoon?", "zh": "我们能把一对一会议改到周四下午吗？", "scenarioZh": "给导师发消息调整会面时间"}],
+      "usageNotesZh": ["one-on-one 可作形容词，名词写法也常见 one-on-one。", "也可简称 1:1，但正式邮件中完整写法更清楚。"],
+      "tags": ["academic", "meetings", "supervision", "scheduling"]
+    },
+    {
+      "id": "academic-progress-update",
+      "term": "progress update",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "进展更新；进度汇报",
+      "explanationZh": "对项目目前完成内容、遇到的问题和下一步计划的简短说明，可以在会议、邮件或共享文档中提供。",
+      "examples": [{"en": "I sent the team a progress update before the meeting.", "zh": "我在开会前给团队发了进展更新。", "scenarioZh": "提前同步实验和写作进度"}],
+      "usageNotesZh": ["give、send 或 share a progress update 都很常见。", "有效的进展更新通常区分已完成、正在进行、阻碍和下一步。"],
+      "tags": ["academic", "research", "project-management", "communication"]
+    },
+    {
+      "id": "academic-research-question",
+      "term": "research question",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究问题",
+      "explanationZh": "一项研究试图通过证据和分析回答的明确问题，用于限定研究范围并指导方法、实验和论证。",
+      "examples": [{"en": "We narrowed the research question before collecting more data.", "zh": "在收集更多数据之前，我们缩小了研究问题的范围。", "scenarioZh": "和导师讨论项目范围过大的问题"}],
+      "usageNotesZh": ["formulate、refine 或 address a research question 都很常见。", "research question 通常应具体可研究，而不是只写一个宽泛主题。"],
+      "tags": ["academic", "research", "methodology", "planning"]
+    },
+    {
+      "id": "academic-hypothesis",
+      "term": "hypothesis",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "假设；研究假说",
+      "explanationZh": "基于已有知识提出、可通过观察或实验检验的解释或预测。复数形式是 hypotheses。",
+      "examples": [{"en": "The results did not support our original hypothesis.", "zh": "结果并不支持我们最初的假设。", "scenarioZh": "在组会上解释实验结果与预期不符"}],
+      "usageNotesZh": ["test、support 或 reject a hypothesis 是常见搭配。", "结果不支持假设不等于实验没有价值，仍应如实报告证据。"],
+      "tags": ["academic", "research", "methodology", "experiments"]
+    },
+    {
+      "id": "academic-baseline",
+      "term": "baseline",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "基线；对照方法",
+      "explanationZh": "用来比较新方法是否带来改进的已有方法、简单模型或参考结果。机器学习论文中经常需要选择公平且有代表性的基线。",
+      "examples": [{"en": "Our model outperformed the strongest baseline on three datasets.", "zh": "我们的模型在三个数据集上超过了最强的对照方法。", "scenarioZh": "撰写实验结果部分"}],
+      "usageNotesZh": ["compare against a baseline 和 establish a baseline 都很常见。", "baseline 也可指初始测量值，具体含义取决于研究领域。"],
+      "tags": ["academic", "research", "experiments", "machine-learning"]
+    },
+    {
+      "id": "academic-ablation-study",
+      "term": "ablation study",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "消融实验；组件作用分析",
+      "explanationZh": "通过移除、替换或改变系统中的某个组件，观察性能变化，从而判断各部分贡献的实验。机器学习研究中很常见。",
+      "examples": [{"en": "The ablation study shows that both loss terms improve performance.", "zh": "消融实验表明，两个损失项都能提升性能。", "scenarioZh": "解释模型各组成部分的实际贡献"}],
+      "usageNotesZh": ["conduct 或 run an ablation study 都很自然。", "消融实验需要保持其他条件一致，才能较可靠地解释差异。"],
+      "tags": ["academic", "research", "experiments", "machine-learning"]
+    },
+    {
+      "id": "academic-dataset",
+      "term": "dataset",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "数据集",
+      "explanationZh": "按一定结构收集、整理并用于分析、训练或评估的一组数据。学术写作中通常写作一个词 dataset。",
+      "examples": [{"en": "We split the dataset into training, validation, and test sets.", "zh": "我们把数据集划分为训练集、验证集和测试集。", "scenarioZh": "说明机器学习实验的数据划分"}],
+      "usageNotesZh": ["public dataset、benchmark dataset 和 proprietary dataset 都很常见。", "使用数据集时要遵守许可、隐私和引用要求。"],
+      "tags": ["academic", "research", "data", "machine-learning"]
+    },
+    {
+      "id": "academic-reproducibility",
+      "term": "reproducibility",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可复现性",
+      "explanationZh": "其他研究者依据清楚的方法、代码、数据和设置，能够得到相同或足够一致结果的程度，是研究可信度的重要组成部分。",
+      "examples": [{"en": "We released the training code to improve reproducibility.", "zh": "我们公开了训练代码，以提高研究的可复现性。", "scenarioZh": "准备论文代码和实验说明"}],
+      "usageNotesZh": ["improve、ensure 或 evaluate reproducibility 都很常见。", "不同领域对 reproducibility 和 replicability 的定义可能略有差异，应遵循所在领域标准。"],
+      "tags": ["academic", "research", "open-science", "methodology"]
+    },
+    {
+      "id": "academic-replication-study",
+      "term": "replication study",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "重复验证研究；复现性研究",
+      "explanationZh": "重新实施已有研究的方法，以检验其结果能否在相同或不同样本、设置下再次出现的研究。",
+      "examples": [{"en": "The replication study found a smaller effect than the original paper.", "zh": "这项重复验证研究发现的效应比原论文更小。", "scenarioZh": "讨论重复实验与原研究结果的差异"}],
+      "usageNotesZh": ["conduct a replication study 表示开展重复验证研究。", "未能复现不一定意味着原研究造假，也可能与样本、方法或统计波动有关。"],
+      "tags": ["academic", "research", "replication", "methodology"]
+    },
+    {
+      "id": "academic-preliminary-results",
+      "term": "preliminary results",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "初步结果",
+      "explanationZh": "研究尚未全部完成或充分验证时得到的早期发现，适合用于内部讨论或阶段汇报，但不应当成最终结论。",
+      "examples": [{"en": "The preliminary results look promising, but we need more runs.", "zh": "初步结果看起来很有希望，但我们还需要进行更多次实验。", "scenarioZh": "在组会上谨慎汇报早期实验发现"}],
+      "usageNotesZh": ["preliminary results 通常使用复数形式。", "汇报时应明确样本量、未完成检查和结论的不确定性。"],
+      "tags": ["academic", "research", "results", "experiments"]
+    },
+    {
+      "id": "academic-research-ethics",
+      "term": "research ethics",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究伦理",
+      "explanationZh": "指导研究者保护参与者、诚实报告结果、管理利益冲突和负责任使用数据的一套原则与规范。",
+      "examples": [{"en": "All students working with participants must complete research ethics training.", "zh": "所有接触研究参与者的学生都必须完成研究伦理培训。", "scenarioZh": "加入涉及人类参与者的项目前完成培训"}],
+      "usageNotesZh": ["research ethics training 和 research ethics board 都是常见搭配。", "涉及人类参与者、个人信息或敏感数据时，应先确认机构审批要求。"],
+      "tags": ["academic", "research", "ethics", "compliance"]
+    },
+    {
+      "id": "academic-ethics-approval",
+      "term": "ethics approval",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "伦理审批；研究伦理批准",
+      "explanationZh": "机构伦理审查机构确认研究计划符合相关伦理要求后给予的批准。很多涉及人类参与者的研究必须在招募或收集数据前取得。",
+      "examples": [{"en": "We cannot begin participant recruitment until we receive ethics approval.", "zh": "在获得伦理审批之前，我们不能开始招募参与者。", "scenarioZh": "安排涉及用户研究的项目时间线"}],
+      "usageNotesZh": ["obtain、receive 或 apply for ethics approval 都很常见。", "方案、招募材料或数据用途有重大变化时，可能需要提交修订审批。"],
+      "tags": ["academic", "research", "ethics", "compliance"]
+    },
+    {
+      "id": "academic-consent-form",
+      "term": "consent form",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "知情同意书；同意表",
+      "explanationZh": "向研究参与者说明研究目的、流程、风险、权益和退出方式，并记录其自愿同意的文件。",
+      "examples": [{"en": "Please read the consent form before deciding whether to participate.", "zh": "请在决定是否参加之前阅读知情同意书。", "scenarioZh": "研究人员向潜在参与者介绍用户研究"}],
+      "usageNotesZh": ["sign a consent form 表示签署同意书；informed consent 是知情同意原则。", "签字不应替代清楚解释，参与者仍应有机会提问和退出。"],
+      "tags": ["academic", "research", "ethics", "participants"]
+    },
+    {
+      "id": "academic-participant-recruitment",
+      "term": "participant recruitment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "研究参与者招募",
+      "explanationZh": "寻找、筛选并邀请符合条件的人参加实验、访谈、问卷或用户研究的过程，通常需要使用已获批准的招募材料。",
+      "examples": [{"en": "Participant recruitment took longer than we expected.", "zh": "研究参与者招募比我们预期的时间更长。", "scenarioZh": "更新用户研究的项目进度"}],
+      "usageNotesZh": ["recruit participants 是对应的动词表达。", "招募广告应准确说明资格、时间、报酬和联系方式，避免施加不当压力。"],
+      "tags": ["academic", "research", "participants", "data-collection"]
+    },
+    {
+      "id": "academic-data-collection",
+      "term": "data collection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "数据收集；资料采集",
+      "explanationZh": "通过实验、传感器、问卷、访谈或已有记录获取研究数据的过程，需要遵循既定方案、权限和隐私要求。",
+      "examples": [{"en": "Data collection will continue until the end of the semester.", "zh": "数据收集将持续到本学期末。", "scenarioZh": "向团队说明研究时间安排"}],
+      "usageNotesZh": ["data collection method 表示数据收集方法。", "开始前应明确数据格式、质量检查、备份和访问权限。"],
+      "tags": ["academic", "research", "data", "methodology"]
+    },
+    {
+      "id": "academic-data-analysis",
+      "term": "data analysis",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "数据分析",
+      "explanationZh": "清理、整理、统计或建模数据，以回答研究问题并解释结果的过程。分析方案应与数据类型和研究设计相匹配。",
+      "examples": [{"en": "We finished data collection and started the data analysis.", "zh": "我们完成了数据收集，并开始进行数据分析。", "scenarioZh": "在进度报告中说明项目所处阶段"}],
+      "usageNotesZh": ["conduct、perform 或 carry out data analysis 都很常见。", "分析结果应同时报告方法、假设和局限，而不是只挑选有利数字。"],
+      "tags": ["academic", "research", "data", "analysis"]
+    },
+    {
+      "id": "academic-co-author",
+      "term": "co-author",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "共同作者；共同撰写",
+      "explanationZh": "与其他人共同对论文或学术成果作出作者级贡献的人；作动词时表示共同撰写。不同领域对作者资格有具体惯例。",
+      "examples": [{"en": "I asked all co-authors to review the final draft by Monday.", "zh": "我请所有共同作者在周一前审阅最终稿。", "scenarioZh": "投稿前协调作者完成最后检查"}],
+      "usageNotesZh": ["co-author a paper 可表示共同撰写一篇论文。", "coauthor 也有不加连字符的写法，应在同一文档中保持一致。"],
+      "tags": ["academic", "publishing", "authorship", "collaboration"]
+    },
+    {
+      "id": "academic-authorship",
+      "term": "authorship",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "作者身份；署名资格",
+      "explanationZh": "在论文或其他研究成果中被列为作者的资格、责任和排列安排，通常应基于实质性贡献而不是职位高低。",
+      "examples": [{"en": "The team discussed authorship early in the project.", "zh": "团队在项目早期就讨论了作者署名问题。", "scenarioZh": "研究开始阶段明确贡献和署名预期"}],
+      "usageNotesZh": ["authorship criteria 表示作者资格标准；authorship order 表示作者排序。", "署名争议最好尽早记录贡献并依照机构或期刊政策处理。"],
+      "tags": ["academic", "publishing", "authorship", "ethics"]
+    },
+    {
+      "id": "academic-author-contribution",
+      "term": "author contribution",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "作者贡献；作者分工",
+      "explanationZh": "某位作者在研究构思、方法、代码、实验、写作或监督等方面完成的具体工作，投稿时常需要在贡献声明中列明。",
+      "examples": [{"en": "Please confirm that the author contribution statement is accurate.", "zh": "请确认作者贡献声明准确无误。", "scenarioZh": "提交论文前让所有作者核对分工说明"}],
+      "usageNotesZh": ["author contributions 作为栏目标题时常使用复数。", "贡献声明应如实反映工作，不应把一般行政支持夸大为作者级贡献。"],
+      "tags": ["academic", "publishing", "authorship", "documentation"]
+    },
+    {
+      "id": "academic-acknowledgement",
+      "term": "acknowledgement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "致谢；鸣谢",
+      "explanationZh": "论文中感谢提供经费、资源、建议或技术帮助但不符合作者资格的个人和机构的部分。加拿大和英式拼写常用 acknowledgement。",
+      "examples": [{"en": "We added the computing grant to the acknowledgement section.", "zh": "我们把计算资源资助写进了致谢部分。", "scenarioZh": "准备论文最终版本时补充资助信息"}],
+      "usageNotesZh": ["acknowledgement section 表示致谢部分；美式拼写 acknowledgment 也正确。", "基金和机构可能要求使用指定措辞，应核对资助协议。"],
+      "tags": ["academic", "publishing", "funding", "canadian-english"]
+    },
+    {
+      "id": "academic-preprint",
+      "term": "preprint",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预印本",
+      "explanationZh": "在正式同行评审或出版前公开分享的论文版本，使研究结果可以更早被阅读和讨论。它不等同于已经通过评审的最终版本。",
+      "examples": [{"en": "We posted a preprint after submitting the paper to the conference.", "zh": "我们把论文提交给会议后发布了预印本。", "scenarioZh": "向同行说明论文当前的公开状态"}],
+      "usageNotesZh": ["post、upload 或 cite a preprint 都很常见。", "发布前应检查会议匿名政策、版权条款和所有作者是否同意。"],
+      "tags": ["academic", "publishing", "open-science", "papers"]
+    },
+    {
+      "id": "academic-camera-ready",
+      "term": "camera-ready",
+      "partsOfSpeech": ["adjective", "noun"],
+      "definitionZh": "可出版的最终稿；终稿状态",
+      "explanationZh": "论文被接收后，按出版格式和审稿要求整理完成、可进入正式出版流程的最终版本，也可指提交这份版本的阶段。",
+      "examples": [{"en": "We need to update the affiliations before the camera-ready deadline.", "zh": "我们需要在终稿截止日期前更新作者单位。", "scenarioZh": "准备会议论文被接收后的最终版本"}],
+      "usageNotesZh": ["camera-ready version、camera-ready deadline 和 submit the camera-ready 都很常见。", "终稿阶段仍应核对作者、单位、致谢、版权表和格式，不只是修改正文。"],
+      "tags": ["academic", "publishing", "conferences", "deadlines"]
+    }
+  ]
+}
