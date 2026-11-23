@@ -3,6 +3,7 @@
 a dollop of
 a pinch of
 a splash of
+ablation study
 absence
 abstract
 academic advisor
@@ -15,6 +16,7 @@ accessibility ramp
 accessibility services
 account holder
 account number
+acknowledgement
 action item
 add a course
 admission
@@ -63,8 +65,10 @@ attendance
 attendance policy
 audio description
 audit a course
+author contribution
 author guidelines
 authorized user
+authorship
 auto-load
 Autodeposit
 automatic payment
@@ -98,6 +102,7 @@ barbell
 barcode
 base layer
 baseboard
+baseline
 basement apartment
 baste
 batter
@@ -191,6 +196,7 @@ calendar invite
 call in sick
 call it a day
 call number
+camera-ready
 campus
 campus card
 cancellation policy
@@ -255,6 +261,7 @@ clog
 closed captioning
 clothespin
 clothing drive
+co-author
 co-insurance
 co-pay
 co-signer
@@ -287,6 +294,7 @@ confirmation number
 conflict of interest
 connecting bus
 connection issue
+consent form
 construction notice
 contactless payment
 contaminated
@@ -351,6 +359,9 @@ dairy section
 dairy-free
 damage charge
 damaged
+data analysis
+data collection
+dataset
 day lodge
 day pass
 day-old
@@ -482,6 +493,7 @@ equipment rental
 ER
 escalator
 estimated delivery
+ethics approval
 eviction
 eviction notice
 evidence
@@ -690,6 +702,7 @@ hybrid work
 hydro
 hydro bill
 hypothermia
+hypothesis
 ice cleats
 ice melt
 ice pellets
@@ -751,6 +764,7 @@ keyword
 kindergarten
 knead
 lab
+lab meeting
 ladle
 landlord
 lane swim
@@ -920,6 +934,7 @@ on the side
 on time
 on-ramp
 onboarding
+one-on-one meeting
 one-way street
 online banking
 online course
@@ -983,6 +998,7 @@ parking ticket
 part-time
 part-time position
 partial payment
+participant recruitment
 party of
 party room
 pass/fail
@@ -1054,9 +1070,11 @@ pre-authorized debit
 pre-authorized payment
 pre-washed
 preheat
+preliminary results
 premiere
 premium
 prepaid label
+preprint
 prerequisite
 prescription medication
 presentation
@@ -1066,6 +1084,7 @@ price match
 price tag
 primary source
 principal
+principal investigator
 prior authorization
 priority
 priority seating
@@ -1076,6 +1095,7 @@ produce
 produce section
 program registration
 program requirements
+progress update
 promo code
 promotional rate
 proof of address
@@ -1166,11 +1186,16 @@ rep
 replacement bus
 replacement card
 replacement stop
+replication study
 report a problem
 report card
+reproducibility
 requisition
 reschedule
 research
+research assistant
+research ethics
+research question
 reserve
 resident
 resistance band
