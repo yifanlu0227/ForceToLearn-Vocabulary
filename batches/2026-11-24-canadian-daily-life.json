@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 3,
+  "batchId": "life-2026-11-24-canadian-daily-life",
+  "title": "加拿大日常生活：公寓报修、暖气管道与虫害处理",
+  "publishedOn": "2026-11-24",
+  "entries": [
+    {
+      "id": "housing-heating",
+      "term": "heating",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "供暖；暖气系统",
+      "explanationZh": "住宅中用来保持室内温度的系统或服务，可以是中央供暖、电暖器、散热器等。租房时常需要确认供暖是否正常、费用由谁承担。",
+      "examples": [{"en": "The heating is on, but the apartment is still very cold.", "zh": "暖气已经开着，但公寓里还是很冷。", "scenarioZh": "冬天向物业说明室温异常"}],
+      "usageNotesZh": ["turn the heating on/off 表示打开或关闭供暖。", "heating included 表示供暖费用包含在租金中，但仍要看租约具体条款。"],
+      "tags": ["housing", "renting", "heating", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-hot-water",
+      "term": "hot water",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "热水；生活热水供应",
+      "explanationZh": "洗澡、洗手和清洁所用的加热用水。公寓突然没有热水时，通常应先确认是否有楼内维修或临时停供通知。",
+      "examples": [{"en": "There has been no hot water in my unit since this morning.", "zh": "从今天早上开始，我的房间里就没有热水了。", "scenarioZh": "向大楼管理处报告热水故障"}],
+      "usageNotesZh": ["run out of hot water 表示热水用完了；have no hot water 表示没有热水供应。", "报告时可说明所有水龙头都没有热水，还是只有某一处受影响。"],
+      "tags": ["housing", "utilities", "plumbing", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-water-pressure",
+      "term": "water pressure",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "水压",
+      "explanationZh": "水从水龙头或淋浴喷头流出时的压力。水流突然很弱、忽强忽弱或只有某处异常，都可以用这个词向物业描述。",
+      "examples": [{"en": "The water pressure in the shower has dropped significantly.", "zh": "淋浴的水压明显变低了。", "scenarioZh": "提交浴室管道维修请求"}],
+      "usageNotesZh": ["low water pressure 表示水压低；high water pressure 表示水压过高。", "报修时说明冷水和热水是否都受影响，有助于定位问题。"],
+      "tags": ["housing", "plumbing", "bathroom", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-clogged-drain",
+      "term": "clogged drain",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "堵塞的排水口；下水道堵塞",
+      "explanationZh": "水槽、浴缸或淋浴间的排水口被头发、油脂或杂物堵住，导致排水缓慢或积水的情况。",
+      "examples": [{"en": "The kitchen sink has a clogged drain and the water will not go down.", "zh": "厨房水槽的排水口堵住了，水排不下去。", "scenarioZh": "向物业描述厨房下水故障"}],
+      "usageNotesZh": ["clear 或 unclog a drain 表示疏通排水口。", "租客使用化学疏通剂前应查看物业规定，以免损坏管道或影响维修。"],
+      "tags": ["housing", "plumbing", "kitchen", "maintenance"],
+      "wordAnalysis": {"textZh": "clogged 来自动词 clog（堵塞）加 -ed，表示已经堵住的；drain 是排水口或排水管。"}
+    },
+    {
+      "id": "housing-clogged-toilet",
+      "term": "clogged toilet",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "堵塞的马桶；马桶堵塞",
+      "explanationZh": "马桶无法正常冲水、排水很慢或水位异常升高的情况。继续冲水可能造成溢水，因此应停止使用并尽快处理。",
+      "examples": [{"en": "The toilet is clogged, and the water rises when I flush it.", "zh": "马桶堵住了，我一冲水，水位就会上升。", "scenarioZh": "电话联系紧急维修人员"}],
+      "usageNotesZh": ["The toilet is clogged. 是非常自然的报修说法。", "如果有污水溢出，应说明 overflow 或 sewage，并避免继续使用附近设施。"],
+      "tags": ["housing", "plumbing", "bathroom", "emergency-repair"],
+      "wordAnalysis": {"textZh": "clogged 是 clog（堵塞）的过去分词作形容词；toilet 在此指马桶，而不是整个洗手间。"}
+    },
+    {
+      "id": "housing-plumbing",
+      "term": "plumbing",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "管道系统；水暖工程",
+      "explanationZh": "建筑中供水、排水以及相关装置组成的系统，也可以指安装和维修这些系统的工作。",
+      "examples": [{"en": "The building is doing plumbing repairs on the third floor.", "zh": "大楼正在三楼进行管道维修。", "scenarioZh": "阅读物业发布的维修通知"}],
+      "usageNotesZh": ["plumbing problem 表示管道问题；plumbing repair 表示管道维修。", "plumbing 是不可数名词，通常不说 a plumbing。"],
+      "tags": ["housing", "plumbing", "building-services", "maintenance"],
+      "wordAnalysis": {"textZh": "plumbing 指整套管道系统或管道工作；相关从业者是 plumber，两个词中的字母 b 都不发音。"}
+    },
+    {
+      "id": "housing-plumber",
+      "term": "plumber",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "水管工；管道维修技师",
+      "explanationZh": "安装和维修供水、排水、马桶、水槽等管道与设备的专业人员。租客一般通过房东或物业安排上门。",
+      "examples": [{"en": "The plumber will arrive between one and three this afternoon.", "zh": "水管工今天下午一点到三点之间会上门。", "scenarioZh": "物业通知维修人员的上门时间窗"}],
+      "usageNotesZh": ["call a plumber 表示请水管工；licensed plumber 表示持牌水管工。", "租客自行叫人前应确认由谁授权和承担费用。"],
+      "tags": ["housing", "plumbing", "trades", "repairs"],
+      "wordAnalysis": {"textZh": "plumber 词尾 -er 表示从业者；字母 b 不发音，相关系统和工作称为 plumbing。"}
+    },
+    {
+      "id": "housing-electrical-outlet",
+      "term": "electrical outlet",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "电源插座",
+      "explanationZh": "墙上供电器插头连接电路的装置。插座松动、发热、冒火花或完全无电时，应停止使用并报修。",
+      "examples": [{"en": "The electrical outlet beside the desk has stopped working.", "zh": "书桌旁边的电源插座不通电了。", "scenarioZh": "提交卧室电路故障报修"}],
+      "usageNotesZh": ["outlet 在北美英语中常直接指插座；英式英语常用 socket。", "出现烧焦味或火花时不要继续测试，应说明这是潜在电气危险。"],
+      "tags": ["housing", "electrical", "safety", "maintenance"],
+      "wordAnalysis": {"textZh": "outlet 有多种意思；在北美住宅和用电语境中，它最常指墙上的电源插座。"}
+    },
+    {
+      "id": "housing-blown-fuse",
+      "term": "blown fuse",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "烧断的保险丝；保险丝熔断",
+      "explanationZh": "电流过大时保险丝内部元件熔断、使电路停止供电的情况。较老的住宅或设备中仍可能使用保险丝。",
+      "examples": [{"en": "A blown fuse may be why the lights in this room are out.", "zh": "保险丝熔断可能是这个房间灯不亮的原因。", "scenarioZh": "向维修人员描述局部停电"}],
+      "usageNotesZh": ["replace a blown fuse 表示更换熔断的保险丝。", "如果保险丝反复熔断，不要不断更换，应让合格人员检查电路。"],
+      "tags": ["housing", "electrical", "safety", "repairs"],
+      "wordAnalysis": {"textZh": "blown 是 blow 的不规则过去分词，此处表示保险丝已经熔断；fuse 是保险丝。"}
+    },
+    {
+      "id": "housing-light-fixture",
+      "term": "light fixture",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "灯具；固定照明装置",
+      "explanationZh": "固定安装在天花板或墙上的照明装置，包括灯座、外壳和接线部分，不只是可更换的灯泡。",
+      "examples": [{"en": "The light fixture flickers even after I change the bulb.", "zh": "即使换了灯泡，这个灯具还是会闪烁。", "scenarioZh": "说明问题可能不在灯泡本身"}],
+      "usageNotesZh": ["ceiling light fixture 表示吸顶或吊顶灯具。", "租客通常可以更换普通灯泡，但涉及固定接线的维修应交由合格人员。"],
+      "tags": ["housing", "electrical", "lighting", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-appliance-repair",
+      "term": "appliance repair",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "家电维修",
+      "explanationZh": "对冰箱、炉灶、洗碗机、洗衣机等家用电器进行检查和修理的服务。出租单位提供的电器通常由房东或物业安排维修。",
+      "examples": [{"en": "I submitted an appliance repair request because the fridge is not cooling.", "zh": "因为冰箱不制冷，我提交了家电维修申请。", "scenarioZh": "报告出租单位自带冰箱故障"}],
+      "usageNotesZh": ["appliance repair technician 表示家电维修技师。", "报修时提供品牌、型号、错误代码和故障表现有助于准备零件。"],
+      "tags": ["housing", "appliances", "repairs", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-work-order",
+      "term": "work order",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "维修工单；工作单",
+      "explanationZh": "物业或维修部门用来记录问题、安排人员、跟踪状态和完成情况的正式任务记录。提交报修后可能会收到工单编号。",
+      "examples": [{"en": "The management office created a work order for the leaking sink.", "zh": "管理办公室为漏水的水槽创建了维修工单。", "scenarioZh": "物业确认报修已经进入处理流程"}],
+      "usageNotesZh": ["open、create 或 close a work order 都很常见。", "follow up on a work order 表示跟进工单进度。"],
+      "tags": ["housing", "maintenance", "property-management", "repairs"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-emergency-repair",
+      "term": "emergency repair",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "紧急维修；应急抢修",
+      "explanationZh": "针对严重漏水、完全无暖气、电气危险或其他会立即威胁安全和房屋的故障进行的紧急处理。",
+      "examples": [{"en": "A burst pipe requires an emergency repair, even after office hours.", "zh": "水管爆裂需要紧急维修，即使发生在办公时间以外。", "scenarioZh": "判断是否应拨打物业紧急维修电话"}],
+      "usageNotesZh": ["emergency repair line 表示紧急维修热线。", "普通小问题不应占用紧急渠道；报修前可查看大楼对 emergency 的定义。"],
+      "tags": ["housing", "emergency", "repairs", "safety"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-maintenance-staff",
+      "term": "maintenance staff",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "维修人员；设施维护员工",
+      "explanationZh": "负责大楼日常检查、清洁、简单维修和协调专业技师的工作人员。staff 在这里指一组员工，也可泛指其中人员。",
+      "examples": [{"en": "Maintenance staff will inspect the leak tomorrow morning.", "zh": "维修人员明天上午会检查漏水问题。", "scenarioZh": "物业确认报修后的初步检查安排"}],
+      "usageNotesZh": ["a member of the maintenance staff 表示一名维修团队成员。", "maintenance staff 不一定有资格处理所有电气或燃气工程，复杂维修可能转给承包商。"],
+      "tags": ["housing", "maintenance", "building-services", "staff"],
+      "wordAnalysis": {"textZh": "maintenance 对应动词 maintain（维护），注意拼写不是简单加 -ance；staff 在这里指维修团队。"}
+    },
+    {
+      "id": "housing-building-superintendent",
+      "term": "building superintendent",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "大楼管理员；驻楼物业主管",
+      "explanationZh": "负责住宅楼日常运营、检查和维修协调的现场管理人员，在加拿大租房语境中常简称 super。",
+      "examples": [{"en": "The building superintendent checked the unit before calling a plumber.", "zh": "大楼管理员先检查了房间，然后才联系水管工。", "scenarioZh": "描述物业处理管道故障的流程"}],
+      "usageNotesZh": ["building superintendent 与 property manager 职责可能重叠，但前者往往更偏现场事务。", "口语中的 the super 常指大楼管理员，不是形容词“超级的”。"],
+      "tags": ["housing", "property-management", "building-services", "staff"],
+      "wordAnalysis": {"textZh": "superintendent 在加拿大公寓语境常简称 super，指负责楼内日常事务和维修协调的人。"}
+    },
+    {
+      "id": "housing-repair-appointment",
+      "term": "repair appointment",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "维修预约；上门维修时间",
+      "explanationZh": "维修人员预定到房间检查或修理问题的日期和时间，常以一个数小时的到访时间窗安排。",
+      "examples": [{"en": "I need to reschedule the repair appointment because nobody will be home.", "zh": "因为家里没人，我需要改约维修时间。", "scenarioZh": "联系物业调整维修人员上门安排"}],
+      "usageNotesZh": ["book、confirm、cancel 或 reschedule a repair appointment 都很常见。", "确认是否需要租客在场，以及维修人员能否由物业钥匙进入。"],
+      "tags": ["housing", "repairs", "appointments", "scheduling"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-access-notice",
+      "term": "access notice",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "入户通知；进入房屋通知",
+      "explanationZh": "房东或物业在计划进入出租单位检查、维修或处理其他事项前发出的通知，通常会写明日期、时间范围和原因。",
+      "examples": [{"en": "The access notice says maintenance may enter between nine and noon.", "zh": "入户通知写明维修人员可能在上午九点到中午之间进入。", "scenarioZh": "阅读贴在门上的物业入户通知"}],
+      "usageNotesZh": ["notice of entry 是安大略租赁语境中更正式的相关表达。", "不要把 access notice 与大楼门禁故障通知混淆，应看清进入对象和理由。"],
+      "tags": ["housing", "renting", "notices", "maintenance"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-heating-outage",
+      "term": "heating outage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "供暖中断；暖气停供",
+      "explanationZh": "大楼或部分单位的供暖系统暂时停止工作的情况，可能由设备故障、停电或计划维修引起。",
+      "examples": [{"en": "The building sent an update about the heating outage.", "zh": "大楼发来了关于供暖中断的最新通知。", "scenarioZh": "冬季等待物业恢复暖气"}],
+      "usageNotesZh": ["planned outage 表示计划停供；unexpected outage 表示意外中断。", "冬季停暖时应关注预计恢复时间，并报告室内温度和易受影响住户情况。"],
+      "tags": ["housing", "heating", "outages", "winter"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-no-heat",
+      "term": "no heat",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "没有暖气；供暖完全停止",
+      "explanationZh": "住宅内完全没有供暖的直接报修表达，常用于物业工单或紧急热线。它强调无热量供应，而不只是室温略低。",
+      "examples": [{"en": "We have no heat in the apartment, and the indoor temperature is dropping.", "zh": "我们的公寓没有暖气，室内温度还在下降。", "scenarioZh": "冬季向紧急维修热线报告停暖"}],
+      "usageNotesZh": ["No heat 可直接作为工单问题类别。", "报告时给出单位号、持续时间和实际室温，比只说 it is cold 更具体。"],
+      "tags": ["housing", "heating", "winter", "emergency-repair"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "housing-mould-inspection",
+      "term": "mould inspection",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "霉菌检查；发霉问题检测",
+      "explanationZh": "对墙面、天花板或其他区域的霉斑、潮湿来源和受影响范围进行检查，以确定清理和修复方案。",
+      "examples": [{"en": "Management arranged a mould inspection after we reported the damp wall.", "zh": "我们报告墙面潮湿后，物业安排了霉菌检查。", "scenarioZh": "跟进卧室墙角长期潮湿和霉斑"}],
+      "usageNotesZh": ["visible mould 表示肉眼可见的霉菌；mould growth 表示霉菌生长。", "拍照并说明漏水、异味和出现时间，有助于物业调查水分来源。"],
+      "tags": ["housing", "mould", "inspection", "health"],
+      "wordAnalysis": {"textZh": "mould 是加拿大常用拼写；美式英语常写 mold。inspection 来自动词 inspect，表示检查。"}
+    },
+    {
+      "id": "housing-pest-infestation",
+      "term": "pest infestation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "害虫侵扰；虫害问题",
+      "explanationZh": "蟑螂、臭虫、老鼠等害虫在住宅内大量出现或繁殖的情况，通常需要专业评估、处理并配合后续检查。",
+      "examples": [{"en": "The tenant reported a pest infestation in the kitchen cabinets.", "zh": "租客报告厨房橱柜里出现了严重虫害。", "scenarioZh": "向物业提交需要专业处理的虫害报告"}],
+      "usageNotesZh": ["deal with 或 treat a pest infestation 表示处理虫害。", "报告时说明发现的害虫、位置、数量和时间，不要只写 pests。"],
+      "tags": ["housing", "pest-control", "health", "maintenance"],
+      "wordAnalysis": {"textZh": "infestation 来自动词 infest（大量侵扰）加名词后缀 -ation，指害虫已经侵入并繁殖的状态。"}
+    },
+    {
+      "id": "housing-bedbugs",
+      "term": "bedbugs",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "臭虫；床虱",
+      "explanationZh": "会藏在床垫、家具缝隙等处并叮咬人的小型害虫。发现可疑迹象时应尽快报告，并按专业处理要求准备房间。",
+      "examples": [{"en": "I found signs of bedbugs along the mattress seam.", "zh": "我在床垫接缝处发现了臭虫活动的迹象。", "scenarioZh": "向物业说明疑似臭虫的位置"}],
+      "usageNotesZh": ["bedbug 可作单数，bedbugs 是复数；也常写作 bed bug 和 bed bugs。", "不要随意把家具搬到公共区域，以免害虫扩散到其他单位。"],
+      "tags": ["housing", "pest-control", "bedroom", "health"],
+      "wordAnalysis": {"textZh": "bedbug 由 bed（床）和 bug（虫）组成；本词条 bedbugs 是规则复数形式。"}
+    },
+    {
+      "id": "housing-cockroach",
+      "term": "cockroach",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "蟑螂",
+      "explanationZh": "常在厨房、卫生间和管道附近活动的害虫，可能通过缝隙和相邻单位扩散。发现后应记录位置并通知物业处理。",
+      "examples": [{"en": "I saw a cockroach near the kitchen sink last night.", "zh": "昨晚我在厨房水槽附近看到了一只蟑螂。", "scenarioZh": "首次向物业报告蟑螂活动"}],
+      "usageNotesZh": ["复数是 cockroaches。", "报告时说明看到活体、尸体还是卵鞘，有助于判断问题范围。"],
+      "tags": ["housing", "pest-control", "kitchen", "health"],
+      "wordAnalysis": {"textZh": "cockroach 的复数不是直接加 -s，而是在词尾加 -es，写作 cockroaches。"}
+    },
+    {
+      "id": "housing-exterminator",
+      "term": "exterminator",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "灭虫人员；害虫防治技师",
+      "explanationZh": "使用检查、诱捕、封堵或药剂等方法处理害虫问题的专业人员。上门前可能要求租客清理食物、移动家具或暂时离开。",
+      "examples": [{"en": "The exterminator will treat all units on this floor next week.", "zh": "灭虫人员下周会对这一层的所有单位进行处理。", "scenarioZh": "物业安排整层虫害防治"}],
+      "usageNotesZh": ["pest control technician 是更中性、正式的相关称呼。", "处理后应遵循重新进入、通风和后续复查说明。"],
+      "tags": ["housing", "pest-control", "trades", "services"],
+      "wordAnalysis": {"textZh": "exterminator 来自动词 exterminate（彻底消灭）加从业者后缀 -or，表示灭虫人员。"}
+    },
+    {
+      "id": "housing-repair-request",
+      "term": "repair request",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "维修申请；报修请求",
+      "explanationZh": "租客向房东或物业正式报告故障并请求维修的记录，可以通过住户门户、电子邮件、电话或书面表格提交。",
+      "examples": [{"en": "Please attach photos when you submit the repair request online.", "zh": "在线提交维修申请时，请附上照片。", "scenarioZh": "按照物业门户要求填写报修单"}],
+      "usageNotesZh": ["submit、file 或 follow up on a repair request 都很常见。", "请求中应写清单位号、具体位置、故障表现、首次发现时间和可进入时段。"],
+      "tags": ["housing", "maintenance", "repairs", "property-management"],
+      "wordAnalysis": {"textZh": ""}
+    }
+  ]
+}
