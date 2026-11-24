@@ -12,6 +12,7 @@ academic integrity
 academic probation
 academic standing
 acceptance letter
+access notice
 accessibility ramp
 accessibility services
 account holder
@@ -49,6 +50,7 @@ antihistamine
 antiperspirant
 apartment viewing
 appetizer
+appliance repair
 application form
 application status
 apply
@@ -108,6 +110,7 @@ baste
 batter
 battery booster
 beat
+bedbugs
 beginner class
 beginner slope
 behind schedule
@@ -135,6 +138,7 @@ block heater
 blocker
 blood work
 blowing snow
+blown fuse
 blue run
 board
 board game
@@ -166,6 +170,7 @@ buck
 bug spray
 building management
 building permit
+building superintendent
 bulk bins
 bulky item
 bumper-to-bumper
@@ -258,6 +263,8 @@ clearance
 clock in
 clock out
 clog
+clogged drain
+clogged toilet
 closed captioning
 clothespin
 clothing drive
@@ -267,6 +274,7 @@ co-pay
 co-signer
 co-tenant
 coat check
+cockroach
 coffee run
 coin laundry
 colander
@@ -468,6 +476,7 @@ eavestrough
 eggplant
 eh
 elective
+electrical outlet
 elementary school
 elevator access
 elevator booking
@@ -476,6 +485,7 @@ eligibility
 eligibility assessment
 elliptical
 emergency kit
+emergency repair
 emergency shelter
 employee badge
 employment contract
@@ -511,6 +521,7 @@ express bus
 express lane
 extension
 extension cord
+exterminator
 extreme cold warning
 eye drops
 fabric softener
@@ -677,6 +688,8 @@ headliner
 heads-up
 health card
 heartburn
+heating
+heating outage
 helpline
 hem
 high beams
@@ -693,6 +706,7 @@ hole in the wall
 homeroom
 honk
 host
+hot water
 hourly wage
 house wine
 household hazardous waste
@@ -797,6 +811,7 @@ licence plate
 lifeguard
 lifesaver
 lift ticket
+light fixture
 light rail
 lightheaded
 limescale
@@ -830,6 +845,7 @@ machine washable
 mail in
 mailroom
 maintenance request
+maintenance staff
 major
 major revision
 make-up exam
@@ -876,6 +892,7 @@ monthly pass
 mop
 mortgage pre-approval
 mould
+mould inspection
 mouldy
 mouthwash
 move to the back
@@ -897,6 +914,7 @@ next stop
 nightcap
 nightstand
 no biggie
+no heat
 no-brainer
 no-show
 noise complaint
@@ -1023,6 +1041,7 @@ personal day
 personal loan
 personal trainer
 pest control
+pest infestation
 pet policy
 pharmacist
 pharmacy counter
@@ -1051,6 +1070,8 @@ platform number
 play it by ear
 playground
 PLU sticker
+plumber
+plumbing
 plunger
 poach
 point person
@@ -1183,6 +1204,8 @@ rental scam
 rental shop
 rental unit
 rep
+repair appointment
+repair request
 replacement bus
 replacement card
 replacement stop
@@ -1633,6 +1656,7 @@ washroom
 water fountain
 water heater
 water main
+water pressure
 water shutoff
 water-resistant
 watered down
@@ -1671,6 +1695,7 @@ withdrawal deadline
 withdrawal limit
 wok
 word limit
+work order
 work sample
 work schedule
 workload
