@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-008",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "collection-day",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复合名词原形为 collection day；collection 为单数。",
+        "rootsZh": "collection（收运）+ day（日期），指垃圾或回收物收运日。",
+        "affixesZh": "collection 由 collect 加派生后缀 -ion 构成；day 无词缀。",
+        "mnemonicZh": "记住 collection day 清晨七点前要把垃圾桶推到路边。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复合名词原形为 library card；library 和 card 均为单数。",
+        "rootsZh": "library（图书馆）+ card（卡片），整体指图书馆借书证。",
+        "affixesZh": "没有适合此处教学的明显词缀；按两个词整体记忆即可。",
+        "mnemonicZh": "办好图书馆的 card，借书和预约馆藏时就能出示。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "place-a-hold",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 place a hold；例句 placed 是 place 的过去式。",
+        "rootsZh": "place（提出、设置）+ a hold（预留），合指预约馆藏。",
+        "affixesZh": "短语没有词缀；placed 的 -ed 是过去式屈折词尾。",
+        "mnemonicZh": "在线 place a hold，书到家附近分馆后再去取。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "renew",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 renew；此处为动词原形，过去式为 renewed。",
+        "rootsZh": "可理解为 re-（再）加 new（新的），表示使之重新有效或更新。",
+        "affixesZh": "re- 是表示“再、重新”的前缀；renewed 中 -ed 是过去式或过去分词词尾。",
+        "mnemonicZh": "图书快到期时再办一次借阅手续，让借阅期限重新有效，就是 renew。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "due-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 due date，通常写作两个词。",
+        "rootsZh": "由 due（应到期的、应付的）和 date（日期）组成。",
+        "affixesZh": "没有明显词缀；due 和 date 都是独立单词。",
+        "mnemonicZh": "看到借书记录上的 due date，就想到书应该归还的那一天。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "late-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 late fee。",
+        "rootsZh": "由 late（迟的、逾期的）和 fee（费用）组成。",
+        "affixesZh": "没有明显词缀；late 和 fee 是独立单词。",
+        "mnemonicZh": "书逾期了（late），图书馆收取一笔费用（fee），就是 late fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-garden",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 community garden，通常写作两个词。",
+        "rootsZh": "由 community（社区）和 garden（花园、菜园）组成。",
+        "affixesZh": "没有明显词缀；两部分都是独立单词。",
+        "mnemonicZh": "想象邻居们在社区里共同打理一块菜地，就是 community garden。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-bank",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 food bank，通常写作两个词。",
+        "rootsZh": "由 food（食物）和 bank（银行、储备机构）组成，指食品援助机构。",
+        "affixesZh": "没有明显词缀；food 和 bank 都是独立单词。",
+        "mnemonicZh": "把 food bank 想成社区的食品储备点，居民可在那里领取食品包。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "newcomer-services",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是 newcomer services；services 是 service 的复数形式。",
+        "rootsZh": "newcomer 由 new（新的）和 comer（来的人）组成；services 指提供的服务。",
+        "affixesZh": "comer 中 -er 表示来的人；services 中 -s 是名词复数词尾。",
+        "mnemonicZh": "刚搬来的人去询问当地办事、语言课程等服务，可记作 newcomer services。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "settlement-worker",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 settlement worker，worker 为单数。",
+        "rootsZh": "settlement 来自 settle（安顿）加 -ment；worker 来自 work（工作）。",
+        "affixesZh": "-ment 将 settle 构成名词；-er 表示从事某项工作的人。",
+        "mnemonicZh": "想象一位工作人员帮新来者找住处、课程和社区资源，便是 settlement worker。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ward",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 ward；此处为单数名词。",
+        "rootsZh": "此处指市政选区；没有适合教学且可靠的现代英语拆分，建议整体记忆。",
+        "affixesZh": "没有明显词缀；不要把词尾字母当作后缀拆解。",
+        "mnemonicZh": "输入地址后查到自己所属的 ward，就能找到代表该选区的市议员。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "city-councillor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 city councillor；此处为单数。",
+        "rootsZh": "由 city（城市）和 councillor（市议会成员）组成。",
+        "affixesZh": "councillor 可联系 council 加表示人的 -or；加拿大拼法常写双 l。",
+        "mnemonicZh": "社区居民联系 city councillor，反映人行横道等市政问题。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "syllabus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 syllabus；此处为单数名词。",
+        "rootsZh": "借词，现代英语中没有适合教学的可靠拆分，建议整体记忆。",
+        "affixesZh": "没有明显的现代英语词缀；不要按词尾字母硬拆。",
+        "mnemonicZh": "开课时先看 syllabus，记住考试日期、作业要求和评分比例。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "assignment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 assignment，由动词 assign 派生。",
+        "rootsZh": "assign 表示“分派、指派”。",
+        "affixesZh": "-ment 是构成名词的派生后缀。",
+        "mnemonicZh": "老师指派给你的任务，就是 assignment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lecture",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "lecture 是名词和动词的原形。",
+        "rootsZh": "现代英语中不宜再拆，整体记作“讲课、讲座”。",
+        "affixesZh": "没有明显词缀。",
+        "mnemonicZh": "错过课堂 lecture，可以课后看录像补上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tutorial",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "tutorial 是名词原形。",
+        "rootsZh": "tutor 指教师或辅导者，tutorial 与辅导教学相关。",
+        "affixesZh": "-ial 构成相关形容词形式，也见于 tutorial。",
+        "mnemonicZh": "带着作业问题去 tutorial，找辅导者答疑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seminar",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "seminar 是名词原形。",
+        "rootsZh": "没有适合教学的可靠拆分，整体记作研讨课或研讨会。",
+        "affixesZh": "没有明显词缀。",
+        "mnemonicZh": "在 seminar 里，学生轮流带领讨论。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lab",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "lab 是 laboratory 的常用缩略形式。",
+        "rootsZh": "lab 整体指实验室，也可指实验课。",
+        "affixesZh": "没有词缀；这是缩略形式。",
+        "mnemonicZh": "去 chemistry lab 做实验，别忘带护目镜。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prerequisite",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "prerequisite 是名词和形容词原形。",
+        "rootsZh": "由 pre-“在前”和 requisite“必需的”构成。",
+        "affixesZh": "pre- 是表示“预先、在前”的前缀。",
+        "mnemonicZh": "先修完微积分，才满足统计课的 prerequisite。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "elective",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "elective 是名词和形容词原形。",
+        "rootsZh": "来自 elect“选择”，指可选择的课程。",
+        "affixesZh": "-ive 是构成形容词的派生后缀。",
+        "mnemonicZh": "专业之外自己挑选的摄影课，是 elective。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "credit 是名词和动词原形。",
+        "rootsZh": "现代英语中整体记忆，可指学分或记入款项。",
+        "affixesZh": "没有明显词缀。",
+        "mnemonicZh": "课程学分计入学位，退款也可记入卡内。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transcript",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "transcript 是名词原形。",
+        "rootsZh": "trans- 表示“跨越、转移”；script 与书写有关，transcript 指转写或记录下来的内容。",
+        "affixesZh": "trans- 是前缀；script 是词根，和书写有关。",
+        "mnemonicZh": "学校把成绩整理成正式的书面记录，就是 transcript。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "enrol",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "enrol 是动词原形；过去式为 enrolled。",
+        "rootsZh": "roll 可指名册；enrol 有把名字列入名册之意。",
+        "affixesZh": "en- 构成动词；过去式加 -ed，l 双写。",
+        "mnemonicZh": "名字列入课程名单，就算 enrol in 这门课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tuition",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 tuition，是名词单数；复数为 tuitions。",
+        "rootsZh": "现代英语中不宜拆成易懂词基，整体记作“学费”。",
+        "affixesZh": "没有明显的现代英语词缀；不要把词尾当作后缀。",
+        "mnemonicZh": "想象奖学金账单上单列 tuition：这部分就是要付的学费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bursary",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 bursary，是名词单数；复数为 bursaries。",
+        "rootsZh": "与 bursar（负责财务的人）有关；整体表示一笔助学资助。",
+        "affixesZh": "词尾 -y 构成名词；复数变化 -y 改为 -ies 是屈折变化。",
+        "mnemonicZh": "把 bursary 想成学校财务部门发放的一笔钱，用来补贴书本或生活费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scholarship",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 scholarship，是名词单数；复数为 scholarships。",
+        "rootsZh": "由 scholar（学者、学生）和 ship 组成；整体常指因学业表现获得的资助。",
+        "affixesZh": "-ship 是构成名词的派生后缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "把它记作“与 scholar 学习者相关的资助”，联想优秀学生收到奖学金通知。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "registrar",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 registrar，是名词单数；复数为 registrars。",
+        "rootsZh": "与 register（登记、注册）相关，指负责注册事务的人。",
+        "affixesZh": "-ar 在此构成人员名称；复数 -s 是屈折变化。",
+        "mnemonicZh": "想象 registrar 在系统里核对并登记学生身份，再开具在读证明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "office-hours",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 office hours，常用复数形式，指教师答疑或办公时间。",
+        "rootsZh": "由 office（办公室、办公）和 hours（时段）组成，整体按语境理解。",
+        "affixesZh": "没有词缀；office 与 hours 是独立单词，hours 中的 -s 表示复数。",
+        "mnemonicZh": "记成老师预先安排的“办公时段”，学生可在这段时间去提问。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "teaching-assistant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定名词短语 teaching assistant；复数为 teaching assistants。",
+        "rootsZh": "由 teaching（教学）和 assistant（助手）组成，指协助教学的助教。",
+        "affixesZh": "teaching 中 -ing 构成动名词；assistant 中 -ant 构成人员名称，复数 -s 为屈折变化。",
+        "mnemonicZh": "想象助教在编程课上协助老师，逐步解释代码为何没通过测试。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "campus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 campus，是名词单数；复数为 campuses。",
+        "rootsZh": "现代英语中没有适合此义的可靠拆分，整体记作校园或校区。",
+        "affixesZh": "没有明显词缀；复数 -es 是屈折变化。",
+        "mnemonicZh": "想象在校园里上课、吃午饭；on campus 是“在校园内”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bookstore",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 bookstore，是名词单数；复数为 bookstores。",
+        "rootsZh": "由 book（书）和 store（商店）组成，表示卖书的店。",
+        "affixesZh": "没有明显词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "把 bookstore 直接记作“买书的 store”，联想去校园书店找二手教材。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "submit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 submit，是动词原形；过去式和过去分词为 submitted。",
+        "rootsZh": "现代英语中不宜拆出容易理解的独立词基，整体记作“提交”。",
+        "affixesZh": "没有明显的现代派生词缀；submitted 中双写 t 再加 -ed，表示过去式或过去分词。",
+        "mnemonicZh": "想象在课程网站按下提交按钮，把 PDF 报告正式交上去。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 hand in；hand 随主语或时态变化，如 hands、handed。",
+        "rootsZh": "由 hand（递交）和 in（交上去）组成，整体表示提交或交上。",
+        "affixesZh": "in 是独立副词，不是词缀；handed 中 -ed 表示过去式或过去分词。",
+        "mnemonicZh": "想象下课离开前，把练习纸递交给老师：hand it in。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "extension",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 extension；例句中也是该形式。",
+        "rootsZh": "与动词 extend 同词基，含“延伸、延长”义。",
+        "affixesZh": "后缀 -ion 构成名词；extend 派生时拼写有所调整。",
+        "mnemonicZh": "作业期限延长两天，或在总机号码后接上分机号。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plagiarism",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 plagiarism；例句中也是该形式。",
+        "rootsZh": "与 plagiarize 同词基，表示抄用他人作品或文字。",
+        "affixesZh": "-ism 常构成表示行为或做法的名词；这里指抄袭行为。",
+        "mnemonicZh": "把别人的段落直接放进论文却不标来源，就是 plagiarism。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "midterm",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "midterm 作名词或形容词形式不变；复数可加 -s。",
+        "rootsZh": "由 mid“中间”和 term“学期、阶段”组成。",
+        "affixesZh": "mid- 是表示“中间”的前缀；term 是独立词。",
+        "mnemonicZh": "把学期想成一段路，走到中间参加的考试就是 midterm。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "final-exam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 final exam；名词短语，例句中形式不变。",
+        "rootsZh": "由 final“最后的”和 exam“考试”组成，exam 是 examination 的简略形式。",
+        "affixesZh": "短语中没有明显词缀；final 和 exam 都是独立词。",
+        "mnemonicZh": "学期最后安排的那场考试，就是 final exam。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "chequing-account",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 chequing account；chequing 是加拿大拼法。",
+        "rootsZh": "由 chequing“支票相关的”和 account“账户”组成。",
+        "affixesZh": "chequing 中 -ing 是 cheque 的动词形式词尾，不是复数词尾。",
+        "mnemonicZh": "工资进 chequing account，日常收支可从这个账户办理。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "savings-account",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 savings account；名词短语。",
+        "rootsZh": "由 savings“储蓄”与 account“账户”组成；savings 与 save 同词基。",
+        "affixesZh": "saving 中有 -ing；末尾 -s 表示 savings 的复数形式。",
+        "mnemonicZh": "把暂时不用的钱存起来，放进 savings account。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "debit-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 debit card；复数形式为 debit cards。",
+        "rootsZh": "由 debit“借记”和 card“卡”组成，表示关联账户扣款的卡。",
+        "affixesZh": "短语中没有明显词缀；debit 和 card 都是独立词。",
+        "mnemonicZh": "买菜刷 debit card，款项直接从关联账户扣除。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 credit card；复数形式为 credit cards。",
+        "rootsZh": "由 credit“信用”和 card“卡”组成，表示凭信用消费的卡。",
+        "affixesZh": "短语中没有明显词缀；credit 和 card 都是独立词。",
+        "mnemonicZh": "酒店入住时出示 credit card，常用于付款或担保。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形均为 deposit；deposited 是例句中的过去式。",
+        "rootsZh": "deposit 的现代构词拆分不够直观，整体记作“存入、存款”。",
+        "affixesZh": "deposit 本身没有明显词缀；deposited 的 -ed 是过去式词尾。",
+        "mnemonicZh": "用手机把支票存进账户，可记作把钱 deposit 进去。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "withdraw",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 withdraw；过去式 withdrew，过去分词 withdrawn。",
+        "rootsZh": "可分析为 with-（向后、离开）和 draw（拉）；联系“取回、撤回”的意思。",
+        "affixesZh": "with- 在这个词中保留“向后、离开”的旧义，不是介词 with 的“和……一起”；过去式 withdrew、过去分词 withdrawn 为不规则变化。",
+        "mnemonicZh": "办理取款时记住 withdraw 表示“取出”；用于账户时，常说 withdraw money from an account。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "balance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "balance 作名词或动词时形式相同，没有屈折变化。",
+        "rootsZh": "整体记忆；可表示账户余额，也可表示平衡或使平衡。",
+        "affixesZh": "没有明显词缀；名词和动词同形。",
+        "mnemonicZh": "想象付房租前查看账户里还剩多少，这就是账户余额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-statement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "bank statement 是名词短语；核心词为 statement。",
+        "rootsZh": "由 bank“银行”和 statement“陈述、记录”组成；statement 可分析为 state“陈述、说明”加 -ment。",
+        "affixesZh": "-ment 是名词后缀，表示行为、结果或事物；state 加 -ment 构成 statement。",
+        "mnemonicZh": "bank statement 是银行列出的账户收支记录，可把 statement 联想到对账户情况的说明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transaction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "transaction 是名词原形，复数为 transactions。",
+        "rootsZh": "可联系动词 transact，表示进行交易或办理业务。",
+        "affixesZh": "-ion 将 transact 构成名词；复数 -s 是屈折变化。",
+        "mnemonicZh": "对账单上每一笔扣款或付款，都可看作一项 transaction。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pending-transaction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "pending transaction 是名词短语；pending 是 pend 的 -ing 形式。",
+        "rootsZh": "由 pending“待处理的”和 transaction“交易”组成。",
+        "affixesZh": "-ing 是动词的分词形式，不是短语后缀；无其他明显词缀。",
+        "mnemonicZh": "刷卡后餐馆付款还在等待银行处理，状态就是 pending。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "posted-transaction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "posted transaction 是名词短语；posted 是动词 post 的过去分词。",
+        "rootsZh": "由 posted“已登记入账的”和 transaction“交易”组成。",
+        "affixesZh": "-ed 标示 post 的过去分词，在此作形容词修饰名词。",
+        "mnemonicZh": "付款从待处理变成正式列到账单上，就是 posted transaction。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "credit limit 是名词短语。",
+        "rootsZh": "由 credit“信用、授信”和 limit“界限、上限”组成。",
+        "affixesZh": "没有明显词缀；两个词都是独立词。",
+        "mnemonicZh": "把额度想成信用卡可借用金额的一道最高边界。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "available-credit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "available credit 是名词短语；中心词是 credit。",
+        "rootsZh": "由 available“可用的”和 credit“信用额度”组成。",
+        "affixesZh": "available 含 -able，表示“能够……的”；无复数变化。",
+        "mnemonicZh": "信用卡额度尚未用掉、目前还能刷的部分，就是 available credit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "minimum-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "minimum payment 是名词短语；payment 可复数化。",
+        "rootsZh": "由 minimum“最小值”和 payment“付款金额”组成。",
+        "affixesZh": "payment 中 pay 加名词后缀 -ment；复数 -s 为屈折变化。",
+        "mnemonicZh": "账单规定的最低还款要求，就是 minimum payment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "statement-balance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "statement balance 是名词短语。",
+        "rootsZh": "由 statement“账单”和 balance“余额、结欠”组成。",
+        "affixesZh": "没有明显词缀；两个词都是独立词。",
+        "mnemonicZh": "想象账单出具当天的欠款快照，就是 statement balance。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interest",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "interest 作名词或动词时形式相同；复数名词为 interests。",
+        "rootsZh": "整体记忆；在此指欠款产生的利息，也可指兴趣。",
+        "affixesZh": "没有适合教学的明显词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "欠款留在账户里，银行按规则加收的金额就是 interest。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdraft",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 overdraft；这里是单数形式，不需还原变化。",
+        "rootsZh": "可按 over“超过”＋draft“支取”记，表示支取超过账户余额。",
+        "affixesZh": "over- 是表示“超过”的前缀；没有复数等屈折变化。",
+        "mnemonicZh": "账户余额不够还继续支取，金额就“超出”了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 service fee；两个词均为单数形式。",
+        "rootsZh": "由 service“服务”和 fee“费用”组成，表示为某项服务支付的费用。",
+        "affixesZh": "没有明显词缀；service、fee 都是独立词。",
+        "mnemonicZh": "转账前问 service fee，就是问这项服务是否另收费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-authorized-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 pre-authorized payment；核心名词 payment，authorized 是修饰语。",
+        "rootsZh": "pre- 表示事先；authorize 表示授权，payment 来自 pay“支付”。",
+        "affixesZh": "pre- 是前缀；-ize 构成动词 authorize，-ed 在此为过去分词形式，-ment 构成名词 payment。",
+        "mnemonicZh": "先授权一次，之后每月账单便可按安排自动付款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "payee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 payee；这里是单数，复数通常为 payees。",
+        "rootsZh": "pay 表示支付；-ee 表示接受某动作或与之相关的人，payee 即收款方。",
+        "affixesZh": "-ee 是派生后缀，表示动作的接受者；末尾不是屈折变化。",
+        "mnemonicZh": "网上缴电费时，把电力公司设为 payee，也就是收款单位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "account-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 account number；此处是单数形式。",
+        "rootsZh": "由 account“账户”和 number“号码”组成，表示识别账户的号码。",
+        "affixesZh": "没有明显词缀；两个词在短语中保持独立。",
+        "mnemonicZh": "填写工资入账资料时，account number 就是要核对的账户号码。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 transit number；此处是单数形式。",
+        "rootsZh": "由 transit 和 number 组成；加拿大银行语境中指识别分行的号码。",
+        "affixesZh": "没有明显词缀；transit 是独立词，不是此处的前缀。",
+        "mnemonicZh": "填写工资入账资料时，把 transit number 记作银行分行号码。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "institution-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 institution number；此处是单数形式。",
+        "rootsZh": "由 institution“机构”和 number“号码”组成，指金融机构代码。",
+        "affixesZh": "institution 含名词后缀 -tion；短语本身没有额外词缀。",
+        "mnemonicZh": "工资表把分行、机构和账户号码分开填写，机构号码对应 institution。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-draft",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 bank draft；此处是单数形式。",
+        "rootsZh": "由 bank“银行”和 draft“汇票”组成，整体指由银行签发的汇票。",
+        "affixesZh": "没有明显词缀；bank 和 draft 都是独立词。",
+        "mnemonicZh": "买车时卖家要求带 bank draft，记住这是银行出具的付款凭据。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wire-transfer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 wire transfer；此处是单数形式。",
+        "rootsZh": "由 wire 和 transfer“转移、转账”组成，整体指通过银行系统办理的电汇。",
+        "affixesZh": "没有明显词缀；wire、transfer 都是独立词。",
+        "mnemonicZh": "跨境汇款要提供收款银行资料，wire transfer 就是银行间电汇。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scarf",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 scarf；这里是单数，复数形式为 scarves 或 scarfs。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，建议把 scarf 整体记作“围巾”。",
+        "affixesZh": "没有明显词缀；复数变化不属于派生词缀。",
+        "mnemonicZh": "冬天出门前把 scarf 围在脖子上，抵挡冷风。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mittens",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 mitten；mittens 是规则复数形式。",
+        "rootsZh": "mitten 整体记忆，指连指手套，没有适合教学的可靠拆分。",
+        "affixesZh": "词尾 -s 是名词复数屈折标记，不是派生后缀。",
+        "mnemonicZh": "冬天孩子双手伸进同一个大指套，记住 mitten 是连指手套。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gloves",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 glove；gloves 是规则复数形式。",
+        "rootsZh": "glove 整体记忆，表示手套；此处指能分开五指的手套。",
+        "affixesZh": "词尾 -s 表示复数，是屈折变化，不改变词义类别。",
+        "mnemonicZh": "想象每根手指各自伸进一个指套，联想到五指手套 gloves。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "earmuffs",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 earmuff；earmuffs 是规则复数形式。",
+        "rootsZh": "由 ear（耳朵）和 muff（护耳套）组成，合指耳罩。",
+        "affixesZh": "词尾 -s 是复数屈折标记；ear、muff 都是构词成分。",
+        "mnemonicZh": "两只软垫分别罩住耳朵，ear 加 muff 就是耳罩。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thermal-underwear",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条形式是 thermal underwear，作整体名词短语；underwear 通常不可数。",
+        "rootsZh": "thermal 表示保暖的；underwear 由 under（里面）和 wear（穿着）组成。",
+        "affixesZh": "thermal 中 -al 构成形容词；underwear 的 under 是词汇组成部分。",
+        "mnemonicZh": "把这层衣物穿在日常衣服里面，记住 underwear 是内衣，thermal 表示保暖。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "base-layer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条形式是 base layer，作整体名词短语，没有屈折变化。",
+        "rootsZh": "base（基础、底层）加 layer（层），指穿在最里面的衣物层。",
+        "affixesZh": "没有明显词缀；base 和 layer 是独立的构词成分。",
+        "mnemonicZh": "想象穿衣时先贴身穿上的第一层，就是 base layer。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fleece",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 fleece；此处用作单数名词，形式未变化。",
+        "rootsZh": "fleece 整体记忆，可指抓绒面料或用它制成的抓绒衣。",
+        "affixesZh": "没有明显前缀或后缀，不把词尾字母强行拆作词缀。",
+        "mnemonicZh": "凉天把柔软的抓绒衣套在雨衣里面，联想到 fleece 保暖层。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parka",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 parka；此处为单数名词，形式未变化。",
+        "rootsZh": "parka 是借词，作为整体记忆，指带帽的防寒外套。",
+        "affixesZh": "没有可可靠辨认、适合教学的词缀拆分。",
+        "mnemonicZh": "想象长款外套盖住臀部，帽兜罩住帽子，记住 parka。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "down-jacket",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条形式是 down jacket，作整体名词短语；此处为单数。",
+        "rootsZh": "down（羽绒）加 jacket（夹克、外套），组成羽绒夹克。",
+        "affixesZh": "没有明显词缀；down 和 jacket 是两个独立词。",
+        "mnemonicZh": "把轻薄羽绒外套放进包里，晚上变冷时拿出来穿。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-boots",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 snow boot；snow boots 是规则复数形式。",
+        "rootsZh": "snow（雪）加 boot（靴子），指适合雪地穿的靴子。",
+        "affixesZh": "boots 的 -s 是复数屈折标记；snow 是复合词的组成成分。",
+        "mnemonicZh": "深雪会没过普通鞋，换上 snow boots 才能踏雪行走。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "waterproof",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 waterproof；作形容词或动词时形式相同，此处为形容词。",
+        "rootsZh": "由 water（水）和 proof（能抵挡、耐受）组成，表示防水。",
+        "affixesZh": "-proof 是表示“能抵挡、耐受”的后缀性构词成分。",
+        "mnemonicZh": "雪泥溅到靴面，水无法渗进去；记住 waterproof 就是防水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "windproof",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 windproof，作形容词，无屈折变化。",
+        "rootsZh": "wind（风）+ proof（能抵御的），合成表示防风。",
+        "affixesZh": "proof 在此作构词成分，表示能抵御；无屈折词尾。",
+        "mnemonicZh": "湖边风大，穿上 windproof jacket，风不易透进来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "insulated",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 insulate；insulated 是其过去分词，也可作形容词。",
+        "rootsZh": "以现代词基 insulate 整体记，表示加隔热或保温层。",
+        "affixesZh": "-ed 是过去分词后缀，词尾 e 在加后缀时保留。",
+        "mnemonicZh": "手套里有保温层，像被隔开冷空气一样更暖。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "traction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 traction，无单复数变化标记。",
+        "rootsZh": "tract 表示牵引，traction 指鞋底与地面间的抓附力。",
+        "affixesZh": "-ion 构成名词；不是复数或动词屈折词尾。",
+        "mnemonicZh": "雪地靴能牢牢“牵住”雪面，走路便不易打滑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "layer-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词 layer up；layer 是动词原形，up 为小品词。",
+        "rootsZh": "layer 指一层衣物，up 表示增加，合起来是多穿几层。",
+        "affixesZh": "无词缀；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "出门多穿几层，上车后热了就能脱掉一层。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bundle-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词 bundle up；bundle 是动词原形，up 为小品词。",
+        "rootsZh": "bundle 有包裹成束之意；bundle up 表示把自己裹暖。",
+        "affixesZh": "无词缀；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "寒风里把围巾、外套裹严实，就是 bundle up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zip-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词 zip up；zip 是动词原形，up 为小品词。",
+        "rootsZh": "zip 指拉链快速闭合的动作；与 up 合用表示拉上。",
+        "affixesZh": "无词缀；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "出门前把外套拉链一路拉到领口，挡住冷风。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shovel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 shovel；名词和动词形式相同。例句 shovelled 是过去式。",
+        "rootsZh": "现代英语中不宜拆分，整体记作铲子或用铲子铲。",
+        "affixesZh": "shovelled 的 -ed 表过去式，拼写中 l 加倍；shovel 本身无词缀。",
+        "mnemonicZh": "雪后拿 shovel 把车道上的积雪一铲一铲清开。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "salt",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 salt，可作名词或动词；例句中是过去式 salted。",
+        "rootsZh": "现代英语中整体记忆，作名词是盐，作动词是撒盐。",
+        "affixesZh": "salted 的 -ed 表过去式；salt 本身无明显词缀。",
+        "mnemonicZh": "清完台阶后撒上盐，帮助融雪并减少打滑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flurries",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "单数原形是 flurry；flurries 是复数形式。",
+        "rootsZh": "flurry 整体记忆，表示短暂、零星的一阵降雪。",
+        "affixesZh": "复数 -s 加在变形后的 -y 上，y 改为 i；非派生后缀。",
+        "mnemonicZh": "通勤路上偶尔飘一阵雪，很快又停，正是 flurries。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sleet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 sleet，作名词；本例中没有屈折变化。",
+        "rootsZh": "整体记忆，指冰粒或雨夹雪；具体用法因地区而异。",
+        "affixesZh": "没有明显前后缀或屈折词尾。",
+        "mnemonicZh": "窗上听见细小冰粒敲击声，可联想到 sleet。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "freezing-rain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语是 freezing rain；freezing 是 freeze 的现在分词形式，rain 为名词。",
+        "rootsZh": "由 freeze（结冰）和 rain（雨）组成，指液态雨滴接触冰点以下的表面后结冰形成的降水。",
+        "affixesZh": "-ing 是 freeze 的现在分词屈折形式，在短语中修饰 rain；不是派生后缀。",
+        "mnemonicZh": "想象液态雨滴落到低于冰点的台阶上后结冰，记住 freezing rain 是冻雨。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowfall",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 snowfall；复数可加 -s，写作 snowfalls。",
+        "rootsZh": "由 snow（雪）和 fall（落下、降落）组成，可指降雪过程或降雪量。",
+        "affixesZh": "没有明显派生词缀；是由两个现代英语词组成的复合词。",
+        "mnemonicZh": "想象夜里雪花不断 fall 到停着的车上，便是 snowfall。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "icy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形是 icy；比较级通常为 icier，最高级为 iciest。",
+        "rootsZh": "以 ice（冰）为词基，表示像冰一样或表面结了冰。",
+        "affixesZh": "-y 是派生后缀，常把名词变成表示“有……的、像……的”形容词。",
+        "mnemonicZh": "把人行道想成覆着 ice 的路面；icy 就是结冰、像冰一样的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowstorm",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 snowstorm；复数形式为 snowstorms。",
+        "rootsZh": "由 snow（雪）和 storm（风暴）组成，指伴有强风的大雪天气。",
+        "affixesZh": "没有明显派生词缀；snow 和 storm 是复合词中的两个独立词。",
+        "mnemonicZh": "想象大风卷着雪扑向铁轨，列车因此延误，就是 snowstorm。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toothbrush",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 toothbrush；复数为 toothbrushes，复数加 -es。",
+        "rootsZh": "由 tooth（牙齿）和 brush（刷子）组成，指清洁牙齿的刷子。",
+        "affixesZh": "没有明显派生词缀；复数 -es 是屈折变化，不是构词后缀。",
+        "mnemonicZh": "记住它是专门给 tooth 使用的 brush，即清洁牙齿的刷子。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toothpaste",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 toothpaste；通常作不可数名词，也可说 a tube of toothpaste。",
+        "rootsZh": "由 tooth（牙齿）和 paste（膏状物）组成，指用于清洁牙齿的膏体。",
+        "affixesZh": "没有明显词缀；由 tooth 和 paste 两个独立词构成复合词。",
+        "mnemonicZh": "想象把膏状物挤到牙刷上清洁 tooth，便是 toothpaste。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "floss",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形都是 floss；动词可变为 flosses、flossed、flossing。",
+        "rootsZh": "按给定义项整体记忆，表示牙线，或用牙线清洁牙缝；没有适合教学的可靠拆分。",
+        "affixesZh": "没有明显派生词缀；动词形式中的 -es、-ed、-ing 是屈折变化。",
+        "mnemonicZh": "想象细牙线穿过两颗牙之间，把食物残渣带走，就是 floss。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mouthwash",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 mouthwash；通常作不可数名词，也可说 a bottle of mouthwash。",
+        "rootsZh": "由 mouth（口腔）和 wash（清洗）组成，指用于漱口清洁的液体。",
+        "affixesZh": "没有明显派生词缀；mouth 和 wash 是复合词中的独立单词。",
+        "mnemonicZh": "想象将液体含在 mouth 里漱洗后吐出，帮助记住 mouthwash。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shampoo",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形都是 shampoo；动词可变为 shampoos、shampooed、shampooing。",
+        "rootsZh": "按现代英语整体记忆，表示洗发水或用洗发水洗头；没有可靠的教学拆分。",
+        "affixesZh": "没有明显派生词缀；动词形式中的 -s、-ed、-ing 是屈折变化。",
+        "mnemonicZh": "旅行时把 shampoo 放在洗漱用品中；用它洗头，也可作动词 shampoo。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "conditioner",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 conditioner；复数形式为 conditioners。",
+        "rootsZh": "在此义中由 condition（调理、改善状态）加构词成分组成，指调理头发的产品。",
+        "affixesZh": "-er 是派生后缀，可表示起某种作用的物品；复数 -s 是屈折变化。",
+        "mnemonicZh": "洗发后用 conditioner 调理头发，帮助记住它不同于清洁头发的 shampoo。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "body-wash",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复合词，原形是 body wash；本条为单数形式。",
+        "rootsZh": "body 是“身体”，wash 作名词指清洁用品，合指身体清洁液。",
+        "affixesZh": "没有明显词缀；body、wash 是两个独立词。",
+        "mnemonicZh": "洗澡时把它挤在手上或沐浴球上，记作“洗身体的液体”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-soap",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复合词，原形是 hand soap；本条为单数形式。",
+        "rootsZh": "hand 是“手”，soap 是“皂”，组合表示专用于洗手的皂或液体。",
+        "affixesZh": "没有明显词缀；hand 和 soap 都是独立单词。",
+        "mnemonicZh": "洗手池旁的泵瓶上写着 hand soap，提醒这是洗手用的皂液。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deodorant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 deodorant；本条不是其他形式的屈折变化。",
+        "rootsZh": "可联系现代动词 deodorize（除臭）；指用于除体味的产品。",
+        "affixesZh": "-ant 构成表示用品或作用者的名词；不是复数或分词词尾。",
+        "mnemonicZh": "出门前在腋下用它，帮助减少体味；它不一定会减少出汗。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "antiperspirant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 antiperspirant；本条不是屈折变化形式。",
+        "rootsZh": "anti- 表示“对抗”，perspire 是“出汗”，合指抑制出汗的产品。",
+        "affixesZh": "anti- 是表示反对、对抗的前缀；-ant 构成名词，不是屈折词尾。",
+        "mnemonicZh": "记住 anti（对抗）加 perspire（出汗）：它针对的是汗水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "razor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 razor；本条不是复数等屈折形式。",
+        "rootsZh": "现代英语里不宜为此义硬拆词根，整体记作剃须或剃毛用的刀具。",
+        "affixesZh": "没有适合此处教学的明确词缀拆分；不要仅凭 -or 判断。",
+        "mnemonicZh": "想象把替换刀片装进 razor，再用它剃须或剃毛。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shaving-cream",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 shaving cream；shaving 来自动词 shave。",
+        "rootsZh": "shave 是“剃刮”，cream 是“膏”，组合表示剃须时使用的膏。",
+        "affixesZh": "shaving 中 -ing 是 shave 的动名词／分词形式；不是短语后缀。",
+        "mnemonicZh": "剃须前先涂一层 cream，让 shaving 这一步更顺手。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cotton-swab",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复合词，原形是 cotton swab；本条为单数形式。",
+        "rootsZh": "cotton 是“棉”，swab 是“擦拭用的小棒”，合指棉签。",
+        "affixesZh": "没有明显词缀；cotton 与 swab 是独立单词。",
+        "mnemonicZh": "想象用两端带棉的小棒轻轻修整指甲油边缘。"
+      }
+    }
+  ]
+}

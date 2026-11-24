@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-015",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "academic-review-comments",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 review comments；单数可说 a review comment。",
+        "rootsZh": "review 表示评审，comments 表示意见或评论。",
+        "affixesZh": "comments 的 -s 表示复数，是屈折变化；无派生词缀。",
+        "mnemonicZh": "逐条阅读审稿人留下的 comments，便是 review comments。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-decision-letter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 decision letter。",
+        "rootsZh": "decision 表示决定，letter 表示信件或通知。",
+        "affixesZh": "decision 由 decide 加名词后缀 -ion 构成，拼写有变化。",
+        "mnemonicZh": "期刊用一封 letter 告知稿件决定和后续要求。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-major-revision",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 major revision；复数为 major revisions。",
+        "rootsZh": "major 表示较大的，revision 表示修改或修订。",
+        "affixesZh": "revision 与 revise 相关，-ion 构成名词；复数 -s 是屈折。",
+        "mnemonicZh": "把稿件大幅重写、补充分析，可记为 major revision。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-minor-revision",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 minor revision，单数形式。",
+        "rootsZh": "由 minor“小幅的”和 revision“修改”组成。",
+        "affixesZh": "revision 中有名词后缀 -ion；minor 无明显词缀。",
+        "mnemonicZh": "想象论文只需做几处小改动，便是 minor revision。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-response-letter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 response letter，单数形式。",
+        "rootsZh": "response“回应”加 letter“信”，合指回复信。",
+        "affixesZh": "没有明显词缀；response 词尾不是此处可单独拆解的后缀。",
+        "mnemonicZh": "逐条写明改了哪里，再把说明放进 response letter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-rebuttal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 rebuttal；对应动词为 rebut。",
+        "rootsZh": "rebut 表示反驳，rebuttal 指反驳或答辩说明。",
+        "affixesZh": "-al 构成名词；不是复数或分词变化。",
+        "mnemonicZh": "面对评审质疑，用 rebuttal 解释理由或澄清误解。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-resubmit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 resubmit；本词没有屈折变化。",
+        "rootsZh": "submit“提交”前加 re-，表示再次提交。",
+        "affixesZh": "re- 是表示“再、重新”的前缀。",
+        "mnemonicZh": "修好缺失的图后，再把作业 submit 一次：resubmit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-desk-rejection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 desk rejection，单数形式。",
+        "rootsZh": "desk“编辑案头”加 rejection“拒绝”，指编辑初审退稿。",
+        "affixesZh": "rejection 由 reject 加名词后缀 -ion 构成。",
+        "mnemonicZh": "稿件还停在编辑案头便被拒，没有送去外审。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-acceptance-letter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 acceptance letter，单数形式。",
+        "rootsZh": "acceptance“录用、接受”加 letter“信”。",
+        "affixesZh": "accept 加名词后缀 -ance 构成 acceptance。",
+        "mnemonicZh": "收到会议正式来信确认录用，就是 acceptance letter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-copy-edit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词短语 copy edit；本词为原形。",
+        "rootsZh": "copy“文本”加 edit“编辑”，指文字与格式校订。",
+        "affixesZh": "没有明显词缀；copy 和 edit 是独立词。",
+        "mnemonicZh": "排版前检查文章用词和格式，就是 copy edit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-page-proof",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 page proof，单数形式；常见复数 proofs。",
+        "rootsZh": "page“页面”加 proof“校样”，指排版后的待校稿。",
+        "affixesZh": "无明显派生词缀；proofs 的 -s 是复数标记。",
+        "mnemonicZh": "文章排成页面后，作者检查 page proofs 并标出错误。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-publication-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 publication fee，单数形式。",
+        "rootsZh": "publication“出版、发表”加 fee“费用”。",
+        "affixesZh": "publication 与 publish 相关，-ation 构成名词。",
+        "mnemonicZh": "论文发表后核对项目经费能否支付 publication fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-unit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 rental unit，单数形式。",
+        "rootsZh": "rental 与 rent“租”相关，unit 指住宅单位。",
+        "affixesZh": "rental 中 -al 构成修饰 unit 的词形；无复数变化。",
+        "mnemonicZh": "把一套由房东出租、需要维护的住宅想成 rental unit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pay-rent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 pay rent；pay 是动词原形，例句中不变形。",
+        "rootsZh": "pay 表示支付，rent 表示房租；两词组合表示交房租。",
+        "affixesZh": "没有明显词缀；pay 和 rent 都是独立单词。",
+        "mnemonicZh": "想象每月一号用电子转账，把房租付给房东。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdue-rent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条原形为 overdue rent；overdue 修饰 rent。",
+        "rootsZh": "overdue 可看作 over（超过）+ due（到期的），指超过期限；rent 是租金。",
+        "affixesZh": "over- 是表示超过的前缀，不是屈折变化。",
+        "mnemonicZh": "租金到期日已过，账单仍未付，就是 overdue rent。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rent-arrears",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条为 rent arrears；arrears 通常以复数形式表示欠款。",
+        "rootsZh": "rent 是租金；arrears 指未付的欠款，合起来表示欠租。",
+        "affixesZh": "arrears 末尾 -s 是复数形式；此处通常使用复数词形。",
+        "mnemonicZh": "把每期没交的租金记在账上，累积起来就是 rent arrears。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eviction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "eviction 是名词原形；对应动词原形是 evict。",
+        "rootsZh": "词基 evict 表示依法驱逐或收回，eviction 指驱逐这一程序或行为。",
+        "affixesZh": "-ion 加在 evict 后构成名词，表示行为或过程；不是屈折变化。",
+        "mnemonicZh": "收到正式文件后，房东依法要求租客离开，这一过程叫 eviction。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eviction-notice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 eviction notice；两个词均为单数形式。",
+        "rootsZh": "eviction 表示驱逐程序，notice 表示正式通知，组合后指驱逐通知。",
+        "affixesZh": "eviction 中有名词后缀 -ion；notice 本身无明显词缀。",
+        "mnemonicZh": "把 eviction 想成程序、notice 想成书面告知，合起来就是相关正式通知。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notice-of-termination",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 notice of termination；核心词是 notice。",
+        "rootsZh": "notice 是通知，termination 表示终止；of 连接两者，说明通知的内容。",
+        "affixesZh": "termination 由 terminate 加名词后缀 -ion 构成；of 是独立介词。",
+        "mnemonicZh": "看到写明 termination 的 notice，就想到一份告知租约终止的文件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenant-rights",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条为 tenant rights；rights 是 right 的复数形式。",
+        "rootsZh": "tenant 指租客，right 指权利；组合表示租客享有的权利。",
+        "affixesZh": "rights 的 -s 是复数屈折词尾；tenant 没有明显词缀。",
+        "mnemonicZh": "想象社区诊所为租客说明他们依法享有的各项权益。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rent-control",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 rent control；两个词均为单数形式。",
+        "rootsZh": "rent 是租金，control 是控制或管理；合起来指对租金的管制。",
+        "affixesZh": "没有明显词缀；rent 和 control 是独立词组成的复合表达。",
+        "mnemonicZh": "签约前查清租金涨幅是否受规则限制，想到 rent control。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lease-assignment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 lease assignment；assignment 是名词。",
+        "rootsZh": "lease 是租约；assignment 表示转让或交接，合起来指租约转让。",
+        "affixesZh": "assignment 由 assign 加名词后缀 -ment 构成，表示转让这一事项。",
+        "mnemonicZh": "租客搬走前把租约权益转给他人，可用 lease assignment 表达。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "co-tenant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "co-tenant 是名词原形；复数形式为 co-tenants。",
+        "rootsZh": "tenant 指租客；co- 表示共同，指共同承租的租客。",
+        "affixesZh": "co- 是表示共同的前缀；复数时在词尾加屈折后缀 -s。",
+        "mnemonicZh": "两个人名字都写在同一份租约上，就是 co-tenants。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-move-out-inspection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 move-out inspection。",
+        "rootsZh": "move out 表示搬出，inspection 表示检查，合指退租检查。",
+        "affixesZh": "inspection 中 inspect 加派生后缀 -ion 构成名词；move-out 中连字符连接短语成分。",
+        "mnemonicZh": "搬出房屋后由物业检查房间，记作 move-out inspection。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wear-and-tear",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定名词短语 wear and tear。",
+        "rootsZh": "由 wear（磨损）和 tear（损耗）并列组成，整体指正常使用损耗。",
+        "affixesZh": "没有明显词缀；and 是连接两个词的独立连词。",
+        "mnemonicZh": "想象家具日常被使用，表面逐渐磨损、留下痕迹。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-damage-charge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 damage charge。",
+        "rootsZh": "damage 表示损坏，charge 表示收费，组合指损坏相关费用。",
+        "affixesZh": "没有明显词缀；damage 和 charge 都是独立词。",
+        "mnemonicZh": "退租后若房屋有损坏，账单上可能出现对应的 charge。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-cleaning-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 cleaning fee。",
+        "rootsZh": "clean 表示清洁，fee 表示费用；cleaning 修饰 fee。",
+        "affixesZh": "cleaning 的 -ing 构成动名词或分词形式作前置修饰语，不是复数。",
+        "mnemonicZh": "把清洁房间这项服务和费用联系起来，记住 cleaning fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "forwarding-address",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 forwarding address。",
+        "rootsZh": "forward 表示转寄或转送，address 表示地址，合指转寄用的新地址。",
+        "affixesZh": "forwarding 中 -ing 构成分词作修饰语，不是复数或独立词缀义。",
+        "mnemonicZh": "搬家后留下地址，让邮件继续转寄到新住处。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vacate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 vacate；所给形式没有屈折变化。",
+        "rootsZh": "现代英语中不宜按字母拆分，整体记作腾空并搬离。",
+        "affixesZh": "没有适合此处教学的明显词缀，不把词尾 e 当词缀。",
+        "mnemonicZh": "租期结束时把房间清空并离开，就是 vacate the unit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "return-the-keys",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 return the keys；return 是核心动词原形，keys 是 key 的复数。",
+        "rootsZh": "return 表示归还，the keys 指那些钥匙，组合表示归还钥匙。",
+        "affixesZh": "keys 的 -s 是名词复数屈折词尾；短语中的 the 不是词缀。",
+        "mnemonicZh": "验房结束后把手中的钥匙交回物业，记住 return the keys。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-history",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 rental history。",
+        "rootsZh": "rental 表示租赁相关的，history 表示过往记录，合指租房记录。",
+        "affixesZh": "rental 由 rent 加派生后缀 -al 构成；history 无明显词缀。",
+        "mnemonicZh": "申请新房时回顾以前住过哪里、租了多久，就是 rental history。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-scam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 rental scam。",
+        "rootsZh": "rental 表示租房相关的，scam 表示骗局，合指租房骗局。",
+        "affixesZh": "rental 由 rent 加派生后缀 -al 构成；scam 无明显词缀。",
+        "mnemonicZh": "网上租房若要求先汇钱却无法核实房源，要警惕 rental scam。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "basement-apartment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 basement apartment。",
+        "rootsZh": "basement 指地下室，apartment 指公寓；合指地下层的出租套间。",
+        "affixesZh": "整体按两个独立名词组成的复合名词记忆；不强行拆 apartment。",
+        "mnemonicZh": "想象房屋地下层有独立入口和窗户，里面是一套 apartment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bachelor-apartment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 bachelor apartment；指开间公寓。",
+        "rootsZh": "由 bachelor（单身者）和 apartment（公寓）组成；整体按固定房型记忆。",
+        "affixesZh": "没有明显词缀；bachelor 在此作名词修饰 apartment。",
+        "mnemonicZh": "想象一间没有独立卧室、常供单人居住的小公寓。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "separate-entrance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 separate entrance，意为独立出入口。",
+        "rootsZh": "separate 表示分开的；entrance 表示入口，合起来指单独入口。",
+        "affixesZh": "entrance 可联系 enter 加名词后缀 -ance；短语本身无屈折词缀。",
+        "mnemonicZh": "看地下室套间时，想象从后院有一扇专属门可直接进入。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shared-accommodation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shared accommodation；shared 是 share 的过去分词形式。",
+        "rootsZh": "share 表示共享；accommodation 表示住处或住宿安排。",
+        "affixesZh": "shared 的 -ed 表示过去分词作修饰语；accommodation 含名词后缀 -ation。",
+        "mnemonicZh": "把住房想成多人共用厨房、客厅或其他生活空间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "utilities-included",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 utilities included；utilities 是 utility 的复数，included 是 include 的过去分词。",
+        "rootsZh": "utility 指公用服务或设施；include 表示包含，合起来说相关费用已算入。",
+        "affixesZh": "utilities 的 -ies 是复数变化；included 的 -ed 是过去分词，不是派生词缀。",
+        "mnemonicZh": "比较月租时，想象水费、暖气费等已列进租金总额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-size-chart",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 size chart，意为尺码对照表。",
+        "rootsZh": "由 size（尺码、尺寸）和 chart（表格）组成。",
+        "affixesZh": "没有明显词缀；两个独立词构成复合名词。",
+        "mnemonicZh": "网购衣服前，对照表格里的胸围、腰围和尺码选择。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-true-to-size",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定表达 true to size，形式不变，描述商品尺码合乎常规。",
+        "rootsZh": "由 true（准确、符合）和 size（尺码）组成；to 是独立介词。",
+        "affixesZh": "没有明显词缀；to 不是词缀，短语整体记忆。",
+        "mnemonicZh": "平常穿某尺码，这双鞋也合脚，就可说 true to size。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-runs-small",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 runs small；runs 是 run 的一般现在时第三人称单数。",
+        "rootsZh": "run 表示商品穿着或版型呈现某种效果；small 表示偏小。",
+        "affixesZh": "runs 末尾 -s 是主谓一致的屈折变化；small 无明显词缀。",
+        "mnemonicZh": "试穿后发现平常尺码显紧，想象这款衣服整体偏小一码。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-runs-large",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 runs large；runs 是 run 的一般现在时第三人称单数。",
+        "rootsZh": "run 表示商品穿着或版型呈现某种效果；large 表示偏大。",
+        "affixesZh": "runs 末尾 -s 是主谓一致的屈折变化；large 无明显词缀。",
+        "mnemonicZh": "同样标注的尺码穿起来更宽松，记作这款整体偏大。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-waist-size",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 waist size，指腰围尺寸或对应尺码。",
+        "rootsZh": "由 waist（腰部、腰围）和 size（尺寸、尺码）组成。",
+        "affixesZh": "没有明显词缀；两个独立词构成复合名词。",
+        "mnemonicZh": "挑牛仔裤时，把腰部一圈的测量值与裤子尺码对应起来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-inseam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 inseam，单复数形式为 inseam、inseams。",
+        "rootsZh": "可按 in（内侧）和 seam（缝线）理解，指裤腿内侧的缝线长度。",
+        "affixesZh": "没有明显派生词缀；此处 in 与 seam 组成复合词。",
+        "mnemonicZh": "量裤长时，从裆部沿裤腿内侧缝线量到裤脚。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-rise",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是名词 rise；此处表示裤腰高度，没有屈折变化。",
+        "rootsZh": "rise 是完整单词，可联系“升高”的概念记忆；不宜再拆词。",
+        "affixesZh": "没有明显词缀；这里不是动词的过去式或分词。",
+        "mnemonicZh": "想象从裆部量到腰头的垂直高度，就是裤子的 rise。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-slim-fit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 slim fit；本例没有屈折变化。",
+        "rootsZh": "由 slim“修身、窄”和 fit“版型、合身”组成。",
+        "affixesZh": "没有明显词缀；slim 和 fit 都是独立单词。",
+        "mnemonicZh": "想象衣服贴着肩胸和身体线条，记住 slim fit 是修身版型。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-regular-fit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 regular fit；本例没有屈折变化。",
+        "rootsZh": "由 regular“常规的”和 fit“版型、合身”组成。",
+        "affixesZh": "没有明显词缀；regular 和 fit 是独立单词。",
+        "mnemonicZh": "把它想成不特别贴身、也不刻意宽大的日常标准版型。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-relaxed-fit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 relaxed fit；relaxed 来自动词 relax。",
+        "rootsZh": "由 relax“放松”和 fit“版型、合身”组成，描述较宽松的剪裁。",
+        "affixesZh": "relaxed 中 -ed 是过去分词形式，在此作形容词；不是名词复数。",
+        "mnemonicZh": "想象长途飞行时裤腿留有活动空间，身体不受紧绷衣料束缚。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-wide-leg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 wide leg；本例没有屈折变化。",
+        "rootsZh": "由 wide“宽的”和 leg“腿、裤腿”组成，描述裤腿较宽。",
+        "affixesZh": "没有明显词缀；wide 和 leg 都是独立单词。",
+        "mnemonicZh": "想象裤管从大腿到裤脚都留出较宽空间，像宽阔的裤腿。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-straight-leg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 straight leg；本例没有屈折变化。",
+        "rootsZh": "由 straight“直的”和 leg“腿、裤腿”组成，表示直筒裤型。",
+        "affixesZh": "没有明显词缀；straight 和 leg 都是独立单词。",
+        "mnemonicZh": "想象裤管从大腿向下保持相近宽度，轮廓像一条直线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-tapered-leg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 tapered leg；tapered 来自动词 taper。",
+        "rootsZh": "taper 表示逐渐变窄，leg 指裤腿；组合起来描述裤脚渐窄。",
+        "affixesZh": "tapered 中 -ed 是过去分词形式，在此作形容词；不是派生后缀。",
+        "mnemonicZh": "想象裤腿从宽松的大腿处一路收向较窄的脚踝处。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-crew-neck",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条整体是名词短语 crew neck；本例没有屈折变化。",
+        "rootsZh": "crew neck 是固定的衣领名称；neck 指领口部位，整体记作圆领。",
+        "affixesZh": "没有明显词缀；crew 和 neck 是独立单词。",
+        "mnemonicZh": "想象领口围着颈部形成贴近颈根的圆形，适合叠穿外套。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-v-neck",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式是 V-neck，名词；本例没有屈折变化。",
+        "rootsZh": "由字母 V 和 neck“领口”组成，直接描述 V 字形领口。",
+        "affixesZh": "没有明显词缀；V 是形状标记，neck 是独立单词。",
+        "mnemonicZh": "看领口前方的两条斜边向下相交，轮廓像字母 V。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-zip-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是名词或形容词 zip-up；相关动词短语原形是 zip up。",
+        "rootsZh": "由 zip“拉上拉链”和副词 up 组成，整体指带拉链、可拉合的上衣。",
+        "affixesZh": "没有明显词缀；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "想象健身后把上衣前面的拉链向上拉好，方便穿脱。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-pullover",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 pullover，复数通常加 -s：pullovers。",
+        "rootsZh": "可按现代构词理解为 pull（拉）+ over（到头上）；指套上身的衣服。",
+        "affixesZh": "没有明显的派生词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "想象把衣服从头上套下来：pull it over your head，就是 pullover。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-water-resistant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词短语原形为 water-resistant；此处不涉及屈折变化。",
+        "rootsZh": "由 water（水）和 resistant（能抵挡的）组成，表示能抵挡一定水分。",
+        "affixesZh": "resistant 中 resist 后有形容词后缀 -ant；连字符连接两个词基。",
+        "mnemonicZh": "想象小雨落在外套表面、没有马上渗透：它能 resist（水），但不等于完全防水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-machine-washable",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词短语为 machine washable；machine 与 washable 均未发生屈折变化。",
+        "rootsZh": "由 machine（洗衣机）和 washable（可洗的）组成，说明衣物能放进洗衣机洗。",
+        "affixesZh": "washable 由 wash 加派生后缀 -able 构成，表示“能够被洗”；machine 不是词缀。",
+        "mnemonicZh": "看到洗标写着 machine washable，就想象把衣服放进洗衣机，而不是送去干洗。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-dry-clean-only",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定护理标签短语 dry clean only；核心动词 clean 为原形。",
+        "rootsZh": "由 dry（干洗）、clean（清洁）和 only（仅限）三个独立词组成。",
+        "affixesZh": "没有词缀；dry、clean、only 都是独立单词，不是前后缀。",
+        "mnemonicZh": "想象洗标旁写着“dry clean only”：清洁方式只选干洗，不能水洗。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-alteration",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 alteration，复数为 alterations；例句中用单数。",
+        "rootsZh": "由现代词基 alter（改变）构成，指对衣物尺寸或剪裁所作的调整。",
+        "affixesZh": "alter 后加派生名词后缀 -ation，表示改变或改变的结果。",
+        "mnemonicZh": "试穿西装后请裁缝 alter（调整）腰部；这项修改就是 alteration。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-hem",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形均为 hem；动词常见变化为 hems、hemmed、hemming。",
+        "rootsZh": "hem 是表示衣物边缘或下摆的整体词基，也可作动词表示给边缘缝边、改短。",
+        "affixesZh": "没有明显派生词缀；动词过去式和分词双写 m 加 -ed，进行式加 -ing。",
+        "mnemonicZh": "想象裁缝把裤脚边折起缝好：折边是 hem，给裤脚改短也是 hem。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "footwear-shoe-size",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形 shoe size，复数通常在 size 后加 -s：shoe sizes。",
+        "rootsZh": "由 shoe（鞋）和 size（尺寸）组成，合起来指鞋子的尺码。",
+        "affixesZh": "没有明显词缀；shoe 和 size 都是独立词，复数 -s 加在核心名词 size 上。",
+        "mnemonicZh": "试鞋时问 shoe size，就是询问适合脚的鞋子尺寸。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "footwear-wide-fit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 wide fit；也常作定语说 wide-fit shoes，表示宽楦版鞋。",
+        "rootsZh": "由 wide（宽的）和 fit（版型、合脚程度）组成，指适合较宽脚型的版型。",
+        "affixesZh": "没有明显词缀；wide 和 fit 是独立词，连字符用于定语形式 wide-fit。",
+        "mnemonicZh": "想象脚掌较宽的人试鞋时需要更宽的鞋内空间：这就是 wide fit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "footwear-arch-support",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形 arch support；通常作不可数名词使用。",
+        "rootsZh": "由 arch（足弓）和 support（支撑）组成，合指对足弓的支撑。",
+        "affixesZh": "没有明显词缀；arch 和 support 都是独立词。",
+        "mnemonicZh": "想象鞋垫托住脚底中间的弧形部位：arch 是足弓，support 是支撑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-peak-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形 peak period，复数为 peak periods。",
+        "rootsZh": "由 peak（顶峰、高点）和 period（时段）组成，指交通需求达到高点的时段。",
+        "affixesZh": "没有明显词缀；peak 和 period 是独立词，复数 -s 加在 period 后。",
+        "mnemonicZh": "想象早上通勤人流达到一天的高点：这个忙碌时段就是 peak period。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-peak-hours",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 peak hours；hours 是 hour 的复数形式，指高峰时段。",
+        "rootsZh": "peak 表示最高点、最繁忙处；hours 是小时、时段。",
+        "affixesZh": "hours 的 -s 是名词复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "想象早晚通勤人流达到高峰，地铁最拥挤的那些时段。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-commuter-train",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 commuter train；核心名词 train 用单数，复数为 commuter trains。",
+        "rootsZh": "commuter 指通勤者，train 指列车；合起来是供通勤出行的列车。",
+        "affixesZh": "commuter 中 commute 加 -er，构成“通勤者”；train 无明显词缀。",
+        "mnemonicZh": "想象上班族每天乘这趟列车，从郊区进城工作。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-regional-transit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 regional transit；通常作不可数的交通系统名称。",
+        "rootsZh": "region 是区域；transit 指公共交通或运输，组合表示区域交通。",
+        "affixesZh": "regional 由 region 加形容词后缀 -al 构成；transit 无明显词缀。",
+        "mnemonicZh": "把邻近城镇连成一个区域网络，区别于只在本地运行的公交。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-light-rail",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 light rail；整体形式固定，rail 可按语境作复数 rails。",
+        "rootsZh": "light 表示轻型或运量较轻；rail 指铁路轨道，合指轻轨交通。",
+        "affixesZh": "没有明显词缀；light 和 rail 都是独立词，不把 light 当前缀。",
+        "mnemonicZh": "想象沿轨道穿行社区、连接地铁的轻型城市列车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-streetcar-stop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 streetcar stop；核心名词 stop 单数，复数为 stops。",
+        "rootsZh": "street 与 car 组成 streetcar（有轨电车）；stop 指停靠点。",
+        "affixesZh": "stop 的复数 -s 是屈折词尾；streetcar 是复合词，不含明显词缀。",
+        "mnemonicZh": "想象街车沿街行驶，在标有站牌的位置停靠接人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-route-map",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 route map；核心名词 map 单数，复数为 maps。",
+        "rootsZh": "route 指行驶路线；map 指地图，合起来是显示路线的地图。",
+        "affixesZh": "没有明显词缀；route 和 map 是独立词组成的复合名词。",
+        "mnemonicZh": "出门前在地图上沿公交路线找诊所附近的站点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-system-map",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 system map；核心名词 map 单数，复数为 maps。",
+        "rootsZh": "system 指整套系统；map 指地图，合起来展示交通全网。",
+        "affixesZh": "没有明显词缀；system 与 map 是独立词组成的复合名词。",
+        "mnemonicZh": "在一张总图上查看地铁和通勤列车的连接位置。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-real-time-arrival",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 real-time arrival；arrival 为单数，复数为 arrivals。",
+        "rootsZh": "real time 指当前实际时间；arrival 指到达或到站信息。",
+        "affixesZh": "arrival 由 arrive 加名词后缀 -al 构成；real-time 是复合修饰语。",
+        "mnemonicZh": "看应用按当前运行情况显示车辆还有几分钟到站。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-scheduled-arrival",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 scheduled arrival；scheduled 是 schedule 的过去分词形式。",
+        "rootsZh": "schedule 指计划或时刻表；arrival 指到达，合指计划到站时间。",
+        "affixesZh": "scheduled 的 -ed 是过去分词屈折形式，在此作形容词；arrival 含 -al。",
+        "mnemonicZh": "先记时刻表上的到站时间，再与列车实际运行情况比较。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-on-time",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on time；没有屈折变化，整体表示准时。",
+        "rootsZh": "由介词 on 和名词 time 组成，按整体记作“按时”。",
+        "affixesZh": "没有词缀；on 是介词，time 是独立单词，不是前后缀。",
+        "mnemonicZh": "想象列车按时刻表到站，没有早到或晚点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-behind-schedule",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 behind schedule，形式不变。",
+        "rootsZh": "behind 表示落后于，schedule 表示计划。",
+        "affixesZh": "没有明显词缀；behind 是介词。",
+        "mnemonicZh": "公交落在计划表后面，就是晚点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-cancelled",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形 cancel；cancelled 是其过去分词形容词，加拿大常双写 l。",
+        "rootsZh": "整体记忆，表示取消，不作可靠拆分。",
+        "affixesZh": "-ed 是过去分词屈折形式，不是派生后缀。",
+        "mnemonicZh": "电子屏显示 cancelled，表示这班车已不再运行。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-route-diversion",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 route diversion。",
+        "rootsZh": "route 是路线；diversion 指改变原路线。",
+        "affixesZh": "diversion 中 -sion 构成名词，与 divert 相关。",
+        "mnemonicZh": "想象路线被引到施工点旁边，车辆因此绕行。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-short-turn",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "short turn 可作名词或复合动词；此处作动词。",
+        "rootsZh": "short 表示较短，turn 表示转向或折返，合起来表示中途折返。",
+        "affixesZh": "没有明显词缀；short 和 turn 都是独立单词，组合成复合表达。",
+        "mnemonicZh": "车辆只走较短一段便折返，提前结束本趟行程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-temporary-stop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 temporary stop。",
+        "rootsZh": "temporary 表示临时的，stop 表示停靠点。",
+        "affixesZh": "没有适合教学的明显词缀拆分。",
+        "mnemonicZh": "施工时临时挪出的上车点，就是 temporary stop。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-stop-closure",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 stop closure。",
+        "rootsZh": "stop 是停靠点；closure 表示关闭状态。",
+        "affixesZh": "closure 是 close 加名词后缀 -ure。",
+        "mnemonicZh": "站点挂出 closure 通知，就暂时不能在此停靠。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-replacement-stop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 replacement stop。",
+        "rootsZh": "replace 表示替代，stop 表示停靠点。",
+        "affixesZh": "replacement 中 -ment 将 replace 构成名词。",
+        "mnemonicZh": "原站停用后，沿标牌去新的替代站点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-platform-change",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 platform change。",
+        "rootsZh": "platform 是站台；change 表示变更。",
+        "affixesZh": "没有明显词缀；两个词组合成短语。",
+        "mnemonicZh": "广播说 platform change，就核对列车的新站台。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-miss-a-connection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 miss a connection；核心动词原形是 miss。",
+        "rootsZh": "miss 表示没赶上；connection 指接续的班次或行程。",
+        "affixesZh": "connection 中 -ion 构成名词，与 connect 相关。",
+        "mnemonicZh": "前一班车迟到，后一班已开走，便错过接驳。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-catch-the-bus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 catch the bus；核心动词原形是 catch。",
+        "rootsZh": "catch 表示赶上或乘上，bus 是公交车。",
+        "affixesZh": "没有词缀；the 是独立冠词。",
+        "mnemonicZh": "及时到站登上末班车，就是 catch the bus。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-transfer-point",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 transfer point；作复数时为 transfer points。",
+        "rootsZh": "由 transfer（转乘、转移）和 point（地点）组成，合指转乘地点。",
+        "affixesZh": "没有明显词缀；transfer 和 point 都是独立词。",
+        "mnemonicZh": "想象公交乘客在一个 point（地点）下车，再 transfer（转乘）另一辆车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-frequency",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 frequency；复数形式为 frequencies。",
+        "rootsZh": "与 frequent（频繁的）相关，表示某事发生或服务运行的频密程度。",
+        "affixesZh": "-ency 构成表示状态或性质的名词；复数 -s 变为 -ies。",
+        "mnemonicZh": "把每班车之间的时间间隔想清楚：间隔越短，frequency（班次频率）越高。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-weekend-service",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 weekend service；service 可数时复数为 services。",
+        "rootsZh": "weekend 由 week（周）和 end（末尾）组成；service 指公共交通服务。",
+        "affixesZh": "没有明显词缀；week、end、service 都是独立词。",
+        "mnemonicZh": "把它记作“周末的交通服务”，可联想到周日出门先查班次。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-park-and-ride",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 park and ride；核心动词原形是 park 和 ride。",
+        "rootsZh": "由 park（停车）、and（然后／并）和 ride（乘车）组成，描述停车后换乘。",
+        "affixesZh": "没有词缀；and 是连接词，不是词缀。",
+        "mnemonicZh": "想象把车停在郊区停车场，再乘火车进城：先 park，再 ride。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-job-opening",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 job opening；opening 在此指一个职位空缺。",
+        "rootsZh": "由 job（工作、职位）和 open（开放、空着）相关的 opening 组成。",
+        "affixesZh": "opening 中的 -ing 构成名词，表示空缺岗位；不是进行时。",
+        "mnemonicZh": "把 opening 想成公司留出的一个“空位”，job opening 就是待填补的职位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-apply-for-a-job",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 apply for a job；例句 applied 是 apply 的过去式。",
+        "rootsZh": "整体记忆为“申请一份工作”；核心动词是 apply，for a job 表明申请对象。",
+        "affixesZh": "短语本身没有词缀；例句 applied 的 -ed 是过去式屈折词尾。",
+        "mnemonicZh": "想象填写申请表并投给雇主：你是在 apply for a job（申请工作）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-references",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 reference；references 是复数，在此指多位推荐人。",
+        "rootsZh": "reference 与 refer（提及、指向）相关；这里指可供雇主联系核实的人。",
+        "affixesZh": "-ence 构成名词；词尾 -s 表示复数，是屈折变化。",
+        "mnemonicZh": "雇主需要联系熟悉你工作的人来核实情况，这些人就是 references。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-recruiter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 recruiter；复数形式为 recruiters。",
+        "rootsZh": "由 recruit（招募）和表示执行者的 -er 组成，指负责招聘的人。",
+        "affixesZh": "-er 是构成施事名词的派生后缀；复数 -s 是屈折词尾。",
+        "mnemonicZh": "把 recruiter 记作“负责 recruit（招募）候选人的人”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-phone-screening",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 phone screening；screening 在此指电话初筛。",
+        "rootsZh": "由 phone（电话）和 screening（筛选）组成，指通过电话进行的初步评估。",
+        "affixesZh": "screening 中的 -ing 构成表示过程的名词；phone 是独立词。",
+        "mnemonicZh": "想象招聘人员先打电话核对经历，再决定是否安排正式面试。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-job-interview",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 job interview；复数形式为 job interviews。",
+        "rootsZh": "由 job（工作、职位）和 interview（面谈）组成，指求职面谈。",
+        "affixesZh": "没有明显派生词缀；interview 不宜按字母硬拆。",
+        "mnemonicZh": "把它记作围绕目标职位进行的一场 interview（面谈）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-interview-panel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，整体形式为 interview panel。",
+        "rootsZh": "interview 指面试；panel 指一组共同评审的人。",
+        "affixesZh": "没有明显词缀；panel 不是后缀。",
+        "mnemonicZh": "想象几位面试官围坐一组，共同提问和评估。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-qualifications",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数 qualifications；单数原形是 qualification。",
+        "rootsZh": "qualify 表示使具备资格；qualification 指资格条件。",
+        "affixesZh": "-ation 构成名词；词尾 -s 表示复数。",
+        "mnemonicZh": "把招聘条件逐项核对，符合的项目就是你的 qualifications。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-relevant-experience",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，核心名词 experience 为单数形式。",
+        "rootsZh": "relevant 表示与主题有关；experience 指经历或经验。",
+        "affixesZh": "短语没有明显词缀；不要把 relevant 硬拆成词根词缀。",
+        "mnemonicZh": "回想一段经历，说明它怎样对应岗位要求。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-transferable-skills",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数短语；单数为 transferable skill。",
+        "rootsZh": "transfer 表示转移、转用；skill 指技能。",
+        "affixesZh": "-able 加在 transfer 后表示“能够转用”；skills 的 -s 表示复数。",
+        "mnemonicZh": "把沟通能力从旧岗位“带过去”，用于新工作。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-salary-range",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，salary 和 range 均为单数。",
+        "rootsZh": "salary 指薪酬；range 指范围，合起来表示薪酬区间。",
+        "affixesZh": "没有明显词缀；两个词组成名词短语。",
+        "mnemonicZh": "想象工资区间有最低值和最高值，salary range 就是两端之间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-salary-expectations",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数短语；expectations 的单数是 expectation。",
+        "rootsZh": "salary 指薪酬；expect 表示预期，expectation 是预期。",
+        "affixesZh": "-ation 构成名词；-s 表示复数。",
+        "mnemonicZh": "面试官问你希望拿多少，这就是你的薪资预期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-full-time-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；full-time 修饰 position。",
+        "rootsZh": "full 表示完整；time 指时间；position 指职位。",
+        "affixesZh": "没有明显词缀；full-time 是复合词，不是 -time 后缀。",
+        "mnemonicZh": "每周投入完整工作时间，对应 full-time position。"
+      }
+    }
+  ]
+}

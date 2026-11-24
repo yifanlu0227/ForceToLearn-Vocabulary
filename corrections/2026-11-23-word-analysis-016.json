@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-016",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "jobsearch-part-time-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；part-time 修饰 position。",
+        "rootsZh": "part 表示部分；time 指时间；position 指职位。",
+        "affixesZh": "没有明显词缀；part-time 是复合词。",
+        "mnemonicZh": "只投入部分工作时间，比如周末在图书馆上班。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-contract-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，contract 修饰 position。",
+        "rootsZh": "contract 指合同或约定；position 指职位。",
+        "affixesZh": "没有明显词缀；两个词组成名词短语。",
+        "mnemonicZh": "想象合同写明岗位期限，到期后可能续约。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-entry-level-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；entry-level 修饰 position。",
+        "rootsZh": "entry 表示进入或入门；level 指级别；position 指职位。",
+        "affixesZh": "没有明显词缀；entry-level 是复合修饰语。",
+        "mnemonicZh": "把它想成进入某行业的第一级岗位，常面向新人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-background-check",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 background check；复数通常为 background checks。",
+        "rootsZh": "由 background（背景）和 check（核查）组成，表示背景核查。",
+        "affixesZh": "没有明显词缀；由两个独立单词构成。",
+        "mnemonicZh": "想象雇主核对应聘者的经历背景，记住“背景＋核查”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-criminal-record-check",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 criminal record check；复数通常在 check 后加 s。",
+        "rootsZh": "由 criminal（犯罪的）、record（记录）和 check（核查）组成。",
+        "affixesZh": "没有明显词缀；criminal 中 -al 构成形容词。",
+        "mnemonicZh": "应聘日托工作前，核查是否有犯罪记录。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-work-sample",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 work sample；复数为 work samples。",
+        "rootsZh": "由 work（工作）和 sample（样本）组成，指展示工作能力的样本。",
+        "affixesZh": "没有明显词缀；是两个独立单词组成的复合名词。",
+        "mnemonicZh": "申请写作岗位时附上一段作品，作为工作能力的样本。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-portfolio",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 portfolio；复数形式为 portfolios。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记作作品集。",
+        "affixesZh": "没有明显的现代英语词缀。",
+        "mnemonicZh": "想象把项目成果整理进一个线上文件夹，形成作品集。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-availability",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 availability，表示可用状态或可安排的时间。",
+        "rootsZh": "以 available（可用、有空）为词基，表示可用的状态或时段。",
+        "affixesZh": "-ity 是名词后缀，将 available 变为表示状态的名词。",
+        "mnemonicZh": "填排班表时标出晚上和周末哪些时段可工作。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-available-to-start",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 available to start；核心动词 start 用原形。",
+        "rootsZh": "由 available（可到岗）和 to start（开始）组成，表示能开始工作的时间。",
+        "affixesZh": "短语本身无词缀；available 中 -able 构成形容词。",
+        "mnemonicZh": "面试时说出最早能开始上班的日期，便是 available to start。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-shortlist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "shortlist 是名词和动词原形；名词复数为 shortlists。",
+        "rootsZh": "由 short（短）和 list（名单）组成，指筛选出的较短候选名单。",
+        "affixesZh": "没有明显派生词缀；动词过去式和分词为 shortlisted。",
+        "mnemonicZh": "从长长的申请名单中筛出少数人，列入 shortlist。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-second-interview",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 second interview；复数为 second interviews。",
+        "rootsZh": "由 second（第二次的）和 interview（面试）组成。",
+        "affixesZh": "没有明显词缀；由两个独立单词构成。",
+        "mnemonicZh": "初试后再次受邀面谈，就是 second interview。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jobsearch-thank-you-email",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 thank-you email；复数通常为 thank-you emails。",
+        "rootsZh": "由 thank-you（致谢）和 email（电子邮件）组成，表示感谢邮件。",
+        "affixesZh": "没有明显词缀；thank-you 和 email 是独立词语。",
+        "mnemonicZh": "面试次日给面试小组发邮件致谢，记住 thank-you email。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-volunteer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "volunteer 是名词和动词原形；名词复数为 volunteers。",
+        "rootsZh": "现代英语中不宜可靠拆分，整体记作志愿者或自愿参加。",
+        "affixesZh": "没有明显的现代英语词缀；volunteers 中 -s 是复数词尾。",
+        "mnemonicZh": "想象每月主动到社区食品项目帮忙，记住 volunteer。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-volunteer-shift",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 volunteer shift；复数通常在中心词 shift 后加 s。",
+        "rootsZh": "由 volunteer（志愿者）修饰 shift（班次）组成，整体指志愿服务班次。",
+        "affixesZh": "短语没有明显派生词缀；shifts 中的 -s 是名词复数屈折。",
+        "mnemonicZh": "把周六排班表上的一个时段想成你的 volunteer shift。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-volunteer-orientation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 volunteer orientation，通常作单数使用。",
+        "rootsZh": "volunteer（志愿者）修饰 orientation（入门介绍、说明会）。",
+        "affixesZh": "orientation 含名词后缀 -ation，表示过程或活动；volunteer 无明显词缀。",
+        "mnemonicZh": "新志愿者先参加说明会，熟悉岗位和服务规则。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-sign-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 sign up；变形有 signs up、signed up、signing up。",
+        "rootsZh": "由 sign（登记）和小品词 up 组成，整体表示登记参加。",
+        "affixesZh": "up 是独立小品词，不是词缀；-s、-ed、-ing 是动词屈折变化。",
+        "mnemonicZh": "在活动网页填好姓名，完成 sign up 就算报名。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-donate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 donate；例句 donated 是过去式。",
+        "rootsZh": "donate 整体记作“捐赠”，没有适合教学的可靠拆分。",
+        "affixesZh": "donated 的 -ed 是过去式屈折后缀，不改变词性。",
+        "mnemonicZh": "把闲置的保暖外套送到收容所，就是 donate。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-donation-drive",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 donation drive；复数通常为 donation drives。",
+        "rootsZh": "donation（捐赠）修饰 drive（集中开展的活动），合指募捐活动。",
+        "affixesZh": "donation 由 donate 加名词后缀 -ion 构成；drives 的 -s 表复数。",
+        "mnemonicZh": "想象学校集中收集冬季用品，像一场有组织的捐赠行动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-clothing-drive",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 clothing drive；复数通常为 clothing drives。",
+        "rootsZh": "clothing（衣物）修饰 drive（集中开展的活动），合指衣物募捐。",
+        "affixesZh": "clothing 可看作 clothe 加名词后缀 -ing；drives 的 -s 表复数。",
+        "mnemonicZh": "把洗净的外套带到集中收衣点，参加 clothing drive。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-donation-bin",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 donation bin；复数通常为 donation bins。",
+        "rootsZh": "donation（捐赠物）修饰 bin（箱子），指接收捐赠物品的箱子。",
+        "affixesZh": "donation 中 -ion 是名词后缀；bins 中 -s 是复数屈折。",
+        "mnemonicZh": "在公寓旁找到箱子，把装袋的干净衣鞋放进去。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-community-event",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 community event；复数通常为 community events。",
+        "rootsZh": "由 community（社区）和 event（活动）组成，指社区活动。",
+        "affixesZh": "短语没有明显派生词缀；events 中的 -s 是名词复数屈折。",
+        "mnemonicZh": "想象邻里居民在学校体育馆参加一场活动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-neighbourhood-association",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 neighbourhood association；复数通常为 neighbourhood associations。",
+        "rootsZh": "neighbourhood（邻里、社区）修饰 association（协会）。",
+        "affixesZh": "neighbourhood 含表示群体或状态的 -hood；association 含名词后缀 -ation。",
+        "mnemonicZh": "住在同一片街区的人组成协会，一起讨论交通安全。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-town-hall",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 town hall；表示会议时复数常写 town halls。",
+        "rootsZh": "字面由 town（城镇）和 hall（大厅）组成；整体可指居民公开会议。",
+        "affixesZh": "没有明显词缀；town 和 hall 都是独立单词。",
+        "mnemonicZh": "想象居民在公开场合向市议员提问、讨论规划。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-local-charity",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 local charity，两个词均为单数形式。",
+        "rootsZh": "local 表示本地的，charity 表示慈善机构或慈善事业，按整体记忆。",
+        "affixesZh": "没有明显且适合教学的词缀；local、charity 都是独立词。",
+        "mnemonicZh": "想象商店在收银台为附近的慈善机构募集捐款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-nonprofit-organization",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 nonprofit organization，均为单数形式。",
+        "rootsZh": "nonprofit 由 non 与 profit 组成，表示不以盈利为目的；organization 表示组织。",
+        "affixesZh": "non- 表示“非、不是”；organization 中 -ation 构成名词，表示组织或行为结果。",
+        "mnemonicZh": "记住：组织服务社区，但目标不是把利润分给所有者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-outreach-program",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 outreach program，两个词均为单数形式。",
+        "rootsZh": "outreach 可按 out“向外”和 reach“联系、触及”理解；program 是项目。",
+        "affixesZh": "没有明显词缀；out 和 reach 是独立词，不是前后缀。",
+        "mnemonicZh": "想象服务人员走出办公室，主动联系社区居民提供帮助。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-meal-program",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 meal program，两个词均为单数形式。",
+        "rootsZh": "meal 表示一餐或餐食，program 表示有安排的项目，组合表示供餐服务。",
+        "affixesZh": "没有明显词缀；meal 和 program 都是独立词。",
+        "mnemonicZh": "把它想成社区中心按固定时间为居民准备餐食的项目。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-emergency-shelter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 emergency shelter，两个词均为单数形式。",
+        "rootsZh": "emergency 表示紧急情况，shelter 表示庇护处；按整体记忆其临时避难含义。",
+        "affixesZh": "没有需特别讲解的明显词缀；两个词均可独立使用。",
+        "mnemonicZh": "遇到无处过夜的紧急情况，可寻找提供床位的 shelter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-drop-in-centre",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 drop-in centre；drop in 是固定短语形式。",
+        "rootsZh": "drop in 表示顺道进来或无需预约来访，centre 是提供服务的地点。",
+        "affixesZh": "无词缀；drop-in 中的 in 是独立副词，不是前缀。",
+        "mnemonicZh": "想象居民不用预约，随时走进中心洗澡或询问住房帮助。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-helpline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 helpline，单数形式；复数为 helplines。",
+        "rootsZh": "由 help“帮助”和 line“电话线路”组成，表示提供协助的热线。",
+        "affixesZh": "没有明显词缀；help 和 line 是两个独立词组成的复合词。",
+        "mnemonicZh": "把它记作一条专门让求助者打电话获得帮助的线路。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-social-worker",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 social worker；worker 的复数形式为 workers。",
+        "rootsZh": "social 表示社会的，worker 来自 work“工作”，指从事社会服务的人。",
+        "affixesZh": "worker 中 -er 表示从事某工作的人；worker 的 -s 可表示复数。",
+        "mnemonicZh": "想象社工在医院协助病人安排出院后的居家支持。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-caseworker",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 caseworker，单数形式；复数为 caseworkers。",
+        "rootsZh": "由 case“个案、具体事务”和 worker“工作人员”组成，指负责个案的人。",
+        "affixesZh": "worker 中 -er 表示从事某工作的人；词尾 -s 在复数中表示多个工作人员。",
+        "mnemonicZh": "把工作人员与一份具体申请档案联系起来，记住其个案职责。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-intake-appointment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 intake appointment，两个词均为单数形式。",
+        "rootsZh": "intake 表示接收资料或接案，appointment 表示预约，合指首次服务评估预约。",
+        "affixesZh": "appointment 由 appoint 加名词后缀 -ment 构成；intake 不宜硬拆成词缀。",
+        "mnemonicZh": "想象首次见服务机构时登记资料并评估需求，需提前预约。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-eligibility-assessment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 eligibility assessment；名词无屈折变化。",
+        "rootsZh": "eligibility 来自 eligible（符合条件）加 -ity；assessment 表示评估。",
+        "affixesZh": "-ity 将形容词变为名词；assess 后加派生后缀 -ment 构成名词。",
+        "mnemonicZh": "申请补助时先核对是否符合条件，再由工作人员评估，记住这两步。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-subsidized-housing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 subsidized housing；subsidized 是 subsidize 的过去分词形式。",
+        "rootsZh": "subsidize 表示补贴，housing 指住房；两词组合表示获得补贴的住房。",
+        "affixesZh": "-ed 是 subsidize 的过去分词词尾，此处作定语；housing 的 -ing 构成名词。",
+        "mnemonicZh": "想象政府补贴一部分住房费用，帮助住户降低长期租房成本。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-rent-geared-to-income",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 rent-geared-to-income；geared 是动词 gear 的过去分词形式。",
+        "rootsZh": "rent 是租金，income 是收入；短语表示租金与收入相挂钩。",
+        "affixesZh": "geared 的 -ed 是分词屈折词尾；to 是独立介词，不是词缀。",
+        "mnemonicZh": "想象租金刻度随收入变化而调整，收入不同，所付租金也不同。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-support-group",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 support group；两个名词均无屈折变化。",
+        "rootsZh": "support 表示支持，group 表示团体；组合指彼此支持的小组。",
+        "affixesZh": "没有明显词缀；support 和 group 都是独立词。",
+        "mnemonicZh": "照护者围坐交流经验、互相打气，就是一个 support group。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-class-participation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 class participation；名词无屈折变化。",
+        "rootsZh": "class 指课堂，participation 指参与；后者与动词 participate 同词族。",
+        "affixesZh": "participation 含派生后缀 -ation，构成表示行为或状态的名词。",
+        "mnemonicZh": "把课堂发言、提问和活动参与想成成绩单上的一栏。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-attendance-policy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 attendance policy；名词无屈折变化。",
+        "rootsZh": "attendance 与 attend（出席）同词族；policy 指规定或方针。",
+        "affixesZh": "-ance 将 attend 相关词形构成名词；这是派生，不是复数变化。",
+        "mnemonicZh": "缺席辅导课前先查规定：这份 attendance policy 管出勤要求。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-learning-management-system",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 learning management system；各词保持原形。",
+        "rootsZh": "learning 来自 learn，management 来自 manage；system 指有组织的系统。",
+        "affixesZh": "learning 的 -ing 构成名词性形式；management 的 -ment 构成名词。",
+        "mnemonicZh": "想象一个平台集中管理课程、作业和通知，便是学习管理系统。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-online-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 online course；两个词均无屈折变化。",
+        "rootsZh": "online 是 on 与 line 组成的现代复合词；course 指课程。",
+        "affixesZh": "没有明显派生词缀；online 中的 on、line 是组成词，不是前后缀。",
+        "mnemonicZh": "课程内容通过网络进行，想象在家打开电脑参加每周直播课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-in-person-class",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 in-person class；person 和 class 均无屈折变化。",
+        "rootsZh": "in-person 由介词 in 与名词 person 组成，表示当面进行；class 指课。",
+        "affixesZh": "没有明显词缀；in 是独立介词，不是前缀。",
+        "mnemonicZh": "想象学生本人走进教室和老师同场上课，而不是在线连接。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-hybrid-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 hybrid course；两个名词均无屈折变化。",
+        "rootsZh": "hybrid 表示混合的，course 表示课程；整体指融合不同授课方式的课程。",
+        "affixesZh": "没有适合教学的明显词缀拆分；hybrid 整体记忆即可。",
+        "mnemonicZh": "想象有些课在网上上、有些课到校园上，合起来就是混合式课程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-course-section",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，整体形式为 course section，不发生屈折变化。",
+        "rootsZh": "course 指课程，section 指分部；合起来指课程中的一个班次。",
+        "affixesZh": "没有明显词缀；course、section 都是独立单词。",
+        "mnemonicZh": "把一门 course 想成分成多个 section，选其中一个班次。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-waitlisted",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 waitlisted；对应动词原形 waitlist，表示已进入候补状态。",
+        "rootsZh": "wait 是等待，list 是名单；waitlist 指候补名单。",
+        "affixesZh": "-ed 是动词的过去分词形式，此处作形容词，不是派生后缀。",
+        "mnemonicZh": "名字已经在 waitlist 上，就要等待有名额后递补。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-seat-available",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 seat available，意为有空位；本身没有屈折变化。",
+        "rootsZh": "seat 是座位或名额，available 表示可用；合指名额可选。",
+        "affixesZh": "短语没有词缀；available 中的 -able 表示“可……的”。",
+        "mnemonicZh": "想象选课页面显示一个 seat，旁边标着 available。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-audit-a-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词短语 audit a course；核心动词原形是 audit。",
+        "rootsZh": "audit 整体记作旁听或审查；a course 是所旁听的课程。",
+        "affixesZh": "没有明显词缀；a 是冠词，course 是独立名词。",
+        "mnemonicZh": "获准 audit a course，就像进教室听课，但不正式修读计学分。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-withdraw-from-a-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词短语 withdraw from a course；核心动词原形是 withdraw。",
+        "rootsZh": "withdraw 整体记作退出；from a course 表示退出的对象。",
+        "affixesZh": "没有明显词缀；from 是介词，不是词缀。",
+        "mnemonicZh": "想象从课程名单中退出，因此 withdraw from a course 是退修课程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-withdrawal-deadline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 withdrawal deadline；withdrawal 是 withdraw 的名词形式。",
+        "rootsZh": "withdrawal 指退课，deadline 指截止期限；合指退课期限。",
+        "affixesZh": "-al 将 withdraw 构成名词 withdrawal；deadline 无明显词缀。",
+        "mnemonicZh": "校历上的 withdrawal deadline 是最后可以办理退课的日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-academic-standing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 academic standing，整体指学生的学业状态。",
+        "rootsZh": "academic 表示学业的，standing 在此表示状态或资格。",
+        "affixesZh": "academic 含 -ic，构成形容词；standing 中 -ing 构成名词。",
+        "mnemonicZh": "把 standing 想成学生当前“所处的位置”，即学业状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-academic-probation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 academic probation，表示学业警示或留校察看状态。",
+        "rootsZh": "academic 指学业的；probation 整体记作考察期、察看期。",
+        "affixesZh": "academic 含形容词后缀 -ic；probation 没有适合此处的明显拆分。",
+        "mnemonicZh": "成绩未达要求后进入 probation，需在考察期改善学业表现。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-degree-requirements",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 degree requirements；核心名词 requirement 为单数，requirements 为复数。",
+        "rootsZh": "degree 指学位，requirement 指必须满足的条件。",
+        "affixesZh": "requirement 由 require 加名词后缀 -ment 构成；词尾 -s 表复数。",
+        "mnemonicZh": "把 degree requirements 看成毕业前必须逐项满足的清单。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-major",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或动词 major；此处作专业名词，也可作主修动词。",
+        "rootsZh": "major 整体记忆为主修专业或主修；不作不可靠的字母拆分。",
+        "affixesZh": "没有明显词缀；此处词形未发生屈折变化。",
+        "mnemonicZh": "介绍专业时说 My major is…；说主修某科可用 major in。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-minor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "minor 作名词或动词时原形均为 minor；此处指辅修专业或辅修。",
+        "rootsZh": "整体记忆，表示次要学习方向；不要仅凭拼写拆分。",
+        "affixesZh": "没有明显词缀；minor 在这里不是屈折变化形式。",
+        "mnemonicZh": "想象主修之外再选统计学作辅修，minor 就是额外的学习方向。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-program-requirements",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是复数短语；单数形式为 program requirement。",
+        "rootsZh": "program 表示项目，requirement 表示要求，合起来指项目须满足的条件。",
+        "affixesZh": "requirement 中 -ment 构成名词；末尾 -s 是复数屈折词尾。",
+        "mnemonicZh": "把培养方案想成清单，逐项核对必修课和其他要求。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-transfer-credit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "transfer credit 是名词短语，形式通常不变；可说 a transfer credit。",
+        "rootsZh": "transfer 表示转移，credit 表示学分，合指转入并获认可的学分。",
+        "affixesZh": "短语中没有明显词缀；transfer 和 credit 都是独立词。",
+        "mnemonicZh": "把旧校修过的课程记录带到新校，获认可后就能抵学分。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-academic-integrity",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "academic integrity 是名词短语。",
+        "rootsZh": "academic 指学术方面的，integrity 指诚实正直；合指学术诚信。",
+        "affixesZh": "academic 的 -ic 是形容词后缀；短语整体没有屈折词尾。",
+        "mnemonicZh": "写作业时如实标注引用、不抄袭，就是维护 academic integrity。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-rubric",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "rubric 是名词原形；此处为单数，复数可说 rubrics。",
+        "rootsZh": "作为评分表一义，整体记忆；没有适合此处的可靠拆分。",
+        "affixesZh": "没有明显词缀；复数形式 rubrics 的 -s 是屈折词尾。",
+        "mnemonicZh": "动手做展示前先看评分表，确认内容、表达等各项如何得分。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-marking-scheme",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "marking scheme 是名词短语；marking 是 mark 的 -ing 形式。",
+        "rootsZh": "mark 表示给分或标记，scheme 表示方案；合指给分细则。",
+        "affixesZh": "-ing 将 mark 用作名词性修饰语；它不是复数词尾。",
+        "mnemonicZh": "想象数学试卷旁列着步骤分规则，照着 marking scheme 给分。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-grade-appeal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "grade appeal 是名词短语；复数可在 appeal 后加 -s。",
+        "rootsZh": "grade 指成绩或分数，appeal 指申诉；合指对成绩提出申诉。",
+        "affixesZh": "短语没有明显派生词缀；appeals 中的 -s 表示复数。",
+        "mnemonicZh": "核对批改后的试卷，若认为给分有误，就提交 grade appeal。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-make-up-exam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "make-up exam 是名词短语；make up 是其中对应的动词短语。",
+        "rootsZh": "make up 表示补做或另行安排，exam 是考试；合指补考。",
+        "affixesZh": "make-up 中的连字符不构成词缀；短语里的 up 是独立小品词。",
+        "mnemonicZh": "生病错过原考试后，学校另排一场考试，这就是 make-up exam。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-deferred-exam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "deferred exam 中 deferred 是 defer 的过去分词形式。",
+        "rootsZh": "defer 表示推迟，exam 是考试；合指延后举行的考试。",
+        "affixesZh": "-ed 是 defer 的过去分词词尾，此处作形容词修饰 exam。",
+        "mnemonicZh": "因突发疾病不能按时考试，获准把考试日期往后延。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-rewards-points",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "rewards points 是复数名词短语，指奖励积分；常见核心词为 points。",
+        "rootsZh": "rewards 表示奖励，points 表示积分；合指奖励计划中的积分。",
+        "affixesZh": "rewards 和 points 末尾的 -s 均为复数词尾。",
+        "mnemonicZh": "刷卡积累 points，再用这些积分抵扣机票费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-introductory-rate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 introductory rate；rate 是中心词，无屈折变化。",
+        "rootsZh": "introductory 表示“入门、初始的”，修饰 rate“利率”。",
+        "affixesZh": "introductory 中 -ory 构成形容词；短语中的 rate 无明显词缀。",
+        "mnemonicZh": "把它想成开户或办卡时，最初几个月适用的那档利率。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-promotional-rate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 promotional rate；rate 是中心词，无屈折变化。",
+        "rootsZh": "promotion 表示促销，promotional 表示促销的；rate 是利率。",
+        "affixesZh": "promotional 中 -al 构成形容词；短语中的 rate 无明显词缀。",
+        "mnemonicZh": "看到银行限时优惠广告，就联想到 promotional rate。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-purchase-interest",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 purchase interest；purchase 作修饰语，interest 为中心词。",
+        "rootsZh": "purchase 指购物或购买，interest 指利息，合起来是购物产生的利息。",
+        "affixesZh": "短语中没有明显词缀；purchase 在此作名词修饰语。",
+        "mnemonicZh": "信用卡账单上，未全额还款后购物部分产生的利息就是它。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-balance-transfer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 balance transfer；balance 与 transfer 均无屈折变化。",
+        "rootsZh": "balance 是账户欠款余额，transfer 是转移，合起来指转移余额。",
+        "affixesZh": "没有明显词缀；transfer 在此为名词，不是词尾 -er 派生。",
+        "mnemonicZh": "想象把一张信用卡上的欠款余额搬到另一张卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-credit-card-statement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 credit card statement；statement 是中心词。",
+        "rootsZh": "credit card 指信用卡，statement 指列出账户交易与金额的账单。",
+        "affixesZh": "statement 由 state 加 -ment 构成名词；其他部分无明显词缀。",
+        "mnemonicZh": "每月打开信用卡账单，逐项核对不熟悉的扣款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-statement-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 statement date；date 是中心词，无屈折变化。",
+        "rootsZh": "statement 是账单，date 是日期，合起来指账单生成或结算的日期。",
+        "affixesZh": "statement 中 -ment 构成名词；date 无明显词缀。",
+        "mnemonicZh": "记住每月账单何时出炉，这一天就是 statement date。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-late-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 late payment；payment 是中心词，无屈折变化。",
+        "rootsZh": "late 表示迟的，payment 是付款，合起来指迟交的款项或逾期付款。",
+        "affixesZh": "payment 由 pay 加名词后缀 -ment 构成；late 无明显词缀。",
+        "mnemonicZh": "错过信用卡到期日后才付款，便是 late payment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-missed-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 missed payment；核心动词原形是 miss。",
+        "rootsZh": "miss 表示错过，payment 表示付款，合起来指错过的一期还款。",
+        "affixesZh": "missed 中 -ed 表示过去分词形式；payment 中 -ment 构成名词。",
+        "mnemonicZh": "贷款到期日没扣到款，手机收到漏还款提醒。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-partial-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 partial payment；payment 是中心词，无屈折变化。",
+        "rootsZh": "partial 表示部分的，payment 表示付款，合起来是只付一部分。",
+        "affixesZh": "partial 中 -al 构成形容词；payment 中 -ment 构成名词。",
+        "mnemonicZh": "先付账单的一部分，发薪后再补上剩余金额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-credit-utilization",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 credit utilization；utilization 是中心词。",
+        "rootsZh": "credit 指信用额度，utilization 指使用程度，合起来表示额度使用情况。",
+        "affixesZh": "utilization 由 utilize 加 -ation 构成名词；credit 无明显词缀。",
+        "mnemonicZh": "把已用信用额度和总额度相比，想象量表显示用了多少。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-hard-inquiry",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 hard inquiry；单复数可变，核心名词是 inquiry。",
+        "rootsZh": "hard 表示正式、严格；inquiry 表示查询，合起来指正式信用查询。",
+        "affixesZh": "没有明显派生词缀；inquiry 的词尾不是此处可独立解释的后缀。",
+        "mnemonicZh": "申请信用卡后，信用报告上留下正式查询记录，记作 hard inquiry。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-soft-inquiry",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 soft inquiry；单复数可变，核心名词是 inquiry。",
+        "rootsZh": "soft 表示较轻、非正式；inquiry 表示查询，合起来指非正式信用查询。",
+        "affixesZh": "没有明显派生词缀；soft 和 inquiry 都是独立词。",
+        "mnemonicZh": "自己查看信用报告通常不算正式申请，可联想成较轻的 soft inquiry。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-pre-approved",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 pre-approved；approved 来自动词 approve 的过去分词形式。",
+        "rootsZh": "approve 表示批准，pre- 表示预先，合起来是预先批准的。",
+        "affixesZh": "pre- 是“预先”前缀；-ed 在此标记过去分词并构成形容词。",
+        "mnemonicZh": "银行先评估并发出优惠，再等你决定是否接受：这是预先批准。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-credit-application",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 credit application；复数通常加在 application 上。",
+        "rootsZh": "credit 指信贷；application 指申请，整词组表示信贷申请。",
+        "affixesZh": "application 含名词后缀 -ation；它由 apply 派生，拼写有所变化。",
+        "mnemonicZh": "申请贷款时提交收入证明等材料，就是完成 credit application。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-credit-limit-increase",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 credit limit increase；核心名词 increase 可变复数。",
+        "rootsZh": "credit 是信贷，limit 是额度，increase 是增加，合指提高信用额度。",
+        "affixesZh": "没有明显派生词缀；increase 在此作名词，不是动词屈折形式。",
+        "mnemonicZh": "旅行前发现额度不够，向银行申请一次 limit increase。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-personal-loan",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 personal loan；复数为 personal loans。",
+        "rootsZh": "personal 表示个人的，loan 表示贷款，合起来指个人贷款。",
+        "affixesZh": "personal 含形容词后缀 -al，表示“……的”；loan 无明显词缀。",
+        "mnemonicZh": "为家中更换暖炉借的一笔钱，可记作个人用途的 loan。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-loan-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 loan payment；复数为 loan payments。",
+        "rootsZh": "loan 表示贷款；payment 表示付款，合起来指贷款的一期还款。",
+        "affixesZh": "payment 由 pay 加名词后缀 -ment 构成，表示付款或款项。",
+        "mnemonicZh": "每月从支票账户自动扣走的一笔钱，就是 loan payment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-loan-term",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 loan term；复数为 loan terms。",
+        "rootsZh": "loan 表示贷款，term 表示期限；合起来指贷款期限。",
+        "affixesZh": "没有明显派生词缀；loan 和 term 都是独立词。",
+        "mnemonicZh": "比较贷款方案时，term 越长，通常每月还款额越低。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-fixed-interest-rate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fixed interest rate；核心名词 rate 可变复数。",
+        "rootsZh": "fixed 表示固定，interest 是利息，rate 是比率，合指固定利率。",
+        "affixesZh": "fixed 是 fix 的过去分词形式，-ed 在此构成形容词；其余无明显词缀。",
+        "mnemonicZh": "利率不随市场变动，像锁定在一个数值上，便于预测还款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-variable-interest-rate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 variable interest rate；核心名词 rate 可变复数。",
+        "rootsZh": "variable 表示可变化的，interest 是利息，rate 是比率，合指浮动利率。",
+        "affixesZh": "variable 由 vary 加形容词后缀 -able 构成，表示能够变化。",
+        "mnemonicZh": "银行调整基准利率后，贷款利率也可能跟着变化。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-mortgage-pre-approval",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 mortgage pre-approval，整体作名词短语使用。",
+        "rootsZh": "由 mortgage（房贷）和 pre-approval（预先批准）组成。",
+        "affixesZh": "pre- 表示“预先”；approval 中 -al 构成名词。",
+        "mnemonicZh": "买公寓前先拿到预批，心里就有大致可承受的房价范围。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-amortization-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 amortization period，整体作名词短语使用。",
+        "rootsZh": "amortization 指分期摊还，period 指一段时期。",
+        "affixesZh": "amortize 加 -ation 构成表示过程的名词；period 无明显词缀。",
+        "mnemonicZh": "看房贷摘要时，把这个年限想成按计划逐步还清贷款所需的总时间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-collateral",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形就是 collateral，作名词时本条使用原形。",
+        "rootsZh": "现代英语中不宜作可靠拆分，建议整体记作“担保资产”。",
+        "affixesZh": "没有适合此义教学的明显词缀。",
+        "mnemonicZh": "用汽车贷款时，想象车作为担保留在合同里，帮助保障贷款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-loan-agreement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 loan agreement，整体作名词短语使用。",
+        "rootsZh": "loan 是贷款；agreement 是双方达成的协议。",
+        "affixesZh": "agreement 由 agree 加名词后缀 -ment 构成。",
+        "mnemonicZh": "签字前读清 loan agreement，确认借款金额、利率和还款条件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-resort",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 ski resort，整体作名词短语使用。",
+        "rootsZh": "ski 指滑雪；resort 指度假地，两词组合表示滑雪度假区。",
+        "affixesZh": "没有明显词缀；ski 和 resort 都是独立单词。",
+        "mnemonicZh": "想象周末住在滑雪场附近的旅馆，白天去雪道滑雪。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-hill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 ski hill，整体作名词短语使用。",
+        "rootsZh": "ski 指滑雪；hill 指山坡，合起来可指滑雪坡或本地滑雪场。",
+        "affixesZh": "没有明显词缀；hill 是独立单词。",
+        "mnemonicZh": "下班后去本地那座有灯光的 hill 上滑雪或上课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-lift-ticket",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 lift ticket，整体作名词短语使用。",
+        "rootsZh": "lift 指缆车或乘坐缆车；ticket 指票，两词组合表示缆车票。",
+        "affixesZh": "没有明显词缀；lift 和 ticket 都是独立单词。",
+        "mnemonicZh": "把票想成乘缆车上山、到达滑雪道的凭证。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-equipment-rental",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 equipment rental，整体作名词短语使用。",
+        "rootsZh": "equipment 指装备；rental 指租用或租赁费用。",
+        "affixesZh": "equipment 中 -ment 构成名词；rental 中 -al 构成名词。",
+        "mnemonicZh": "核对课程费用时，记得确认雪板等装备租金是否另收。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-rental-shop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 rental shop，整体作名词短语使用。",
+        "rootsZh": "rental 指租赁；shop 指店铺，组合表示租赁店。",
+        "affixesZh": "rental 中 -al 构成名词；shop 无明显词缀。",
+        "mnemonicZh": "滑完雪后，把租来的雪板送回 rental shop。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-lesson",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 ski lesson，整体作名词短语使用。",
+        "rootsZh": "ski 指滑雪；lesson 指课程，两词组合表示滑雪课。",
+        "affixesZh": "没有明显词缀；ski 和 lesson 都是独立单词。",
+        "mnemonicZh": "记住上课时间，也预留提前领取租赁装备的时间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-beginner-slope",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 beginner slope；beginner 是名词作定语。",
+        "rootsZh": "beginner 指初学者，slope 指斜坡；合起来指初学者使用的雪坡。",
+        "affixesZh": "beginner 中 -er 是表示人的派生后缀；本短语没有屈折变化。",
+        "mnemonicZh": "想象初学者先在平缓雪坡练习停下，再去更难的雪道。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-bunny-hill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 bunny hill。",
+        "rootsZh": "由 bunny（兔子）和 hill（小山、坡）组成；作为滑雪用语整体记作练习坡。",
+        "affixesZh": "没有明显词缀；bunny hill 是两个独立词组成的短语。",
+        "mnemonicZh": "把它想成适合新手慢慢练转弯的小坡，不必把 bunny 当成词源解释。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-chairlift",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 chairlift，单复数可作 chairlifts。",
+        "rootsZh": "chair（椅子）加 lift（升运、运送），指用吊椅载人上山的设备。",
+        "affixesZh": "没有明显派生词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "坐在悬挂的椅子上被送上山，就是 chairlift。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-gondola",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 gondola，复数常作 gondolas。",
+        "rootsZh": "整体记忆：此处指滑雪场封闭式缆车；不宜按现代英语拆分。",
+        "affixesZh": "没有明显词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "想象风雪天关在车厢里上山，记住它是封闭式缆车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-run",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ski run；run 在此作名词。",
+        "rootsZh": "ski 指滑雪，run 指一趟或路线；合指滑雪道或一次滑行。",
+        "affixesZh": "没有明显词缀；ski 和 run 是独立词。",
+        "mnemonicZh": "沿着 ski run 滑一趟，到终点后这一趟就结束了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-trail-map",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 trail map。",
+        "rootsZh": "trail 指路线或雪道，map 指地图；合指显示路线的地图。",
+        "affixesZh": "没有明显词缀；两个组成词都是独立单词。",
+        "mnemonicZh": "出发前看 map 上的 trail，确认怎样安全回到小屋。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-green-run",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 green run。",
+        "rootsZh": "green（绿色）修饰 run（滑雪道）；整体指以绿色标识的初级雪道。",
+        "affixesZh": "没有明显词缀；green 和 run 是独立词。",
+        "mnemonicZh": "记住雪道难度标识中的绿色对应入门级，适合练习控速。"
+      }
+    }
+  ]
+}

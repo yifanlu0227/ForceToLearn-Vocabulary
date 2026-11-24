@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-010",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "quantity-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 quantity limit；复数可说 quantity limits。",
+        "rootsZh": "quantity 表示数量，limit 表示上限或限制；合起来指购买数量上限。",
+        "affixesZh": "没有适合教学的可靠词缀拆分；两部分都是完整词。",
+        "mnemonicZh": "促销牌写着每位顾客限购两包，这条规定就是 quantity limit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grocery-pickup",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 grocery pickup，也可按语境复数化。",
+        "rootsZh": "grocery 指食品杂货，pickup 指取货；组合表示预约到店取已购商品。",
+        "affixesZh": "没有明显词缀；pickup 是由 pick up 组成的名词，up 不是后缀。",
+        "mnemonicZh": "下班后按预约时间到店取走线上买好的食材，就是 grocery pickup。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grocery-substitution",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 substitution；此处指缺货时换上的替代商品，复数为 substitutions。",
+        "rootsZh": "与 substitute（替代、替代品）相关；substitution 表示替换行为或替代结果。",
+        "affixesZh": "-ion 是构成名词的后缀；substitute 变为 substitution 时拼写有所变化。",
+        "mnemonicZh": "原选品牌的意面缺货，应用让你批准换成另一品牌；换上的商品就是 substitution。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "delivery-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 delivery fee，两个词均用原形。",
+        "rootsZh": "由 delivery（配送）和 fee（费用）组成。",
+        "affixesZh": "delivery 中 -y 构成名词；fee 无明显词缀。",
+        "mnemonicZh": "结账时，delivery fee 就是送货上门另收的费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nutrition-facts-table",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 Nutrition Facts table。",
+        "rootsZh": "由 nutrition（营养）、facts（事实）和 table（表）组成。",
+        "affixesZh": "facts 的 -s 是复数词尾，不是派生后缀。",
+        "mnemonicZh": "买汤时看这张表，比较每份食物的营养数据。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ingredient-list",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ingredient list。",
+        "rootsZh": "由 ingredient（成分、原料）和 list（列表）组成。",
+        "affixesZh": "没有明显词缀；list 是独立单词。",
+        "mnemonicZh": "查配料表时，逐项找花生等过敏原。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "may-contain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 may contain；核心动词原形是 contain。",
+        "rootsZh": "may 是情态动词，contain 表示含有；按整体记忆。",
+        "affixesZh": "没有词缀；may 是独立情态动词，不是前缀。",
+        "mnemonicZh": "看到 may contain nuts，理解为包装提示可能含坚果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dairy-free",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 dairy-free，连字符连接的形式不变。",
+        "rootsZh": "由 dairy（乳制品）和 free（无、不含）组成。",
+        "affixesZh": "-free 是构成“不含……”形容词的后缀成分。",
+        "mnemonicZh": "选替代食品时，dairy-free 表示不含乳制品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nut-free",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 nut-free，连字符连接的形式不变。",
+        "rootsZh": "由 nut（坚果）和 free（无、不含）组成。",
+        "affixesZh": "-free 是构成“不含……”形容词的后缀成分。",
+        "mnemonicZh": "给学校准备点心，nut-free 就是不含坚果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vegan",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "vegan 作名词或形容词时形式相同。",
+        "rootsZh": "没有适合教学的可靠拆分，整体记为纯素者或纯素的。",
+        "affixesZh": "没有明显词缀可供可靠拆解。",
+        "mnemonicZh": "看冷冻餐标签：vegan 表示不含动物性食品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vegetarian",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "vegetarian 作名词或形容词时形式相同。",
+        "rootsZh": "可联系 vegetable（蔬菜）；-arian 表示相关者或奉行某种饮食者。",
+        "affixesZh": "-arian 是构成表示身份或倾向的派生后缀。",
+        "mnemonicZh": "确认汤是否用了鸡汤底，才能判断是否 vegetarian。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "expiry-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 expiry date；expiry 是名词原形。",
+        "rootsZh": "由 expiry（到期）和 date（日期）组成；expiry 与 expire 相关。",
+        "affixesZh": "expiry 中 -y 构成名词；date 无明显词缀。",
+        "mnemonicZh": "买奶粉前看 expiry date，确认它何时到期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "single-fare",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 single fare。",
+        "rootsZh": "由 single（单次的）和 fare（乘车费用）组成。",
+        "affixesZh": "没有明显词缀；single 和 fare 都是独立单词。",
+        "mnemonicZh": "问公交 single fare，就是问付一次车费多少钱。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transfer-window",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 transfer window；核心词 transfer、window 均用原形。",
+        "rootsZh": "由 transfer（换乘、转乘）和 window（时间窗口）组成，指可换乘的时间段。",
+        "affixesZh": "短语中没有明显词缀；transfer 和 window 是独立单词。",
+        "mnemonicZh": "把首次刷卡后可继续换乘的时段想成一扇限时开启的“窗口”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fare card；核心词 fare、card 均为原形。",
+        "rootsZh": "由 fare（车费）和 card（卡片）组成，表示用于交通付费的卡。",
+        "affixesZh": "没有明显词缀；fare 和 card 都是独立单词。",
+        "mnemonicZh": "卡片里存着车费，看到 fare card 就想到用来付车费的卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reload",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 reload；词条未体现时态或人称屈折变化。",
+        "rootsZh": "由 re-（再、重新）和 load（装入、添加）组成，指重新添入余额。",
+        "affixesZh": "re- 是表示“再次”的前缀；此处不是过去式或分词形式。",
+        "mnemonicZh": "卡里余额快用完时，再往卡里 load 一笔，就是 reload。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "auto-load",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 auto-load，通常作为整体使用。",
+        "rootsZh": "由 auto-（自动）和 load（装入、充值）组成，表示自动补充余额。",
+        "affixesZh": "auto- 表示自动；连字符连接构词成分，不是词缀。",
+        "mnemonicZh": "设置后，余额不足时系统会自动 load，像给交通卡设了自动补给。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-card-balance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 card balance；核心词 card、balance 均为原形。",
+        "rootsZh": "由 card（卡）和 balance（余额、余量）组成，指卡内剩余金额。",
+        "affixesZh": "没有明显词缀；两个词都是独立单词。",
+        "mnemonicZh": "进站前查看 card balance，就像查看卡里还剩多少车费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "monthly-pass",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 monthly pass；monthly 修饰 pass。",
+        "rootsZh": "monthly 来自 month（月）加上表示“每月的”的 -ly；pass 指通票或乘车凭证。",
+        "affixesZh": "-ly 是构成形容词的派生后缀，不是屈折变化。",
+        "mnemonicZh": "一张 pass 覆盖一个月的通勤，记作 monthly pass（月票）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "day-pass",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 day pass；day 和 pass 均用原形。",
+        "rootsZh": "由 day（一天）和 pass（通票、乘车凭证）组成，指一天内使用的通票。",
+        "affixesZh": "没有明显词缀；day、pass 是独立单词。",
+        "mnemonicZh": "把当天多次乘车所需的票合在一张 pass 上，就是 day pass。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-zone",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fare zone；fare、zone 均为原形。",
+        "rootsZh": "由 fare（车费）和 zone（区域）组成，指用于划分票价的区域。",
+        "affixesZh": "没有明显词缀；两个组成部分都是独立单词。",
+        "mnemonicZh": "先看行程经过哪个 zone，再按该区域规则计算 fare。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-fare",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 student fare；student、fare 均为原形。",
+        "rootsZh": "由 student（学生）和 fare（车费）组成，表示适用于学生的票价。",
+        "affixesZh": "student 中不必为记忆强行拆词；短语本身没有明显词缀。",
+        "mnemonicZh": "出示学生资格文件后，询问是否能按 student fare 付车费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reduced-fare",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 reduced fare；reduced 是 reduce 的过去分词形式。",
+        "rootsZh": "由 reduced（降低了的）和 fare（车费）组成，表示降低后的票价。",
+        "affixesZh": "-ed 在 reduced 中标记过去分词形式；这里不是名词复数。",
+        "mnemonicZh": "登记优惠资格后，原本的 fare 被降低，便是 reduced fare。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exact-change",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 exact change。",
+        "rootsZh": "由 exact“准确的”和 change“零钱”组成。",
+        "affixesZh": "没有明显词缀；exact、change 都是独立词。",
+        "mnemonicZh": "上车前备好金额刚好的零钱，司机不用找零。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ticket-machine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ticket machine。",
+        "rootsZh": "ticket“票”和 machine“机器”组成，指售票机器。",
+        "affixesZh": "没有明显词缀；两部分都是独立词。",
+        "mnemonicZh": "把买票的机器记作 ticket machine。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "card-reader",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 card reader；复数为 card readers。",
+        "rootsZh": "card“卡”加 reader“读取设备”；reader 基于 read“读”。",
+        "affixesZh": "reader 中 -er 构成表示执行者或设备的名词；复数 -s 是屈折变化。",
+        "mnemonicZh": "交通卡贴近 reader，机器读卡后发出提示音。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "route-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 route number。",
+        "rootsZh": "route“路线”和 number“号码”组成。",
+        "affixesZh": "没有明显词缀；两部分都是独立词。",
+        "mnemonicZh": "上车前查看路线的号码，确认是不是所等线路。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-delay",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "delay 作名词或动词，原形是 delay；过去式、过去分词为 delayed。",
+        "rootsZh": "现代英语中作为整体记忆即可，不作可靠拆分。",
+        "affixesZh": "delayed 的 -ed 是动词过去式或过去分词屈折词尾，不是派生后缀。",
+        "mnemonicZh": "信号故障让列车晚到，形成 delay；拥堵也能 delay 公交。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-suspended",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 service suspended；suspended 是 suspend 的过去分词形式。",
+        "rootsZh": "service“服务”与 suspend“暂停、悬置”组成通知式表达。",
+        "affixesZh": "suspended 的 -ed 表示过去分词；不是名词派生后缀。",
+        "mnemonicZh": "看到 service suspended，就想象线路服务暂时按下暂停键。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "replacement-bus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 replacement bus，复数为 replacement buses。",
+        "rootsZh": "replacement“替代物”修饰 bus“巴士”；replacement 来自 replace。",
+        "affixesZh": "replace 加派生后缀 -ment 构成名词；buses 中 -es 表示复数。",
+        "mnemonicZh": "列车停运时，replacement bus 临时代替它接送乘客。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "last-train",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 last train。",
+        "rootsZh": "last“最后的”和 train“列车”组成。",
+        "affixesZh": "没有明显词缀；两部分都是独立词。",
+        "mnemonicZh": "夜间回家前确认当天最后一班 train 的时间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "packed",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 packed；相关动词原形是 pack。",
+        "rootsZh": "以 pack“装满、塞满”为词基，形容人或物挤得满满的。",
+        "affixesZh": "-ed 是过去分词形式，也可作形容词；此处不是名词派生后缀。",
+        "mnemonicZh": "想象车厢被乘客塞得满满当当，packed 就是挤满的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "line-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词 line up；例句 lined up 是过去式，原形为 line up。",
+        "rootsZh": "line“排成行”加 up 构成短语动词，表示排队。",
+        "affixesZh": "up 是独立小品词，不是词缀；lined 的 -ed 表示过去式。",
+        "mnemonicZh": "乘客在站牌旁排成一行，记作 line up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "board-transit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是动词 board；过去式、过去分词为 boarded，现在分词为 boarding。",
+        "rootsZh": "此处表示登上交通工具，现代英语中不宜按字母拆分，整体记忆即可。",
+        "affixesZh": "-ed 是过去式／过去分词屈折词尾，-ing 是现在分词词尾；不是派生词缀。",
+        "mnemonicZh": "想象站台上先让乘客下车，再登上 train：board the train。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-terminal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 terminal；复数为 terminals。",
+        "rootsZh": "termin- 表示末端、终点；terminal 指交通线路的终点站或客运枢纽。",
+        "affixesZh": "-al 可构成表示相关性质的词；terminals 末尾的 -s 是复数屈折词尾。",
+        "mnemonicZh": "把它想成线路的“终点站”：公交车从 terminal 的站台出发。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "train-car",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 train car；单数为 train car，复数通常为 train cars。",
+        "rootsZh": "由 train（列车）和 car（车厢、车辆）组成，合起来指列车中的一节车厢。",
+        "affixesZh": "没有明显词缀；train 和 car 都是独立单词，cars 的 -s 表示复数。",
+        "mnemonicZh": "把列车想成一串 car，最前面的 train car 就是最前一节车厢。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-gate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fare gate；复数为 fare gates。",
+        "rootsZh": "由 fare（车费）和 gate（门、闸门）组成，指控制付费乘客通行的闸机。",
+        "affixesZh": "没有明显词缀；fare、gate 是独立单词，gates 的 -s 是复数词尾。",
+        "mnemonicZh": "刷卡支付 fare 后，gate 才应打开，帮助记住“收费区闸门”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-posting",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 job posting；复数为 job postings。",
+        "rootsZh": "由 job（工作、职位）和 posting（发布的内容）组成，指发布出来的招聘信息。",
+        "affixesZh": "posting 来自动词 post 加名词化 -ing；postings 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "想象公司把一个 job 发布到招聘网站上，那条信息就是 job posting。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "apply-job",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是动词 apply；常见变化为 applies、applied、applying。",
+        "rootsZh": "apply 在此表示正式提出申请；按现代用法整体记忆，不必拆成词根。",
+        "affixesZh": "-s、-ed、-ing 是动词的屈折词尾；apply 变形时 y 会按拼写规则变化。",
+        "mnemonicZh": "申请职位时可说 apply for a position，把申请动作和 for 后的目标连起来记。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-application",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 job application；复数为 job applications。",
+        "rootsZh": "由 job（职位）和 application（申请、申请材料）组成，指求职申请或其材料。",
+        "affixesZh": "application 是 apply 加名词后缀 -ation 构成；applications 末尾 -s 表示复数。",
+        "mnemonicZh": "把 job application 想成申请职位时提交的一整套表格和资料。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "resume",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 resume，复数为 resumes；作简历义时也常写作 résumé。",
+        "rootsZh": "简历义是借词，现代英语中没有适合此义的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；resumes 末尾的 -s 是复数屈折词尾。",
+        "mnemonicZh": "想象招聘页面要求上传一份 PDF 简历，文件名标为 resume。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cover-letter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 cover letter；复数为 cover letters。",
+        "rootsZh": "由 cover（附加、覆盖）和 letter（信）组成，指随简历附上的求职信。",
+        "affixesZh": "没有明显词缀；两个词都是独立单词，letters 中的 -s 表示复数。",
+        "mnemonicZh": "把它记作简历外附的一封信：cover letter 通常补充说明申请动机。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-interview",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "interview 作名词或动词时拼写相同；动词过去式为 interviewed，现在分词为 interviewing。",
+        "rootsZh": "此处指求职面试；现代用法中不宜硬拆为 inter- 和 view，整体记忆。",
+        "affixesZh": "动词的 -ed、-ing 是屈折词尾；interviews 中的 -s 可作名词复数或动词第三人称单数词尾。",
+        "mnemonicZh": "想象招聘团队与候选人面对面交谈：这场面谈就是 an interview。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "phone-screen",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 phone screen；复数通常在 screen 后加 -s。",
+        "rootsZh": "由 phone“电话”和 screen“筛查”组成，screen 在此指初步筛选。",
+        "affixesZh": "没有派生词缀；复数 -s 是加在 screen 上的屈折变化。",
+        "mnemonicZh": "想象招聘人员先通过电话筛一遍应聘者，就是 phone screen。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hiring-manager",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 hiring manager；复数为 hiring managers。",
+        "rootsZh": "hiring 来自 hire“雇用”，manager 指管理者，合起来是负责招人的主管。",
+        "affixesZh": "hiring 中 -ing 是 hire 的分词形式；manager 中 -er 构成表示执行者的名词。",
+        "mnemonicZh": "把 hiring manager 想成既管理团队、又决定招谁的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "candidate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 candidate；复数为 candidates。",
+        "rootsZh": "现代英语中不宜拆成可靠的常用词基，建议整体记作“候选人”。",
+        "affixesZh": "没有适合此处教学的明显词缀；词尾字母不宜硬拆。",
+        "mnemonicZh": "面试团队本周要见三位 candidate，可直接联想到排队等待面试的应聘者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-offer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 job offer；复数为 job offers。",
+        "rootsZh": "由 job“工作、职位”和 offer“提供、邀约”组成。",
+        "affixesZh": "没有明显词缀；复数 -s 加在短语中心词 offer 上。",
+        "mnemonicZh": "面试结束后，公司把一个 job（职位）正式 offer（提供）给你。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employment-start-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 start date；复数为 start dates。",
+        "rootsZh": "由 start“开始”和 date“日期”组成，指工作开始的日期。",
+        "affixesZh": "无明显派生词缀；复数 -s 加在 date 上。",
+        "mnemonicZh": "收到录用后，日历上确认的第一天上班日就是 start date。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employment-contract",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 employment contract；复数为 employment contracts。",
+        "rootsZh": "employment 由 employ“雇用”和 contract“合同”组成，指雇佣关系的合同。",
+        "affixesZh": "employment 中 -ment 把 employ 转成名词；contracts 的 -s 是复数屈折。",
+        "mnemonicZh": "签字前阅读 employment contract，核对雇用条款写进了什么合同。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "full-time",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "full-time 形式不变，可作形容词或副词；名词复数语境不适用。",
+        "rootsZh": "由 full“完整的”和 time“时间”组成，表示全职或全时地。",
+        "affixesZh": "没有词缀；连字符连接两个独立词，不是后缀。",
+        "mnemonicZh": "把工作时间排满常规工时，便于记住 full-time 是全职。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "part-time",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "part-time 形式不变，可作形容词或副词；名词复数语境不适用。",
+        "rootsZh": "由 part“一部分”和 time“时间”组成，表示只做部分工时。",
+        "affixesZh": "没有词缀；连字符连接两个独立词，不是后缀。",
+        "mnemonicZh": "学年里只工作一部分时间，正是 part-time 的安排。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "permanent-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 permanent position；复数为 permanent positions。",
+        "rootsZh": "permanent 表示长期的，position 表示职位；组合指无预定结束日期的岗位。",
+        "affixesZh": "没有适合此处拆解的明显词缀；positions 的 -s 是复数屈折。",
+        "mnemonicZh": "与六个月的临时岗位对照，想象没有预设结束日的 permanent position。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "temporary-position",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 temporary position；复数为 temporary positions。",
+        "rootsZh": "temporary 表示暂时的，position 表示职位；组合指短期岗位。",
+        "affixesZh": "temporary 不作牵强拆分；positions 的 -s 是复数屈折变化。",
+        "mnemonicZh": "为顶替育儿假只招六个月，提醒这是 temporary position。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hourly-wage",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 hourly wage；示例中没有屈折变化。",
+        "rootsZh": "由 hourly（每小时的）和 wage（工资）组成，整体指按小时计算的工资。",
+        "affixesZh": "hourly 中 hour 加派生后缀 -ly，构成表示“每小时的”的形容词；短语无屈折词缀。",
+        "mnemonicZh": "看招聘启事时，把 hourly wage 理解为“每工作一小时对应的工资”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "salary",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 salary；复数形式是 salaries。",
+        "rootsZh": "现代英语中没有适合初学者的可靠拆分，建议将 salary 整体记作“薪资、固定工资”。",
+        "affixesZh": "本词没有明显的派生词缀；复数 salaries 中的 -s 是屈折变化，拼写需改 y 为 ies。",
+        "mnemonicZh": "读招聘启事的 salary range 时，想象职位旁列出的固定薪资范围。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overtime",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "overtime 可作名词或副词；此处指加班或加班时间。",
+        "rootsZh": "由 over（超出）和 time（时间）组成，表示超出正常工作时间。",
+        "affixesZh": "over 在此是独立构词成分，不是屈折词缀；本词没有明显的派生或屈折词尾。",
+        "mnemonicZh": "正常下班时间已经过去，还在工作，就是工作时间“超出”了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-shift",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 shift，示例中没有屈折变化；此处指轮班或一个工作班次。",
+        "rootsZh": "shift 在此整体表示轮班或一段值班时间，没有适合初学者的明显拆分。",
+        "affixesZh": "本词没有明显的派生或屈折词缀。",
+        "mnemonicZh": "想象班表上标出的下午三点到十一点的一格，那就是一个 shift。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-schedule",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 work schedule；示例中没有屈折变化。",
+        "rootsZh": "由 work（工作）和 schedule（时间表、安排）组成，指工作排班安排。",
+        "affixesZh": "短语没有明显词缀；work 与 schedule 是独立单词，不能把 schedule 末尾字母当作词缀。",
+        "mnemonicZh": "经理每周五贴出的下周班次表，就是 work schedule。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lunch-break",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 lunch break；示例中没有屈折变化。",
+        "rootsZh": "由 lunch（午餐）和 break（休息）组成，指午餐时段的休息。",
+        "affixesZh": "没有明显词缀；lunch 和 break 都是独立单词，break 在此不是屈折形式。",
+        "mnemonicZh": "把工作暂停一会儿去吃午饭，这段休息就是 lunch break。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "remote-work",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 remote work；示例中没有屈折变化。",
+        "rootsZh": "由 remote（远程的）和 work（工作）组成，指不必到办公室进行的工作。",
+        "affixesZh": "短语没有明显词缀；remote 和 work 是独立单词。",
+        "mnemonicZh": "人在家中通过电脑完成工作，可联想到 remote work。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hybrid-work",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 hybrid work；示例中没有屈折变化。",
+        "rootsZh": "hybrid 表示混合的，work 表示工作；组合后指到办公室与远程相结合的工作模式。",
+        "affixesZh": "没有明显词缀；hybrid 是整体记忆的词，work 是独立单词。",
+        "mnemonicZh": "每周有几天到办公室、几天在家工作，正是 hybrid work。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employee-badge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 employee badge；employee 的复数是 employees。",
+        "rootsZh": "employee 由 employ（雇用）和 -ee（参与或承受动作的人）构成；badge 是徽章或识别卡。",
+        "affixesZh": "-ee 是 employee 中的派生后缀；employees 的 -s 是复数屈折后缀，不属于 badge。",
+        "mnemonicZh": "把写有员工身份信息的 badge 挂在身上，就能识别出 employee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "appointment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 appointment；复数形式是 appointments。",
+        "rootsZh": "由 appoint（安排、约定）加 -ment 构成，指安排好的会面或办事时间。",
+        "affixesZh": "-ment 是把动词构成名词的派生后缀；复数 appointments 的 -s 是屈折后缀。",
+        "mnemonicZh": "服务中心确认了一个 appoint 好的时间，这个约定就是 appointment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "walk-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复数为walk-ins；形容词通常不变。词条整体是walk-in。",
+        "rootsZh": "由walk（走、步行）和in（进入）组成，表示直接走进来的人或无需预约的方式。",
+        "affixesZh": "没有明显派生词缀；连字符连接两个独立词，复数-s是屈折变化。",
+        "mnemonicZh": "想象办事者直接走进服务窗口，不先预约：walk-in可指这种到访方式或到访者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "application-form",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为application form；复数可说application forms。",
+        "rootsZh": "application与form组合：application指申请，form指表格、表单。",
+        "affixesZh": "application由apply加名词后缀-ation构成，拼写中y变为i；form无明显词缀。",
+        "mnemonicZh": "把申请内容填进form（表格），就是application form；记住它是“申请用的表格”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "supporting-documents",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形短语为supporting document；documents是document的复数。",
+        "rootsZh": "support（支持、佐证）加document（文件），指为申请提供佐证的文件。",
+        "affixesZh": "supporting中的-ing是support的现在分词形式，在此作修饰语；documents的-s表示复数。",
+        "mnemonicZh": "把这些文件想成在申请表旁“撑住、佐证”申请的材料，便于记住supporting documents。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "government-issued-photo-id",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语整体为government-issued photo ID；ID通常不变，也可写IDs。",
+        "rootsZh": "government（政府）、issued（签发的）、photo（照片）和ID（identification的缩写）组成。",
+        "affixesZh": "government含名词后缀-ment；issued中的-ed标示issue的过去分词，作修饰语。",
+        "mnemonicZh": "记成“政府签发＋带照片＋身份识别”：三部分合起来就是政府签发的带照片身份证件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drivers-licence",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为driver’s licence；driver是名词，licence是加拿大英语常见的名词拼法。",
+        "rootsZh": "driver来自drive（驾驶），licence指许可；两词组合表示驾驶资格证件。",
+        "affixesZh": "driver中的-er构成表示人的名词；driver’s的’s是所有格标记，不是复数词缀。",
+        "mnemonicZh": "把它记作“驾驶者的许可”：搬家后更新驾照地址，就是更新这份licence上的信息。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "licence-plate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为licence plate；复数通常为licence plates。",
+        "rootsZh": "licence（许可、牌照）与plate（金属牌、牌片）组合，指车辆号牌。",
+        "affixesZh": "没有明显派生词缀；plates末尾的-s在复数形式中表示多个车牌。",
+        "mnemonicZh": "想象车尾固定着一块标有号码的牌片：licence plate就是车辆的车牌。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "birth-certificate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为birth certificate；复数为birth certificates。",
+        "rootsZh": "birth（出生）和certificate（证明文件）组成，指记录出生信息的证明。",
+        "affixesZh": "没有明显派生词缀；复数形式certificates末尾的-s是屈折变化。",
+        "mnemonicZh": "这份certificate用来证明一个人的birth（出生），可联想到申请儿童服务时提交的出生证明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "certified-copy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为certified copy；复数为certified copies。",
+        "rootsZh": "certified与copy组合：前者表示经核实、认证，后者表示副本。",
+        "affixesZh": "certified由certify加过去分词后缀-ed构成，作形容词修饰copy；copy变复数时y改为i加-es。",
+        "mnemonicZh": "对照普通复印件，认证人员核实并确认过的那份副本，就是certified copy。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "original-document",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为original document；复数为original documents。",
+        "rootsZh": "original表示原本的，document表示文件；组合后指文件原件。",
+        "affixesZh": "original由origin加形容词后缀-al构成；documents的-s表示复数。",
+        "mnemonicZh": "工作人员要核对复印件时，带上最初那份文件，而不是复制出来的副本：它就是original document。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "photocopy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形都是photocopy；名词复数为photocopies，动词过去式为photocopied。",
+        "rootsZh": "由photo（照片、影像）和copy（复制件、复制）组合，表示影印件或影印。",
+        "affixesZh": "没有明显派生词缀；复数和过去式分别是屈折变化，词尾y按拼写规则改为i。",
+        "mnemonicZh": "把卡片放进复印机，留下可见原件内容的副本：这份副本或制作副本的动作都叫photocopy。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "processing-time",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 processing time；processing 是 process 的 -ing 形式。",
+        "rootsZh": "由 processing（处理）和 time（时间）组成。",
+        "affixesZh": "-ing 在此构成表示处理过程的名词形式，不是整个短语的词尾变化。",
+        "mnemonicZh": "想象申请材料正在被处理，经过的这段时间就是 processing time。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "business-day",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 business day。",
+        "rootsZh": "由 business（工作、营业）和 day（天）组成。",
+        "affixesZh": "business 中有名词后缀 -ness；短语本身没有额外词缀。",
+        "mnemonicZh": "把日历上的营业工作日数出来，周末通常不算在内。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reference-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 reference number。",
+        "rootsZh": "reference（供查询或识别的参考信息）加 number（号码）。",
+        "affixesZh": "reference 由 refer 加名词后缀 -ence 构成。",
+        "mnemonicZh": "保存这个号码，之后联系机构时可用它指向自己的申请记录。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "confirmation-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 confirmation number。",
+        "rootsZh": "confirmation（确认）加 number（号码），表示确认记录对应的号码。",
+        "affixesZh": "confirmation 由 confirm 加名词后缀 -ation 构成。",
+        "mnemonicZh": "预约成功后记下号码，日后可凭它证明系统已确认预约。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eligibility",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词词条为 eligibility，表示具备申请资格的状态。",
+        "rootsZh": "以 eligible（符合条件的）为词基，指符合条件这一状态。",
+        "affixesZh": "后缀 -ity 将 eligible 这类形容词转成表示状态的名词。",
+        "mnemonicZh": "先对照要求检查自己是否 eligible，符合条件就是 eligibility。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "valid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 valid；本词在例句中没有屈折变化。",
+        "rootsZh": "整体记忆 valid，表示仍被认可、可接受；不作可靠拆分。",
+        "affixesZh": "没有明显且适合教学的词缀。",
+        "mnemonicZh": "证件在预约当天仍有效，工作人员才能把它当作有效身份证明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "expired",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "expired 是 expire 的过去分词形式，也可作形容词表示已过期。",
+        "rootsZh": "以 expire（到期、终止）为词基，不作不确定的字母拆分。",
+        "affixesZh": "-ed 是动词的过去分词词尾，此处用于描述证件状态。",
+        "mnemonicZh": "想象证件有效日期已经过去：它 is expired，不能再当有效证件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "replacement-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 replacement card。",
+        "rootsZh": "由 replacement（补发、替换）和 card（卡片）组成。",
+        "affixesZh": "replacement 由 replace 加名词后缀 -ment 构成；replace 含 re-。",
+        "mnemonicZh": "钱包丢失后，机构寄来一张替代遗失卡片的新卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "online-portal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 online portal。",
+        "rootsZh": "online 由 on 和 line 组成；portal 表示进入服务的入口或平台。",
+        "affixesZh": "on、line、portal 都是独立词，不是此短语中的词缀。",
+        "mnemonicZh": "把 portal 想成通往线上办事服务的入口，可登录查看申请进度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "application-status",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 application status。",
+        "rootsZh": "由 application（申请）和 status（状态）组成。",
+        "affixesZh": "application 由 apply 加名词后缀 -ation 构成。",
+        "mnemonicZh": "查看申请当前标为已提交、审核中还是其他状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-person",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 in person，形式不变；意为本人亲自到场。",
+        "rootsZh": "由介词 in 和名词 person 构成，整体表示亲自、当面。",
+        "affixesZh": "没有词缀；in 是独立介词，不是前缀。",
+        "mnemonicZh": "办事时必须由 person 本人到场，而不是在线办理。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mail-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形 mail in；可说 mailed in，过去式变化落在 mail 上。",
+        "rootsZh": "mail 表示邮寄，in 是小品词；合起来表示邮寄提交。",
+        "affixesZh": "没有派生词缀；-ed 可作过去式屈折变化，in 是独立小品词。",
+        "mnemonicZh": "把填好的表格装进信封寄出去，就是 mail in。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pick-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形 pick up；过去式为 picked up，变化在 pick 上。",
+        "rootsZh": "pick 表示拿取，up 是小品词；此处合指领取或取走。",
+        "affixesZh": "没有派生词缀；-ed 是过去式屈折形式，up 不是后缀。",
+        "mnemonicZh": "到服务柜台把办好的卡拿起来带走，记作 pick up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-off",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形 drop off；过去式为 dropped off，变化在 drop 上。",
+        "rootsZh": "drop 表示放下，off 是小品词；此处指把材料送到后放下。",
+        "affixesZh": "没有派生词缀；-ed 是过去式屈折变化，off 是独立小品词。",
+        "mnemonicZh": "把签好的表格送到办公室并放下，正是 drop off。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-load",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 course load；复数可说 course loads。",
+        "rootsZh": "复合名词由 course（课程）和 load（负担、学习量）组成。",
+        "affixesZh": "没有明显派生词缀；复数 -s 是名词屈折变化。",
+        "mnemonicZh": "想象一学期背着多少门课的学习负担，就是 course load。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-id",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 student ID，复数可说 student IDs。",
+        "rootsZh": "student 表示学生；ID 是 identification 的常用缩写，指身份识别证件或编号。",
+        "affixesZh": "没有明显词缀；ID 是缩写，不是后缀。",
+        "mnemonicZh": "考试入场时出示能证明学生身份的卡，就是 student ID。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-portal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 student portal；复数可说 student portals。",
+        "rootsZh": "由 student（学生）和 portal（入口、门户）组成，指学生使用的线上入口。",
+        "affixesZh": "没有明显词缀；student 和 portal 都是独立词。",
+        "mnemonicZh": "把它想成学生进入学校线上服务的统一入口。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-calendar",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 academic calendar；academic 是形容词，形式通常不变。",
+        "rootsZh": "academic 表示学术的，calendar 表示日历；合指列出校内重要日期的日历。",
+        "affixesZh": "academic 含后缀 -ic，构成形容词；calendar 无明显词缀。",
+        "mnemonicZh": "订机票前查看这份日历，确认开学、假期和考试日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reading-week",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 reading week，固定名称；通常不作动词短语变形。",
+        "rootsZh": "由 reading（阅读、学习）和 week（一周）组成，指高校停课学习周。",
+        "affixesZh": "reading 来自 read 加 -ing，形成名词性形式；week 无词缀。",
+        "mnemonicZh": "课程暂停一周，学生可用这段时间阅读、复习或赶论文。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-outline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 course outline；复数可说 course outlines。",
+        "rootsZh": "course 表示课程，outline 表示提纲或概要；合指课程说明文件。",
+        "affixesZh": "没有明显词缀；course 和 outline 是独立词。",
+        "mnemonicZh": "想象课程文件列出作业、评分和迟交规则，便是 course outline。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grade",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 grade；名词复数和动词第三人称单数为 grades。",
+        "rootsZh": "现代英语中整体记忆，表示成绩或评分，没有适合教学的可靠拆分。",
+        "affixesZh": "grades 末尾 -s 是复数或动词第三人称单数屈折词尾。",
+        "mnemonicZh": "老师批完试卷，把每位学生的 grade 上传到课程页面。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gpa",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "GPA 是名词缩写，通常指平均绩点。",
+        "rootsZh": "是 Grade Point Average 的首字母缩写：成绩、分值、平均值。",
+        "affixesZh": "没有词缀；全大写形式提示它是缩写。",
+        "mnemonicZh": "看奖学金门槛时，把自己的 GPA 和要求的 3.0 对照。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pass-fail",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体形式是 pass/fail，可作名词或形容词。",
+        "rootsZh": "由 pass（通过）和 fail（不通过）并列组成。",
+        "affixesZh": "没有词缀；斜线连接两个独立单词。",
+        "mnemonicZh": "选 pass/fail 课程时，成绩单只看通过还是不通过。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "add-a-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语是 add a course；核心动词原形为 add。",
+        "rootsZh": "add 表示增加，course 表示课程；合起来是加选课程。",
+        "affixesZh": "没有词缀；a 是冠词，不能算作词缀。",
+        "mnemonicZh": "想把一门课放进本学期课表，就向系里申请 add a course。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-a-course",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语是 drop a course；核心动词原形为 drop。",
+        "rootsZh": "drop 表示放下、移除，course 表示课程；合起来指退选。",
+        "affixesZh": "没有词缀；a 是冠词，不能算作词缀。",
+        "mnemonicZh": "从课表里移除一门课，记作 drop a course；退课前先问顾问。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-registration",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 course registration；registration 是名词。",
+        "rootsZh": "course 是课程；registration 与 register（登记、注册）同词族。",
+        "affixesZh": "registration 含名词后缀 -ation，表示登记或注册这件事。",
+        "mnemonicZh": "学校开放 course registration 时，学生登录系统挑选课程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "enrolment-deadline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 enrolment deadline；enrolment 是名词，deadlines 可作复数。",
+        "rootsZh": "enrolment 指注册；deadline 指截止日期，整体表示注册截止时间。",
+        "affixesZh": "enrolment 中 -ment 构成名词；deadlines 的 -s 是复数屈折词尾。",
+        "mnemonicZh": "把 May 8 圈在日历上：这是暑期课程 enrolment 的最后期限。"
+      }
+    }
+  ]
+}

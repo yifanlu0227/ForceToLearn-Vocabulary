@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-014",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "fraud-alert",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "fraud（欺诈）+ alert（警报、提醒）。",
+        "affixesZh": "没有明显词缀，按两个独立词组合记忆。",
+        "mnemonicZh": "发现可疑消费时收到警报，便是 fraud alert。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "chargeback",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词，单数形式为 chargeback。",
+        "rootsZh": "charge（收费）+ back（退回），组合成退单概念。",
+        "affixesZh": "back 是独立词，不是后缀；此词无明显词缀。",
+        "mnemonicZh": "争议款项被退回，可把 chargeback 记作“收费退回来”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cash-deposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "cash（现金）+ deposit（存款、存入）。",
+        "affixesZh": "没有适合教学的明显词缀，按两个词整体记。",
+        "mnemonicZh": "在 ATM 把现金存进账户，就是 cash deposit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cheque-deposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 cheque deposit；两个词均未变形。",
+        "rootsZh": "由 cheque“支票”和 deposit“存款、存入”组成。",
+        "affixesZh": "没有明显词缀；deposit 在此作名词。",
+        "mnemonicZh": "把支票交进账户，就是 cheque deposit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "account-holder",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 account holder；例句中的所有格不改变原形。",
+        "rootsZh": "account“账户”加 holder“持有人”；holder 来自 hold“持有”。",
+        "affixesZh": "holder 中 -er 表示做某事的人，是派生后缀。",
+        "mnemonicZh": "账户由谁持有，谁就是 account holder。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transfer-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 transfer limit；两词均未变形。",
+        "rootsZh": "transfer“转账、转移”加 limit“限额、限制”。",
+        "affixesZh": "没有明显词缀；此处 transfer 作名词。",
+        "mnemonicZh": "每日能转出的最高金额，就是 transfer limit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "foreign-currency",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 foreign currency；无屈折变化。",
+        "rootsZh": "foreign“外国的”和 currency“货币”组成。",
+        "affixesZh": "没有适合此处教学的明显词缀拆分。",
+        "mnemonicZh": "旅行时兑换的外国货币，可记作 foreign currency。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exchange-rate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 exchange rate；两词均未变形。",
+        "rootsZh": "exchange“兑换、交换”加 rate“比率”。",
+        "affixesZh": "没有明显词缀；exchange 在此作名词修饰语。",
+        "mnemonicZh": "一种货币换另一种货币所按的比率，就是 exchange rate。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "paperless-statement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 paperless statement；例句复数 statements 的原形是 statement。",
+        "rootsZh": "paper“纸”加 -less 构成 paperless“无纸的”；statement 是“账单、陈述”。",
+        "affixesZh": "-less 是表示“没有、无需”的派生后缀；statements 的 -s 表示复数。",
+        "mnemonicZh": "账单不再寄纸张、改为电子版，可记 paperless statement。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "card-activation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 card activation；activation 对应动词 activate。",
+        "rootsZh": "card“卡”加 activation“启用、激活”。",
+        "affixesZh": "activation 中 -ion 构成名词；不是复数或分词变化。",
+        "mnemonicZh": "新卡启用后才能使用，这一步就是 card activation。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "freeze-a-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 freeze a card；例句 froze 是 freeze 的过去式。",
+        "rootsZh": "freeze“冻结、暂时停用”加 a card“一张卡”。",
+        "affixesZh": "无词缀；froze 是 freeze 的不规则过去式，a 是独立冠词。",
+        "mnemonicZh": "卡片遗失时先让它“冻住”，可联想暂时停用银行卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "line-of-credit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 line of credit；of 是独立介词。",
+        "rootsZh": "line“额度、可用额度”与 credit“信贷”组成固定短语。",
+        "affixesZh": "没有词缀；of 是短语中的介词，不是前后缀。",
+        "mnemonicZh": "把它想成银行给你的一条可借用信用额度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "salt-truck",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 salt truck；无屈折变化。",
+        "rootsZh": "salt“盐”加 truck“卡车”，指撒盐作业车辆。",
+        "affixesZh": "没有明显词缀；由两个独立词构成复合名词。",
+        "mnemonicZh": "冬天看到卡车向路面撒盐，就记作 salt truck。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-brush",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 snow brush，单数形式。",
+        "rootsZh": "复合词：snow“雪”＋brush“刷子”。",
+        "affixesZh": "没有明显词缀；snow、brush 是独立词。",
+        "mnemonicZh": "想象用刷子扫掉车窗和车顶上的积雪。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "windshield-washer-fluid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 windshield washer fluid，整体不变。",
+        "rootsZh": "由 windshield“挡风玻璃”、washer“清洗器”和 fluid“液体”组成。",
+        "affixesZh": "washer 中 -er 表示工具；不是复数词尾。",
+        "mnemonicZh": "把它记作“挡风玻璃清洗器用的液体”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-season-tires",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数 tires；单数是 all-season tire。",
+        "rootsZh": "all“所有”＋season“季节”；tires 是“轮胎”。",
+        "affixesZh": "tires 的 -s 是名词复数词尾。",
+        "mnemonicZh": "联想一套标称可跨季节使用的轮胎。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-weather-tires",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数 tires；单数是 all-weather tire。",
+        "rootsZh": "all“所有”＋weather“天气”；tires 是“轮胎”。",
+        "affixesZh": "tires 的 -s 是名词复数词尾。",
+        "mnemonicZh": "联想轮胎面对多种天气仍可使用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tire-pressure",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 tire pressure，通常作不可数概念。",
+        "rootsZh": "复合词：tire“轮胎”＋pressure“压力”。",
+        "affixesZh": "没有明显词缀，两个部分都是独立词。",
+        "mnemonicZh": "轮胎里面的空气压力，就是 tire pressure。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "battery-booster",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 battery booster，单数形式。",
+        "rootsZh": "battery“电池”＋booster“助力器”。",
+        "affixesZh": "booster 由 boost 加 -er 构成，指辅助设备。",
+        "mnemonicZh": "记作能给汽车电瓶启动提供助力的设备。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "jumper-cables",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数 jumper cables；单数为 jumper cable。",
+        "rootsZh": "jump 表示跳接、搭电启动；jumper cables 指用于搭电启动的电缆。",
+        "affixesZh": "jumper 由 jump 加 -er 构成；cables 的 -s 表示复数。",
+        "mnemonicZh": "用 jumper cables 连接两车电瓶，帮助电瓶没电的车辆搭电启动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "defrost",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 defrost；例句中可用 defrosts 等屈折形式。",
+        "rootsZh": "de- 加 frost“霜、冻结”，表示去除霜冻或解冻。",
+        "affixesZh": "de- 是表示去除、反向的前缀。",
+        "mnemonicZh": "想象车内暖风逐渐融掉挡风玻璃上的霜。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "defog",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 defog；例句中可用 defogs 等屈折形式。",
+        "rootsZh": "由 de- 和 fog“雾”组成，表示清除雾气。",
+        "affixesZh": "de- 是表示去除的前缀。",
+        "mnemonicZh": "打开风扇，让车窗上的水汽雾气散去。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wiper-blades",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复数 wiper blades；单数为 wiper blade。",
+        "rootsZh": "wiper 来自 wipe“擦”＋工具名词；blade 是“片”。",
+        "affixesZh": "wiper 的 -er 表示工具；blades 的 -s 表复数。",
+        "mnemonicZh": "想象雨刮器用橡胶片把挡风玻璃擦净。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "skid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 skid，可作名词或动词；动词过去式、过去分词为 skidded，-ing 形式为 skidding。",
+        "rootsZh": "整体记忆，表示车辆失去抓地力而滑动；不作可靠的现代词基拆分。",
+        "affixesZh": "无明显派生词缀；-ed 和 -ing 是动词屈折形式，拼写需双写 d。",
+        "mnemonicZh": "想象汽车在结冰路面刹车，轮胎横着滑出去，就是 skid。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spin-out",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 spin out；例句 spun out 是 spin 的过去式形式。",
+        "rootsZh": "由 spin“旋转”和副词 out 组成，表示车辆旋转失控；out 是独立小品词。",
+        "affixesZh": "没有词缀；spin 的过去式为不规则变化 spun，out 不变。",
+        "mnemonicZh": "想象车轮一转，整辆车失控地转了出去，记住 spin out。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "braking-distance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 braking distance；braking 来自动词 brake，distance 保持原形。",
+        "rootsZh": "由 brake“刹车”和 distance“距离”组成，指刹车后车辆停下所需的距离。",
+        "affixesZh": "braking 中 -ing 构成动名词或现在分词作定语，不是复数或过去式。",
+        "mnemonicZh": "把它想成从踩下刹车到车完全停住的那段路。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "following-distance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 following distance；following 来自动词 follow，distance 是名词原形。",
+        "rootsZh": "由 follow“跟随”和 distance“距离”组成，表示车辆之间的跟车距离。",
+        "affixesZh": "following 的 -ing 是现在分词形式，在此作定语；不是派生后缀。",
+        "mnemonicZh": "想象前车在前、你的车跟在后，两车之间留出的空间就是 following distance。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "traction-control",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 traction control，两个词均用原形；常指车辆的牵引力控制系统。",
+        "rootsZh": "由 traction“牵引力、抓地力”和 control“控制”组成，说明系统控制车轮牵引力。",
+        "affixesZh": "没有明显词缀；traction 和 control 都是独立词。",
+        "mnemonicZh": "看到雪地起步时的控制指示灯，可联想到系统正在帮助车轮维持抓地力。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "four-wheel-drive",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 four-wheel drive，通常作整体名词；连字符写法也常见。",
+        "rootsZh": "由 four“ 四”、wheel“车轮”和 drive“驱动”组成，指四个车轮参与驱动。",
+        "affixesZh": "没有明显词缀；连字符连接复合成分，不是词缀。",
+        "mnemonicZh": "按字面记：不是只驱动两个轮，而是 four-wheel drive。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowed-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词形式 snowed in；来自短语动词 snow in，意为被雪困住。",
+        "rootsZh": "由 snow“下雪”和小品词 in 组成，整体表示积雪使人或车辆无法离开。",
+        "affixesZh": "snowed 中 -ed 是 snow 的过去式或过去分词形式；in 是独立小品词。",
+        "mnemonicZh": "想象大雪把门口和道路封住，人被困在家里：snowed in。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dig-out",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 dig out；例句中的 dig 是原形，过去式为 dug。",
+        "rootsZh": "由 dig“挖”和小品词 out“出来”组成，表示把被埋住的车挖出来。",
+        "affixesZh": "没有词缀；out 是独立小品词，dig 的过去式是不规则形式 dug。",
+        "mnemonicZh": "想象用铲子把车周围的积雪挖开，让车从雪里出来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "de-ice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 de-ice；过去式和过去分词为 de-iced，-ing 形式为 de-icing。",
+        "rootsZh": "以 ice“冰”为词基，整体表示除去物体表面的冰。",
+        "affixesZh": "前缀 de- 表示去除或消除；词尾 -ed、-ing 是动词屈折形式。",
+        "mnemonicZh": "把台阶上的冰处理掉，便是 de-ice：de- 表示去除，ice 是冰。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sidewalk-clearing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 sidewalk clearing；sidewalk 指人行道，clearing 指清理这项工作。",
+        "rootsZh": "sidewalk 由 side“侧边”和 walk“步道”组成；clearing 来自 clear“清理”。",
+        "affixesZh": "clearing 的 -ing 将 clear 变为表示清理活动的名词；不是进行时用法。",
+        "mnemonicZh": "想象工作人员沿着街边步道铲雪，清出一条可通行的人行道。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ice-pellets",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 ice pellet；ice pellets 是名词复数。",
+        "rootsZh": "由 ice“冰”和 pellet“颗粒、小丸”组成。",
+        "affixesZh": "-s 是名词复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "想象小颗冰粒落在雪地上：ice 加 pellet。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowdrift",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 snowdrift，名词；本例为单数。",
+        "rootsZh": "由 snow“雪”和 drift“被风吹动、漂移”组成。",
+        "affixesZh": "没有明显词缀，是两个词基组成的复合词。",
+        "mnemonicZh": "风把雪吹着漂移，最后在门边堆成雪堆。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-blower",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 snow blower，名词单数；复数为 snow blowers。",
+        "rootsZh": "snow“雪”加 blower“吹送装置”；blower 来自 blow“吹”。",
+        "affixesZh": "blower 中 -er 构成表示施动者或装置的名词；复数另加 -s。",
+        "mnemonicZh": "想象机器把车道上的雪吹到一旁，记住 snow 加 blower。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ice-cleats",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 ice cleat；ice cleats 是名词复数。",
+        "rootsZh": "由 ice“冰”和 cleat“防滑凸钉、鞋钉”组成。",
+        "affixesZh": "-s 是名词复数屈折词尾；短语中没有派生词缀。",
+        "mnemonicZh": "鞋底的钉状 cleats 抓住冰面，帮助行走不打滑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dish-soap",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 dish soap，名词短语；本例为不可数用法。",
+        "rootsZh": "dish“餐具”加 soap“皂、清洁剂”，指手洗餐具用剂。",
+        "affixesZh": "没有明显词缀；dish 和 soap 都是独立词。",
+        "mnemonicZh": "洗手洗碗时挤出的 soap，专门用来清洁 dishes。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dishwasher-detergent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 dishwasher detergent，名词短语；本例为不可数用法。",
+        "rootsZh": "dishwasher 是 dish“餐具”加 washer“清洗机器”；detergent 指清洁剂。",
+        "affixesZh": "washer 中 -er 构成表示设备的名词；detergent 整体记忆。",
+        "mnemonicZh": "把 detergent 放进洗碗机投放盒，而不是当作手洗洗洁精。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rinse-aid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 rinse aid，名词短语；本例为不可数用法。",
+        "rootsZh": "rinse“漂洗”加 aid“辅助用品”，指帮助漂洗的产品。",
+        "affixesZh": "没有明显词缀；rinse 和 aid 是独立单词。",
+        "mnemonicZh": "洗碗机漂洗时加入 aid，玻璃杯更少留下水点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dish-rack",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 dish rack，名词短语；本例为单数。",
+        "rootsZh": "dish“餐具”加 rack“架子”，合指放置餐具的架子。",
+        "affixesZh": "没有明显词缀；两个独立词组成复合名词。",
+        "mnemonicZh": "手洗后的 dishes 竖放在 rack 上沥水晾干。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dish-towel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 dish towel，名词短语；本例为单数。",
+        "rootsZh": "dish“餐具”加 towel“毛巾”，指厨房擦碗巾。",
+        "affixesZh": "没有明显词缀；dish 和 towel 都是独立词。",
+        "mnemonicZh": "用 towel 擦干刚洗好的 dishes，便于记住用途。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bottle-brush",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典形式为 bottle brush，名词短语；本例为单数。",
+        "rootsZh": "bottle“瓶子”加 brush“刷子”，指用于清洁瓶内的刷子。",
+        "affixesZh": "没有明显词缀；两个独立词组成复合名词。",
+        "mnemonicZh": "长柄刷伸进窄口 bottle，刷到杯底和内壁。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "degreaser",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 degreaser，此处是单数形式；可理解为 degrease 加 -er。",
+        "rootsZh": "核心词基是 grease（油脂）；degrease 表示去除油脂，degreaser 指用于去油的产品。",
+        "affixesZh": "de- 表示去除；-er 加在动词 degrease 后构成名词，表示执行该作用的物品。",
+        "mnemonicZh": "把 degreaser 拆作 de-（去除）+ grease（油脂）+ -er（工具）：用于去除油脂的清洁剂。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-residue",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 food residue，形式为单数；核心名词是 residue。",
+        "rootsZh": "food（食物）修饰 residue（残留物），组合表示食物残渣或残留。",
+        "affixesZh": "没有明显词缀；food 与 residue 是两个独立词，不要把连字符当词缀。",
+        "mnemonicZh": "洗碗前刮下盘子上残留的食物，正是 food residue。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cross-contamination",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 cross-contamination；此处是单数形式。",
+        "rootsZh": "cross（交叉）加 contamination（污染），指不同来源之间发生的污染。",
+        "affixesZh": "contamination 含名词后缀 -ation；cross 是独立词，不是前缀。",
+        "mnemonicZh": "生肉汁沾到即食蔬菜上，污染从一种食物交叉到另一种。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "raw-meat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 raw meat，形式为单数；核心名词 meat 通常作不可数名词。",
+        "rootsZh": "raw（生的、未烹熟的）修饰 meat（肉），整体表示生肉。",
+        "affixesZh": "没有明显词缀；raw 和 meat 是独立单词。",
+        "mnemonicZh": "把 raw meat 放在冰箱底层，避免生肉汁滴到其他食物上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sanitize",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 sanitize；词条列出的是原形，不是过去式或分词。",
+        "rootsZh": "与 sanitary、sanitation 同属相关词族；整体记作降低有害微生物的卫生处理。",
+        "affixesZh": "后缀 -ize 常构成动词，表示使某物达到相应状态或进行相应处理。",
+        "mnemonicZh": "处理生鸡肉后，先清洁台面，再 sanitize，减少有害微生物。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-safe",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 food-safe，为复合形式；此处没有比较级或屈折变化。",
+        "rootsZh": "food（食物）加 safe（安全的），表示适合安全接触食品。",
+        "affixesZh": "没有明显词缀；food 是修饰成分，safe 是独立形容词。",
+        "mnemonicZh": "装汤前检查容器是否 food-safe，确认材料适合接触食物。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "best-before-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 best-before date；核心名词 date 为单数。",
+        "rootsZh": "best（good 的最高级）与 before 组成修饰语，指品质最佳期限对应的日期。",
+        "affixesZh": "没有明显派生词缀；best 是不规则最高级，before 是独立词。",
+        "mnemonicZh": "查看包装上的 best-before date，了解食品标注的最佳品质日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "airtight-container",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 airtight container；核心名词 container 为单数。",
+        "rootsZh": "airtight 由 air（空气）和 tight（严密的）组成，修饰 container（容器）。",
+        "affixesZh": "没有明显词缀；air 与 tight 是构成复合形容词的独立词。",
+        "mnemonicZh": "把剩菜放进 airtight container，盖紧后减少空气进出。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "refrigerate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 refrigerate；词条列出的是原形，不是屈折形式。",
+        "rootsZh": "整体记忆为“冷藏”；词干 refriger- 不适合按日常英语词基硬拆。",
+        "affixesZh": "词尾 -ate 可构成动词；这里不是过去式或分词标记。",
+        "mnemonicZh": "酱料开罐后按说明 refrigerate，也就是放进冰箱冷藏。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "room-temperature",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 room temperature，形式为单数；核心名词是 temperature。",
+        "rootsZh": "room（房间）与 temperature（温度）组合，表示房间环境中的常温。",
+        "affixesZh": "没有明显词缀；room 是修饰 temperature 的独立名词。",
+        "mnemonicZh": "熟鸡肉放在 room temperature 下太久容易变质，应及时冷藏。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-poisoning",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 food poisoning；此处无屈折变化。",
+        "rootsZh": "由 food（食物）和 poisoning（中毒）组成。",
+        "affixesZh": "poisoning 中的 -ing 将动词 poison 构成表示过程的名词。",
+        "mnemonicZh": "多人吃过同一批食物后不适，可联想到 food poisoning。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mouldy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形是 mouldy；本例没有词形变化。",
+        "rootsZh": "现代词基是 mould，指霉菌或霉。",
+        "affixesZh": "-y 是构成形容词的后缀，表示带有某种特征。",
+        "mnemonicZh": "想象容器底部的莓果长了霉，变得 mouldy。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "contaminated",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此处是形容词，来自动词 contaminate 的过去分词。",
+        "rootsZh": "词基 contaminate 表示污染；不作牵强拆分。",
+        "affixesZh": "-ed 是动词过去分词屈折形式，此处作形容词。",
+        "mnemonicZh": "生肉汁漏出，其他食物可能被污染，变成 contaminated。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dishwasher-safe",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复合形容词原形为 dishwasher-safe；无屈折变化。",
+        "rootsZh": "由 dishwasher（洗碗机）和 safe（适用、安全）组成；前者含 dish 和 wash。",
+        "affixesZh": "dishwasher 中 -er 构成表示器具的名词；连字符不是词缀。",
+        "mnemonicZh": "看到标记就想到这件容器可以安心放进洗碗机。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-wash-only",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 hand-wash only；核心动词是 wash。",
+        "rootsZh": "由 hand（手）、wash（洗）和 only（仅）组成。",
+        "affixesZh": "没有明显词缀；hand、wash、only 都是独立单词。",
+        "mnemonicZh": "盖子标着 hand-wash only，记作清洗时只能用手。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-scraps",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复数为 food scraps；单数是 food scrap。",
+        "rootsZh": "由 food（食物）和 scrap（碎屑、残余）组成。",
+        "affixesZh": "scraps 词尾 -s 是名词复数屈折标记。",
+        "mnemonicZh": "吃完饭，把剩余食物 scraps 放进绿色厨余桶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-thermometer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 food thermometer；本例无复数变化。",
+        "rootsZh": "food（食物）修饰 thermometer（测温仪器）；thermometer 表示温度计。",
+        "affixesZh": "thermometer 含 thermo（热）和 -meter（测量仪器）组合成分。",
+        "mnemonicZh": "烤鸡出炉前，用 food thermometer 测最厚处温度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "internal-temperature",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 internal temperature；本例没有屈折变化。",
+        "rootsZh": "由 internal（内部的）和 temperature（温度）组成。",
+        "affixesZh": "没有适合在此可靠拆解的明显词缀；短语无屈折标记。",
+        "mnemonicZh": "测肉块中心而非表面，检查它的 internal temperature。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clean-up-a-spill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词短语为 clean up a spill；核心动词是 clean。",
+        "rootsZh": "clean up 表示清理；spill 在此是洒出的液体或食物。",
+        "affixesZh": "没有词缀；up 是短语动词中的独立副词，不是后缀。",
+        "mnemonicZh": "饮料洒在厨房地上，赶紧 clean up a spill，免得滑倒。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "movie-theatre",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 movie theatre；加拿大常用拼法是 theatre。",
+        "rootsZh": "由 movie（电影）和 theatre（剧院）组成；整体指电影院。",
+        "affixesZh": "没有明显词缀；theatre 是整体记忆的借词。",
+        "mnemonicZh": "约朋友去市中心的 movie theatre 看电影。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "screening",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "screening 是名词原形；对应动词原形为 screen，例中指电影放映。",
+        "rootsZh": "由现代词基 screen（屏幕；筛查、检查）构成，依语境理解为放映或筛查。",
+        "affixesZh": "-ing 将动词 screen 构成名词；这里是派生名词，不是复数。",
+        "mnemonicZh": "想象电影投到 screen（银幕）上，screening 就是一次放映。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "premiere",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "premiere 是名词或动词原形；作名词指首映，作动词指首次上映。",
+        "rootsZh": "现代英语中宜整体记作“首演、首映”，没有适合教学的可靠词基拆分。",
+        "affixesZh": "没有明显的现代英语前缀或后缀；词尾不是屈折变化。",
+        "mnemonicZh": "把电影节首场放映想成作品第一次亮相，记住 premiere 是首映。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seat-selection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "seat selection 是由两个词组成的名词短语。",
+        "rootsZh": "seat 指座位，selection 指选择；合起来是对座位进行选择。",
+        "affixesZh": "selection 中 -ion 构成名词；短语里的 seat 不是词缀。",
+        "mnemonicZh": "买票时先选场次，再在座位图上做 selection（选择）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "assigned-seating",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "assigned seating 是名词短语；核心动词原形为 assign（指定）和 seat（安排座位）。",
+        "rootsZh": "由 assigned（已指定的）和 seating（座位安排）组成，表示座位预先分配。",
+        "affixesZh": "assigned 的 -ed 是过去分词形式；seating 的 -ing 构成动名词或名词。",
+        "mnemonicZh": "票上印着排号和座位号，表示座位已经 assigned（指定）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "general-admission",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "general admission 是名词短语，整体表示普通入场方式或普通入场票。",
+        "rootsZh": "由 general（普通的）和 admission（入场、准入）组成；admission 对应 admit。",
+        "affixesZh": "admission 的 -sion 构成名词；短语中的 general 不是词缀。",
+        "mnemonicZh": "普通入场票只保证入场，通常不预先给你指定座位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "aisle-seat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "aisle seat 是由 aisle 和 seat 组成的名词短语。",
+        "rootsZh": "aisle 指通道或过道，seat 指座位；合起来就是靠过道的座位。",
+        "affixesZh": "没有明显词缀；aisle 中不发音的 s 不是词缀。",
+        "mnemonicZh": "想象座位紧挨着 aisle（过道），进出时不用跨过别人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "front-row",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "front row 是名词短语，front 修饰 row，表示前排或第一排。",
+        "rootsZh": "front 表示前方，row 表示一排；组合后指最前面的座位排。",
+        "affixesZh": "没有明显前后缀；front 和 row 都是独立词。",
+        "mnemonicZh": "看座位图时，朝舞台或银幕最近的那一 row 就是 front row。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seat-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "seat number 是名词短语，seat 与 number 均为原形。",
+        "rootsZh": "seat 指座位，number 指编号；合起来表示标识某个座位的号码。",
+        "affixesZh": "没有明显词缀；这是两个独立词构成的复合表达。",
+        "mnemonicZh": "门票上的排号加座位号，帮助你找到对应的 seat。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "coat-check",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "coat check 是名词短语，整体指衣物寄存处或寄存服务。",
+        "rootsZh": "coat 指外套，check 在此指寄存凭条或寄存服务；合起来表示外套寄存。",
+        "affixesZh": "没有明显词缀；coat 和 check 都是独立词。",
+        "mnemonicZh": "把外套交给寄存处，拿着 check（凭条）散场后取回。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "opening-act",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "opening act 是名词短语；核心名词为 act，指演出节目或表演者。",
+        "rootsZh": "opening 来自 open（开始），act 指节目或表演；合起来是开场节目。",
+        "affixesZh": "opening 中 -ing 构成修饰名词的形式；短语里没有其他明显词缀。",
+        "mnemonicZh": "主乐队出场前先由 opening act 开场，像节目单的第一项。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "headliner",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 headliner；复数是 headliners。",
+        "rootsZh": "由 headline（头条、主打项目）加表示人的 -er 构成，指领衔者。",
+        "affixesZh": "-er 是构成人称名词的派生后缀；headline 内无须再拆词缀。",
+        "mnemonicZh": "演出海报上排在最醒目位置的名字，通常就是领衔表演者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "setlist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 setlist；复数是 setlists。",
+        "rootsZh": "由 set（安排的一组曲目）和 list（清单）组成。",
+        "affixesZh": "没有明显词缀，是复合名词；复数 -s 是屈折变化。",
+        "mnemonicZh": "把一场演出要唱的歌按顺序列成 list，就是 setlist。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "usher",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或动词原形均为 usher；动词过去式、过去分词是 ushered。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆即可。",
+        "affixesZh": "词中没有明显派生词缀；动词 -ed 表示过去式或过去分词。",
+        "mnemonicZh": "想象剧院引座员 usher 指引观众走到座位，也可记作“带人入座”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "e-ticket",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 e-ticket；复数通常写作 e-tickets。",
+        "rootsZh": "由 e-（electronic 的缩写）和 ticket（票）组成。",
+        "affixesZh": "e- 是表示电子形式的缩写性前置成分，不是常规屈折词缀；-s 表示复数。",
+        "mnemonicZh": "把纸质 ticket 换成手机里的电子版本，就是 e-ticket。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ticket-transfer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 ticket transfer；核心名词 transfer 不变，复数可说 ticket transfers。",
+        "rootsZh": "ticket（票）修饰 transfer（转移、转让），整体指门票转让或转移。",
+        "affixesZh": "短语中没有明显词缀；transfer 是独立单词，不是后缀。",
+        "mnemonicZh": "在应用里把自己的票从账户转到朋友账户，正是 ticket transfer。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "booking-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 booking fee；booking 来自 book，fee 是核心名词。",
+        "rootsZh": "book 在此指预订，booking 指预订；fee 指费用。",
+        "affixesZh": "booking 中 -ing 将 book 构成动名词或修饰语；短语里的 fee 不是词缀。",
+        "mnemonicZh": "结账时，票价之外为完成预订多付的一笔钱，就是 booking fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "age-restriction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 age restriction；核心名词 restriction，复数为 restrictions。",
+        "rootsZh": "age（年龄）修饰 restriction（限制）；restriction 与 restrict（限制）相关。",
+        "affixesZh": "-ion 将 restrict 构成名词 restriction；复数 -s 是屈折变化。",
+        "mnemonicZh": "买晚场票前查看年龄门槛，记住 age 表年龄、restriction 表限制。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "doors-open",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语为 doors open；doors 是 door 的复数，open 用动词原形。",
+        "rootsZh": "由 doors（场馆的门）和 open（开放、打开）组成，表示开放入场。",
+        "affixesZh": "doors 的 -s 是复数屈折词尾；短语中的 open 不是后缀。",
+        "mnemonicZh": "时间表写 doors open at six，想成六点场馆开门让观众进入。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "runtime",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 runtime；复数是 runtimes。",
+        "rootsZh": "由 run（运行、持续）和 time（时间）组成，表示持续或运行的时间。",
+        "affixesZh": "没有明显词缀，是复合名词；复数 -s 是屈折变化。",
+        "mnemonicZh": "电影从开始到结束一共 run 多久，便是它的 runtime。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "end-credits",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条形式为 end credits；credit 通常用复数 credits。",
+        "rootsZh": "由 end（结尾）和 credits（署名、演职员信息）组成。",
+        "affixesZh": "credits 中 -s 表示复数；end 与 credits 是独立单词，不是词缀。",
+        "mnemonicZh": "电影结尾滚动列出演员与制作人员名单，那就是 end credits。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "post-credit-scene",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，整体形式为 post-credit scene；scene 为单数。",
+        "rootsZh": "post-credit 表示片尾后的，scene 表示场景；按整体记忆。",
+        "affixesZh": "post- 是表示“之后”的前缀；credit 的连字符不是词缀。",
+        "mnemonicZh": "演职员表播完后，银幕又出现一段 scene，就是片尾彩蛋。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dubbed",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词；对应动词原形 dub，dubbed 是其过去分词形式。",
+        "rootsZh": "dub 在此指为影片重新配上对白，作为整体记忆即可。",
+        "affixesZh": "-ed 是 dub 的过去分词词尾，此处表示已配音；不是派生后缀。",
+        "mnemonicZh": "想象演员的原声被另一种语言的对白替换，影片便是 dubbed。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "closed-captioning",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；captioning 来自动词 caption，closed 修饰它。",
+        "rootsZh": "caption 指字幕或说明文字；closed captioning 指可开启的字幕服务。",
+        "affixesZh": "captioning 中 -ing 构成名词，指字幕服务；closed 是过去分词形容词。",
+        "mnemonicZh": "影院设备把对白文字显示出来，观众可选择开启字幕。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "audio-description",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，由 audio 和 description 组成；整体指口述影像服务。",
+        "rootsZh": "audio 表示声音，description 表示描述；合起来是用声音描述画面。",
+        "affixesZh": "description 含派生后缀 -tion，构成名词；连字符不是词缀。",
+        "mnemonicZh": "戴上耳机听人描述场景、动作和表情，便能想象银幕画面。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-submission-portal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 submission portal；submission 是名词，portal 为单数。",
+        "rootsZh": "submission 指提交的材料或行为，portal 指在线入口；合指提交入口。",
+        "affixesZh": "submit 派生为 submission，含名词后缀 -ion；portal 无明显词缀。",
+        "mnemonicZh": "把 portal 想成网站入口：从这里上传论文，就是 submission portal。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-submission-deadline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 submission deadline；deadline 为单数形式。",
+        "rootsZh": "submission 指提交，deadline 指最后期限；组合表示提交的截止时间。",
+        "affixesZh": "submission 来自 submit 加名词后缀 -ion；deadline 无明显词缀。",
+        "mnemonicZh": "把截止时刻想成最后一道线：越过 deadline，投稿就晚了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-author-guidelines",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 author guidelines；guidelines 是 guideline 的复数。",
+        "rootsZh": "author 指作者，guideline 指指导原则；合起来是给作者的投稿指南。",
+        "affixesZh": "guidelines 末尾 -s 表示复数，是屈折变化；无明显派生前缀。",
+        "mnemonicZh": "投稿前逐条查看作者应遵守的指南，避免漏交标题页等材料。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-formatting-requirements",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 formatting requirements；两词均为复数或名词形式。",
+        "rootsZh": "format 指格式，requirement 指要求；合起来是排版格式方面的要求。",
+        "affixesZh": "formatting 的 -ing 构成名词；requirements 的 -s 表示复数，-ment 构成名词。",
+        "mnemonicZh": "上传前核对字号、间距等格式要求，再把文件转成 PDF。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-word-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 word limit；两个名词均为单数形式。",
+        "rootsZh": "word 是字词，limit 是限度；组合表示允许使用的字数上限。",
+        "affixesZh": "没有明显词缀；是两个独立名词构成的复合词组。",
+        "mnemonicZh": "写作时把字数当作有上限的额度，不能超过 word limit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-page-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 page limit；两个名词均为单数形式。",
+        "rootsZh": "page 指页，limit 指限度；合起来表示允许的最大页数。",
+        "affixesZh": "没有明显词缀；由两个独立名词组成。",
+        "mnemonicZh": "数一数论文页数；超过 page limit，就要删减内容。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-supplementary-material",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 supplementary material。",
+        "rootsZh": "supplementary 表示补充的，material 表示材料。",
+        "affixesZh": "supplementary 中 -ary 构成形容词；无屈折词尾。",
+        "mnemonicZh": "把完整问卷放在论文正文之外，就是 supplementary material。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-corresponding-author",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 corresponding author。",
+        "rootsZh": "correspond 表示通信或对应，author 表示作者。",
+        "affixesZh": "corresponding 中 -ing 构成现在分词，作定语；不是名词屈折。",
+        "mnemonicZh": "记作负责与期刊往来通信的作者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-affiliation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "affiliation 是名词原形；复数为 affiliations。",
+        "rootsZh": "与 affiliate（使隶属、加入）相关，表示所属关系或单位。",
+        "affixesZh": "-ation 构成表示状态或关系的名词；复数 -s 是屈折。",
+        "mnemonicZh": "填写 affiliation 时，写出作者挂靠的大学或机构。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-conflict-of-interest",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 conflict of interest。",
+        "rootsZh": "由 conflict（冲突）和 interest（利益）组成，of 连接两者。",
+        "affixesZh": "没有明显词缀；of 是独立介词，不是词缀。",
+        "mnemonicZh": "想象作者的私人利益可能影响论文判断。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-anonymize",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "anonymize 是动词原形；过去式 anonymized，分词 anonymizing。",
+        "rootsZh": "词干 anonym- 与 anonymous（匿名的）相关，表示匿名。",
+        "affixesZh": "-ize 构成“使变成……”的动词；过去式 -ed、分词 -ing 是屈折变化。",
+        "mnemonicZh": "上传评审稿前删掉姓名和单位，让稿件匿名化。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-double-blind-review",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 double-blind review。",
+        "rootsZh": "double（双方的）+ blind（不知身份的）+ review（评审）。",
+        "affixesZh": "没有明显词缀；double、blind 和 review 都是独立词。",
+        "mnemonicZh": "作者和评审双方都不知道对方身份，就是双盲评审。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-reviewer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "reviewer 是名词原形；复数为 reviewers。",
+        "rootsZh": "review（审阅、评审）是现代词基。",
+        "affixesZh": "-er 加在 review 后表示执行评审的人；复数 -s 是屈折。",
+        "mnemonicZh": "把 reviewer 记作负责阅读稿件并给意见的人。"
+      }
+    }
+  ]
+}

@@ -6,8 +6,8 @@
 
 1. 阅读本说明、`vocabulary/schema/batch.schema.json`、`templates/batch.json` 和 `terms.txt`。英文索引只列主词，不含中文释义、例句或其他表达；不必把完整发布词库读进 AI 上下文。
 2. 在 `batches/` 新增一个 UTF-8 JSON 文件，建议命名 `YYYY-MM-DD-topic.json`。只包含这次新增内容，不复制旧词条。
-3. 每个文件固定包含 `schemaVersion`（1）、`batchId`、`title`、`publishedOn`（YYYY-MM-DD）和 `entries`，全部必填。批次 ID 必须唯一。
-4. 每个词条固定包含以下八个字段，全部必填；没有可选字段，也不接受额外字段。
+3. 每个文件固定包含 `schemaVersion`（2）、`batchId`、`title`、`publishedOn`（YYYY-MM-DD）和 `entries`，全部必填。批次 ID 必须唯一。
+4. 每个词条固定包含以下九个字段，全部必填；没有可选字段，也不接受额外字段。
 
 | 字段 | 类型和要求 |
 | --- | --- |
@@ -19,10 +19,39 @@
 | `examples` | 1–10 个例句；每项固定包含 `en`、`zh`、`scenarioZh`，全部必填 |
 | `usageNotesZh` | 1–10 条实用搭配、语气或使用说明 |
 | `tags` | 1–15 个不重复的主题标签 |
+| `wordAnalysis` | 固定包含 `baseFormZh`、`rootsZh`、`affixesZh`、`mnemonicZh` 四个非空字符串，每项最多 400 字符 |
 
 以加拿大日常生活为目标，优先自然、实用的表达。中英例句应准确对应，场景具体，避免为了凑数量提供生硬句子。发音直接使用英文 TTS，不填写音标、读音提示或音频配置。模板中的词只是格式示例，新增时替换为实际候选词及其内容。
 
 同义词使用一致的核心中文释义，语气、地区或使用差异写在 explanationZh 和 usageNotesZh；需要核对时只查询相关词条。App 会排除相同释义的干扰项，避免把另一个同样正确的答案放进选项。
+
+## 原形、词根、词缀和记忆方法
+
+每日新增词在同一次编写时就填写 `wordAnalysis`，不要留给手机实时请求 AI，也不要提交空字符串或待补充占位内容。新增与完整修改使用源文件 schemaVersion 2；历史 schemaVersion 1 文件保持原样。仓库的 `vocabulary/analysis-policy.json` 要求全部有效词都有解析，即使用旧格式添加新词也不能漏填。
+
+- `baseFormZh`：单词的词典原形及实际屈折变化。unhappy 的原形仍是 unhappy；happy 是派生基础，不是 unhappy 的原形。短语说明整体形式及必要的核心动词原形。
+- `rootsZh`：可靠的现代词根、词基或复合词组成及其含义。没有适合教学的拆分时明确写整体记忆；不凭字母拼凑，不编造历史词源。
+- `affixesZh`：实际存在的前后缀与功能，区分派生和复数、过去式等屈折变化。短语中的独立介词和副词不是词缀；没有明显词缀就直接说明。
+- `mnemonicZh`：与当前词义和例句一致的具体场景或构词联想。联想不是词源证据，避免不自然的英语和硬凑谐音。
+
+每项建议 20–70 字，总体尽量不超过 250 字；解释必须与当前释义和例句一致。AI 生成后检查事实、原形是否混淆派生词基、短语是否被硬拆、是否有草稿式自我纠正。不要伪称已查词典。
+
+源文件保存独立的 `wordAnalysis` 对象。发布时自动渲染为现有 `usageNotesZh` 中的一项「构词与记忆（AI 辅助整理）」，兼容当前 Android App；不要自己在 usageNotesZh 重复粘贴解析。手机更新词库后即可在「生活里怎么说」看到四项解析，离线使用，不调用 AI。学习 ID 和历史记录不变。
+
+已有词只补充或修正解析，可使用 schemaVersion 2 的纠错：`{"action":"analyze","id":"原ID","expectedRevision":当前修订号,"wordAnalysis":{四个字段}}`。其余内容和发音数据不变，修订号仍自动递增。修改词义、拼写或例句时，完整 update 必须同时提供核对后的解析，避免保留过期内容。
+
+批量生成工具 `scripts/enrich_word_analysis.py` 只从环境变量 `AZURE_OPENAI_API_KEY` 或隐藏终端输入读取密钥；部署名称和服务地址分别由 `AZURE_OPENAI_DEPLOYMENT`、`AZURE_OPENAI_BASE_URL` 提供。不要在命令参数、源码、日志、JSON 或 GitHub 提交中保存密钥。缓存目录放在仓库之外。
+
+```sh
+# 先设定非敏感的服务地址、部署名；密钥在隐藏提示中输入。
+python scripts/enrich_word_analysis.py --cache-dir /tmp/force-word-analysis
+# 抽查、复核缓存之后，明确指定此次日期，将已有缓存转成只补解析的纠错文件。
+python scripts/enrich_word_analysis.py --cache-dir /tmp/force-word-analysis --write-corrections --published-on YYYY-MM-DD
+```
+
+可先用 `scripts/review_word_analysis.py --cache-dir /tmp/force-word-analysis --reviewed-dir /tmp/force-word-analysis-reviewed` 做第二轮 AI 复核，再人工抽查。复核可与生成同时运行，记录修改理由；复核结果写入独立目录。写入纠错时将 `--cache-dir` 指向复核后的目录。两次模型检查仍不是词典核验。
+
+工具按输入内容缓存并可续跑；输入释义或例句变化会失效。输出文件不覆盖，缺少任何待补词缓存时不生成不完整补齐结果。生成和写入均不自动上传，仍需按下方要求完整校验、再走 Actions 发布。
 
 ## 查重与同义表达
 
@@ -44,7 +73,7 @@ python scripts/build_vocabulary.py --lookup "turn signal"
 
 已发布的 `baseline/` 和 `batches/` 文件保留为历史。修改已有词时，在 `corrections/` 新增 JSON；参考 `templates/correction.json`，不要将原词再加入新增批次。
 
-纠错文件固定包含 `schemaVersion`（1）、`correctionId`、`publishedOn`、`changes`，全部必填。修改操作固定包含 `action`（update）、`id`、`expectedRevision`、`entry`；entry 填写完整的八个必填字段，必须沿用原 ID。使用 lookup 查询实际 revision，不猜版本。修订号由工具自动递增，addedOn 保留。
+纠错文件固定包含 `schemaVersion`（2）、`correctionId`、`publishedOn`、`changes`，全部必填。修改操作固定包含 `action`（update）、`id`、`expectedRevision`、`entry`；entry 填写完整的九个必填字段，必须沿用原 ID。使用 lookup 查询实际 revision，不猜版本。修订号由工具自动递增，addedOn 保留。
 
 归档和恢复操作分别使用 `action` 为 archive 或 restore，两者的格式都是固定的三个字段：action、id、expectedRevision。没有可选字段。归档不删除手机的学习记录，恢复沿用原 ID。
 

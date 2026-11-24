@@ -7,6 +7,7 @@ from pathlib import Path
 import unicodedata
 
 import build_vocabulary as wire
+from word_analysis import wire_entry
 
 ENTRY_FIELDS = ("id", "term", "partsOfSpeech", "definitionZh", "explanationZh", "examples", "usageNotesZh", "tags")
 BASELINE_PATH = "baseline/vocabulary-v3.json"
@@ -54,7 +55,8 @@ def _compiled_entry(entry, date):
                        "speakText": entry["term"], "audio": None}],
             "examples": deepcopy(entry["examples"]), "usageNotesZh": deepcopy(entry["usageNotesZh"]),
             "tags": deepcopy(entry["tags"]), "listeningPrompt": entry["term"], "homophoneGroup": None,
-            "confusableEntryIds": [], "addedOn": date, "updatedOn": date}
+            "confusableEntryIds": [], "addedOn": date, "updatedOn": date,
+            **({"wordAnalysis": deepcopy(entry["wordAnalysis"])} if "wordAnalysis" in entry else {})}
 
 
 @dataclass
@@ -72,7 +74,8 @@ class Compilation:
     def lookup(self, term):
         key = normalized_term(term)
         return [{"source": self.origins[entry_id], "status": "published" if entry_id in self.active else "archived",
-                 "revision": entry["revision"], **{name: entry[name] for name in ENTRY_FIELDS}}
+                 "revision": entry["revision"], **{name: entry[name] for name in ENTRY_FIELDS},
+                 **({"wordAnalysis": deepcopy(entry["wordAnalysis"])} if "wordAnalysis" in entry else {})}
                 for entry_id, entry in self.records.items() if normalized_term(entry["term"]) == key]
 
 
@@ -154,6 +157,8 @@ def compile_sources(root):
                 if replacement["id"] != entry_id:
                     raise ValueError(f"{relative}: 修改词条必须沿用原 id：{entry_id}")
                 previous_term = entry["term"]
+                if "wordAnalysis" in entry and "wordAnalysis" not in replacement:
+                    raise ValueError(f"{relative}: {entry_id} 已有构词解析，修改时必须同时提供 wordAnalysis，避免保留过期解析")
                 entry.update(deepcopy(replacement))
                 if previous_term != entry["term"]:
                     for form in entry["forms"]:
@@ -161,6 +166,8 @@ def compile_sources(root):
                             form.update(text=entry["term"], speakText=entry["term"], respelling="—", ipa=None, audio=None)
                     if entry["listeningPrompt"] == previous_term:
                         entry["listeningPrompt"] = entry["term"]
+            elif action == "analyze":
+                entry["wordAnalysis"] = deepcopy(change["wordAnalysis"])
             elif action == "archive":
                 if entry_id not in active:
                     raise ValueError(f"{relative}: {entry_id} 已经归档")
@@ -175,7 +182,15 @@ def compile_sources(root):
         catalog["updatedOn"] = max(catalog["updatedOn"], date)
         check_terms()
 
-    catalog["entries"] = [deepcopy(entry) for entry_id, entry in records.items() if entry_id in active]
+    policy_path = root / "vocabulary/analysis-policy.json"
+    if policy_path.exists():
+        policy = load_json(policy_path)
+        if policy != {"schemaVersion": 1, "requireWordAnalysis": True}:
+            raise ValueError("vocabulary/analysis-policy.json: 不支持的解析策略")
+        missing = [entry_id for entry_id in active if "wordAnalysis" not in records[entry_id]]
+        if missing:
+            raise ValueError(f"以下有效词条缺少 wordAnalysis 原形、词根、词缀和记忆方法：{', '.join(sorted(missing)[:20])}")
+    catalog["entries"] = [wire_entry(entry) for entry_id, entry in records.items() if entry_id in active]
     for entry in catalog["entries"]:
         entry["confusableEntryIds"] = [entry_id for entry_id in entry["confusableEntryIds"] if entry_id in active]
     for lesson in lessons:

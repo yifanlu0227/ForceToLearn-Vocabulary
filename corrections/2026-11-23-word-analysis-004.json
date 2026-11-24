@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-004",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "loaf-bread",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 loaf，名词；复数为 loaves。",
+        "rootsZh": "作为面包计量词，loaf 整体记忆即可，没有适合教学的拆分。",
+        "affixesZh": "本词没有明显词缀；复数变化为不规则形式 loaves。",
+        "mnemonicZh": "购物时把一整条面包想成一个 loaf，而不是一片。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "long-shot-unlikely",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 long shot，名词短语；复数可说 long shots。",
+        "rootsZh": "由 long（远的）和 shot（射击）组成，习语表示成功机会很小。",
+        "affixesZh": "没有明显词缀；long 和 shot 是独立词。",
+        "mnemonicZh": "远距离射中目标不容易，用来联想希望渺茫的事。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "long-story-short-summary",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定表达为 long story short，通常作句子开头；无屈折变化。",
+        "rootsZh": "由 long（长）、story（故事）和 short（短）组成，整体表示简要概括。",
+        "affixesZh": "没有词缀；三个部分都是独立词，不能把 short 当后缀。",
+        "mnemonicZh": "想象把冗长的故事压缩成简短说法，直接概括重点，就是 long story short。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "loonie-one-dollar-coin",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是名词 loonie，本身没有屈折变化。",
+        "rootsZh": "源自 loon（潜鸟）；一元硬币上有潜鸟图案，因此得名。",
+        "affixesZh": "-ie 是昵称式结尾，不表示复数或其他语法变化。",
+        "mnemonicZh": "想象硬币上的潜鸟图案：看到 loon，就想到加拿大一元硬币 loonie。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "loyalty-card-points",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 loyalty card。",
+        "rootsZh": "loyal（忠诚的）加 card（卡）；loyalty 表示忠诚、会员关系。",
+        "affixesZh": "loyalty 中 -ty 构成抽象名词；短语本身没有屈折词缀。",
+        "mnemonicZh": "把 loyalty card 想成记录顾客回头消费与积分的会员卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lukewarm-slightly-warm",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形是 lukewarm，本身没有屈折变化。",
+        "rootsZh": "warm 表示温暖；luke- 在此表达微温，整个词记作“微温”。",
+        "affixesZh": "没有明显的现代派生词缀；不要把 luke- 当作常用前缀。",
+        "mnemonicZh": "咖啡放凉后不烫也不冷，只剩一点温度，就是 lukewarm。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "marinate-soak-flavor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 marinate；例句中可用 marinate 的其他时态形式。",
+        "rootsZh": "现代英语中不宜可靠地拆分词根，建议把 marinate 整体记忆。",
+        "affixesZh": "词尾 -ate 在不少英语动词中出现，但这里不必强行拆作词缀。",
+        "mnemonicZh": "把鸡肉放进调味腌汁过夜，想象味道慢慢渗入，就是 marinate。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "marked-down-reduced",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 mark down；marked down 是其过去分词形式作形容词。",
+        "rootsZh": "mark 表示标记，down 在短语中表示调低；合起来指下调价格。",
+        "affixesZh": "marked 中 -ed 是 mark 的过去分词屈折形式；down 是独立小品词。",
+        "mnemonicZh": "想象店员把价签上的价格往下改：商品就被 marked down 了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mash-crush-soft",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 mash；例句中也是原形，没有屈折变化。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记作“捣成泥”。",
+        "affixesZh": "没有明显词缀；词尾 sh 是单词拼写的一部分。",
+        "mnemonicZh": "用叉子把煮软的土豆反复压碎，直到成为泥状，就是 mash。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mattress-topper-pad",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 mattress topper。",
+        "rootsZh": "mattress 是床垫；topper 来自 top（上面），指放在床垫上方的垫层。",
+        "affixesZh": "topper 中 -er 构成表示物品的名词；mattress 不作可靠拆分。",
+        "mnemonicZh": "床垫太硬时，在上面加一层软垫；它就是 mattress topper。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "measuring-cup-volume",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 measuring cup；measuring 是 measure 的 -ing 形式。",
+        "rootsZh": "measure 表示测量，cup 表示杯；合起来是用来量取容量的杯子。",
+        "affixesZh": "measuring 中 -ing 是 measure 的动词屈折形式，在短语中修饰 cup。",
+        "mnemonicZh": "烘焙时用杯子量面粉的份量，记住 measuring cup 就是量杯。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "meat-counter-service",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 meat counter。",
+        "rootsZh": "由 meat（肉）和 counter（柜台）组成，指购买鲜肉的柜台。",
+        "affixesZh": "没有明显词缀；meat 和 counter 都是独立单词。",
+        "mnemonicZh": "在超市向柜台员工询问切猪肉，所在的就是 meat counter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "median-road-divider",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 median；此处指道路中央的隔离带。",
+        "rootsZh": "与表示“中间”的词义相关；此处整体记作道路中央区域。",
+        "affixesZh": "没有适合在此词义中可靠讲解的现代词缀。",
+        "mnemonicZh": "想象汽车从车道滑出，停在道路两侧车流之间的中央隔离带。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "medium-rare-steak",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 medium rare，形式不变，用来描述牛排熟度。",
+        "rootsZh": "由 medium（中等）和 rare（偏生）组成，整体指外熟内粉红的熟度。",
+        "affixesZh": "没有明显词缀；medium、rare 是独立单词。",
+        "mnemonicZh": "点牛排时想成“熟度居中、仍带些生嫩”，就是 medium rare。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "merge-join-traffic",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 merge；此处用动词原形，过去式 merged，分词 merging。",
+        "rootsZh": "现代英语中作为整体记，表示合并、汇合；不作不可靠的字母拆分。",
+        "affixesZh": "本句用原形，无词缀；merged 的 -ed、merging 的 -ing 是屈折变化。",
+        "mnemonicZh": "想象前方两条车道汇成一条，车辆依次并入同一股车流。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mince-chop-finely",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 mince；本句用原形，过去式 minced，分词 mincing。",
+        "rootsZh": "现代英语中整体记忆，表示把食材切得很细；没有适合教学的可靠拆分。",
+        "affixesZh": "本句无词缀；minced 的 -ed、mincing 的 -ing 是动词屈折形式。",
+        "mnemonicZh": "做菜时把蒜切到颗粒很小、几乎成末，便是在 mince。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mixing-bowl-large",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语是 mixing bowl；核心名词 bowl，指用于搅拌的碗。",
+        "rootsZh": "mixing 来自 mix（混合），bowl 是碗；合起来指搅拌食材用的碗。",
+        "affixesZh": "mixing 的 -ing 是 mix 的动名词／分词形式，不是名词短语的派生后缀。",
+        "mnemonicZh": "把面粉等材料放进 bowl 里 mix，便是 mixing bowl。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mocktail-non-alcoholic",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 mocktail，名词单数；复数形式是 mocktails。",
+        "rootsZh": "这是 mock（仿制的）与 cocktail（鸡尾酒）的混成词，指仿鸡尾酒的无酒精饮品。",
+        "affixesZh": "没有明显派生词缀；词尾 -s 只在复数 mocktails 中表示名词复数。",
+        "mnemonicZh": "把它记作“仿制鸡尾酒”：外观和调制方式像鸡尾酒，但不含酒精。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "money-order-prepaid-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定名词短语 money order，通常保持此形式；复数可说 money orders。",
+        "rootsZh": "由 money（钱）和 order（支付凭单、指令）组成，整体指预付的汇款凭单。",
+        "affixesZh": "没有明显词缀；money 与 order 都是独立单词，复数 -s 加在 order 后。",
+        "mnemonicZh": "想象先付钱取得一张指定金额的凭单，再用它付款或汇款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mudroom-entry-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 mudroom，名词单数；复数形式是 mudrooms。",
+        "rootsZh": "由 mud（泥、脏污）和 room（房间）组成，指进门放湿鞋、外套的房间。",
+        "affixesZh": "没有明显派生词缀；复数 mudrooms 的 -s 是名词屈折词尾。",
+        "mnemonicZh": "下雪天进屋先把沾泥、沾雪的靴子留在 mudroom，不带进室内。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "my-bad-casual-apology",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定口语短语 my bad，作为随口认错的表达，形式通常不变。",
+        "rootsZh": "由 my（我的）和 bad（错、过失）组成，整体表示“我的错”；不必推定它省略了某个词。",
+        "affixesZh": "没有词缀；my 和 bad 都是独立单词，不能把 bad 当作后缀。",
+        "mnemonicZh": "不小心挡到别人或没看见对方时，说 my bad，承认是自己的疏忽。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "my-two-cents-opinion",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 my two cents，常用来谦称自己的意见，形式通常不变。",
+        "rootsZh": "由 my、two、cents 组成；two cents 字面是两分钱，短语整体指一点个人看法。",
+        "affixesZh": "没有派生词缀；cents 中的 -s 是 cent 的复数屈折词尾。",
+        "mnemonicZh": "把意见比作只值两分钱的小额贡献，语气上显得谦虚、不把建议说得过重。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nasal-spray-medication",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 nasal spray；核心名词 spray，表示鼻用喷剂。",
+        "rootsZh": "nasal 表示与鼻子有关，spray 指喷雾；合起来是用于鼻腔的喷剂。",
+        "affixesZh": "nasal 中有形容词后缀 -al，表示“与……有关”；短语其余部分无词缀。",
+        "mnemonicZh": "看到 nasal（鼻部的）修饰 spray（喷雾），就记作喷入鼻腔的药剂。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "neat-no-ice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 neat；此处作形容词或副词，形式不变。",
+        "rootsZh": "纯饮义没有适合教学的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀，也不是屈折变化形式。",
+        "mnemonicZh": "点 Scotch, neat 时，想象杯中只有威士忌，不加冰。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nightcap-bedtime-drink",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 nightcap，名词单数；复数为 nightcaps。",
+        "rootsZh": "由 night（夜晚）和 cap 组成，整体指睡前最后一杯酒。",
+        "affixesZh": "没有明显词缀；night、cap 是独立构词成分。",
+        "mnemonicZh": "聚会散场前的 nightcap，是夜晚结束时最后喝的一杯。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nightstand-bedside-table",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 nightstand，名词单数；复数为 nightstands。",
+        "rootsZh": "由 night（夜晚）和 stand（放置物）组成，指床边小柜。",
+        "affixesZh": "没有明显词缀；night 和 stand 是独立构词成分。",
+        "mnemonicZh": "睡前把眼镜放在床边的 stand 上，便是 nightstand。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-biggie-no-problem",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语形式为 no biggie；常用作口语回应，形式不变。",
+        "rootsZh": "由 no（不）和 biggie（大事、麻烦）组成，整体表示不算什么。",
+        "affixesZh": "biggie 中的 -ie 是口语名词形式；短语本身无屈折词尾。",
+        "mnemonicZh": "朋友迟到几分钟，你说 no biggie，表示这不是什么大事。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-brainer-obvious-choice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 no-brainer，名词单数；复数为 no-brainers。",
+        "rootsZh": "由 no（没有）和 brainer（需要动脑之事）组成，指不用多想的选择。",
+        "affixesZh": "brainer 中 brain 加名词后缀 -er；复数 -s 是屈折变化。",
+        "mnemonicZh": "免运费又更便宜，几乎不用动脑就能选，因此是 no-brainer。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-show-missed-appointment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 no-show，名词单数；复数为 no-shows。",
+        "rootsZh": "由 no（没有）和 show（出现）组成，指预约后没出现或爽约者。",
+        "affixesZh": "没有明显词缀；no 和 show 是独立构词成分。",
+        "mnemonicZh": "预约时人没有 show up（出现），就成了 no-show。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "non-perishables-shelf-stable",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形为 non-perishable；non-perishables 是复数名词。",
+        "rootsZh": "perish 表示腐坏；整体指不易腐坏的食品。",
+        "affixesZh": "non- 表示“不”，-able 表示“能够”；末尾 -s 是复数屈折。",
+        "mnemonicZh": "罐头汤和干意面不容易 perish（腐坏），属于 non-perishables。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "non-stick-coating",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 non-stick，作形容词，形式不变。",
+        "rootsZh": "由 non（不）和 stick（粘住）组成，指不粘的。",
+        "affixesZh": "non- 是表示否定的前缀；stick 是独立词基。",
+        "mnemonicZh": "用 non-stick pan 煎蛋，食物不容易 stick 在锅上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notarize-certify-document",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形为 notarize；例句中的 notarized 是其过去分词。",
+        "rootsZh": "notar- 与 notary（公证员）相关，整体表示办理公证或认证。",
+        "affixesZh": "-ize 是构成动词的后缀；-ed 在 notarized 中表示过去分词。",
+        "mnemonicZh": "文件由 notary（公证员）见证认证，就是 notarize。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notary-public-official",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 notary public，名词短语；复数常作 notaries public。",
+        "rootsZh": "整体是公证员这一职务名称；public 表明其面向公众履职。",
+        "affixesZh": "短语无明显词缀；notaries 中 y 变 i 加 -es 表示复数。",
+        "mnemonicZh": "签字需要公证员见证时，找的就是 notary public。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "numb-no-feeling",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是形容词 numb；本例用原形。",
+        "rootsZh": "没有适合教学的可靠拆分，整体记作“麻木、没知觉”。",
+        "affixesZh": "没有明显前后缀；本例没有屈折变化。",
+        "mnemonicZh": "看牙后嘴唇 numb，像信号暂时被按了静音键。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nurse-a-drink-sip-slowly",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语是 nurse a drink；核心动词原形是 nurse。",
+        "rootsZh": "由 nurse（照料、慢慢对待）和 drink（饮料）组成，整体指慢慢喝。",
+        "affixesZh": "没有词缀；a 是冠词，drink 是独立名词。",
+        "mnemonicZh": "像细心照料一杯酒，让它陪你待很久，而不是很快喝完。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nurse-practitioner-np",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 nurse practitioner，通常指执业护士；无屈折变化。",
+        "rootsZh": "由 nurse（护士）和 practitioner（从业者）组成，表示具备诊疗职责的护士。",
+        "affixesZh": "短语本身无明显词缀；NP 是 nurse practitioner 的首字母缩写。",
+        "mnemonicZh": "记作“护士＋专业从业者”：在诊所能提供更广泛诊疗服务。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oat-milk-plant-based",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 oat milk；本例为单数形式。",
+        "rootsZh": "由 oat（燕麦）和 milk（奶）组成，指燕麦制成的植物奶。",
+        "affixesZh": "没有明显词缀；oat 和 milk 都是独立词。",
+        "mnemonicZh": "点咖啡时把 oat milk 想成“燕麦做的奶”，可用来替代牛奶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "off-the-top-of-my-head-from-memory",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 off the top of my head，整体表示凭印象随口说。",
+        "rootsZh": "由常见词构成的习语；不宜按字面拆成词根来解释。",
+        "affixesZh": "没有词缀；off、the、top、of、my、head 都是独立词。",
+        "mnemonicZh": "像答案刚从脑海表层冒出来：随口一说，不保证查证过。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oil-change-maintenance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 oil change；本例为单数，常指一次换机油保养。",
+        "rootsZh": "由 oil（机油）和 change（更换）组成，直接说明保养项目。",
+        "affixesZh": "没有明显词缀；两个词都是独立词，change 在此作名词。",
+        "mnemonicZh": "看到汽车保养提醒灯，想到该做一次 oil change。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ointment-topical-medicine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 ointment；本例用单数形式。",
+        "rootsZh": "没有适合教学的可靠拆分，整体记作涂在皮肤上的药膏。",
+        "affixesZh": "不把词尾 -ment 单独硬拆；本词整体记忆更稳妥。",
+        "mnemonicZh": "伤口护理时，把 ointment 想成从药膏管挤出、涂在皮肤上的药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-ball-sharp",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the ball，整体作形容词性表达。",
+        "rootsZh": "由常见词组成的习语，表示机灵、反应快或办事利落。",
+        "affixesZh": "没有词缀；on、the、ball 都是独立词。",
+        "mnemonicZh": "想象球一来就立刻接住：形容人反应快、做事到位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-fence-undecided",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the fence，整体表示犹豫不决。",
+        "rootsZh": "由常见词组成的习语，不宜按字面当作词根组合。",
+        "affixesZh": "没有词缀；on、the、fence 都是独立词。",
+        "mnemonicZh": "想象站在篱笆上，左右都没选定，正好对应拿不定主意。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-house-free-from-restaurant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the house，整体表示由店家免费招待。",
+        "rootsZh": "house 在此指店家或经营场所；整个短语表示费用由店家承担。",
+        "affixesZh": "没有词缀；on、the、house 都是独立词。",
+        "mnemonicZh": "把账单想成记在店家名下：这份甜点由店家请客。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-rocks-with-ice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the rocks，本条按点酒时“加冰”使用，形式不变。",
+        "rootsZh": "按“酒放在冰块上”整体记忆；rocks 在此指冰块，不宜拆作词根。",
+        "affixesZh": "短语中的 on、the 是独立词，不是词缀；无明显派生词缀。",
+        "mnemonicZh": "想象威士忌倒在装有冰块的杯子里，点单时说 whisky on the rocks。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-same-page-aligned",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the same page，表达理解或立场一致，形式不变。",
+        "rootsZh": "由 on、the、same、page 构成；用“大家在同一页”比喻理解一致。",
+        "affixesZh": "on、the、same、page 都是独立词，此短语没有明显词缀。",
+        "mnemonicZh": "开会时想象大家看着同一页会议材料，表示对计划理解一致。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-side-separate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 on the side，点餐时表示配料或酱料另外放，形式不变。",
+        "rootsZh": "由 on、the、side 构成；side 表示旁边，整体表达“放在一旁”。",
+        "affixesZh": "短语里的 on、the 是独立词，不是词缀；无明显派生词缀。",
+        "mnemonicZh": "想象沙拉酱单独装在小杯里放在盘子旁边，点餐可说 dressing on the side。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "open-enrollment-insurance-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 open enrollment；enrollment 是名词。",
+        "rootsZh": "open 表示开放，enroll 表示登记加入；组合指可选择保险计划的开放登记期。",
+        "affixesZh": "enroll 加派生后缀 -ment 构成名词 enrollment；open 无词缀，词尾不是屈折变化。",
+        "mnemonicZh": "把它记作“登记窗口开放”：这段时间可以登记并选择保险计划。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ottoman-footstool",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 ottoman；本例为单数，复数通常为 ottomans。",
+        "rootsZh": "现代英语中没有适合此义的可靠拆分，整体记作软垫脚凳或储物坐墩。",
+        "affixesZh": "此词没有明显可教学的前后缀；复数形式 ottomans 的 -s 是屈折标记。",
+        "mnemonicZh": "想象客厅沙发前放着一个软垫坐墩，可以搁脚，也可以掀开收纳。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-pocket-self-paid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定形式 out-of-pocket，可作形容词或副词；本例修饰 costs，词形不变。",
+        "rootsZh": "由 out、of、pocket 组成，整体表示费用从自己口袋出，即自费。",
+        "affixesZh": "连字符连接的是独立词，不是词缀；此用法没有明显派生或屈折词缀。",
+        "mnemonicZh": "保险不报销时，想象自己从口袋掏钱支付那部分费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-stock-sold-out",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 out of stock，表示当前没有库存，形式不变。",
+        "rootsZh": "由 out、of、stock 组成；stock 指库存，整体表示库存用尽或缺货。",
+        "affixesZh": "out、of、stock 都是独立词，不是词缀；短语无明显词缀。",
+        "mnemonicZh": "想象店员查库存后发现货架和仓库都没有这件商品：它 is out of stock。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "outlet-electrical-socket",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 outlet；本例为单数，复数为 outlets。",
+        "rootsZh": "本义用法整体记作电源插座；虽可联想到 out 和 let，但不宜据此硬拆本义。",
+        "affixesZh": "没有适合此义的明显派生词缀；复数 outlets 的 -s 是屈折标记。",
+        "mnemonicZh": "想象床边墙上的插座 outlet，手机充电器插进去就能用电。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oven-mitt-heat-glove",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 oven mitt；本例为单数，复数通常是 oven mitts。",
+        "rootsZh": "由 oven（烤箱）和 mitt（连指手套）组成，指用于隔热的烤箱手套。",
+        "affixesZh": "两部分都是独立词，没有明显派生词缀；mitts 中的 -s 表示复数。",
+        "mnemonicZh": "从烤箱取热烤盘前，先把手伸进厚厚的 oven mitt。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "over-easy-fried-egg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 over easy，用作点蛋方式；形式不变，表示翻面煎至蛋黄仍软流。",
+        "rootsZh": "由 over 和 easy 两个独立词构成；作为烹饪说法整体记忆，不按字面硬译。",
+        "affixesZh": "over、easy 都是独立词，不是词缀；短语没有明显派生或屈折词缀。",
+        "mnemonicZh": "想象煎蛋翻面轻轻煎另一侧，蛋白熟了而蛋黄仍流心。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "over-the-counter-no-prescription",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 over-the-counter，可作形容词或副词，形式不变。",
+        "rootsZh": "由 over（越过）和 counter（柜台）组成，指无需处方即可在柜台买到。",
+        "affixesZh": "没有明显词缀；over 是独立单词，不是前缀。",
+        "mnemonicZh": "想象在药房柜台直接拿药结账，不必递上处方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "p-trap-sink-drain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 P-trap，指水槽下的存水弯。",
+        "rootsZh": "P 表示弯管的大致形状，trap 有“捕住”之意，合指能留住水或物件的管弯。",
+        "affixesZh": "没有明显词缀；P 是形状标记，不是常规前缀。",
+        "mnemonicZh": "记住管子弯成 P 形，掉下去的小戒指可能被弯处兜住。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "painters-tape-masking",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 painter's tape；painter's 是 painter 的所有格。",
+        "rootsZh": "painter 来自 paint（涂漆）加表示施事者的 -er；tape 是胶带。",
+        "affixesZh": "-er 是构成“做某事的人”的派生后缀；'s 表示所有关系。",
+        "mnemonicZh": "刷墙的人沿边贴上这种胶带，撕下后留下整齐的漆线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pantry-staples-basics",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词组原形为 pantry staple；staples 是 staple 的复数形式。",
+        "rootsZh": "pantry 指储藏食物的地方；staple 表示基本、常备之物。",
+        "affixesZh": "-s 是名词复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "想象 pantry 里常年备着的大米和面粉，就是 pantry staples。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parallel-park-curb",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 parallel park；时态变化落在 park 上。",
+        "rootsZh": "parallel 表示平行，park 在此表示停放车辆，合指把车平行路边停好。",
+        "affixesZh": "没有明显词缀；parallel 是独立修饰词，不是前缀。",
+        "mnemonicZh": "想象车身与路边平行停下，而不是车头朝向路边。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parchment-paper-baking",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 parchment paper，两个词都不需变化。",
+        "rootsZh": "由 parchment（羊皮纸；此处指烘焙纸）和 paper（纸）组成。",
+        "affixesZh": "没有明显词缀；是两个独立名词组成的短语。",
+        "mnemonicZh": "烤盘上先铺一张纸，食物不直接粘在烤盘上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "paring-knife-small",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 paring knife；paring 来自动词原形 pare（削、修整）。",
+        "rootsZh": "pare 表示削去外层或修整，knife 是刀，合指用于精细削切的小刀。",
+        "affixesZh": "-ing 是 pare 的现在分词形式，在此作名词修饰语；拼写去掉词尾 e。",
+        "mnemonicZh": "用小刀削掉草莓蒂或果皮，正是 paring 的动作。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parkade-parking-garage",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 parkade，在加拿大英语中指多层停车楼。",
+        "rootsZh": "这是加拿大常用词，拆分来源不够可靠，建议整体记作停车楼。",
+        "affixesZh": "没有可确认、适合教学的词缀拆分。",
+        "mnemonicZh": "想象汽车开上停车楼的第三层，直接把 parkade 和停车楼联系起来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parking-meter-pay",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 parking meter；parking 修饰 meter。",
+        "rootsZh": "parking 来自 park（停放车辆），meter 是计量器，合指计时收费器。",
+        "affixesZh": "-ing 构成 parking 这一名词性修饰语；不是此处的进行时词尾。",
+        "mnemonicZh": "路边停车后，按停车时长给 meter 投币或续费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parking-ticket-fine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 parking ticket；parking 修饰 ticket。",
+        "rootsZh": "parking 来自 park（停放车辆），ticket 是票据或罚单。",
+        "affixesZh": "-ing 构成 parking 这一名词性修饰语；不是此处的进行时词尾。",
+        "mnemonicZh": "忘了挪车，回来发现车上贴着一张因停车而来的 ticket。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "party-of-group-size",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 party of；party 是名词原形，常接人数，如 a party of four。",
+        "rootsZh": "party 在此指一行人，of 引出人数；按整体短语记忆即可。",
+        "affixesZh": "没有明显词缀；of 是独立介词，不是词缀。",
+        "mnemonicZh": "餐厅问 table for a party of four，就是询问四个人一行的座位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pat-dry-towel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词 pat ... dry；核心动词原形是 pat，例句中为祈使形式。",
+        "rootsZh": "pat 指轻拍或轻按，dry 指干；合起来表示按到表面干燥。",
+        "affixesZh": "没有明显词缀；dry 是独立单词，不是后缀。",
+        "mnemonicZh": "备菜时用纸巾轻按鸡肉，让表面变干，记住 pat it dry。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "patio-outdoor-seating",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "patio 是名词原形，指露台或餐厅露天座位区；复数为 patios。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；复数形式 patios 的 -s 是屈折词尾。",
+        "mnemonicZh": "天气好时坐到餐厅外的 patio，联想露台上的户外座位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "peeler-vegetable-skin",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "peeler 是名词原形，复数为 peelers；例句中的 peel 是相关动词原形。",
+        "rootsZh": "peel 表示剥去外皮，是 peeler 的词基。",
+        "affixesZh": "-er 是构成工具名词的派生后缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "用 peeler 给胡萝卜 peel（削皮），工具名和动作词相连记。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "peephole-door-viewer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "peephole 是名词原形，复数为 peepholes，指门上的观察孔。",
+        "rootsZh": "可联系 peep（窥看）和 hole（孔）理解为窥视用的小孔。",
+        "affixesZh": "没有明显词缀；peephole 是复合词，复数 -s 是屈折变化。",
+        "mnemonicZh": "开门前先从门上的小孔 peep 一眼，确认外面是谁。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "physical-annual-checkup",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "physical 是名词原形，此处是 physical examination（体检）的简称。",
+        "rootsZh": "此义整体记为体检；physical 也可作形容词，表示身体方面的。",
+        "affixesZh": "physical 中有形容词后缀 -al；此处名词用法来自形容词转用。",
+        "mnemonicZh": "预约 annual physical，就是预约年度身体检查，不是一般的体能活动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "piece-of-cake-easy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 piece of cake；piece 和 cake 均为名词原形。",
+        "rootsZh": "由 piece（一块）和 cake（蛋糕）组成；整体是表示容易的习语。",
+        "affixesZh": "没有明显词缀；of 是独立介词，不是词缀。",
+        "mnemonicZh": "想象组装架子轻松得像取一块蛋糕一样，用场景记“小菜一碟”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pileup-multi-car-crash",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "pileup 是名词原形，复数为 pileups，指车辆连环相撞。",
+        "rootsZh": "由 pile（堆积）和 up 组成，形象体现车辆接连堆撞。",
+        "affixesZh": "没有明显词缀；up 是独立小品词，复数 -s 是屈折变化。",
+        "mnemonicZh": "暴风雪中车辆一辆接一辆撞上，想象公路上堆成一团。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pillow-sham-decorative",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "pillow sham 是名词短语，整体指装饰枕套；例句用复数 shams。",
+        "rootsZh": "pillow 指枕头，sham 在此指装饰性枕套；整体记忆其床品用法。",
+        "affixesZh": "没有明显词缀；复数 -s 加在 sham 后，是屈折变化。",
+        "mnemonicZh": "铺床时把配套的 pillow shams 放在枕头外，作为床品装饰。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pilot-light-gas-flame",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "pilot light 是名词短语原形，复数可说 pilot lights。",
+        "rootsZh": "由 pilot（引燃用的）和 light（火焰）组成，指设备中的小引火焰。",
+        "affixesZh": "没有明显词缀；pilot 和 light 是独立单词，复数 -s 为屈折变化。",
+        "mnemonicZh": "记住小小的 pilot light 负责点燃燃气设备的主火焰。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pint-berry-container",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 pint；此处表示一小盒所装的量。",
+        "rootsZh": "整体记忆，现代英语中没有适合此义的可靠拆分。",
+        "affixesZh": "无明显词缀；pint 本身是完整词。",
+        "mnemonicZh": "买圣女果时说 a pint，想成买一小盒的量。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "piping-hot-very-hot",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 piping hot，整体作形容词，形式不变。",
+        "rootsZh": "hot 表示热；piping 在此与 hot 组合表示“热腾腾的”，不宜按字面拆解。",
+        "affixesZh": "短语本身没有明显词缀；不必将 piping 的 -ing 当作理解短语义的关键。",
+        "mnemonicZh": "想象刚端上桌、热气腾腾的汤，记住 piping hot 就是“热腾腾的、滚烫的”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pit-pitted-stone",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形均为 pit；pitted 是其过去分词形式。",
+        "rootsZh": "pit 表示水果核；动词 pit 表示去核，按整体记忆。",
+        "affixesZh": "pitted 的 -ed 是过去分词屈折词尾，可作形容词表示已去核。",
+        "mnemonicZh": "看到 pitted olives，就想橄榄的核已经被去掉。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pitcher-of-beer-jug",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 pitcher，复数为 pitchers；此处指盛饮料的大壶。",
+        "rootsZh": "按表示壶的整体词义记忆，不与投球者 pitcher 混同。",
+        "affixesZh": "此义不宜把词尾 -er 当作表示人的后缀；无明显可教词缀。",
+        "mnemonicZh": "餐桌上点 a pitcher of beer，想象一大壶供整桌分享。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plastic-wrap-cling-film",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 plastic wrap，两个词均用原形。",
+        "rootsZh": "plastic（塑料）加 wrap（包裹、包裹物），合指保鲜膜。",
+        "affixesZh": "没有词缀；plastic 和 wrap 是独立词，不是前后缀。",
+        "mnemonicZh": "用塑料薄膜 wrap 住剩菜碗，便于放进冰箱保存。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "play-it-by-ear-decide-later",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 play it by ear；核心动词原形是 play。",
+        "rootsZh": "由 play、it、by、ear 组成，按习语整体记作到时看情况。",
+        "affixesZh": "没有词缀；by 和 ear 是短语中的独立词。",
+        "mnemonicZh": "周六天气未定，先不排死计划，到时再决定怎么安排。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plu-sticker-produce-code",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 PLU sticker；PLU 作缩写，sticker 为单数。",
+        "rootsZh": "PLU 是 Price Look-Up 的缩写；sticker 指贴纸，合指果蔬编码贴。",
+        "affixesZh": "无明显词缀；PLU 是缩写，sticker 是独立词。",
+        "mnemonicZh": "自助结账时看贴纸上的 PLU 编码，再把号码输入机器。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plunger-toilet-unclog",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 plunger，复数为 plungers；此处指通马桶工具。",
+        "rootsZh": "plunge（猛压、插入）加表示工具的词基 -er，可记作用来猛压的工具。",
+        "affixesZh": "-er 是构成工具名称的派生后缀，不是复数词尾。",
+        "mnemonicZh": "马桶堵住时，用 plunger 反复压吸，帮助疏通。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "poach-gentle-simmer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 poach；例句中的 poached 是过去分词作形容词。",
+        "rootsZh": "poach 表示用微沸的水煮，按整体词义记忆。",
+        "affixesZh": "poached 的 -ed 是过去分词屈折词尾；poach 本身无明显词缀。",
+        "mnemonicZh": "水波蛋在微沸水中慢煮，记住 poach 是温和水煮。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pop-soft-drink",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 pop，复数为 pops；加拿大日常用来指汽水。",
+        "rootsZh": "此义按整体记忆，指含气的软饮料；不作字母拆分。",
+        "affixesZh": "无明显词缀；pop 是完整名词。",
+        "mnemonicZh": "点披萨时问要不要一罐 pop，想到加拿大常说的汽水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pot-lights-recessed",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复数；单数为 pot light，指一盏嵌入式筒灯。",
+        "rootsZh": "由 pot（筒状灯体）和 light（灯）组成，整体记作筒灯。",
+        "affixesZh": "lights 末尾的 -s 是名词复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "想象灯体嵌进天花板，只露出一圈灯口，像藏在顶上的小筒。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pothole-road-hole",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词单数 pothole；复数为 potholes，表示路面坑洞。",
+        "rootsZh": "由 pot 和 hole 构成的复合词；可联想路上一个锅状的洞。",
+        "affixesZh": "无明显派生词缀；末尾 -s 仅用于复数 potholes。",
+        "mnemonicZh": "春天路面冻融后出现坑洞，开车遇上就像撞进一个小坑。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "potluck-shared-meal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 potluck；复数为 potlucks，表示大家各自带菜的聚餐。",
+        "rootsZh": "虽由 pot 和 luck 构成，但不能据此直接推出“每人带一道菜的聚餐”这一义项，宜整体记忆。",
+        "affixesZh": "没有明显前缀或派生后缀；复数形式加屈折词尾 -s。",
+        "mnemonicZh": "记住 potluck 是大家各自带菜、一起分享的聚餐，可联想到公司聚餐时桌上摆满不同菜肴。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pour-over-hand-brewed-coffee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或形容词形式为 pour-over；通常修饰或指手冲咖啡。",
+        "rootsZh": "由 pour（倒）和 over（介词／副词）组成，描述热水浇过咖啡粉。",
+        "affixesZh": "无词缀；连字符连接两个独立单词，over 不是后缀。",
+        "mnemonicZh": "记住手冲时把热水缓缓倒过咖啡粉，便是 pour-over。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "power-bar-strip-outlets",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 power bar；复数为 power bars，常指插线板。",
+        "rootsZh": "由 power（电力）和 bar（条状物）组成，指带多个插孔的电源排条。",
+        "affixesZh": "没有明显词缀；复数 bars 的 -s 是屈折变化。",
+        "mnemonicZh": "想象一条长形电源排上排列着多个插孔，可同时接电视和游戏机。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-washed-ready-to-eat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 pre-washed；对应动词原形 prewash，意为预先洗过。",
+        "rootsZh": "pre- 表示预先，wash 表示洗；合起来是提前洗净。",
+        "affixesZh": "pre- 是前缀；washed 中 -ed 表示过去分词，用作形容词。",
+        "mnemonicZh": "看到菠菜袋上的 pre-washed，就想到它在装袋前已经洗过。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "preheat-oven-warm-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 preheat；第三人称单数为 preheats，过去式为 preheated。",
+        "rootsZh": "由 pre-（预先）和 heat（加热）组成，表示提前加热。",
+        "affixesZh": "pre- 是表示预先的前缀；-s、-ed 等是动词屈折词尾。",
+        "mnemonicZh": "烘焙前先让烤箱升到指定温度，再放入食物，这一步就是预热。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "premium-insurance-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 premium；复数为 premiums，在此指保险保费。",
+        "rootsZh": "现代英语中不宜为“保费”义硬拆词根，整体记忆即可。",
+        "affixesZh": "没有适合此义的明显词缀；复数 premiums 加屈折词尾 -s。",
+        "mnemonicZh": "把 premium 记作按期交给保险公司的费用，即使没有理赔也可能上涨。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "price-check-verify",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 price check；复数为 price checks，指核查价格。",
+        "rootsZh": "由 price（价格）和 check（核查）组成，意思可由两个词理解。",
+        "affixesZh": "没有词缀；price 和 check 都是独立单词，复数只在 check 后加 -s。",
+        "mnemonicZh": "结账时商品扫出错价，收银员请人核对价格，就是 price check。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "price-match-competitor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或动词短语 price match；作动词时原形为 price match，表示按竞争对手的价格出售。",
+        "rootsZh": "由 price（价格）和 match（匹配）组成，指让本店价格与竞争对手的价格相匹配。",
+        "affixesZh": "没有词缀；price 和 match 都是独立单词，组合成名词或动词短语。",
+        "mnemonicZh": "拿着对面商店的低价询问，若本店按同价卖，就是 price match。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prior-authorization-insurance-approval",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 prior authorization。",
+        "rootsZh": "prior 表示“事先”；authorization 表示批准、授权，合指事先批准。",
+        "affixesZh": "authorization 含名词后缀 -ation；prior authorization 整体无屈折词尾。",
+        "mnemonicZh": "先拿到保险公司的批准，再让药房配药：prior 就是“事先”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prix-fixe-set-menu",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或形容词短语原形为 prix fixe。",
+        "rootsZh": "借自法语，整体表示“固定价格”；不必拆作英语词根。",
+        "affixesZh": "没有英语前缀或后缀；prix 和 fixe 是短语中的独立词。",
+        "mnemonicZh": "看菜单时记作“价格固定的一套菜”，而不是每道菜另算价。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "produce-fresh-fruit-veg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 produce，作蔬果总称时通常不变形。",
+        "rootsZh": "现代英语 produce 有“生产、产出”之意；produce 指种植产出的新鲜蔬果。",
+        "affixesZh": "此名词没有明显词缀；词尾字母不代表复数。",
+        "mnemonicZh": "在超市找香蕉时，认准标有 produce 的蔬果区。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "proof-of-address-document",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 proof of address。",
+        "rootsZh": "由 proof（证明）和 address（地址）组成，of 连接两者。",
+        "affixesZh": "没有词缀；of 是独立介词，不是前缀或后缀。",
+        "mnemonicZh": "办图书证时拿出能证明住址的文件，就是 proof of address。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pumped-excited",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此形容词作 pumped；它采用动词 pump 的过去分词形式。",
+        "rootsZh": "pump 是动词“泵送、鼓动”；口语 pumped 借“充满劲头”表示兴奋。",
+        "affixesZh": "-ed 是动词的过去分词屈折形式，此处用作形容词。",
+        "mnemonicZh": "想象演唱会开场前像充满能量一样，整个人 pumped。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "put-your-name-down-waitlist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 put your name down；核心动词原形是 put。",
+        "rootsZh": "由 put（放）、your name（你的名字）和 down（记下）组成，整体指登记。",
+        "affixesZh": "没有词缀；down 是独立小品词，your 是独立限定词。",
+        "mnemonicZh": "餐厅把你的名字记到等位名单上，就是 put your name down。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "putty-knife-scraper",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词复合词原形为 putty knife。",
+        "rootsZh": "putty 是腻子或油灰，knife 是刀；合起来指抹腻子的工具。",
+        "affixesZh": "没有明显词缀；两个部分都是独立词。",
+        "mnemonicZh": "补墙时用这把刀把 putty（腻子）抹平，名称一看便懂。"
+      }
+    }
+  ]
+}

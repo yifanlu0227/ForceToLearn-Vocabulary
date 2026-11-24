@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-012",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "rowing-machine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体为 rowing machine，复数为 rowing machines。",
+        "rootsZh": "由 row（划船）和 machine（机器）组成。",
+        "affixesZh": "rowing 中 -ing 作动名词或分词形式；machines 的 -s 表复数。",
+        "mnemonicZh": "坐在机器上模拟划船动作，记住 rowing machine。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "free-weights",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "常用复数 free weights；单数形式为 free weight。",
+        "rootsZh": "由 free（可自由移动的）和 weight（重量、重物）组成。",
+        "affixesZh": "weights 末尾 -s 是复数标记；没有明显派生词缀。",
+        "mnemonicZh": "哑铃等重量不固定在器械上，可以自由拿起移动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dumbbell",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词单数为 dumbbell，复数为 dumbbells。",
+        "rootsZh": "由 dumb 和 bell 组成；现代健身词义宜整体记作哑铃。",
+        "affixesZh": "没有明显派生词缀；dumbbells 的 -s 表示复数。",
+        "mnemonicZh": "想象两端像小铃形、中间有握柄的器械，帮助记住 dumbbell。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "barbell",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 barbell；复数为 barbells。",
+        "rootsZh": "复合词：bar 是杆，bell 指铃状重物部分。",
+        "affixesZh": "无明显词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "想象一根杆两端装着重物，就是杠铃。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "weight-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 weight room；复数为 weight rooms。",
+        "rootsZh": "由 weight（重量）和 room（房间）组成。",
+        "affixesZh": "无明显词缀；room 后加 -s 表复数。",
+        "mnemonicZh": "把专门练重量的房间记作 weight room。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-locker-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是 locker room；复数为 locker rooms。",
+        "rootsZh": "由 locker（储物柜）和 room（房间）组成。",
+        "affixesZh": "无明显词缀；room 后加 -s 表复数。",
+        "mnemonicZh": "更衣前把衣物放进 locker，所在区域就是 locker room。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "change-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 change room；复数为 change rooms。",
+        "rootsZh": "由 change（更换衣物）和 room（房间）组成。",
+        "affixesZh": "无明显词缀；room 后加 -s 表复数。",
+        "mnemonicZh": "去 change room 换好泳衣，再进入泳池。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-fountain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 water fountain；复数为 water fountains。",
+        "rootsZh": "由 water（水）和 fountain（喷泉、饮水设施）组成。",
+        "affixesZh": "无明显词缀；fountain 后加 -s 表复数。",
+        "mnemonicZh": "想象在 fountain 接一口水，记作饮水台。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-spotter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 spotter；复数为 spotters。",
+        "rootsZh": "由 spot（留意、照看）构成，指在旁留意安全的人。",
+        "affixesZh": "-er 是表示实施动作之人的派生后缀；-s 表复数。",
+        "mnemonicZh": "大重量卧推时，spotter 在旁看护并随时帮忙。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exercise-mat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 exercise mat；复数为 exercise mats。",
+        "rootsZh": "由 exercise（运动）和 mat（垫子）组成。",
+        "affixesZh": "无明显派生词缀；mat 后加 -s 表复数。",
+        "mnemonicZh": "做地面运动时铺开的垫子，就是 exercise mat。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cardio-exercise",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "cardio 作名词或形容词时形式不变。",
+        "rootsZh": "cardio 是 cardiovascular 的口语缩略形式，常指有氧训练。",
+        "affixesZh": "属于截短形式，不是加后缀构成；无屈折变化。",
+        "mnemonicZh": "跑步机上持续运动、锻炼心肺，可联想到 cardio。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "strength-training",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 strength training。",
+        "rootsZh": "strength 与 training 组合：力量加训练。",
+        "affixesZh": "strength 含名词后缀 -th；training 中 -ing 构成动名词。",
+        "mnemonicZh": "举重等训练让肌肉更有 strength，即力量训练。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-borrow",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 borrow；过去式和过去分词均为 borrowed。",
+        "rootsZh": "现代英语中整体记忆即可，不作可靠拆分。",
+        "affixesZh": "-ed 是规则过去式、过去分词屈折词尾，不是派生后缀。",
+        "mnemonicZh": "借书后要归还：borrow 是借入，不是把东西借出。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-check-out",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 check out；例句中是情态动词 can 后接动词原形。",
+        "rootsZh": "check 表示核对、办理，out 是独立小品词；合起来表示办理借出。",
+        "affixesZh": "没有明显词缀；out 是短语动词中的独立小品词，不是后缀。",
+        "mnemonicZh": "在图书馆柜台核对书籍并办好借出手续，就是 check out。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-overdue",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 overdue，例句中作形容词，没有屈折变化。",
+        "rootsZh": "由 over（超过）和 due（到期的）组成，表示超过应还期限。",
+        "affixesZh": "over- 是表示“超过”的前缀；这里不是屈折变化。",
+        "mnemonicZh": "把到期日想成一条线，越过 due 日期还没还书，就是 overdue。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdue-fine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 overdue fine；核心名词 fine 不变。",
+        "rootsZh": "overdue 表示逾期的，fine 表示罚款；两词组成“逾期罚款”。",
+        "affixesZh": "overdue 中有前缀 over-；fine 本身无明显词缀，短语无屈折变化。",
+        "mnemonicZh": "书或设备超过归还期限后产生的 fine，就是 overdue fine。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-renewal-limit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 renewal limit；renewal 是名词，limit 为核心名词。",
+        "rootsZh": "renew 表示续期，limit 表示界限；renewal limit 即续借次数的界限。",
+        "affixesZh": "renewal 中 -al 构成名词；limit 无明显词缀，短语无屈折变化。",
+        "mnemonicZh": "把续借次数想成计数器，达到 limit 就不能再 renew。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-loan-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 loan period；loan 和 period 均为原形。",
+        "rootsZh": "loan 表示借用，period 表示一段时间；合指可借用的期限。",
+        "affixesZh": "没有明显词缀；loan、period 都是独立词，短语无屈折变化。",
+        "mnemonicZh": "借到一本书后，日历上标出的可使用时段就是 loan period。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circulation-desk",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 circulation desk；核心词 desk 为单数原形。",
+        "rootsZh": "circulation 指图书流通借还服务，desk 是服务台；合指借还服务台。",
+        "affixesZh": "circulation 中 -ion 构成名词；desk 无明显词缀，短语无屈折变化。",
+        "mnemonicZh": "想象书籍在读者与图书馆间流转，办理这类事务的 desk 就是 circulation desk。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-reserve",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 course reserve；reserve 在此作名词。",
+        "rootsZh": "course 是课程，reserve 指预留或指定资料；合指课程指定的短期借阅资料。",
+        "affixesZh": "没有明显词缀；course 和 reserve 是独立词，不把 reserve 拆成词缀。",
+        "mnemonicZh": "老师为某门 course 指定一组可短借的资料，记作 course reserve。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-study-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 study room；study 修饰 room，均为原形。",
+        "rootsZh": "study 表示学习，room 表示房间；合指供学习或讨论使用的房间。",
+        "affixesZh": "没有明显词缀；study 与 room 是独立词组成的短语。",
+        "mnemonicZh": "预约一间 room 来学习或开小组会，就可以联想到 study room。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "quiet-floor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 quiet floor；quiet 修饰 floor，均无变化。",
+        "rootsZh": "quiet 表示安静的，floor 表示楼层；合指要求保持安静的楼层。",
+        "affixesZh": "没有明显词缀；quiet 和 floor 是独立词，不作词缀拆分。",
+        "mnemonicZh": "想象走上这一层便要放低音量，安静楼层就是 quiet floor。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-call-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 call number；两个词均为原形。",
+        "rootsZh": "call number 是图书馆术语，整体指用于识别并定位图书的索书号。",
+        "affixesZh": "没有明显词缀；call 和 number 是独立词，短语无屈折变化。",
+        "mnemonicZh": "把 call number 记作目录中帮助读者在书库定位图书的编号。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-shelf",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 shelf；复数是 shelves，属于不规则变化。",
+        "rootsZh": "现代英语中作为完整词记，指架子的一层或搁板。",
+        "affixesZh": "本词没有明显派生词缀；复数 shelves 是不规则屈折形式。",
+        "mnemonicZh": "想象把书放在书架的一块横板上，那块板就是 shelf。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-stacks",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 stack；stacks 是复数形式，在图书馆里常指藏书区。",
+        "rootsZh": "由 stack（堆、成排放置的东西）构成，作图书馆用语时整体记作书库或藏书区。",
+        "affixesZh": "词尾 -s 表示复数，是屈折变化，不是派生后缀。",
+        "mnemonicZh": "想象书一排排堆放在藏书区，进入 the stacks 就是去书库找书。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-book-drop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 book drop；可指还书箱或还书口。",
+        "rootsZh": "由 book（书）和 drop（投放处、投下）组成，表示投还书的地方。",
+        "affixesZh": "没有词缀；book 和 drop 是两个独立单词组成的复合词。",
+        "mnemonicZh": "图书馆关门后，把书从还书口 drop 进去，就是使用 book drop。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interlibrary-loan",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 interlibrary loan；loan 是中心词。",
+        "rootsZh": "inter- 表示“在……之间”；library 是图书馆，loan 是借用，合起来指图书馆之间互借。",
+        "affixesZh": "inter- 是表示“之间”的前缀；library、loan 是独立词，不是词缀。",
+        "mnemonicZh": "本馆没有的资料，就请另一家图书馆借来：这是 interlibrary loan。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "database-full-text",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "full text 是名词短语；作形容词时也用 full-text 修饰名词。",
+        "rootsZh": "full（完整的）加 text（文本），表示完整文本，而非仅有摘要。",
+        "affixesZh": "没有词缀；full 和 text 是独立单词，作复合表达。",
+        "mnemonicZh": "数据库只给 abstract 时还没看到全文；能读完整篇文章就是 full text。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "database-search-term",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 search term。",
+        "rootsZh": "search（搜索）加 term（词、术语），指用于搜索的词或短语。",
+        "affixesZh": "没有词缀；search 和 term 都是独立单词。",
+        "mnemonicZh": "在数据库搜索框输入一个词或短语，它就是你的 search term。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-keyword",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 keyword；复数为 keywords。",
+        "rootsZh": "由 key（关键的、关键）和 word（词）组成，指检索或概括主题的关键词。",
+        "affixesZh": "没有明显派生词缀；复数词尾 -s 是屈折变化。",
+        "mnemonicZh": "把论文主题中最关键的几个词挑出来，它们就是 keywords。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-bibliography",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 bibliography；复数为 bibliographies。",
+        "rootsZh": "biblio- 表示书籍，-graphy 表示书写或列录，合起来指书目、文献目录。",
+        "affixesZh": "-graphy 是构成名词的后缀性成分；复数 -ies 是屈折变化。",
+        "mnemonicZh": "把论文用到的书和资料逐项列成清单，便是 bibliography。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-text-citation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 in-text citation，单数形式；复数通常为 in-text citations。",
+        "rootsZh": "in-text 表示在正文中；citation 来自 cite（引用），指正文里的引用标注。",
+        "affixesZh": "citation 中有名词后缀 -ation；in 和 text 是独立词，不是词缀。",
+        "mnemonicZh": "读者在正文看到作者或年份标注，就能找到来源；这就是 in-text citation。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-paraphrase",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "paraphrase 可作动词或名词；动词原形为 paraphrase，常见变化有 paraphrases、paraphrased、paraphrasing。",
+        "rootsZh": "可联系 phrase（表达、措辞）；整个词表示用另一种说法转述，具体词义宜整体掌握。",
+        "affixesZh": "可分析为 para-（旁、另一个）加 phrase；动词变化形式属于屈折变化。",
+        "mnemonicZh": "保留原观点但换成自己的措辞，再注明来源，就是 paraphrase。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "primary-source",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 primary source；复数通常是 primary sources。",
+        "rootsZh": "由 primary（一手的、最初的）和 source（来源）组成。",
+        "affixesZh": "没有明显词缀；sources 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "想象研究者直接查看当时的信件：资料来自事件现场，属于一手来源。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "secondary-source",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 secondary source；复数通常是 secondary sources。",
+        "rootsZh": "由 secondary（二手的、次级的）和 source（来源）组成。",
+        "affixesZh": "secondary 中有 -ary，构成形容词；sources 的 -s 表示复数。",
+        "mnemonicZh": "先看学者如何解读事件，再回到原始材料；这种转述分析是二手来源。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "literature-review",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 literature review；review 可按语境变为复数 reviews。",
+        "rootsZh": "由 literature（学术文献）和 review（回顾、综述）组成。",
+        "affixesZh": "没有明显词缀；reviews 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "把相关研究逐篇回顾、比较，整理成一份文献综述。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-proofread",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 proofread；过去式和过去分词也常写作 proofread。",
+        "rootsZh": "由 proof（校样、可供检查的文本）和 read（阅读）组成。",
+        "affixesZh": "没有明显派生词缀；proofread 的过去式形式不加词尾。",
+        "mnemonicZh": "上传论文前逐字读一遍，像检查校样那样找出文字错误。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-noise-complaint",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 noise complaint；复数为 noise complaints。",
+        "rootsZh": "由 noise（噪音）和 complaint（投诉、抱怨）组成。",
+        "affixesZh": "complaint 中的 -t 不是此处可拆解的词缀；complaints 的 -s 表示复数。",
+        "mnemonicZh": "深夜音乐持续吵闹时，向物业提交针对噪音的投诉。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-quiet-hours",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语常用复数 quiet hours，指一段安静时段。",
+        "rootsZh": "由 quiet（安静的）和 hour（小时、时段）组成。",
+        "affixesZh": "没有明显派生词缀；hours 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "把楼规里的 quiet hours 想成夜间需要降低音量的规定时段。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-common-area",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 common area；复数可说 common areas。",
+        "rootsZh": "由 common（共同使用的）和 area（区域）组成。",
+        "affixesZh": "没有明显词缀；areas 中的 -s 表示复数。",
+        "mnemonicZh": "走廊由整栋楼住户共用，因此属于 common area，而非私人储物处。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-management",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 building management，通常作为整体称管理方。",
+        "rootsZh": "building 指楼宇，在此修饰 management；management 指管理或管理方，与 manage 有关。",
+        "affixesZh": "management 中的 -ment 将 manage 构成名词；building 在此作名词修饰语，不是动词的进行形式。",
+        "mnemonicZh": "收到停水通知时，发通知的 building management 就是楼宇管理方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "management-office",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 management office；复数可说 management offices。",
+        "rootsZh": "由 management（管理）和 office（办公室）组成。",
+        "affixesZh": "management 中的 -ment 构成名词；offices 中的 -s 表示复数。",
+        "mnemonicZh": "要领取电梯钥匙，就去负责楼宇事务的管理办公室。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-resident",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 resident；复数为 residents。",
+        "rootsZh": "与 reside（居住）相关，表示居住在某地的人。",
+        "affixesZh": "-ent 可构成表示人的名词；residents 中的 -s 是复数词尾。",
+        "mnemonicZh": "住在公寓里的人是 resident；屋顶露台规定只允许住户使用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-occupant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词单数 occupant，复数为 occupants；本词不是动词屈折形式。",
+        "rootsZh": "可联系现代词 occupy（占用、居住）；occupant 指占用或居住某处的人。",
+        "affixesZh": "-ant 构成表示人或参与者的名词；occupy 变为 occupant 时 y 改为 i。",
+        "mnemonicZh": "租房表上列出的 occupant，就是实际住进房屋、占用房间的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-guest-policy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 guest policy；核心名词 policy，复数可说 guest policies。",
+        "rootsZh": "由 guest（来访者、客人）和 policy（规定、政策）组成。",
+        "affixesZh": "没有明显词缀；guest 和 policy 都是独立单词。",
+        "mnemonicZh": "朋友留宿前查 guest policy：它说明大楼对访客有什么规定。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-pet-policy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 pet policy；核心名词 policy，复数可说 pet policies。",
+        "rootsZh": "由 pet（宠物）和 policy（规定、政策）组成。",
+        "affixesZh": "没有明显词缀；pet 和 policy 都是独立单词。",
+        "mnemonicZh": "把养宠规则想成一张 pet policy 清单，例如狗在公共区域要牵绳。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fob-access",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fob access，指门禁扣所具备的通行权限。",
+        "rootsZh": "fob（门禁扣）与 access（进入、通行）；按整体记忆即可。",
+        "affixesZh": "没有明显词缀；fob 和 access 是独立单词。",
+        "mnemonicZh": "门禁扣刷不开停车库时，问题可能是 fob access 没有该处权限。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-buzzer-code",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 buzzer code；核心名词 code，复数可说 buzzer codes。",
+        "rootsZh": "由 buzzer（楼宇呼叫器）和 code（代码）组成。",
+        "affixesZh": "没有明显词缀；buzzer 中的 -er 是词的一部分，不宜在此拆作后缀。",
+        "mnemonicZh": "朋友到楼下按呼叫器时，输入 buzzer code 才能联系住户或进入。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-package-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 package room；核心名词 room，复数可说 package rooms。",
+        "rootsZh": "由 package（包裹）和 room（房间）组成，表示存放包裹的房间。",
+        "affixesZh": "没有明显词缀；两个词都是独立单词。",
+        "mnemonicZh": "快递通知送达后，到大楼的 package room 找包裹。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-mailroom",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 mailroom，复数为 mailrooms；是一个合成词。",
+        "rootsZh": "由 mail（邮件）和 room（房间）组成，指收发或存放邮件的区域。",
+        "affixesZh": "没有明显词缀；mailroom 是 mail 与 room 合成，不是加后缀构成。",
+        "mnemonicZh": "记住 mailroom 就是放邮件的 room，入住后可去那里找信箱。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-bike-storage",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 bike storage；核心 storage 通常作不可数名词。",
+        "rootsZh": "bike（自行车）修饰 storage（存放）；storage 可联系动词 store（存放）。",
+        "affixesZh": "storage 中 -age 构成表示行为或结果的名词；bike storage 是名词组合。",
+        "mnemonicZh": "先登记 bike，再把它放进 bike storage 指定的存放区。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-storage-unit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 storage unit；核心名词 unit，复数为 storage units。",
+        "rootsZh": "storage（储存、存放）修饰 unit（单元），表示独立的储物空间。",
+        "affixesZh": "storage 由 store 加名词后缀 -age 构成；短语本身没有额外词缀。",
+        "mnemonicZh": "想象地下室里有一个独立的 unit，专门用来存放杂物；这就是 storage unit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-parking-garage",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 parking garage；核心名词 garage，复数可说 parking garages。",
+        "rootsZh": "parking（停车）修饰 garage（车库），合起来指停车库。",
+        "affixesZh": "parking 来自动词 park 加 -ing，作名词性修饰语；-ing 不是这里的复数标记。",
+        "mnemonicZh": "车辆开进 garage 停放，这个专供停车的车库就是 parking garage。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-visitor-pass",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 visitor pass。",
+        "rootsZh": "visit 表示来访、拜访，是 visitor 中可识别的词基；pass 指通行证。",
+        "affixesZh": "visitor 中的 -or 构成表示人的名词，visitor 即来访者；短语本身无屈折词缀。",
+        "mnemonicZh": "访客 visitor 拿着 pass，才能进楼或停车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-laundry-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 laundry card。",
+        "rootsZh": "laundry 指洗衣；card 指卡片，合起来是洗衣用卡。",
+        "affixesZh": "没有明显派生词缀；两个词均为独立词。",
+        "mnemonicZh": "在公共洗衣房用 card 启动机器，余额不足时先充值。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "coin-laundry",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 coin laundry。",
+        "rootsZh": "coin 是硬币，laundry 是洗衣或洗衣设施。",
+        "affixesZh": "没有明显词缀；coin 和 laundry 是独立词。",
+        "mnemonicZh": "想象把硬币投入机器，在洗衣设施里启动洗衣。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ensuite-laundry",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 en-suite laundry。",
+        "rootsZh": "en suite 表示套间内或相连；laundry 指洗衣设施。",
+        "affixesZh": "无明显词缀；en-suite 中的 en 不是此处可教的英语前缀。",
+        "mnemonicZh": "洗衣机就在自家套间里，不必去楼下公共洗衣房。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "apartment-balcony",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 balcony，单复数为 balcony、balconies。",
+        "rootsZh": "balcony 没有适合此处教学的可靠现代英语拆分，整体记忆。",
+        "affixesZh": "复数 balconies 中，-ies 是辅音加 y 名词的复数变化。",
+        "mnemonicZh": "把 balcony 想成公寓外伸出的平台，强风前要收好物品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fire-alarm",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fire alarm。",
+        "rootsZh": "fire 是火灾；alarm 是警报或警报器。",
+        "affixesZh": "没有明显词缀；fire 和 alarm 都是独立词。",
+        "mnemonicZh": "火灾时 alarm 发出声响，提醒住户及时疏散。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fire-drill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fire drill。",
+        "rootsZh": "fire 是火灾；drill 指反复进行的训练或演习。",
+        "affixesZh": "没有明显词缀；fire 和 drill 都是独立词。",
+        "mnemonicZh": "通过预先练习的 drill，熟悉火灾时的逃生路线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-intercom",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 intercom，单复数为 intercom、intercoms。",
+        "rootsZh": "intercom 是楼宇对讲设备的名称；没有适合教学的可靠拆分。",
+        "affixesZh": "不把词首 inter- 当作此词中可确定的构词前缀，整体记忆。",
+        "mnemonicZh": "访客按门口呼叫键，住户通过 intercom 接听或开门。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-party-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 party room。",
+        "rootsZh": "party 指聚会；room 指房间，合指供聚会使用的房间。",
+        "affixesZh": "没有明显词缀；party 和 room 是独立词。",
+        "mnemonicZh": "生日聚餐前预约大楼里的 party room。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-price-adjustment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 price adjustment；核心动词原形为 adjust。",
+        "rootsZh": "price 指价格；adjust 指调整，adjustment 指调整这一行为或结果。",
+        "affixesZh": "adjustment 的 -ment 是构成名词的派生后缀，不是屈折变化。",
+        "mnemonicZh": "买后发现降价，询问商家能否按新 price 做 adjustment。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-promo-code",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是单数名词短语 promo code，复数为 promo codes。",
+        "rootsZh": "promo 是 promotion 或 promotional 的常见缩略形式；code 指可输入的代码。",
+        "affixesZh": "没有明显词缀；promo 是缩略词，复数变化加在 code 上。",
+        "mnemonicZh": "结账时在输入框填入 promo code，系统据此应用优惠。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-loyalty-points",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 loyalty point；points 是 point 的复数形式。",
+        "rootsZh": "loyalty 表示忠诚、持续支持；point 表示积分点数。",
+        "affixesZh": "loyalty 中 -ty 构成抽象名词；points 的 -s 是复数屈折。",
+        "mnemonicZh": "常购物并出示会员卡，逐次累积 points，再兑换折扣。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-rewards-program",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体单数为 rewards program，复数通常为 rewards programs。",
+        "rootsZh": "由 rewards（奖励）和 program（计划）组成，指会员奖励计划。",
+        "affixesZh": "rewards 的 -s 是复数形式；programs 中 -s 标记整个短语复数。",
+        "mnemonicZh": "加入计划后消费累积分数或奖励，再用来抵扣购物金额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-member-price",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 member price，复数为 member prices。",
+        "rootsZh": "由 member（会员）和 price（价格）组成，指会员适用的价格。",
+        "affixesZh": "没有明显派生词缀；prices 的 -s 是复数屈折变化。",
+        "mnemonicZh": "扫描会员卡后，收银系统显示专属于会员的较低价格。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-sales-tax",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体为 sales tax；tax 通常作单数，复数可说 sales taxes。",
+        "rootsZh": "由 sales（销售）和 tax（税）组成，指商品销售环节的税。",
+        "affixesZh": "sales 中 -s 是 sale 的复数形式；taxes 的 -es 标记复数。",
+        "mnemonicZh": "货架标价之外，结账时还可能加上 sales tax。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-subtotal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "subtotal 是单数名词，复数为 subtotals。",
+        "rootsZh": "由 sub-（低于、部分）和 total（总额）组成，表示部分合计。",
+        "affixesZh": "前缀 sub- 表示下位或部分；-s 只在复数 subtotals 中出现。",
+        "mnemonicZh": "把商品金额先加总得到 subtotal，再另算税费或配送费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-shipping-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 shipping fee，复数为 shipping fees。",
+        "rootsZh": "由 ship（运送）、shipping（运输）和 fee（费用）组成。",
+        "affixesZh": "shipping 的 -ing 构成表示运输活动的名词形式；fees 的 -s 是复数。",
+        "mnemonicZh": "网购商品需要寄到家时，结账页面可能列出 shipping fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-delivery-window",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 delivery window，复数为 delivery windows。",
+        "rootsZh": "由 delivery（配送）和 window（时间范围）组成，指预计送达时段。",
+        "affixesZh": "delivery 中 -y 构成名词；windows 的 -s 标记复数。",
+        "mnemonicZh": "预约送货时选定一个时间窗口，配送员会在该时段到达。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-tracking-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 tracking number，复数为 tracking numbers。",
+        "rootsZh": "由 tracking（追踪）和 number（号码）组成，指查询包裹的编号。",
+        "affixesZh": "tracking 的 -ing 构成表示追踪活动的名词形式；numbers 的 -s 是复数。",
+        "mnemonicZh": "把邮件里的 tracking number 输入查询页面，就能查看包裹进度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体原形为 order number，复数为 order numbers。",
+        "rootsZh": "由 order（订单）和 number（号码）组成，指识别订单的编号。",
+        "affixesZh": "没有明显派生词缀；numbers 的 -s 是复数屈折变化。",
+        "mnemonicZh": "联系客服前备好订单号，方便对方迅速找到对应购买记录。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-online-order",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 online order。",
+        "rootsZh": "online 表示在线；order 表示订单。",
+        "affixesZh": "没有明显词缀；online 不宜按字母硬拆。",
+        "mnemonicZh": "在网页选好商品并付款，生成的就是 online order。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-confirmation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 order confirmation。",
+        "rootsZh": "order 是订单；confirmation 是确认通知。",
+        "affixesZh": "confirmation 中 -ation 构成名词；不是屈折变化。",
+        "mnemonicZh": "付款后查看收件箱，确认订单的通知就是 order confirmation。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-pickup-window",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 pickup window。",
+        "rootsZh": "pickup 指取货；window 在此指安排好的时间段。",
+        "affixesZh": "没有明显词缀；pickup 是 pick up 的名词写法。",
+        "mnemonicZh": "把它想成门店开放取货的时间窗口。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-pickup-location",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 pickup location。",
+        "rootsZh": "pickup 指取货；location 指地点。",
+        "affixesZh": "没有明显词缀；pickup 是名词，不是分词。",
+        "mnemonicZh": "下单时选中的门店地址，就是 pickup location。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-in-store-pickup",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 in-store pickup。",
+        "rootsZh": "in-store 表示在店内；pickup 指取货。",
+        "affixesZh": "没有明显词缀；in 是介词，不是前缀。",
+        "mnemonicZh": "网购后不等快递，自己到店拿货，就是 in-store pickup。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-return-label",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 return label。",
+        "rootsZh": "return 表示退回；label 是标签。",
+        "affixesZh": "没有明显词缀；两个词在此均作名词修饰关系。",
+        "mnemonicZh": "贴上退货标签，包裹便能寄回商家。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-prepaid-label",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 prepaid label。",
+        "rootsZh": "prepaid 表示已预付邮资；label 是标签。",
+        "affixesZh": "pre- 表示预先；paid 是 pay 的不规则过去分词。",
+        "mnemonicZh": "邮资已由商家付好，打印标签贴上即可退货。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-original-payment-method",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 original payment method。",
+        "rootsZh": "original 指原来的；payment 是付款；method 是方式。",
+        "affixesZh": "original 有形容词后缀 -al；payment 有名词后缀 -ment。",
+        "mnemonicZh": "退款回到当初刷卡或付款的那种方式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-return-window",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 return window。",
+        "rootsZh": "return 表示退货；window 在此指限定的时间段。",
+        "affixesZh": "没有明显词缀；window 是普通名词的比喻用法。",
+        "mnemonicZh": "把可退货期限想成一扇限时开放的窗口。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-status",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 order status。",
+        "rootsZh": "order 是订单；status 表示状态。",
+        "affixesZh": "没有明显词缀；status 在此为名词。",
+        "mnemonicZh": "查看订单页面上 processing 等提示，就是查 order status。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-estimated-delivery",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 estimated delivery；estimated 是 estimate 的过去分词形式。",
+        "rootsZh": "由 estimate（估算）和 delivery（送达、配送）组成。",
+        "affixesZh": "estimated 中 -ed 表示过去分词，此处作形容词；不是派生后缀。",
+        "mnemonicZh": "物流页面显示估算出的送达日期，改期时就看新的 estimated delivery。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-shipping-address",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 shipping address；shipping 来自动词 ship。",
+        "rootsZh": "ship 表示运送，address 表示地址，合起来指配送所用地址。",
+        "affixesZh": "shipping 中 -ing 是动名词形式，作前置修饰语；不是派生后缀。",
+        "mnemonicZh": "网购填写的 shipping address，是包裹要被 ship（运送）到的地址。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-billing-address",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 billing address；billing 来自动词 bill。",
+        "rootsZh": "bill 指账单或收费，address 指地址，合起来是账单地址。",
+        "affixesZh": "billing 中 -ing 构成动名词形式，作前置修饰语；不是派生后缀。",
+        "mnemonicZh": "付款资料里的 billing address，要与信用卡账单所用地址一致。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-free-shipping",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 free shipping；shipping 来自动词 ship。",
+        "rootsZh": "free 表示免费的，ship 表示运送，shipping 指配送或运费。",
+        "affixesZh": "shipping 中 -ing 是动名词形式；短语中的 free 不是词缀。",
+        "mnemonicZh": "结账时看到 free shipping，就记作运送这项费用为零。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-station-exit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 station exit，两个词均为原形。",
+        "rootsZh": "station 指车站，exit 指出口；合起来是车站的出口。",
+        "affixesZh": "没有明显词缀；station 和 exit 都是独立单词。",
+        "mnemonicZh": "在车站地图上找 station exit，就是找从车站出去的通道。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-exit-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 exit number，两个词均为原形。",
+        "rootsZh": "exit 是出口，number 是号码或编号，合起来指出口编号。",
+        "affixesZh": "没有明显词缀；number 中词尾字母不构成本词缀。",
+        "mnemonicZh": "问去公交总站走哪个 exit number，就是确认该走几号出口。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-platform-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 platform number，两个词均为原形。",
+        "rootsZh": "platform 指站台，number 指号码或编号，合起来是站台编号。",
+        "affixesZh": "没有明显词缀；platform 和 number 都是独立单词。",
+        "mnemonicZh": "看出发屏上的 platform number，按编号找到对应站台上车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-northbound",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "northbound 是形容词或副词原形，不发生屈折变化。",
+        "rootsZh": "由 north（北）和 bound（朝某方向行进）组成。",
+        "affixesZh": "无明显前后缀；bound 是构词成分，不是屈折词尾。",
+        "mnemonicZh": "搭乘 northbound train，就是搭乘往北开的列车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-southbound",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "southbound 是形容词或副词原形，不发生屈折变化。",
+        "rootsZh": "由 south（南）和 bound（朝某方向行进）组成。",
+        "affixesZh": "无明显前后缀；bound 是构词成分，不是屈折词尾。",
+        "mnemonicZh": "southbound trains 在对面站台停靠，记住它们是往南开的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-eastbound",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "eastbound 是形容词或副词原形，不发生屈折变化。",
+        "rootsZh": "由 east（东）和 bound（朝某方向行进）组成。",
+        "affixesZh": "无明显前后缀；bound 是构词成分，不是屈折词尾。",
+        "mnemonicZh": "找 eastbound streetcar stop，就是找东行有轨电车的站点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-westbound",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 westbound；形容词或副词形式不变，不是屈折变化。",
+        "rootsZh": "由 west“西”和 bound“朝……方向的”组成，表示朝西。",
+        "affixesZh": "没有明显词缀；west 与 bound 是复合词组成部分。",
+        "mnemonicZh": "想象公交车头朝西行驶，westbound 就是西行方向。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "railway-track",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 track；本例用单数形式。",
+        "rootsZh": "现代英语中作“轨道、股道”时整体记忆，不宜拆分。",
+        "affixesZh": "没有明显词缀；track 末尾的字母不是屈折词尾。",
+        "mnemonicZh": "把 Track 6 想成车站里标着 6 号的那条列车轨道。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-bus-bay",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 bus bay；核心名词 bay 用单数形式。",
+        "rootsZh": "bus“公交车”加 bay“停靠区、车位”，合指公交停靠位。",
+        "affixesZh": "没有明显词缀；bus 和 bay 都是独立单词。",
+        "mnemonicZh": "在总站按 Bay 12 的牌子找位置，那里就是巴士停靠位。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "station-attendant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 station attendant；attendant 为单数。",
+        "rootsZh": "station“车站”修饰 attendant“服务或值守人员”。",
+        "affixesZh": "attendant 可联系 attend“照料、值守”加 -ant 表示执行者；station 无明显词缀。",
+        "mnemonicZh": "在车站需要帮助时，找负责值守的 attendant 询问电梯情况。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-operator",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 transit operator；operator 为单数，复数可说 operators。",
+        "rootsZh": "transit 指公共交通；operator 指操作或驾驶交通工具的人。",
+        "affixesZh": "operator 来自 operate 加施事后缀 -or；复数 -s 是屈折词尾。",
+        "mnemonicZh": "需要坡板时告知驾驶公交的 operator，便于对方协助。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-passenger",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形 passenger；例句 passengers 是加 -s 的复数形式。",
+        "rootsZh": "passenger 表示乘客，现代英语中宜整体记忆，不作牵强拆分。",
+        "affixesZh": "复数词尾 -s 表示多名乘客；词内没有明显派生词缀。",
+        "mnemonicZh": "上车后留意广播中的 passengers，指车上的乘客们。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-rider",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形 rider；例句 riders 是加 -s 的复数形式。",
+        "rootsZh": "ride“乘坐”加 -er，表示乘车的人，也可指公共交通使用者。",
+        "affixesZh": "-er 是表示执行动作之人的派生后缀；复数 -s 是屈折词尾。",
+        "mnemonicZh": "经常 ride 公交的人就是 transit rider，可通过应用报告问题。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-006",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "stock-up-buy-lots",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 stock up；过去式和过去分词为 stocked up。",
+        "rootsZh": "stock 有“储备”义，up 与 stock 组合表示增加储备。",
+        "affixesZh": "没有派生词缀；up 是独立副词，-ed 是动词过去式屈折。",
+        "mnemonicZh": "看到意大利面打折，就多买些存起来：stock up on pasta。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "store-brand-private-label",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 store brand；可说 a store brand。",
+        "rootsZh": "由 store“商店”和 brand“品牌”组成，指商店自有品牌。",
+        "affixesZh": "没有词缀；store 和 brand 是独立单词。",
+        "mnemonicZh": "超市货架上印着超市自家名字的商品，就是 store brand。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "streetcar-tram",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 streetcar；复数为 streetcars。",
+        "rootsZh": "由 street“街道”和 car“车厢、车辆”组成，指沿街轨道行驶的电车。",
+        "affixesZh": "没有明显派生词缀；复数词尾 -s 是屈折变化。",
+        "mnemonicZh": "在城市街道上沿轨道行驶、停靠的车辆，可记作 streetcar。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stud-wall-framing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 stud；此处指墙内支撑用的立柱或龙骨。",
+        "rootsZh": "现代英语中作为整体记忆，指墙体里的木质或金属支撑构件。",
+        "affixesZh": "没有明显词缀；不是由词尾字母拆出的派生词。",
+        "mnemonicZh": "想象用探测器找出墙里的立柱，再把电视固定在它上面。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stuffy-nose-congestion",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 stuffy nose；核心名词 nose，stuffy 修饰它。",
+        "rootsZh": "stuffy 由词基 stuff 表示“堵、塞”加上 -y 构成；nose 是独立词。",
+        "affixesZh": "stuffy 的 -y 是构成形容词的派生后缀；短语本身无屈折变化。",
+        "mnemonicZh": "把鼻子想成被塞住、通气不畅的状态，便于记住 stuffy nose。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sub-substitute-item",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 sub；过去式和过去分词为 subbed，-ing 形式为 subbing。",
+        "rootsZh": "sub 是 substitute 的口语缩略形式，点餐时表示把一种食物换成另一种。",
+        "affixesZh": "没有派生词缀；-bed、-bing 中的变化是动词过去式／分词和 -ing 屈折形式。",
+        "mnemonicZh": "点餐时说“sub a salad for the fries”，就是把薯条换成沙拉。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sump-pump-basement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 sump pump，通常指地下室集水坑里的排水泵。",
+        "rootsZh": "由 sump“集水坑、集水槽”和 pump“泵”组成，整体指抽排积水的泵。",
+        "affixesZh": "没有明显词缀；sump 和 pump 是两个独立词组成的复合名词。",
+        "mnemonicZh": "记作“集水坑里的泵”：雨水汇进 sump，再由 pump 抽走。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sunny-side-up-fried-egg",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语是 sunny side up，可作形容词或点单用语，描述蛋黄朝上的单面煎蛋。",
+        "rootsZh": "sunny 是 sun 加 -y；side 和 up 各自保留字面义，组合成固定表达。",
+        "affixesZh": "sunny 中 -y 是形容词派生后缀；side、up 是独立词，不是词缀。",
+        "mnemonicZh": "想象蛋黄像小太阳露在朝上的一面：sunny side up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "superintendent-building-super",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 superintendent；加拿大公寓语境中常简称 super。",
+        "rootsZh": "现代词基是 superintend，指管理、监督；superintendent 指负责管理的人。",
+        "affixesZh": "-ent 构成表示人的名词；superintend 内的 super- 不宜在此义中硬拆。",
+        "mnemonicZh": "公寓里水槽漏水时，找负责协调维修、管理楼宇的 superintendent。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "surcharge-extra-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 surcharge；复数形式为 surcharges。",
+        "rootsZh": "由 sur-“额外、在……之上”和 charge“收费”组成，指额外收取的一笔费用。",
+        "affixesZh": "sur- 是表示额外或附加的前缀；-s 是名词复数屈折后缀。",
+        "mnemonicZh": "信用卡付款时，原有费用上再加一笔 charge，就是 surcharge。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swab-sample-collection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形都是 swab；动词过去式、过去分词为 swabbed。",
+        "rootsZh": "整体记忆即可：名词指取样用的拭子，动词指用拭子擦取样本。",
+        "affixesZh": "没有明显派生词缀；swabbed 的 -ed 表示过去式或过去分词，拼写需双写 b。",
+        "mnemonicZh": "看医生做咽喉检查时，用拭子轻擦喉咙取样，这个动作就是 swab。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swamped-overloaded",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形是 swamped，源自动词 swamp；也可说 be swamped 表示忙不过来。",
+        "rootsZh": "swamp 本义是“淹没”，这里用“被事情淹没”形象表示任务多得应付不来。",
+        "affixesZh": "-ed 是动词的过去分词形式，在这里作形容词；不是表示过去时间的独立词。",
+        "mnemonicZh": "想象工作像水一样涌来，把人淹得脱不开身：I’m swamped。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swiffer-floor-mop",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "专有品牌名是 Swiffer；句中作动词，表示用该品牌产品清洁地板。",
+        "rootsZh": "这是品牌名称，没有可靠的现代英语词基拆分；按整体记忆即可。",
+        "affixesZh": "没有可确认的词缀；句中的 Swiffer 是品牌名转作动词，并非加词缀构成。",
+        "mnemonicZh": "记住品牌 Swiffer 和配套除尘拖把的使用场景：饭后用它擦厨房地板。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swing-by-drop-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形是 swing by；例句中 swing 为不定式形式。",
+        "rootsZh": "由 swing 和副词 by 组成，整体表示顺路短暂停留。",
+        "affixesZh": "没有明显词缀；by 是独立副词，不是后缀。",
+        "mnemonicZh": "下班路上拐去朋友家拿钥匙：顺路“荡过去”一下。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swollen-puffed-up",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 swell；swollen 是它不规则的过去分词形式，常作形容词。",
+        "rootsZh": "现代词基 swell 表示膨胀、肿起，整体记作肿胀。",
+        "affixesZh": "没有可独立分析的派生词缀；-en 属于不规则分词形式的一部分。",
+        "mnemonicZh": "脚踝受伤后鼓起来，垫在枕头上仍是 swollen。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tailgate-follow-closely",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 tailgate；此义常用于进行时或其他动词形式。",
+        "rootsZh": "tail（尾部）＋gate（门），现代复合词；作动词指紧跟前车。",
+        "affixesZh": "没有明显词缀；名词复合词可直接转作动词。",
+        "mnemonicZh": "想象后车贴到你车尾门（tailgate）旁，开得过近。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "take-a-number-queue",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语是 take a number；核心动词原形为 take。",
+        "rootsZh": "由 take、a、number 组成，整体用于取号排队。",
+        "affixesZh": "没有词缀；a 和 number 是独立单词。",
+        "mnemonicZh": "熟食柜台先拿一个号码牌，等叫号再点餐。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "takeout-food-to-go",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词或形容词原形均为 takeout；这里是餐食外带。",
+        "rootsZh": "由 take 和 out 组成，与动词短语 take out 相连，表示带走。",
+        "affixesZh": "没有明显词缀；out 是独立副词，不是后缀。",
+        "mnemonicZh": "不在店里吃，把点好的餐 take out 带回家。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tap-contactless-pay",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 tap；例句中的 tap 为原形。",
+        "rootsZh": "现代词基 tap 表示轻触或轻拍；此处指感应刷卡。",
+        "affixesZh": "没有明显词缀。",
+        "mnemonicZh": "结账时把卡轻轻贴近读卡器，听到提示音就完成支付。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tarp-waterproof-cover",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 tarp，单复数形式为 tarp、tarps。",
+        "rootsZh": "tarp 是 tarpaulin 的常用缩略形式，指防水篷布。",
+        "affixesZh": "没有明显词缀；末尾 p 不是后缀。",
+        "mnemonicZh": "暴风雨前把大块 tarp 盖在露台家具上挡雨。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tea-towel-dish-towel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 tea towel；复数通常为 tea towels。",
+        "rootsZh": "tea（茶）＋towel（毛巾），是厨房擦碗布的复合词。",
+        "affixesZh": "没有词缀；tea 和 towel 都是独立单词。",
+        "mnemonicZh": "洗完碗后拿厨房专用的 tea towel 把碗擦干。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenderize-meat-soften",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 tenderize；例句中为祈使句原形。",
+        "rootsZh": "tender 表示柔软、嫩；tenderize 表示使之变嫩。",
+        "affixesZh": "-ize 是构成动词的派生后缀，意为“使变得……”。",
+        "mnemonicZh": "用肉锤拍牛排，让肉质变嫩，便于烹调。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thaw-defrost-frozen",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 thaw；第三人称单数为 thaws，过去式为 thawed。",
+        "rootsZh": "作为“解冻”一词，现代英语中没有适合教学的可靠拆分，整体记忆。",
+        "affixesZh": "词条原形没有词缀；thawed 中 -ed 是过去式或过去分词屈折词尾。",
+        "mnemonicZh": "把冷冻鸡肉从冰箱取出，等冰融化后就是 thawed。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "the-usual-regular-order",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定说法 the usual，字面作“惯常的那一个”。",
+        "rootsZh": "usual 表示惯常的；the usual 是省略名词后的整体用法，可作“老样子”记。",
+        "affixesZh": "the 是冠词；本短语没有前缀或后缀，也没有屈折变化。",
+        "mnemonicZh": "熟客一进店，店员问“还是惯常那份吗？”——the usual 就是老样子。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "the-works-all-toppings",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 the works；works 是复数形式，短语整体表示配料全加。",
+        "rootsZh": "works 是 work 的复数名词；在此指一整套可选配料，短语整体记忆。",
+        "affixesZh": "works 末尾 -s 是名词复数屈折，不是派生后缀；the 是冠词。",
+        "mnemonicZh": "点热狗时说 with the works，想成把菜单上能加的配料全都装上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thermostat-temperature-control",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 thermostat；例句中的复数或其他屈折形式均以此为基础。",
+        "rootsZh": "由 thermo（热）和 stat（调节、保持）构成，指调控温度的装置。",
+        "affixesZh": "没有常见派生前后缀；thermo- 和 -stat 是构词成分，不是屈折词尾。",
+        "mnemonicZh": "记作“管热度、让温度稳定的装置”，对应 thermostat 温控器。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "threshold-door-sill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 threshold，例句中使用单数形式。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆为门口供人跨过的门槛。",
+        "affixesZh": "没有明显的现代英语前缀或后缀；词尾字母不作词缀分析。",
+        "mnemonicZh": "想象进门时抬脚跨过那条略高的木边，就是 threshold。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "throw-blanket-sofa",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "复合名词原形是 throw blanket，通常作两词短语使用。",
+        "rootsZh": "throw（随手搭盖）加 blanket（毯子），指可随手披盖的小毯。",
+        "affixesZh": "没有前缀或后缀；throw 和 blanket 都是独立词。",
+        "mnemonicZh": "冷了就把客厅小毯随手搭到肩上，记住 throw blanket。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tied-up-busy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语形容词 tied up；核心动词原形是 tie，过去分词形式为 tied。",
+        "rootsZh": "由 tie（系住）和副词 up 组成；表示被事情缠住、脱不开身。",
+        "affixesZh": "tied 中 -ed 是 tie 的过去分词屈折形式；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "想象日程被会议“绑住”，整上午无法抽身，就是 tied up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "timmies-tim-hortons",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "加拿大口语昵称 Timmies，专指 Tim Hortons；作为店名昵称通常不变形。",
+        "rootsZh": "来自 Tim Hortons 的简称式昵称；不是普通词组，不宜按词根硬拆。",
+        "affixesZh": "结尾 -ies 属昵称拼写的一部分，不宜当作普通名词复数词尾分析。",
+        "mnemonicZh": "听到本地人说去 Timmies，联想到路边的 Tim Hortons 买咖啡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "to-go-box-leftovers",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 to-go box；整体指餐厅打包盒。",
+        "rootsZh": "to-go（带走、外带）修饰 box（盒子），合起来是供外带食物的盒子。",
+        "affixesZh": "没有派生词缀；to、go、box 都是独立词，连字符不构成词缀。",
+        "mnemonicZh": "把吃不完的食物装进盒子带走，正是 a to-go box 的用途。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toll-road-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 toll；例句中使用单数，指道路通行费。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆为通行时缴纳的费用。",
+        "affixesZh": "没有明显的前缀或后缀；词尾字母不应硬拆成词缀。",
+        "mnemonicZh": "经过收费高速时要付一笔钱，这笔过路费就是 toll。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tongs-grabbing-tool",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此义通常用复数形式 tongs；表示夹具时一般不说单数 tong。",
+        "rootsZh": "整体记忆为两臂合拢来夹取物品的工具，没有可靠的现代拆分。",
+        "affixesZh": "末尾 -s 是复数形式；此义通常以复数形式使用，不是派生后缀。",
+        "mnemonicZh": "烧烤时用两片夹臂夹起并翻动香肠，手里拿的就是 tongs。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toonie-two-dollar-coin",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 toonie；此处为单数，复数通常加 -s。",
+        "rootsZh": "常视作 two 与 loonie 融合成的加拿大口语词，指两元硬币。",
+        "affixesZh": "没有常规派生词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "把 two（两）和 loonie（一元硬币）连起来，记作两元硬币。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "top-up-refill-drink",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 top up；作名词常写作 top-up。",
+        "rootsZh": "由独立词 top（加到上面）和 up（向上、补足）组成。",
+        "affixesZh": "top 和 up 都是独立单词，不是词缀；动词可按规则变形。",
+        "mnemonicZh": "杯中咖啡没到杯口时，再往上添一些，就是 top up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toque-knit-winter-hat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 toque；此处为单数，复数通常加 -s。",
+        "rootsZh": "加拿大英语中指冬季毛线帽；作为借词整体记忆，不作可靠拆分。",
+        "affixesZh": "没有明显词缀；复数 -s 是屈折变化。",
+        "mnemonicZh": "零下二十度出门，把 toque 拉到头上保暖，记住它是毛线帽。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toss-mix-lightly",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 toss；此处用原形，过去式和分词为 tossed。",
+        "rootsZh": "现代英语中是整体动词，表示轻抛、翻动；没有适合教学的可靠拆分。",
+        "affixesZh": "没有明显派生词缀；tossed 中的 -ed 是过去式或过去分词标记。",
+        "mnemonicZh": "上桌前轻轻翻动沙拉，让酱汁均匀裹住菜叶，就是 toss。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "total-write-off-car",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 total；例句 totalled 是加拿大常见拼法的过去分词。",
+        "rootsZh": "total 表示整体、总数；用于车辆时表示损坏严重到按全损处理。",
+        "affixesZh": "totalled 的 -ed 表示过去式或过去分词；不是派生后缀。",
+        "mnemonicZh": "车损严重到维修已不合算，保险把整辆车按全损处理：total。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "touch-base-check-in",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语是 touch base；核心动词 touch 用原形，短语整体不变。",
+        "rootsZh": "由 touch（接触）和 base（基地）组成；作“简短联系”时应整体记作习语。",
+        "affixesZh": "touch、base 都是独立单词，不是词缀；短语中没有明显词缀。",
+        "mnemonicZh": "想象同事短暂碰面确认项目进展：touch base 就是简短联系一下。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tow-truck-vehicle",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语是 tow truck；此处为单数，复数通常在 truck 后加 -s。",
+        "rootsZh": "复合词由 tow（拖）和 truck（卡车）组成，指用于拖车的车辆。",
+        "affixesZh": "没有明显派生词缀；复数 -s 加在整个复合名词末尾。",
+        "mnemonicZh": "汽车抛锚后，叫来一辆 truck 把车 tow 走，就是 tow truck。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "trailhead-hiking-start",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 trailhead；此处为单数，复数通常加 -s。",
+        "rootsZh": "复合词由 trail（步道）和 head（起始端）组成，指步道入口或起点。",
+        "affixesZh": "没有明显词缀；trail 和 head 是组成词，不是前后缀。",
+        "mnemonicZh": "徒步前先到步道的“头”集合：trailhead 就是步道起点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transfer-transit-ticket",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形都是 transfer；此处依语境指换乘凭证或换乘。",
+        "rootsZh": "可按 trans-（跨越）和 fer（携带）理解，联系从一处转到另一处；公交语境中指换乘。",
+        "affixesZh": "trans- 表示“跨越、转移”；fer 是表示“携带”的词根成分。动词变化有 transfers、transferred、transferring。",
+        "mnemonicZh": "从一班车转到另一班，像把人从一处带到另一处：transfer 可指换乘，也可指换乘凭证。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-pass-monthly",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语是 transit pass；复数通常在 pass 后加 -es。",
+        "rootsZh": "由 transit（公共交通）和 pass（通行凭证）组成，指交通通票。",
+        "affixesZh": "没有明显派生词缀；transit 和 pass 是独立组成词。",
+        "mnemonicZh": "把 pass 想成乘车通行证，transit pass 就是公共交通通票。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "triage-emergency-priority",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形均为 triage；动词过去式、过去分词为 triaged。",
+        "rootsZh": "整体记忆，表示按紧急程度分类、排序；不作可靠的现代词根拆分。",
+        "affixesZh": "triage 本身无明显词缀；triaged 中 -ed 是动词过去式或过去分词屈折词尾。",
+        "mnemonicZh": "急诊分诊时先评估病情，再决定谁先接受治疗。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "trivet-hot-pot-stand",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 trivet；本例中是单数。",
+        "rootsZh": "整体记忆，指放热锅或烤盘、保护桌面的垫架。",
+        "affixesZh": "没有明显的现代英语词缀，不按词尾字母拆分。",
+        "mnemonicZh": "把热烤盘放在 trivet 上，避免桌面被烫坏。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tub-plastic-container",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 tub；本例中是单数。",
+        "rootsZh": "整体记忆，指桶、盆或带盖容器；此处指一大盒酸奶。",
+        "affixesZh": "没有明显词缀；复数形式 tubs 中 -s 是名词复数屈折词尾。",
+        "mnemonicZh": "想象从冰箱拿出一大盒酸奶：a tub of yogurt。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tupperware-food-container",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 Tupperware；常作不可数名词，也可指保鲜盒。",
+        "rootsZh": "品牌名，由创办者姓氏 Tupper 与表示制品、器皿的 ware 组成。",
+        "affixesZh": "没有明显词缀；ware 是独立构词成分，不是后缀。",
+        "mnemonicZh": "把剩菜装进 Tupperware，带去上班当午饭。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "twist-tie-closure",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 twist tie；本例中是单数。",
+        "rootsZh": "复合词：twist“扭转”+ tie“扎带”，指可扭紧封口的细铁丝条。",
+        "affixesZh": "没有词缀；twist 和 tie 都是独立词，不是前后缀。",
+        "mnemonicZh": "把面包袋口拢起，用 twist tie 扭几圈扎紧。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "two-four-case-of-beer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 two-four；复数常写 two-fours。",
+        "rootsZh": "由 two“二”和 four“四”组成，加拿大口语中指24瓶啤酒的一箱。",
+        "affixesZh": "没有词缀；two 和 four 是独立数词，连字符连接复合表达。",
+        "mnemonicZh": "记作二乘十二：two-four 在加拿大口语里就是24瓶一箱。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tylenol-acetaminophen-pain-reliever",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 Tylenol，是品牌名；本例中指该品牌止痛药。",
+        "rootsZh": "品牌名整体记忆，不作无依据的词根拆分；药物成分是对乙酰氨基酚。",
+        "affixesZh": "没有可供学习者可靠拆分的英语词缀。",
+        "mnemonicZh": "头痛时看到 Tylenol，记住这是商品名，具体成分看药品标签。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "u-turn-reverse-direction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 U-turn；本例中是单数。",
+        "rootsZh": "复合词：U 指掉头轨迹的 U 形，turn 表示转向。",
+        "affixesZh": "没有词缀；U 和 turn 是独立组成部分。",
+        "mnemonicZh": "想象车辆画出一个 U 形弯，回到来时的方向。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "under-the-weather-unwell",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语原形为 under the weather；没有屈折变化。",
+        "rootsZh": "整体记忆的习语，表示身体不舒服；不要按字面理解为在天气下面。",
+        "affixesZh": "没有词缀；under、the、weather 都是独立单词。",
+        "mnemonicZh": "感觉不适、状态不佳时，可以说 I'm a bit under the weather。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unit-price-comparison",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 unit price；本例中作单数。",
+        "rootsZh": "复合词：unit“单位”+ price“价格”，指按重量或数量计算的单价。",
+        "affixesZh": "没有词缀；unit 和 price 是独立单词。",
+        "mnemonicZh": "比两盒商品时看每100克价格，别只比较包装大小。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "up-in-the-air-unsettled",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 up in the air，形式不变；例句中接 be 动词。",
+        "rootsZh": "由 up、in、the、air 组成，整体表示计划尚未落定。",
+        "affixesZh": "没有词缀；in 是独立介词，不是前后缀。",
+        "mnemonicZh": "想象计划像飘在空中，尚未落地定案。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "urgent-care-clinic",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 urgent care。",
+        "rootsZh": "urgent（紧急的）修饰 care（照护、护理）。",
+        "affixesZh": "短语没有明显词缀，两个词各自独立。",
+        "mnemonicZh": "需要尽快处理的小病小伤，可想到 urgent care。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "utility-knife-box-cutter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 utility knife，单复数可变为 utility knives。",
+        "rootsZh": "utility 表示实用用途，knife 是刀；合指多用途刀具。",
+        "affixesZh": "utility 中 -ity 构成名词；knife 无明显词缀。",
+        "mnemonicZh": "拆快递时用这种多用途小刀划开包装。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "valance-window-topper",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 valance，复数为 valances。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；-s 是复数屈折形式，不是派生词缀。",
+        "mnemonicZh": "想象窗帘最上方一条短布，遮住窗帘杆或百叶窗顶部。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vent-let-off-steam",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 vent；过去式、过去分词为 vented。",
+        "rootsZh": "vent 本有通气口、排气的意思，引申为把情绪说出来。",
+        "affixesZh": "本词没有明显派生词缀；-ed 用于规则过去式。",
+        "mnemonicZh": "像打开通气口释放压力一样，把烦心事说出来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "void-cheque-banking-info",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 void cheque，复数为 void cheques；cheque 是加拿大常见拼法。",
+        "rootsZh": "void 表示作废，cheque 表示支票，合指作废支票。",
+        "affixesZh": "没有明显词缀；void 和 cheque 都是独立词。",
+        "mnemonicZh": "在支票上标明作废，不能兑现，但可供核对账户信息。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "waive-fee-cancel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形 waive；屈折形式有 waived、waiving。",
+        "rootsZh": "整体记忆，意为主动放弃权利或免除费用；勿与 wave 混同。",
+        "affixesZh": "没有明显派生词缀；-ed、-ing 是屈折词尾。",
+        "mnemonicZh": "客服同意 waive the fee，就是不再向你收这笔费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "walk-in-clinic-no-appointment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 walk-in clinic；walk 的原形是 walk。",
+        "rootsZh": "walk（走进）+ in（进入）修饰 clinic（诊所），表示可直接就诊。",
+        "affixesZh": "没有词缀；in 是独立小品词，连字符不构成词缀。",
+        "mnemonicZh": "不用预约，直接走进诊所看病。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wall-anchor-drywall-plug",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 wall anchor，复数为 wall anchors。",
+        "rootsZh": "wall（墙）+ anchor（锚、固定物），指固定在墙里的支撑件。",
+        "affixesZh": "没有明显词缀；两个词组合成名词短语。",
+        "mnemonicZh": "把墙锚装进墙体，再拧入螺丝挂架子。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "washer-fluid-windshield",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 washer fluid，通常作不可数名词。",
+        "rootsZh": "washer 指车窗清洗装置；fluid 是液体，合指玻璃清洗液。",
+        "affixesZh": "washer 中 -er 表示装置；fluid 无明显词缀。",
+        "mnemonicZh": "车上喷出 washer fluid，清洗挡风玻璃。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "washroom-public-toilet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 washroom，词形没有变化。",
+        "rootsZh": "由 wash（洗）和 room（房间）组成，指洗手间。",
+        "affixesZh": "没有明显词缀；wash、room 是独立词基。",
+        "mnemonicZh": "把它记作“洗手的房间”，在加拿大常用来问洗手间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-heater-hot-water-tank",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 water heater，形式未变化。",
+        "rootsZh": "water（被加热的水）＋ heater（加热设备），合起来指热水器。",
+        "affixesZh": "heater 由 heat 加表示设备的 -er 构成；非复数词尾。",
+        "mnemonicZh": "想象设备把水加热，water heater 就是热水器。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "watered-down-diluted",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词短语为 watered down，源自动词短语 water down。",
+        "rootsZh": "water 是“加水”；down 是独立小品词，合起来有冲淡之意。",
+        "affixesZh": "water 加屈折后缀 -ed，表示被加水；down 不是词缀。",
+        "mnemonicZh": "冰融进咖啡里像加了水，味道被冲淡，就是 watered down。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "weatherstripping-door-seal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 weatherstripping，词形没有变化。",
+        "rootsZh": "weather 指天气侵袭，strip 指条状材料；合起来指用于挡风雨、封缝的条材。",
+        "affixesZh": "由 strip 加 -ing 构成；此处 -ing 属于材料名称的一部分。",
+        "mnemonicZh": "想象门窗缝贴上条状密封材料，挡住冷风和雨水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "well-done-steak",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词短语是 well done；done 是 do 的不规则过去分词。",
+        "rootsZh": "well（充分地）＋ done（做熟）；整体表示充分煮熟。",
+        "affixesZh": "well 无词缀；done 是 do 的不规则屈折形式，不是派生词。",
+        "mnemonicZh": "点餐时说 well done，想象牛排内部也完全熟透。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "whip-cream-beat-air",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 whip；这里用祈使句原形。",
+        "rootsZh": "按整体记忆，whip 在此指快速搅打并打入空气。",
+        "affixesZh": "没有明显词缀；例句中的 whip 是动词原形。",
+        "mnemonicZh": "想象快速挥动打蛋器，让奶油蓬松并形成软尖。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "whisk-beat-tool",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "whisk 作名词或动词时形式相同；动词原形也是 whisk。",
+        "rootsZh": "整体记忆：whisk 是打蛋器，也可指用它快速搅打。",
+        "affixesZh": "没有明显词缀；词尾 k 属于词的一部分。",
+        "mnemonicZh": "看到碗里的蛋奶被打匀，就联想到手持 whisk 搅打。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wilted-limp-greens",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词 wilted 来自动词原形 wilt，表示已经蔫了。",
+        "rootsZh": "词基 wilt 表示植物失去挺立状态；整体记忆即可。",
+        "affixesZh": "wilt 加屈折后缀 -ed，构成过去分词并作形容词。",
+        "mnemonicZh": "想象生菜失水后叶片软塌下垂，便是 wilted。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wind-chill-feels-like",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 wind chill，形式未变化。",
+        "rootsZh": "由 wind（风）和 chill（寒冷）组成，表示风造成的体感寒意。",
+        "affixesZh": "没有明显词缀；wind 和 chill 都是独立词。",
+        "mnemonicZh": "同样的气温遇上寒风，身体感觉更冷：wind chill。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "window-screen-mesh",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 window screen，形式未变化。",
+        "rootsZh": "由 window（窗）和 screen（网屏）组成，指装在窗上的纱网。",
+        "affixesZh": "没有明显词缀；两个部分都是独立词。",
+        "mnemonicZh": "想象窗户上的细网挡住飞虫，却让空气通过。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "window-sill-ledge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 window sill，例句中作单数形式。",
+        "rootsZh": "由 window“窗”和 sill“窗台、边沿”组成。",
+        "affixesZh": "没有明显词缀；两个词组合成复合名词。",
+        "mnemonicZh": "想象窗边伸出一条 sill，香草就摆在这条窗台上。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "windshield-wipers-car",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 windshield wiper；wipers 是复数形式。",
+        "rootsZh": "windshield 由 wind“风”和 shield“挡板”组成；wiper 指擦拭器。",
+        "affixesZh": "wiper 中 -er 表示执行擦拭的工具；-s 是名词复数屈折词尾。",
+        "mnemonicZh": "挡风玻璃前的 wipers 来回擦水，复数 wipers 指一对雨刮片。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wing-it-improvise",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 wing it；例句中是将来时结构中的动词原形。",
+        "rootsZh": "这是整体记忆的习语；按“临场发挥”记，不拆作 wing 和 it 的字面义。",
+        "affixesZh": "没有词缀；it 是独立代词，不是后缀。",
+        "mnemonicZh": "没准备好幻灯片，只能上台后看情况发挥；把 wing it 整体记作临场应对。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-tires-snow",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 winter tire；tires 是复数形式。",
+        "rootsZh": "由 winter“冬季”和 tire“轮胎”组成。",
+        "affixesZh": "没有派生词缀；-s 是 tire 的名词复数屈折词尾。",
+        "mnemonicZh": "天气转冷时换上 winter tires，记作专为冬季路况准备的轮胎。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wok-stir-fry-pan",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "wok 是名词单数原形，复数通常为 woks。",
+        "rootsZh": "借词 wok 整体记忆，表示中式炒锅；不作英语词根拆分。",
+        "affixesZh": "没有明显派生词缀；复数形式 woks 末尾的 -s 是屈折词尾。",
+        "mnemonicZh": "联想用大火把 wok 烧热，再快速翻炒食材。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wrap-up-finish",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 wrap up；例句用祈使句形式。",
+        "rootsZh": "由 wrap“包裹、收拢”和小品词 up 组成，整体表示收尾、结束。",
+        "affixesZh": "没有词缀；up 是独立的小品词，不是后缀。",
+        "mnemonicZh": "把会议要点像包东西一样收拢好，wrap up 就是给会议收尾。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "yield-give-way",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "yield 是动词原形；例句中的 yield 与原形相同。",
+        "rootsZh": "现代英语中作为整体记忆，表示让行；不作不可靠的词根拆分。",
+        "affixesZh": "没有明显词缀；此处没有屈折词尾。",
+        "mnemonicZh": "右转时先停下，让行人先通过；把 yield 记作主动让出通行权。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "you-bet-certainly",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语为 you bet，形式不变；常用作肯定答复。",
+        "rootsZh": "由 you“你”和 bet“打赌”组成，实际含义按整体记忆。",
+        "affixesZh": "没有词缀；you 和 bet 都是独立单词。",
+        "mnemonicZh": "别人问能否帮忙时，爽快回答 You bet!，表示当然可以。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zest-citrus-peel",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "zest 作名词时本条使用原形；例句中是单数用法。",
+        "rootsZh": "表示柑橘类果皮屑时整体记忆，不作无依据的词根拆分。",
+        "affixesZh": "没有明显词缀；此处不是复数或分词形式。",
+        "mnemonicZh": "刮下柠檬最外层的细皮屑，加入面糊提香，便是 lemon zest。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zip-tie-cable-tie",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 zip tie；复数形式是 zip ties。",
+        "rootsZh": "由 zip 和 tie 组成，整体指用来束紧物品的塑料扎带。",
+        "affixesZh": "没有派生词缀；复数 zip ties 中 -s 是屈折词尾。",
+        "mnemonicZh": "用一条 zip tie 把桌后的电线束成一束，便于整理。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zone-out-lose-focus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形是 zone out；例句 zoned out 是过去式形式。",
+        "rootsZh": "由 zone（范围、区域）和 out 组成，整体记作注意力飘开。",
+        "affixesZh": "没有派生词缀；zoned 中的 -ed 是动词过去式词尾。",
+        "mnemonicZh": "开会时注意力像飘出了当前话题，没听见对方说什么。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zucchini-summer-squash",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 zucchini；复数可用 zucchinis，也常用 zucchini。",
+        "rootsZh": "意大利语借词，现代英语中没有适合教学的可靠拆分。",
+        "affixesZh": "没有明显词缀；复数形式可加屈折词尾 -s。",
+        "mnemonicZh": "想象烧烤架上放着切片的西葫芦 zucchini。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lease",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 lease；例句中作单数名词。",
+        "rootsZh": "整体记忆为租约；没有适合教学的可靠词基拆分。",
+        "affixesZh": "没有明显词缀；复数形式为 leases，-s 是名词复数词尾。",
+        "mnemonicZh": "签字前先拿到 lease，逐条看清租房约定。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 tenant；复数形式为 tenants。",
+        "rootsZh": "整体记忆为租客；不作不可靠的词根拆分。",
+        "affixesZh": "没有明显派生词缀；tenants 的 -s 表示复数。",
+        "mnemonicZh": "把住在出租单元、报修漏水的人记作 tenant。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "landlord",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 landlord；复数形式为 landlords。",
+        "rootsZh": "由 land（土地）和 lord（主人）组成，指房屋出租方。",
+        "affixesZh": "没有明显词缀；landlords 的 -s 是名词复数词尾。",
+        "mnemonicZh": "想象拥有出租房、能决定是否准许装置物架的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenancy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 tenancy；复数形式为 tenancies。",
+        "rootsZh": "可联系 tenant（租客），表示租客身份所形成的租赁关系或租住状态。",
+        "affixesZh": "-cy 构成表示状态或关系的名词；与 tenant 结合时词尾 t 不保留，拼作 tenancy。",
+        "mnemonicZh": "租约写明 tenancy begins 的日期，就是租住关系开始日。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sublet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 sublet；过去式和过去分词也可写 sublet。",
+        "rootsZh": "由 sub-（次级、下一级）和 let（出租）组成，指转租。",
+        "affixesZh": "sub- 是表示次级关系的前缀；没有其他明显派生词缀。",
+        "mnemonicZh": "租客暂时把房间再租给别人，可记作把租住安排转一手。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "roommate",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 roommate；复数形式为 roommates。",
+        "rootsZh": "由 room（房间）和 mate（伙伴）组成，指共同居住的人。",
+        "affixesZh": "没有明显词缀；roommates 的 -s 是名词复数词尾。",
+        "mnemonicZh": "想象和你共用厨房、轮流打扫的 room mate。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "guarantor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 guarantor；复数形式为 guarantors。",
+        "rootsZh": "与 guarantee（担保、保证）同词基，整体指承担担保的人。",
+        "affixesZh": "-or 是表示执行某行为者的名词后缀。",
+        "mnemonicZh": "租房申请表上，guarantor 是愿意为申请人作担保的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "furnished",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此处是形容词 furnished；由动词 furnish 的过去分词形式构成。",
+        "rootsZh": "词基是 furnish，表示配备家具或物品；此处指配有家具。",
+        "affixesZh": "-ed 是过去分词词尾，在此构成描述状态的形容词。",
+        "mnemonicZh": "看房时看到床、桌椅都已摆好，就记作 furnished。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unfurnished",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形是 unfurnished；由 furnish 的过去分词形式作形容词。",
+        "rootsZh": "词基 furnish，表示配备、提供家具。",
+        "affixesZh": "un- 表示否定；-ed 是过去分词形式，也可构成描述状态的形容词。",
+        "mnemonicZh": "想象空房里没有家具：房间没有被 furnish，就是 unfurnished。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "utilities",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 utility；utilities 是复数，y 改为 i 再加 -es。",
+        "rootsZh": "utility 整体记忆，指公用服务或其费用。",
+        "affixesZh": "-ies 是复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "看租房账单上的 utilities，想到水电燃气等多项服务费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "maintenance-request",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 maintenance request；request 的原形是 request。",
+        "rootsZh": "maintain（维护）加 request（请求），表示维修请求。",
+        "affixesZh": "maintenance 中 -ance 构成名词；短语中的连字符不是词缀。",
+        "mnemonicZh": "排风扇坏了，向物业提出 request，请他们做 maintenance。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "move-in-inspection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 move-in inspection；move in 的核心动词原形是 move。",
+        "rootsZh": "move in（入住）加 inspection（检查），表示入住时检查。",
+        "affixesZh": "inspection 中 -ion 构成名词；in 是独立小品词，不是词缀。",
+        "mnemonicZh": "搬进新家时逐处查看并拍照，就是 move-in inspection。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "security-deposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 security deposit；两个词均保持原形。",
+        "rootsZh": "security 来自 secure（安全）；deposit 表示存放或缴存的一笔钱。",
+        "affixesZh": "security 中 -ity 构成名词；短语中没有其他明显词缀。",
+        "mnemonicZh": "把一笔钱先交给房东作保障，想到 security deposit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "last-months-rent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 last month's rent；month's 是单数 month 的所有格。",
+        "rootsZh": "last（最后的）、month（月）和 rent（租金）组成短语。",
+        "affixesZh": "'s 表示所有格，不是复数或派生后缀；无明显词缀。",
+        "mnemonicZh": "把租期最后一个月对应的房租单独记作 last month's rent。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notice-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 notice period；notice 和 period 都是原形。",
+        "rootsZh": "notice（通知）加 period（期限），指需提前通知的时间。",
+        "affixesZh": "没有明显词缀；连字符只连接短语成分。",
+        "mnemonicZh": "搬走前要先发 notice，并留出规定的 period。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-017",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "winter-blue-run",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 blue run。",
+        "rootsZh": "blue（蓝色）修饰 run（滑雪道）；整体指以蓝色标识的中级雪道。",
+        "affixesZh": "没有明显词缀；blue 和 run 是独立词。",
+        "mnemonicZh": "从绿色升到蓝色前先评估能力，蓝色表示难度进阶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-black-diamond",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 black diamond。",
+        "rootsZh": "black（黑色）加 diamond（菱形）；作为雪道标识，整体指高级雪道。",
+        "affixesZh": "没有明显词缀；black 和 diamond 是独立词。",
+        "mnemonicZh": "看到黑色菱形标记，想到难度高于蓝色道，量力选择路线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-terrain-park",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 terrain park。",
+        "rootsZh": "terrain 指地形，park 指专设区域；合指设置跳台等设施的技巧区。",
+        "affixesZh": "没有明显词缀；terrain 和 park 是独立词。",
+        "mnemonicZh": "想象雪场划出一片区域，工作人员在那里维护跳台等技巧设施。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-snowmaking",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 snowmaking，指造雪这一活动；make 的原形是 make。",
+        "rootsZh": "由 snow（雪）和 make（制造）组成，表示制造雪。",
+        "affixesZh": "-ing 将 make 变为表示活动的名词成分；make 中 e 脱落。",
+        "mnemonicZh": "想象造雪机把水喷成雪：snow 加上 make，便是人工造雪。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-groomed-trail",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形是 groomed trail；groomed 是 groom 的过去分词形式。",
+        "rootsZh": "groom 表示整理、维护；trail 是路线或雪道。",
+        "affixesZh": "-ed 是 groom 的过去分词屈折形式，在此修饰 trail；不是派生后缀。",
+        "mnemonicZh": "想象工作人员把雪道整理平整，groomed trail 就是维护过的路线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-fresh-powder",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fresh powder，两个词均用原形。",
+        "rootsZh": "fresh 表示新鲜的；powder 表示粉末，在此指松软的粉雪。",
+        "affixesZh": "没有明显词缀；fresh 和 powder 是独立单词。",
+        "mnemonicZh": "把新雪想成刚撒在山坡上的细粉，记住 fresh powder。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-patrol",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ski patrol。",
+        "rootsZh": "ski 是滑雪；patrol 是巡逻，两词组成滑雪巡逻队。",
+        "affixesZh": "没有明显词缀；ski 和 patrol 是独立单词。",
+        "mnemonicZh": "想象巡逻队员带着装备巡查雪道并救助伤者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-day-lodge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 day lodge。",
+        "rootsZh": "day 表示白天；lodge 指小屋或旅舍，合指日间使用的设施。",
+        "affixesZh": "没有明显词缀；day 和 lodge 是独立单词。",
+        "mnemonicZh": "滑雪白天在 lodge 里吃饭、休息或集合，记作 day lodge。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-warming-hut",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 warming hut；warming 来自动词 warm。",
+        "rootsZh": "warm 表示暖和；hut 是小屋，合指可取暖的小屋。",
+        "affixesZh": "-ing 是 warm 的现在分词形式，作前置修饰语；不是短语后缀。",
+        "mnemonicZh": "想象在 hut 里暖手喝水：warming hut 就是取暖小屋。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-goggles",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语常用复数 ski goggles，单副护目镜也常说 goggles。",
+        "rootsZh": "ski 表示滑雪；goggles 指护目镜，整体指滑雪护目镜。",
+        "affixesZh": "ski 无词缀；goggles 以复数形式使用，-s 表示复数。",
+        "mnemonicZh": "把 goggles 想成包住双眼的护目镜，滑雪时挡风雪。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-helmet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ski helmet，两个词均为原形。",
+        "rootsZh": "ski 表示滑雪；helmet 是头盔，合指滑雪用头盔。",
+        "affixesZh": "没有明显词缀；ski 和 helmet 是独立单词。",
+        "mnemonicZh": "滑雪时戴在头上的 helmet，就是 ski helmet。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-cross-country-skiing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 cross-country skiing；skiing 来自动词 ski，表示越野滑雪这项活动。",
+        "rootsZh": "cross-country 表示穿越乡野；ski 表示滑雪，合指越野滑雪。",
+        "affixesZh": "-ing 加在 ski 后构成表示活动的名词形式，拼作 skiing；ski 末尾没有 e 可删。",
+        "mnemonicZh": "想象沿乡野路线滑行，而非只在陡坡下滑，记住 cross-country skiing。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-sore-throat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 sore throat，两个词均为原形。",
+        "rootsZh": "sore 表示疼痛的；throat 是喉咙，合指喉咙疼痛。",
+        "affixesZh": "没有明显词缀；sore 和 throat 是独立单词。",
+        "mnemonicZh": "吞咽时喉咙发疼，就可以用 sore throat 描述不适。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-runny-nose",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是名词短语 runny nose。",
+        "rootsZh": "runny 表示流动的，nose 是鼻子；合起来指鼻涕不断流。",
+        "affixesZh": "runny 中 -y 构成形容词；短语本身无屈折词尾。",
+        "mnemonicZh": "想象鼻子像小水龙头一样往下流，记住 runny nose。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-nasal-congestion",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 nasal congestion。",
+        "rootsZh": "nasal 表示鼻部的；词基 congest 表示拥堵、充血，合指鼻腔堵塞或充血。",
+        "affixesZh": "congest 加 -ion 构成名词 congestion；nasal 中 -al 构成形容词。",
+        "mnemonicZh": "鼻腔像道路被堵住，空气不畅，便是 nasal congestion。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-cough",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "cough 可作名词或动词，原形也是 cough；例句中形式不变。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆即可。",
+        "affixesZh": "本词没有明显词缀；名词和动词拼写相同。",
+        "mnemonicZh": "记住 cough 既可指一声咳嗽，也可表示咳出来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-dry-cough",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 dry cough；核心名词 cough。",
+        "rootsZh": "dry 是干的，cough 是咳嗽；组合表示没有痰的咳嗽。",
+        "affixesZh": "没有明显词缀；dry 和 cough 都是独立单词。",
+        "mnemonicZh": "想象咳嗽时喉咙发干、没有痰，联想到 dry cough。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-fever",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 fever；例句中形式不变。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆即可。",
+        "affixesZh": "没有明显词缀；词尾字母不作后缀分析。",
+        "mnemonicZh": "把 fever 和测体温联系起来：体温升高时可能发烧。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-chills",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形为 chill；此处常用复数 chills 表示发冷、寒战。",
+        "rootsZh": "chill 表示寒冷或发冷；此处整体记作寒战症状。",
+        "affixesZh": "末尾 -s 是复数屈折，不是派生后缀。",
+        "mnemonicZh": "想象发烧时冷得发抖，记住 chills 是一阵阵寒战。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-body-aches",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体是 body ache；aches 是 ache 的复数形式。",
+        "rootsZh": "body 是身体，ache 是持续疼痛；合指身体多处酸痛。",
+        "affixesZh": "aches 末尾 -s 表示复数屈折；body 无明显词缀。",
+        "mnemonicZh": "想象身体各处都在 ache（疼），便是 body aches。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-headache",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形 headache；例句中形式不变。",
+        "rootsZh": "head（头）+ ache（疼痛），是表示头痛的复合词。",
+        "affixesZh": "没有明显词缀；由两个独立词组合而成。",
+        "mnemonicZh": "把 ache（疼）定位在 head（头）上，就记住 headache。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-common-cold",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 common cold；核心名词是 cold。",
+        "rootsZh": "common 表示常见的，cold 表示感冒；合指普通感冒。",
+        "affixesZh": "没有明显词缀；common 和 cold 都是独立单词。",
+        "mnemonicZh": "记成“常见的感冒”；这里 cold 指感冒，不是寒冷天气。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-flu",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 flu；是 influenza 的常用缩略形式。",
+        "rootsZh": "整体记作 influenza 的缩略说法，不拆成词根。",
+        "affixesZh": "无明显词缀；flu 是缩短形式，不是加前后缀构成。",
+        "mnemonicZh": "把 flu 直接和 influenza（流感）对应记忆，日常口语常用 flu。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-over-the-counter-medication",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 over-the-counter medication；medication 可变复数 medications。",
+        "rootsZh": "由 over、the、counter、medication 构成；整体指无需处方、可直接购买的药。",
+        "affixesZh": "短语中的 over、the、counter 是独立词，不是词缀；medications 的 -s 是复数词尾。",
+        "mnemonicZh": "想象药品摆在柜台上可直接购买，记住 over-the-counter 表示非处方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-prescription-medication",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 prescription medication；medication 可变复数 medications。",
+        "rootsZh": "prescription 与 medication 组成；prescription 指医生开具的处方，medication 指药物。",
+        "affixesZh": "prescription 中 -tion 构成名词；medications 的 -s 是复数词尾。",
+        "mnemonicZh": "把药和医生开出的 prescription 联系起来，记作需要处方的药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pain-reliever",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 pain reliever；复数为 pain relievers。",
+        "rootsZh": "pain（疼痛）加 reliever（缓解者）；reliever 来自 relieve（缓解）。",
+        "affixesZh": "reliever 中 -er 构成表示施事或工具的名词；relievers 的 -s 表示复数。",
+        "mnemonicZh": "把它想成帮助缓解 pain 的东西，便于记住是止痛药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-fever-reducer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 fever reducer；复数为 fever reducers。",
+        "rootsZh": "fever（发烧）加 reducer（降低者）；reducer 来自 reduce（降低）。",
+        "affixesZh": "reducer 中 -er 构成表示施事或工具的名词；reducers 的 -s 表示复数。",
+        "mnemonicZh": "联想药物把 fever 降下来，记住 fever reducer 是退烧药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-cough-syrup",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 cough syrup；复数通常为 cough syrups。",
+        "rootsZh": "由 cough（咳嗽）和 syrup（糖浆）组成，指用于咳嗽的糖浆。",
+        "affixesZh": "没有明显词缀；两部分都是独立单词，复数 -s 加在 syrup 后。",
+        "mnemonicZh": "想象用量杯量取一勺糖浆来缓解咳嗽。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-throat-lozenge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 throat lozenge；复数为 throat lozenges。",
+        "rootsZh": "由 throat（喉咙）和 lozenge（含片）组成。",
+        "affixesZh": "没有明显词缀；复数变化发生在 lozenge 上，变为 lozenges。",
+        "mnemonicZh": "把含片在喉咙处慢慢含化，记住 throat lozenge 是润喉含片。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pharmacist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 pharmacist；复数为 pharmacists。",
+        "rootsZh": "与 pharmacy（药房、药学）相关，指在药学领域工作的专业人员。",
+        "affixesZh": "-ist 常表示从事某领域的人；pharmacists 的 -s 是复数词尾。",
+        "mnemonicZh": "联想在 pharmacy 里提供用药建议的专业人士，就是 pharmacist。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pharmacy-counter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 pharmacy counter；复数可说 pharmacy counters。",
+        "rootsZh": "由 pharmacy（药房）和 counter（柜台）组成，指药房里的柜台。",
+        "affixesZh": "没有明显词缀；复数 -s 加在中心词 counter 后。",
+        "mnemonicZh": "想象到药房柜台领取配好的处方药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-medication-label",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 medication label；复数为 medication labels。",
+        "rootsZh": "由 medication（药物）和 label（标签）组成，指药品上的标签或说明。",
+        "affixesZh": "medication 中 -tion 构成名词；labels 的 -s 表示复数。",
+        "mnemonicZh": "服药前先读贴在药品上的 label，核对剂量和用法。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-drug-interaction",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，原形为 drug interaction；复数为 drug interactions。",
+        "rootsZh": "由 drug（药物）和 interaction（相互作用）组成；interaction 与 interact 相关。",
+        "affixesZh": "interaction 中 inter- 表示相互，-ion 构成名词；interactions 的 -s 表示复数。",
+        "mnemonicZh": "想象两种药彼此影响对方的效果，记住 drug interaction 是药物相互作用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-sick-note",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语单数 sick note，复数为 sick notes。",
+        "rootsZh": "由 sick（生病的）和 note（证明、便条）组成。",
+        "affixesZh": "没有明显词缀；notes 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "生病时请医生写一张 note，交给雇主作为病假证明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-stay-hydrated",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 stay hydrated；stay 是原形，hydrated 是 hydrate 的过去分词。",
+        "rootsZh": "stay 表示保持；hydrate 表示补充水分，按整体记忆即可。",
+        "affixesZh": "hydrated 的 -ed 标示过去分词，也可作形容词；不是派生词缀。",
+        "mnemonicZh": "想象一整天小口喝水，让身体保持 hydrated（水分充足）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-get-some-rest",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 get some rest；核心动词 get 用原形。",
+        "rootsZh": "由 get（得到、获得）、some（一些）和 rest（休息）组成。",
+        "affixesZh": "没有明显词缀；some、rest 都是独立单词。",
+        "mnemonicZh": "把休息想成给自己补回一些精力：get some rest。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-symptom-relief",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 symptom relief，通常作不可数概念使用。",
+        "rootsZh": "symptom 指症状；relief 指缓解，二者组合表示症状得到减轻。",
+        "affixesZh": "没有明显词缀；relief 与动词 relieve 是同词族形式。",
+        "mnemonicZh": "药物带来 relief（缓解），但不一定消除 symptom（症状）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-centre",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语单数 recreation centre，复数可说 recreation centres。",
+        "rootsZh": "recreation 指休闲活动，centre 指中心；合起来是提供活动的场所。",
+        "affixesZh": "recreation 中 -ion 构成名词；centres 的 -s 是复数词尾。",
+        "mnemonicZh": "把游泳、滑冰和健身活动集中到一个 centre 来记。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-program-registration",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 program registration；registration 通常作不可数名词。",
+        "rootsZh": "program 是课程或活动项目；registration 指登记、报名。",
+        "affixesZh": "registration 中 -ation 构成名词；不是复数或时态变化。",
+        "mnemonicZh": "先选好 program，再完成 registration，才算报上项目。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-registration-opens",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 registration opens；opens 是 open 的第三人称单数形式。",
+        "rootsZh": "registration 指报名；open 在此表示开始接受报名。",
+        "affixesZh": "registration 的 -ation 构成名词；opens 的 -s 是主谓一致词尾。",
+        "mnemonicZh": "看到 opens，可想成报名入口在指定日期正式打开。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-registration-deadline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 registration deadline；deadline 指最后期限。",
+        "rootsZh": "registration 是报名；deadline 表示必须完成某事的最后时间。",
+        "affixesZh": "registration 中 -ation 构成名词；deadline 整体记忆，不强拆词义。",
+        "mnemonicZh": "把 deadline 想成日历上报名必须赶上的最后一条线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-join-the-waitlist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 join the waitlist；核心动词 join 用原形。",
+        "rootsZh": "join 是加入；waitlist 由 wait（等待）和 list（名单）组成。",
+        "affixesZh": "没有明显词缀；the 是独立冠词，不是词缀。",
+        "mnemonicZh": "课程满员时加入 waitlist，等待有人退出后递补。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-drop-in-program",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语单数 drop-in program；复数为 drop-in programs。",
+        "rootsZh": "drop-in 来自 drop in（顺道来、临时参加）；program 指活动项目。",
+        "affixesZh": "没有明显词缀；drop-in 是短语构成的复合修饰语。",
+        "mnemonicZh": "不必长期报名，想参加时直接 drop in 到活动现场。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-open-gym",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 open gym，通常作单数；本身无屈折变化。",
+        "rootsZh": "由 open（开放的）和 gym（体育馆）组成，表示开放使用的体育馆时段。",
+        "affixesZh": "没有明显词缀；open、gym 都是独立单词。",
+        "mnemonicZh": "想象社区体育馆开放时，大家自由进场活动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-public-swim",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 public swim；通常作单数，复数可说 public swims。",
+        "rootsZh": "public（公众的）修饰 swim（游泳），表示公众可参加的游泳时段。",
+        "affixesZh": "没有明显词缀；public 和 swim 都是独立单词。",
+        "mnemonicZh": "记成泳池专门留出一段时间向公众开放。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-leisure-swim",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 leisure swim，通常作单数；本身无屈折变化。",
+        "rootsZh": "leisure（休闲）修饰 swim（游泳），强调以休闲为目的的游泳时段。",
+        "affixesZh": "没有明显词缀；两个组成部分都是独立单词。",
+        "mnemonicZh": "想象不赶时间，在泳池轻松游几圈。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-family-swim",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 family swim；通常作单数，复数可说 family swims。",
+        "rootsZh": "family（家庭）修饰 swim（游泳），表示家庭或亲子参加的游泳时段。",
+        "affixesZh": "没有明显词缀；family 和 swim 都是独立单词。",
+        "mnemonicZh": "记住全家一起下水，儿童按规定由成人陪同。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-aquafit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "aquafit 是名词原形；此处指水中健身课或运动。",
+        "rootsZh": "由 aqua（水）和 fit（健身、健康）组合，表示水中健身。",
+        "affixesZh": "没有明显屈折或派生词缀；aqua 是表示水的构词成分。",
+        "mnemonicZh": "把 aqua 联想到水，fit 联想到健身：在水里锻炼。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-skating-session",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 skating session；skating 是 skate 的 -ing 形式。",
+        "rootsZh": "skating（滑冰）修饰 session（一场、一个时段），指一次滑冰场次。",
+        "affixesZh": "-ing 在此将 skate 构成动名词式名词；session 无明显词缀。",
+        "mnemonicZh": "把 session 想成一场有起止时间的活动，skating 说明活动内容。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-public-skating",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 public skating；skating 是 skate 的 -ing 形式。",
+        "rootsZh": "public（公众的）修饰 skating（滑冰），指向公众开放的滑冰活动。",
+        "affixesZh": "-ing 将 skate 构成动名词式名词；public 无明显词缀。",
+        "mnemonicZh": "想象冰场开放给公众，大家佩戴头盔自由滑冰。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-skate-sharpening",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 skate sharpening；sharpening 是 sharpen 的 -ing 形式。",
+        "rootsZh": "skate（冰鞋或冰刀）说明对象，sharpening 表示磨利、磨刃。",
+        "affixesZh": "sharpen 由 sharp 加动词后缀 -en 构成；-ing 在此构成名词。",
+        "mnemonicZh": "想象店员磨利冰刀，让鞋刃重新锋利好滑行。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-swimming-lessons",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形短语为 swimming lesson；此处 lessons 是 lesson 的复数。",
+        "rootsZh": "swimming（游泳）修饰 lesson（课程），合指游泳课程。",
+        "affixesZh": "swimming 中 -ing 构成动名词式修饰语；lessons 中 -s 表复数。",
+        "mnemonicZh": "记成一系列教人游泳的课，通常不止一节。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-beginner-class",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 beginner class；此处 beginner 和 class 均为单数。",
+        "rootsZh": "begin（开始）构成 beginner（初学者），修饰 class（班、课程）。",
+        "affixesZh": "-er 是表示人的派生后缀；class 无明显词缀。",
+        "mnemonicZh": "beginner 是刚开始学的人，beginner class 就是给初学者的班。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-intermediate-class",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 intermediate class；名词短语无屈折变化。",
+        "rootsZh": "intermediate 表示中级的，class 表示班级或课程，合起来指中级班。",
+        "affixesZh": "没有明显的派生词缀；词间空格不是词缀。",
+        "mnemonicZh": "想象游泳者已会连续游一段距离，进入高于初级的班。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-trial-class",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 trial class；名词短语无屈折变化。",
+        "rootsZh": "trial 表示试用、体验，class 表示课程，合起来指体验课。",
+        "affixesZh": "没有适合此处教学的明显词缀；class 不是后缀。",
+        "mnemonicZh": "报名整期课程前先上一节，像先试一试这门课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-instructor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 instructor；此处是单数名词，无屈折变化。",
+        "rootsZh": "由 instruct（指导、讲授）和表示施事者的 -or 构成。",
+        "affixesZh": "-or 是构成“做某事的人”的派生后缀，不是屈折词尾。",
+        "mnemonicZh": "把 instructor 记作负责指导你完成课程的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-class-schedule",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 class schedule；此处是单数名词短语。",
+        "rootsZh": "class 表示课程，schedule 表示时间安排，合起来是课程时间表。",
+        "affixesZh": "没有明显词缀；两个独立词组合成名词短语。",
+        "mnemonicZh": "想象查看表格，确认每节课安排在哪一天、几点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-session-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 session fee；此处为单数名词短语。",
+        "rootsZh": "session 表示一整期或一段活动，fee 表示费用，合指整期费用。",
+        "affixesZh": "没有明显词缀；session 和 fee 都是独立词。",
+        "mnemonicZh": "把八节课看作一个 session，报名时付对应的 fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-equipment-included",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 equipment included；included 是 include 的过去分词。",
+        "rootsZh": "equipment 表示器材，include 表示包含，合起来表示器材已包含。",
+        "affixesZh": "included 的 -ed 是过去分词屈折形式，不是此处的派生后缀。",
+        "mnemonicZh": "看套餐说明时，若器材 included，就不用另租冰鞋和头盔。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-bring-your-own",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 bring your own；bring 用动词原形作祈使句。",
+        "rootsZh": "bring 表示带来，your own 表示你自己的，合起来是请自带。",
+        "affixesZh": "没有词缀；your 和 own 是独立单词，不是后缀。",
+        "mnemonicZh": "上瑜伽课前，把自己的垫子和水瓶带到现场。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-cancellation-policy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 cancellation policy；此处是单数名词短语。",
+        "rootsZh": "cancellation 表示取消，policy 表示规则，合起来指取消规则。",
+        "affixesZh": "cancellation 中 -ation 构成名词；双写 l 是拼写形式。",
+        "mnemonicZh": "取消预约前先查规则，确认需提前多久通知才能获额度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-refund-policy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 refund policy；此处是单数名词短语。",
+        "rootsZh": "refund 表示退款或退还款项，policy 表示政策、规则，合起来指退款政策。",
+        "affixesZh": "refund 在此不宜拆分词缀；policy 也没有适合此处教学的明显词缀。",
+        "mnemonicZh": "支付课程费用前，先查看退款规则，确认取消或无法参加时能否退费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-assistant",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 research assistant；此处是单数名词短语。",
+        "rootsZh": "research 表示研究，assistant 表示助理，合起来指研究助理。",
+        "affixesZh": "assistant 可拆为 assist（协助）和表示执行者的 -ant。",
+        "mnemonicZh": "想象在实验室协助研究人员整理资料、运行实验。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-principal-investigator",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 principal investigator；本例为单数。",
+        "rootsZh": "principal 表示主要的；investigator 指调查或研究的人。",
+        "affixesZh": "investigator 中 -or 构成表示施事者的名词；短语无其他词缀。",
+        "mnemonicZh": "把它记作“主要的研究者”，对应统筹并批准研究计划的负责人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-lab-meeting",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 lab meeting；本例为单数。",
+        "rootsZh": "lab 是 laboratory 的常用简称；meeting 指会议。",
+        "affixesZh": "meeting 可看作 meet 加名词后缀 -ing，表示会面或会议；此处不是复数。",
+        "mnemonicZh": "想象研究组在实验室开会，每人轮流汇报最新结果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-one-on-one-meeting",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 one-on-one meeting；本例为单数。",
+        "rootsZh": "one-on-one 表示两人之间的一对一；meeting 指会议或会面。",
+        "affixesZh": "meeting 中 -ing 构成会议这一名词；介词 on 和连字符不是词缀。",
+        "mnemonicZh": "想象导师和学生两人单独交谈，再记住后接 meeting。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-progress-update",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 progress update；本例为单数。",
+        "rootsZh": "由 progress（进展）和 update（更新、最新情况）组成。",
+        "affixesZh": "没有明显词缀；两个独立词组合成名词短语。",
+        "mnemonicZh": "把它想成给团队发一条消息，更新项目目前进展。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-question",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 research question；本例为单数。",
+        "rootsZh": "research 表示研究；question 表示问题，二者组成复合名词。",
+        "affixesZh": "没有明显词缀；research 和 question 都是独立词。",
+        "mnemonicZh": "记作研究要回答的那个核心问题，范围可逐步缩小。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-hypothesis",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 hypothesis；本例为单数，复数为 hypotheses。",
+        "rootsZh": "没有适合初学者且可靠的现代英语拆分，建议整体记忆。",
+        "affixesZh": "没有明显的现代英语词缀；复数变化不规则，不是派生后缀。",
+        "mnemonicZh": "把它记作实验前提出、之后可由结果支持或否定的研究假说。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-baseline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 baseline；本例为单数。",
+        "rootsZh": "由 base（基础）和 line（线、基准）组成；此处指比较基准方法。",
+        "affixesZh": "没有明显词缀；base 和 line 是独立词。",
+        "mnemonicZh": "先设一条比较起点，再看新模型是否超过这条基准线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-ablation-study",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 ablation study；本例为单数。",
+        "rootsZh": "ablation 指移除或消融；study 指研究、实验。",
+        "affixesZh": "ablation 可分析为 ablate 加名词后缀 -ion；study 无明显词缀。",
+        "mnemonicZh": "逐个拿掉模型组件做测试，观察性能变化以判断各自贡献。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-dataset",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 dataset；本例为单数，复数通常为 datasets。",
+        "rootsZh": "由 data（数据）和 set（集合）组成，意为一组数据。",
+        "affixesZh": "本例没有词缀；复数 datasets 末尾的 -s 是屈折变化。",
+        "mnemonicZh": "想象把训练、验证和测试数据分别整理成一个个集合。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-reproducibility",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 reproducibility；本例为单数抽象名词。",
+        "rootsZh": "由 reproduce（再现、复现）构成词基，指他人能否重做出相近结果。",
+        "affixesZh": "re- 表示再次，-ible 表示能够，-ity 构成性质或状态名词。",
+        "mnemonicZh": "记住公开代码和实验细节，能帮助别人再次做出相近结果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-replication-study",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 replication study；复数为 replication studies。",
+        "rootsZh": "replication 来自动词 replicate（重复、复现）；study 表示研究，合起来指复现研究。",
+        "affixesZh": "replication 中 -ion 将动词变为名词；studies 是 study 的复数形式。",
+        "mnemonicZh": "把原研究再做一次（replication），检验结果能否重现。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-preliminary-results",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 preliminary results；result 的单数形式是 result。",
+        "rootsZh": "results 表示结果；preliminary 意为初步的，整体指尚未定论的早期结果。",
+        "affixesZh": "results 末尾 -s 是名词复数标记；preliminary 不宜按字母硬拆。",
+        "mnemonicZh": "把结果想成研究进程中的第一站：已有发现，但还需更多实验确认。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-ethics",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 research ethics，形式通常不变，指研究中的伦理规范。",
+        "rootsZh": "research（研究）与 ethics（伦理）组成复合名词短语。",
+        "affixesZh": "没有明显词缀；ethics 末尾虽有 -s，此处是该词的固定形式。",
+        "mnemonicZh": "研究参与者前，先想想研究过程是否尊重权利、保护隐私。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-ethics-approval",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 ethics approval；表示研究获得伦理批准。",
+        "rootsZh": "ethics（伦理）修饰 approval（批准），组合表示伦理审查通过。",
+        "affixesZh": "approval 中 -al 将 approve 变为名词；ethics 中的 -s 不是此处的复数标记。",
+        "mnemonicZh": "招募参与者前先拿到这张“伦理绿灯”，才能按计划开展研究。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-consent-form",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 consent form；复数通常为 consent forms。",
+        "rootsZh": "consent（同意）与 form（表格、文件）组成，指记录参与意愿的文件。",
+        "affixesZh": "没有明显词缀；forms 中 -s 是 form 的复数标记。",
+        "mnemonicZh": "参与研究前先读表格，了解内容并决定是否同意。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-participant-recruitment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 participant recruitment，通常作整体阶段名称。",
+        "rootsZh": "participant（参与者）与 recruitment（招募）组合，指招募研究参与者。",
+        "affixesZh": "participant 中 -ant 构成表示人的名词；recruitment 中 -ment 将 recruit 变为名词。",
+        "mnemonicZh": "先找到愿意参加研究的人，再进入后续的数据收集阶段。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-data-collection",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 data collection；collection 的原形为 collection。",
+        "rootsZh": "data（数据）与 collection（收集）组成，指收集研究所需数据。",
+        "affixesZh": "collection 中 -ion 将 collect 变为名词；data 常作不可数或集合名词使用。",
+        "mnemonicZh": "研究进行时，把问卷、访谈或测量所得资料逐步汇集起来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-data-analysis",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 data analysis；analysis 的复数形式是 analyses。",
+        "rootsZh": "data（数据）与 analysis（分析）组合，表示对收集到的数据进行分析。",
+        "affixesZh": "没有适合此处的明显词缀拆分；analysis 是整体记忆的名词。",
+        "mnemonicZh": "收集数据之后，整理并检查它们，从中寻找有根据的结论。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-co-author",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "co-author 可作名词或动词；名词复数为 co-authors，动词可变为 co-authored。",
+        "rootsZh": "author 表示作者；co- 表示共同，合起来是共同作者或共同撰写。",
+        "affixesZh": "co- 是表示共同、协作的前缀；复数 -s、过去式 -ed 属屈折变化。",
+        "mnemonicZh": "一篇论文由多人共同写作时，每位合作者都可称为 co-author。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-authorship",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词 authorship，通常不可数，表示作者身份或署名资格。",
+        "rootsZh": "author（作者）是词基，构成 authorship，表示作者身份、资格或署名关系。",
+        "affixesZh": "-ship 是名词后缀，可表示身份、地位或关系；此处接在 author 后。",
+        "mnemonicZh": "项目早期讨论 authorship，就是先说清谁以作者身份署名及其贡献。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-author-contribution",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；author 和 contribution 均为单数。",
+        "rootsZh": "由 author（作者）和 contribution（贡献、分工）组成。",
+        "affixesZh": "contribution 中有名词后缀 -tion；短语本身无词缀。",
+        "mnemonicZh": "想象论文末尾列出每位作者负责的工作，就是作者贡献说明。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-acknowledgement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 acknowledgement；复数形式是 acknowledgements。",
+        "rootsZh": "可联系 acknowledge（确认、致谢），表示表达感谢的内容。",
+        "affixesZh": "-ment 加在 acknowledge 后构成名词，表示行为或结果。",
+        "mnemonicZh": "把资助方写进论文致谢部分，记作对帮助的 acknowledgement。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-preprint",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 preprint；复数形式是 preprints。",
+        "rootsZh": "由 pre（之前）和 print（印本、出版文本）组成。",
+        "affixesZh": "前缀 pre- 表示“在……之前”；复数 -s 是屈折变化。",
+        "mnemonicZh": "论文正式出版前先公开的版本，就是 preprint。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-camera-ready",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "连字符复合词，可作形容词或名词。",
+        "rootsZh": "由 camera（相机）和 ready（准备好的）组成，整体指可提交出版的终稿。",
+        "affixesZh": "没有明显词缀；连字符连接两个独立词，不是词缀。",
+        "mnemonicZh": "想象把校订完的论文文件交给会议，已准备好进入出版流程。"
+      }
+    }
+  ]
+}

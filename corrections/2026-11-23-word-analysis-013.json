@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-013",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "transit-get-on",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形 get on；例句 got on 中 got 是 get 的过去式。",
+        "rootsZh": "get 表示到达或进入，on 表示上到交通工具上；整体记作“上车”。",
+        "affixesZh": "没有明显派生词缀；got 是 get 的不规则过去式，on 是独立小品词。",
+        "mnemonicZh": "在站台 get on the train，就是登上列车；讲过去用 got on。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-move-to-the-back",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形 move to the back；move 是核心动词原形。",
+        "rootsZh": "move“移动”，to 表方向，the back 指后部；短语整体表示往后移。",
+        "affixesZh": "没有明显词缀；to、the、back 都是独立单词。",
+        "mnemonicZh": "车厢拥挤时，move to the back 就是向后挪，为上车的人腾空间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-let-passengers-off",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形 let passengers off；passengers 为 passenger 的复数。",
+        "rootsZh": "let“让”，passengers“乘客”，off 表离开；整体是让乘客先下车。",
+        "affixesZh": "passengers 的 -s 是复数屈折词尾；off 是独立小品词，不是词缀。",
+        "mnemonicZh": "车门打开时先 let passengers off，让车上的乘客离开，再上车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-give-up-your-seat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 give up your seat；例句 gave 是 give 的不规则过去式。",
+        "rootsZh": "give up 在此表示让出，seat 是座位；整体记作“让出座位”。",
+        "affixesZh": "短语没有明显派生词缀；gave 的过去式变化是不规则屈折。",
+        "mnemonicZh": "想象有人把自己的座位让给拄手杖的乘客。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-lost-and-found",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定名词短语 lost and found；lost、found 分别对应 lose、find 的过去分词。",
+        "rootsZh": "由 lost（遗失的）和 found（找到的）组成，整体指失物招领处或服务。",
+        "affixesZh": "没有明显派生词缀；lost、found 是不规则过去分词形式。",
+        "mnemonicZh": "把它想成先 lost（丢失）、再 found（找到）的地方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-accessibility-ramp",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 accessibility ramp；核心名词 ramp，指坡板或坡道。",
+        "rootsZh": "accessibility 来自 accessible，表达可进入、可使用；ramp 是坡道。",
+        "affixesZh": "-ity 加在 accessible 后构成名词，表示性质或状态；不是屈折变化。",
+        "mnemonicZh": "想象轮椅使用者沿坡板进入公交车，通行更方便。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-low-floor-bus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 low-floor bus；low、floor、bus 均为原形。",
+        "rootsZh": "由 low（低的）、floor（地板）和 bus（公交车）组成，指地板较低的公交车。",
+        "affixesZh": "没有明显词缀；low-floor 是修饰 bus 的复合表达。",
+        "mnemonicZh": "记住车厢地板离地较低，行动不便者上下车更方便。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-stop-announcement",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 stop announcement；announcement 是 announce 的名词形式。",
+        "rootsZh": "stop 指停靠站，announce 表示播报；整体是报站信息或到站播报。",
+        "affixesZh": "-ment 加在 announce 后构成名词，表示播报这件事或内容。",
+        "mnemonicZh": "车厢广播 announce（播报）下一个 stop（站），就是到站播报。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-service-alert",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 service alert；两个词均为原形，常用复数 service alerts。",
+        "rootsZh": "service 指交通服务，alert 指提醒或警报；合起来是服务变动提醒。",
+        "affixesZh": "没有明显派生词缀；alerts 中的 -s 是名词复数屈折词尾。",
+        "mnemonicZh": "出门前查看提醒，确认公交或列车服务是否正常。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-platform-edge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 platform edge；两个词均为原形。",
+        "rootsZh": "platform 是站台，edge 是边缘；组合后指站台边缘。",
+        "affixesZh": "没有明显词缀；这是普通名词组合。",
+        "mnemonicZh": "想象站在月台边缘时向后退一步，远离进站列车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-elevator-access",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 elevator access；两个词均为原形，表示可通过电梯通行。",
+        "rootsZh": "elevator 指电梯，access 指进入或通行；整体询问能否乘电梯到达。",
+        "affixesZh": "elevator 中的 -or 构成表示设备的名词；access 无明显词缀。",
+        "mnemonicZh": "带着行李找电梯，确认能否一路到达地铁站台。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-bus-shelter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 bus shelter；两个词均为原形。",
+        "rootsZh": "bus 是公交车，shelter 是遮蔽处；组合指公交站旁供候车避风雨的亭子。",
+        "affixesZh": "没有明显词缀；shelter 在这里是独立名词。",
+        "mnemonicZh": "下雪候车时躲进 shelter 避风雪，记作公交候车亭。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "calendar-invite",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 calendar invite；invite 在此作名词，动词原形也是 invite。",
+        "rootsZh": "calendar 是日历，invite 是邀请；合起来指发送到日历中的会议邀请。",
+        "affixesZh": "没有明显词缀；invite 作名词是词类转换，不是加后缀构成。",
+        "mnemonicZh": "收到日历上的 invite，就能查看并确认会议时间。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "meeting-room",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 meeting room；复数通常在 room 后加 -s，作 meeting rooms。",
+        "rootsZh": "由 meeting（会议）和 room（房间）组成，合起来指开会用的房间。",
+        "affixesZh": "meeting 中的 -ing 构成表示活动的名词；room 后的 -s 才是复数屈折。",
+        "mnemonicZh": "想象预订房间后，团队进去围桌开会：meeting room 就是会议室。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "video-call",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 video call；复数通常在 call 后加 -s，作 video calls。",
+        "rootsZh": "由 video（视频）和 call（通话）组成，表示通过视频进行的通话。",
+        "affixesZh": "video 和 call 都是独立词；本短语没有明显派生词缀。",
+        "mnemonicZh": "想象屏幕里看见同事并与其交谈：video call 是视频通话。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "join-a-call",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 join a call；核心动词是 join，过去式为 joined。",
+        "rootsZh": "由 join（加入）、a（一个）和 call（通话）组成，整体表示加入通话。",
+        "affixesZh": "a 是独立冠词，call 是名词；短语没有前缀或后缀。",
+        "mnemonicZh": "会议开始前点链接进入通话，就像加入一间线上会议室。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "screen-share",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词和动词原形均为 screen share；动词过去式为 screen-shared。",
+        "rootsZh": "由 screen（屏幕）和 share（分享）组成，表示屏幕共享或共享屏幕。",
+        "affixesZh": "两部分都是独立词，没有明显词缀；动词过去式可加屈折后缀 -ed。",
+        "mnemonicZh": "把自己的屏幕内容展示给同事一起看，就是 screen share。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mute-call",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 mute；本词也是形容词原形，表示静音或处于静音状态。",
+        "rootsZh": "现代英语中 mute 整体记忆即可，表示无声、静音；不宜硬拆字母。",
+        "affixesZh": "mute 没有明显前后缀；此处不是带屈折词尾的形式。",
+        "mnemonicZh": "线上会议不说话时关掉麦克风，声音消失，便是 mute。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unmute-call",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 unmute；过去式和过去分词为 unmuted。",
+        "rootsZh": "由 un-（取消、反向）和 mute（静音）组成，表示取消静音。",
+        "affixesZh": "前缀 un- 表示撤销原状态；-ed 是动词过去式或过去分词屈折后缀。",
+        "mnemonicZh": "按下取消静音按钮，让被关掉的麦克风重新传出声音。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "connection-issue",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 connection issue；复数通常为 connection issues。",
+        "rootsZh": "由 connection（连接）和 issue（问题）组成；connection 与 connect（连接）相关。",
+        "affixesZh": "connection 中 -ion 构成名词；issue 无明显词缀，短语无其他词缀。",
+        "mnemonicZh": "网络连接断断续续，会议声音听不清，这就是 connection issue。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "follow-up-work",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 follow up；例句中 follow 不变，过去式为 followed up。",
+        "rootsZh": "由 follow（跟随）和副词小品词 up 组成，整体表示继续跟进或确认。",
+        "affixesZh": "up 是独立小品词，不是前缀；follow 的 -ed 是过去式屈折变化。",
+        "mnemonicZh": "第一次联系后再追问交货日期，像沿着事项继续往下跟进。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circle-back",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 circle back；过去式为 circled back，back 保持不变。",
+        "rootsZh": "由 circle（绕回）和 back（回去）组成，引申为稍后回到某议题。",
+        "affixesZh": "back 是独立副词小品词，不是后缀；circle 的 -ed 表示过去时。",
+        "mnemonicZh": "先暂放预算议题，拿到新报价后再绕回原处继续讨论。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deadline-extension",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 deadline extension；复数可说 deadline extensions。",
+        "rootsZh": "deadline 是表示最后期限的复合词；extension 来自 extend（延长），指延长期限。",
+        "affixesZh": "extension 中 -ion 构成名词；deadline 是整体词，短语没有其他明显词缀。",
+        "mnemonicZh": "把原定最后期限向后延两天，想象日历上的终点线被推远。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "status-update",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 status update；复数通常加 -s：status updates。",
+        "rootsZh": "由 status（状况）和 update（更新）组成，表示对当前状况的更新。",
+        "affixesZh": "没有明显派生词缀；updates 中的 -s 是复数屈折词尾。",
+        "mnemonicZh": "想象经理询问项目 status，再收到一份 update，就是进展更新。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-blocker",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 blocker；复数为 blockers。",
+        "rootsZh": "来自 block（阻挡）；在此指挡住项目推进的问题。",
+        "affixesZh": "-er 构成表示人或事物的名词；这里指造成阻碍的事物。",
+        "mnemonicZh": "把项目想成前进中的队伍，blocker 就是挡在路上的问题。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-dependency",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 dependency；复数为 dependencies。",
+        "rootsZh": "以 depend（依赖）为词基，表示依赖关系或必须满足的条件。",
+        "affixesZh": "-ency 构成表示状态或关系的名词；复数变化为 -ies。",
+        "mnemonicZh": "上线表格要先等法务批准，说明上线这一步依赖批准。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-milestone",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 milestone；复数为 milestones。",
+        "rootsZh": "由 mile（英里）和 stone（石头）组成，现常指重要阶段节点。",
+        "affixesZh": "没有明显派生词缀；复数形式加 -s。",
+        "mnemonicZh": "想象路边标示里程的石碑：走到它，就完成了一个重要节点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-timeline",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 timeline；复数为 timelines。",
+        "rootsZh": "由 time（时间）和 line（线）组成，指按时间排列的安排。",
+        "affixesZh": "没有明显派生词缀；复数形式加 -s。",
+        "mnemonicZh": "把交付日期沿一条线标出来，就是项目的时间安排。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-scope",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 scope；复数为 scopes。",
+        "rootsZh": "现代英语中整体记忆，表示某项工作所涵盖的范围。",
+        "affixesZh": "没有明显词缀；复数形式加 -s。",
+        "mnemonicZh": "想象给项目画一个边界圈，圈外的手机应用就不在 scope 内。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-priority",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 priority；复数为 priorities。",
+        "rootsZh": "以 prior（在先的）为词基，表示更应先处理的事项。",
+        "affixesZh": "-ity 构成抽象名词；复数 y 变 i 再加 -es。",
+        "mnemonicZh": "把付款错误排在清单最前面，它就是今天的 top priority。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "task-owner",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 task owner；复数常为 task owners。",
+        "rootsZh": "由 task（任务）和 owner（所有者、负责人）组成，指任务负责人。",
+        "affixesZh": "owner 中的 -er 构成表示人的名词；短语本身无额外词缀。",
+        "mnemonicZh": "给每项任务标上一个人的名字，便能看出由谁负责。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "point-person",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 point person；复数为 point people。",
+        "rootsZh": "由 point 和 person 组成，整体记作某事务的主要联系人或牵头人。",
+        "affixesZh": "没有明显词缀；这是由两个独立单词构成的短语。",
+        "mnemonicZh": "办公室搬迁有疑问时，大家都找同一个指定联系人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-handoff",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 handoff；相关动词短语为 hand off（交接）。",
+        "rootsZh": "由 hand（递交）和 off（交出去）组成，表示把工作移交给别人。",
+        "affixesZh": "没有派生词缀；off 是独立小品词，不是后缀。",
+        "mnemonicZh": "最终测试完成后，把工作像接力棒一样递给支持团队。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "take-over-task",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形是 take over；此处用原形，过去式为 took over。",
+        "rootsZh": "由动词 take“接手、拿取”和副词 over 组成，合起来表示接管。",
+        "affixesZh": "没有明显词缀；over 是独立的小品词，不是后缀。",
+        "mnemonicZh": "同事休假时，你把周报任务接过来继续做，就是 take over。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-bandwidth",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 bandwidth；此处为单数形式，复数可加 -s。",
+        "rootsZh": "由 band“带、频带”和 width“宽度”组成；此处引申为可用的工作容量。",
+        "affixesZh": "没有明显派生词缀；复数 bandwidths 的 -s 是屈折词尾。",
+        "mnemonicZh": "把一周的精力想成有限带宽，项目占满后就没有余量再接新任务。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "schedule-conflict",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 schedule conflict；此处为单数，复数通常在 conflict 后加 -s。",
+        "rootsZh": "由 schedule“日程”和 conflict“冲突”组成，表示两项安排撞在同一时间。",
+        "affixesZh": "没有明显派生词缀；复数形式中的 -s 是屈折词尾。",
+        "mnemonicZh": "下午两点已有安排，会议也排在两点，两个日程便发生 conflict。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-office",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定短语 out of office；可用于说明暂时不在岗，不作词形变化。",
+        "rootsZh": "由 out“在外”、of 和 office“办公室”组成，整体表示不在办公室办公。",
+        "affixesZh": "没有词缀；out、of、office 都是独立单词。",
+        "mnemonicZh": "休假邮件写明 Friday out of office，表示周五不在岗、周一再回复。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-311",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "数字名称 311；此处指市政非紧急服务热线，没有词形变化。",
+        "rootsZh": "311 是服务号码，不是可可靠拆解的英语词，也不是缩写展开。",
+        "affixesZh": "没有词缀；它是数字形式的专名式号码。",
+        "mnemonicZh": "垃圾漏收等非紧急市政问题，可记得拨打本地 311 询问。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "municipal-service-request",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 service request；此处为单数，复数在 request 后加 -s。",
+        "rootsZh": "service“服务”和 request“请求”组合，指向市政部门提交的服务申请或工单。",
+        "affixesZh": "没有明显派生词缀；requests 的 -s 是名词复数屈折词尾。",
+        "mnemonicZh": "提交路灯报修后保存 reference number，便于查询这项 service request。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "report-a-problem",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 report a problem；动词原形是 report，过去式为 reported。",
+        "rootsZh": "由 report“报告”、a 和 problem“问题”组成；report 不作不可靠的字母拆分。",
+        "affixesZh": "没有明显派生词缀；reported 的 -ed 是过去式词尾，a 不是词缀。",
+        "mnemonicZh": "发现人行道损坏后，在市府网站 report a problem，提交故障情况。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "streetlight",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 streetlight；此处为单数，复数为 streetlights。",
+        "rootsZh": "由 street“街道”和 light“灯光”组成，指照亮街道的灯。",
+        "affixesZh": "没有派生词缀；复数形式末尾的 -s 是屈折词尾。",
+        "mnemonicZh": "夜里楼外那盏照着街面的灯，就是 streetlight。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-sidewalk",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 sidewalk；此处为单数，复数为 sidewalks。",
+        "rootsZh": "由 side“旁边”和 walk“步行、步道”组成，指沿街供行人走的道路。",
+        "affixesZh": "没有派生词缀；sidewalks 的 -s 是名词复数屈折词尾。",
+        "mnemonicZh": "在公交站旁沿街步行的那条道，就是 sidewalk；路面不平要留心。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "road-closure",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 road closure；此处为单数，复数为 road closures。",
+        "rootsZh": "road“道路”加 closure“关闭、封闭”，合指道路封闭。",
+        "affixesZh": "closure 由 close 加名词后缀 -ure 构成；closures 的 -s 表示复数。",
+        "mnemonicZh": "游行时 King Street 暂停通行，公告可写 road closure。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "construction-notice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 construction notice；此处没有屈折变化。",
+        "rootsZh": "由 construction（施工、建造）和 notice（通知）组成。",
+        "affixesZh": "construction 中 construct 加名词后缀 -ion；notice 无明显词缀。",
+        "mnemonicZh": "把它记作“施工的通知”：看到 notice 就想到工程何时开工。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-main",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 water main；没有单复数或其他屈折变化。",
+        "rootsZh": "由 water（水）和 main（主要的、主管的）组成。",
+        "affixesZh": "没有明显词缀；main 是独立单词，不是后缀。",
+        "mnemonicZh": "想象街道地下那条供水主干线：它是 water 的 main 管道。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-shutoff",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 water shutoff；此处表示停水，没有屈折变化。",
+        "rootsZh": "由 water（水）和 shutoff（关闭、切断）组成；shut off 是相关动词短语。",
+        "affixesZh": "没有明显词缀；off 是独立小品词，不是后缀。",
+        "mnemonicZh": "维修时把供水 shut off，住户便会遇到 water shutoff。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "boil-water-advisory",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 boil water advisory；没有屈折变化。",
+        "rootsZh": "由 boil（水煮沸）、water（水）和 advisory（提醒、公告）组成。",
+        "affixesZh": "advisory 中 advise 加 -ory 构成提醒或咨询类词；短语其余部分无词缀。",
+        "mnemonicZh": "看到 advisory，就记作官方提醒：先把饮用水 boil（煮沸）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "street-curb",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 curb；例句中单数形式没有屈折变化。",
+        "rootsZh": "curb 在此指路缘，现代英语中没有适合此义的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；词尾字母不是可确认的派生后缀。",
+        "mnemonicZh": "想象把回收箱放在 curb 边：它就在路面与人行道交界处。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "storm-drain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 storm drain；例句中没有屈折变化。",
+        "rootsZh": "由 storm（暴雨）和 drain（排水设施）组成，指排走雨水的入口或管道。",
+        "affixesZh": "没有明显词缀；storm 和 drain 都是独立词。",
+        "mnemonicZh": "暴雨 storm 来时，水流进 drain，记住它是雨水排水口。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-washroom",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 public washroom；此处没有屈折变化。",
+        "rootsZh": "public 表示公共的；washroom 由 wash（洗）和 room（房间）组成。",
+        "affixesZh": "没有明显词缀；washroom 是复合词，room 在这里不是后缀。",
+        "mnemonicZh": "把 washroom 想成可以洗手的房间，public 表示大家都能使用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-playground",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 playground；例句中单数形式没有屈折变化。",
+        "rootsZh": "playground 由 play（玩耍）和 ground（场地）组成，指儿童游乐场。",
+        "affixesZh": "没有明显词缀；play 和 ground 是组成复合词的独立词。",
+        "mnemonicZh": "孩子们在一块供玩耍的 ground 上活动，就是 playground。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "splash-pad",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 splash pad；此处没有屈折变化。",
+        "rootsZh": "由 splash（水花、溅水）和 pad（平坦区域）组成。",
+        "affixesZh": "没有明显词缀；splash 和 pad 都是独立单词。",
+        "mnemonicZh": "想象孩子在平坦的 pad 上追着喷出的水花 splash 玩。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "off-leash-area",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 off-leash area；没有屈折变化。",
+        "rootsZh": "off-leash 由 off（脱离）和 leash（牵引绳）组成，修饰 area（区域）。",
+        "affixesZh": "没有明显词缀；off 是独立词，不是前缀，连字符表示组合。",
+        "mnemonicZh": "记住 leash 是狗绳：off-leash area 就是允许狗脱绳活动的区域。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "warming-centre",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 warming centre；warming 是 warm 的 -ing 形式，centre 为中心。",
+        "rootsZh": "warm 表示暖和，centre 表示中心；合起来指供人取暖的场所。",
+        "affixesZh": "warming 中的 -ing 是动词的现在分词形式，作前置修饰语；不是派生后缀。",
+        "mnemonicZh": "想象严寒警报时走进一处能取暖的公共中心。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cooling-centre",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 cooling centre；cooling 是 cool 的 -ing 形式，centre 为中心。",
+        "rootsZh": "cool 表示凉爽，centre 表示中心；合起来指供人避暑降温的场所。",
+        "affixesZh": "cooling 中的 -ing 是动词的现在分词形式，作前置修饰语；不是派生后缀。",
+        "mnemonicZh": "高温警报时，到图书馆这样的 cooling centre 躲热纳凉。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "municipal-public-notice",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是名词短语 public notice；两词均为原形，notice 在此用单数。",
+        "rootsZh": "public 表示公众的，notice 表示通知或公告；合起来是面向公众发布的信息。",
+        "affixesZh": "没有明显词缀；public 和 notice 都是独立词，短语中的词序不构成词缀。",
+        "mnemonicZh": "把市政道路施工日期和地点写在公告上，居民都能查看。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-consultation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 public consultation；consultation 是名词，动词原形为 consult。",
+        "rootsZh": "public 表示公众的；consult 表示征询意见，consultation 指征询意见这一过程。",
+        "affixesZh": "consultation 中有派生后缀 -ation，将 consult 变为表示过程或活动的名词。",
+        "mnemonicZh": "市政府规划自行车道时开会听居民意见，就是 public consultation。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bulky-item",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语为 bulky item；bulky 是形容词，item 是单数名词。",
+        "rootsZh": "bulk 表示体积或大块；item 表示物品，bulky item 指体积大的物品。",
+        "affixesZh": "bulky 中 -y 是派生后缀，使 bulk 变为“体积大的”这一形容词。",
+        "mnemonicZh": "旧床垫或沙发占地方、搬运不便，可记作 bulky item。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "yard-waste",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 yard waste；通常作不可数用法，yard 和 waste 均为原形。",
+        "rootsZh": "由 yard（庭院）和 waste（废物）组成，指庭院清理产生的有机废物。",
+        "affixesZh": "没有明显词缀；yard 与 waste 是独立词组成的复合名词。",
+        "mnemonicZh": "秋天把院里的落叶装袋收走，落叶就是 yard waste。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "household-hazardous-waste",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 household hazardous waste；三个词均为原形，整体指家庭危险废物。",
+        "rootsZh": "household 指家庭，hazardous 指有危险的，waste 指废物；共同限定废物类别。",
+        "affixesZh": "hazardous 中 -ous 是形容词派生后缀；其余词无明显适合拆讲的词缀。",
+        "mnemonicZh": "装修剩下的油漆不能随意倒掉，应送到家庭危险废物投放点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fallen-tree",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 fallen tree；fallen 是 fall 的不规则过去分词形式，tree 为单数。",
+        "rootsZh": "fall 表示倒下，tree 表示树；fallen tree 即已经倒下的树。",
+        "affixesZh": "fallen 是 fall 的不规则过去分词，-en 属于屈折形式的一部分，不是派生后缀。",
+        "mnemonicZh": "暴风过后，一棵树横倒在人行道上，就是 fallen tree。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-graffiti",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条为 graffiti，通常作不可数名词；此处指公共设施上的涂鸦。",
+        "rootsZh": "graffiti 是整体记忆的借词，指涂鸦或乱写乱画；不宜按英语字母拆解。",
+        "affixesZh": "没有适合教学的英语词缀；不要把词尾 -i 当作英语复数后缀。",
+        "mnemonicZh": "看到公交候车亭被人乱涂乱画，可想到 graffiti。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-board",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 school board；两词均为原形，board 在此表示管理委员会。",
+        "rootsZh": "school 表示学校，board 表示委员会；合起来指负责学校事务的教育管理机构。",
+        "affixesZh": "没有明显词缀；school 和 board 是独立词组成的复合名词。",
+        "mnemonicZh": "恶劣天气时查看 school board 网站，确认辖区学校是否停课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-catchment-area",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 catchment area。",
+        "rootsZh": "由 catchment（所覆盖或服务的范围）和 area（区域）组成。",
+        "affixesZh": "catchment 中 -ment 构成名词；area 无明显词缀。",
+        "mnemonicZh": "把学校想成接收某片区域学生的服务点，记作招生范围。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-school",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 public school。",
+        "rootsZh": "public（公共的）和 school（学校）组合，指公立学校。",
+        "affixesZh": "没有明显词缀；public 和 school 都是独立词。",
+        "mnemonicZh": "公共经费支持的学校，记住 public school 是公立学校。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "elementary-school",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 elementary school。",
+        "rootsZh": "elementary 与 element（基础要素）同词族；school 是学校。",
+        "affixesZh": "elementary 中 -ary 构成形容词；没有屈折变化。",
+        "mnemonicZh": "elementary 表示基础阶段，elementary school 就是小学。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "secondary-school",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 secondary school。",
+        "rootsZh": "secondary 与 second（第二）同词族，school 指学校。",
+        "affixesZh": "secondary 中 -ary 构成形容词；不是复数或分词形式。",
+        "mnemonicZh": "小学之后进入下一阶段，secondary school 可记作中学。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-kindergarten",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "kindergarten 是名词，单数形式；复数为 kindergartens。",
+        "rootsZh": "借自德语复合词 Kinder（孩子）和 Garten（花园）。",
+        "affixesZh": "没有明显英语词缀；词尾 -s 在 kindergartens 中表示复数。",
+        "mnemonicZh": "把它想成孩子开始集体学习的阶段，记作幼儿园或学前班。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-registration",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 school registration；registration 是名词。",
+        "rootsZh": "school（学校）加 registration（登记），表示入学登记。",
+        "affixesZh": "registration 中 -ation 构成名词；不是动词的屈折变化。",
+        "mnemonicZh": "入学前填写资料、确认学籍，就是 school registration。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-report-card",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 report card，单数；复数为 report cards。",
+        "rootsZh": "report（报告）和 card（卡片、表单）组成。",
+        "affixesZh": "没有明显派生词缀；cards 的 -s 表示复数。",
+        "mnemonicZh": "学校把成绩汇总在一份报告表上，记作 report card。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parent-teacher-interview",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 parent-teacher interview。",
+        "rootsZh": "parent（家长）、teacher（教师）和 interview（面谈）组合。",
+        "affixesZh": "短语中的连字符不是词缀；teacher 的 -er 表示从事教学的人。",
+        "mnemonicZh": "家长和教师约时间交谈，便是 parent-teacher interview。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-permission-form",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 permission form。",
+        "rootsZh": "permission（许可）与 form（表格）组合，指许可表。",
+        "affixesZh": "permission 中 -ion 构成名词；form 没有明显词缀。",
+        "mnemonicZh": "活动前在表格上同意孩子参加，记作 permission form。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-field-trip",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 field trip，单数；复数为 field trips。",
+        "rootsZh": "field（田野、校外场地）和 trip（出行）组成。",
+        "affixesZh": "没有明显派生词缀；trips 的 -s 表示复数。",
+        "mnemonicZh": "班级离开校园去科学中心参观，就是 field trip。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-bus",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 school bus；复数通常是 school buses。",
+        "rootsZh": "由 school（学校）和 bus（公共汽车）组成。",
+        "affixesZh": "没有明显词缀；bus 的复数 -es 是屈折变化。",
+        "mnemonicZh": "想象孩子早晨在站点等一辆接送学生的校车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "packed-lunch",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 packed lunch；复数是 packed lunches。",
+        "rootsZh": "由 packed（装好的）和 lunch（午餐）组成。",
+        "affixesZh": "packed 中 -ed 标记 pack 的过去分词，作修饰语；不是复数。",
+        "mnemonicZh": "想象把午餐装进盒子带去学校，便是自带午餐。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-recess",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是 recess，名词原形与复数形式相同。",
+        "rootsZh": "recess 整体记忆为课间休息；不宜按字母硬拆。",
+        "affixesZh": "没有适合此义教学的明显词缀。",
+        "mnemonicZh": "想象铃声响起，孩子离开课桌到户外活动。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-homeroom",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 homeroom；复数可写 homerooms。",
+        "rootsZh": "由 home（固定归属处）和 room（房间）组成。",
+        "affixesZh": "没有明显词缀；room 的复数词尾不在原形中。",
+        "mnemonicZh": "把 homeroom 想成学生每天先报到的固定教室。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "supply-teacher",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 supply teacher；复数通常是 supply teachers。",
+        "rootsZh": "由 supply（临时补充、替代）和 teacher（教师）组成。",
+        "affixesZh": "teacher 中 teach 加名词后缀 -er，表示从事教学的人。",
+        "mnemonicZh": "平时老师不在时，学校安排另一位老师来补位授课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-attendance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "attendance 是名词原形，表示出勤或到课情况。",
+        "rootsZh": "与 attend（出席、到场）相关，现代词基可记 attend。",
+        "affixesZh": "-ance 构成名词，表示出席状态或情况。",
+        "mnemonicZh": "在线查看 attendance record，就是核对孩子哪些天到校。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-absence",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "absence 是名词原形，表示缺席或未到校。",
+        "rootsZh": "与 absent（缺席的）同属一组词，整体记作缺席状态。",
+        "affixesZh": "-ence 构成名词；不要把它当作复数或过去式。",
+        "mnemonicZh": "孩子生病没到校，家长要向学校报告这次 absence。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-late-slip",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 late slip；复数是 late slips。",
+        "rootsZh": "由 late（迟到的）和 slip（小纸条、单据）组成。",
+        "affixesZh": "没有明显词缀；slips 中的 -s 是复数词尾。",
+        "mnemonicZh": "迟到后先去办公室领一张小单据，再拿它去上课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "early-dismissal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 early dismissal；通常作名词短语使用。",
+        "rootsZh": "由 early（提前）和 dismissal（放行、解散）组成。",
+        "affixesZh": "dismissal 中 -al 构成名词；early dismissal 是完整短语。",
+        "mnemonicZh": "想象课程中午结束，学生比平常早离校。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-snow-day",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 snow day；复数为 snow days。",
+        "rootsZh": "由 snow（雪）和 day（一天）组成，指大雪停课日。",
+        "affixesZh": "没有明显词缀；days 中的 -s 是复数词尾。",
+        "mnemonicZh": "大雪让道路不安全，学校宣布停课，孩子留在家里。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-pa-day",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 PA day；PA 通常指 Professional Activity。",
+        "rootsZh": "由缩写 PA 和 day（天）组成，指教师专业活动日。",
+        "affixesZh": "没有明显词缀；PA 是缩写，day 是独立单词。",
+        "mnemonicZh": "校历上标着 PA day：教师参加活动，学生当天停课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-council",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 school council。",
+        "rootsZh": "school（学校）修饰 council（委员会），合指学校委员会。",
+        "affixesZh": "没有明显词缀；两个部分都是独立单词。",
+        "mnemonicZh": "想象家长围坐学校会议桌，共同讨论校务。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-principal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "principal 是原形；作名词指校长，作形容词指主要的。",
+        "rootsZh": "现代英语中可整体记忆；principal 两种词性形式相同。",
+        "affixesZh": "没有明显屈折词尾或常用词缀。",
+        "mnemonicZh": "校长是学校的主要负责人；用“主要”联想 principal 的两义。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "guidance-counsellor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 guidance counsellor；加拿大拼作 counsellor。",
+        "rootsZh": "guidance（指导）修饰 counsellor（顾问），说明其指导职责。",
+        "affixesZh": "guidance 含名词后缀 -ance；counsellor 中 -or 表示从事某事的人。",
+        "mnemonicZh": "把它想成帮学生指导选课、规划升学的学校顾问。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "available-balance",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 available balance。",
+        "rootsZh": "available（可获得、可用）修饰 balance（余额）。",
+        "affixesZh": "available 含形容词后缀 -able，表示“能够……的”。",
+        "mnemonicZh": "支票还在处理中时，账户总额不等于眼下可用的余额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-authorized-debit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 pre-authorized debit；authorize 的原形是 authorize。",
+        "rootsZh": "pre- 表示事先；authorize（授权）与 debit（扣款）说明先授权再扣款。",
+        "affixesZh": "pre- 是前缀；authorized 的 -ed 表示过去分词形式，此处作修饰语。",
+        "mnemonicZh": "先授权健身房，之后月费便可按约定自动扣除。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "certified-cheque",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 certified cheque；certified 来自 certify。",
+        "rootsZh": "certify（认证）修饰 cheque（支票）；cheque 是加拿大常见拼法。",
+        "affixesZh": "certified 中 -ed 是过去分词词尾；不是复数形式。",
+        "mnemonicZh": "房东要押金时，拿经过银行认证的支票付款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "monthly-fee",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 monthly fee。",
+        "rootsZh": "month（月）加 fee（费用）；monthly 表示每月的。",
+        "affixesZh": "monthly 中 -ly 构成形容词，表示按月发生或计算。",
+        "mnemonicZh": "查看账户条件时，确认每个月要不要缴这笔 fee。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "autodeposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "Autodeposit 是功能名称。",
+        "rootsZh": "由 auto（自动）和 deposit（存入）组成，表示自动收款入账。",
+        "affixesZh": "此处 auto 是构词成分，不是屈折词尾；无明显屈折变化。",
+        "mnemonicZh": "开启后，转给你的款项可直接进入账户，不必手动领取。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "security-question",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 security question。",
+        "rootsZh": "security（安全、保障）修饰 question（问题），指身份验证问题。",
+        "affixesZh": "security 含名词后缀 -ity；短语本身没有屈折变化。",
+        "mnemonicZh": "转账时另发验证问题的答案，确认收款人身份。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stop-payment",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "stop（停止）+ payment（付款）。",
+        "affixesZh": "payment 中有派生后缀 -ment，构成名词。",
+        "mnemonicZh": "支票遗失后请银行 stop payment，就是让这笔付款停下来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transaction-history",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "transaction（交易）+ history（记录、历史）。",
+        "affixesZh": "transaction 中的 -ion 是构成名词的派生后缀。",
+        "mnemonicZh": "查账户的 transaction history，就像翻看每笔交易留下的流水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "payment-due-date",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，核心形式为 payment due date。",
+        "rootsZh": "payment（付款）+ due（到期的）+ date（日期）。",
+        "affixesZh": "payment 中的 -ment 是派生名词后缀。",
+        "mnemonicZh": "把 due date 记作“该付款的日期”，就是付款截止日。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interest-charge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "interest（利息）+ charge（收费、费用）。",
+        "affixesZh": "没有适合教学的明显词缀，按两个词整体记。",
+        "mnemonicZh": "账单多出一笔 charge，若因未还清余额，便是利息费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mobile-deposit",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "mobile（手机的、移动的）+ deposit（存款）。",
+        "affixesZh": "没有适合教学的明显词缀，按两个词整体记。",
+        "mnemonicZh": "用手机拍下支票并存入账户，就是 mobile deposit。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hold-period",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语，通常用单数形式。",
+        "rootsZh": "hold（暂扣、冻结）+ period（期间）。",
+        "affixesZh": "没有明显词缀；hold 和 period 是独立词。",
+        "mnemonicZh": "支票资金被 hold 几天，等待期就是 hold period。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "routing-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语；routing 是 route 的 -ing 形式。",
+        "rootsZh": "route（路线、转送）+ number（号码），指用于识别银行的号码。",
+        "affixesZh": "routing 中的 -ing 是动词屈折形式，不是派生后缀。",
+        "mnemonicZh": "银行号码帮助款项找到转送路线，可联想 routing number。"
+      }
+    }
+  ]
+}

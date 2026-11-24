@@ -8,6 +8,7 @@ on:
       - "corrections/**"
       - "templates/**"
       - "vocabulary/schema/**"
+      - "vocabulary/analysis-policy.json"
       - "scripts/**"
       - ".github/workflows/**"
       - "INSTRUCTIONS.md"

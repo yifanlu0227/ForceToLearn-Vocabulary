@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 2,
+  "correctionId": "word-analysis-2026-11-23-005",
+  "publishedOn": "2026-11-23",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "queasy-nauseous-feeling",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 queasy；这里不是比较级或屈折变化。",
+        "rootsZh": "queasy 整体记作“反胃的”；没有适合教学且可靠的现代词基拆分。",
+        "affixesZh": "词尾 -y 在此不宜当作可确认的构词后缀；整体记忆即可。",
+        "mnemonicZh": "坐船晃得胃里不舒服时，可以说 I feel queasy。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "radiator-hot-water-heating",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 radiator，复数通常为 radiators。",
+        "rootsZh": "与 radiate（散发、辐射）相关，radiator 指散发热量的装置。",
+        "affixesZh": "-or 构成表示装置或执行者的名词；复数 -s 是屈折词尾。",
+        "mnemonicZh": "暖气片把热量散到房间里；可用 radiate“散热”联想 radiator。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rain-check-sale-voucher",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 rain check，复数可说 rain checks。",
+        "rootsZh": "由 rain（雨）和 check（凭证）组成；整体是表示日后兑现的习语。",
+        "affixesZh": "没有词缀；rain 和 check 是独立词，复数 -s 属屈折变化。",
+        "mnemonicZh": "特价商品卖完时拿张凭证，等补货后仍按特价购买。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rash-skin-irritation",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 rash；此处是单数。",
+        "rootsZh": "皮疹义没有适合教学的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；复数形式为 rashes。",
+        "mnemonicZh": "换新洗衣液后皮肤出现 rash，可联想一片红疹。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rear-end-collision",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 rear-end；例句 rear-ended 是过去分词。",
+        "rootsZh": "由 rear（后部）和 end（末端）组成，指车辆后部相撞。",
+        "affixesZh": "-ed 是过去分词屈折词尾，不是派生后缀。",
+        "mnemonicZh": "红灯前车被后车撞上，记作 rear-end。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "red-tape-bureaucracy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 red tape，形式固定。",
+        "rootsZh": "由 red（红色）和 tape（带子）组成；此义整体表示繁琐官僚手续。",
+        "affixesZh": "没有词缀；red、tape 都是独立单词。",
+        "mnemonicZh": "办手续要层层盖章、文件缠绕，联想 red tape。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reduce-sauce-thicken",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 reduce；例句中作原形。",
+        "rootsZh": "收汁义没有适合教学的现代词基拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；不要把词首 re- 当作此义的构词提示。",
+        "mnemonicZh": "煮酱汁让水分减少，味道和质地变浓，记住 reduce。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "referral-to-specialist",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 referral；对应动词是 refer，常指转介或转诊。",
+        "rootsZh": "词基 refer 表示转介、提交；加后缀后表示转介这件事或相关安排。",
+        "affixesZh": "-al 是构成名词的派生后缀；refer 加 -al 时拼作 referral，词尾 r 双写。",
+        "mnemonicZh": "医生 refer 你去专科，收到的转诊安排就是 referral。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "refill-prescription-renewal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "refill 作名词或动词，形式相同；此处指续配药。",
+        "rootsZh": "re-（再次）加 fill（装满、补满），表示再次补足药量。",
+        "affixesZh": "re- 是表示再次的前缀；名词与动词用法不靠屈折变化。",
+        "mnemonicZh": "药瓶快空时再补满一次，联想 refill。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "register-heating-vent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 register；此处是单数。",
+        "rootsZh": "暖气出风口义没有适合教学的现代词基拆分，整体记忆。",
+        "affixesZh": "没有明显词缀；不要按词尾字母强行拆分。",
+        "mnemonicZh": "冬天沙发盖住地板出风口，暖气出不来：那就是 register。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "regular-coffee-cream-sugar",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "点单时 regular 作名词，形式与形容词 regular 相同。",
+        "rootsZh": "源自日常词 regular（常规的）；加拿大点咖啡常指一奶一糖。",
+        "affixesZh": "没有适合此义分析的明显词缀；-ar 不是这里可用的后缀。",
+        "mnemonicZh": "在加拿大咖啡店点 a regular，记作常规的一奶一糖。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reheat-warm-again",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 reheat；例句中作祈使句原形。",
+        "rootsZh": "re-（再次）加 heat（加热），构词关系清楚。",
+        "affixesZh": "re- 是表示再次的派生前缀。",
+        "mnemonicZh": "剩菜已经冷了，再用微波炉加热一次：reheat。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reimburse-pay-back",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此义通常作动词 reimburse；名词常用 reimbursement。",
+        "rootsZh": "报销义没有适合教学的可靠现代词基拆分，整体记忆。",
+        "affixesZh": "没有可稳妥讲解的明显词缀；勿把词尾当作名词后缀。",
+        "mnemonicZh": "先垫付并留好收据，公司之后把钱还给你：reimburse。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "requisition-test-order-form",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 requisition；本条是单数，复数为 requisitions。",
+        "rootsZh": "整体记忆，指供检查或化验使用的申请单。",
+        "affixesZh": "无明显派生词缀；-s 是复数屈折形式。",
+        "mnemonicZh": "去化验所前先带上 requisition，工作人员据此安排检查。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reschedule-appointment-change",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 reschedule；本条用原形，过去式为 rescheduled。",
+        "rootsZh": "由 re（再次）和 schedule（安排时间）组成，指重新安排。",
+        "affixesZh": "re- 是表示“重新”的前缀；-ed 是过去式或过去分词词尾。",
+        "mnemonicZh": "预约时间不合适，就重新 schedule 一次：reschedule。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rest-stop-highway",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 rest stop；复数通常为 rest stops。",
+        "rootsZh": "由 rest（休息）和 stop（停靠点）组成，指途中休息的地方。",
+        "affixesZh": "没有明显派生词缀；复数通常加在复合词末尾。",
+        "mnemonicZh": "长途开车看到 rest stop，就停下来休息、伸伸腿。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "restock-refill-shelves",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 restock；本条用原形，过去式为 restocked。",
+        "rootsZh": "由 re（再次）和 stock（存货、备货）组成，指重新补上存货。",
+        "affixesZh": "re- 表示“再次”；-ed 是过去式或过去分词词尾。",
+        "mnemonicZh": "鸡蛋卖掉后，店员把货架重新备满，就是 restock。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reusable-bag-tote",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词组为 reusable bag；中心词 bag 是单数，复数为 reusable bags。",
+        "rootsZh": "reusable 由 reuse（再次使用）构成，bag 指袋子。",
+        "affixesZh": "re- 表示“再次”，-able 表示“能够……的”；均为派生构词成分。",
+        "mnemonicZh": "买菜后把袋子留下，下次还能再用：reusable bag。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rideshare-app-ride",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "rideshare 可作名词或动词；本条为名词单数，也可作动词原形。",
+        "rootsZh": "由 ride（乘车）和 share（共享）组成，指共享乘车服务。",
+        "affixesZh": "由两个独立词合成，没有明显前后缀；名词复数为 rideshares。",
+        "mnemonicZh": "用手机和别人共享一次 ride，可联想 rideshare 网约车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "right-of-way-priority",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定名词短语 right of way；本条整体表示优先通行权。",
+        "rootsZh": "由 right（权利）和 way（通路）组成；of 是介词。",
+        "affixesZh": "没有词缀；of 是独立介词，不是前后缀。",
+        "mnemonicZh": "行人过斑马线时有权先走，可记作“通路上的权利”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rip-off-overpriced",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词为 rip-off，复数 rip-offs；短语动词原形为 rip off。",
+        "rootsZh": "由 rip（撕、剥）和 off 组成；“宰客”是整体习语义。",
+        "affixesZh": "没有明显派生词缀；off 是独立副词，不是词缀。",
+        "mnemonicZh": "价格高得像把钱从你身上“撕走”，联想 rip-off。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ripe-ready-to-eat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 ripe；比较级 riper，最高级 ripest。",
+        "rootsZh": "没有适合教学的可靠拆分，建议把 ripe 整体记作“成熟的”。",
+        "affixesZh": "无明显派生词缀；-er、-est 是形容词比较级和最高级词尾。",
+        "mnemonicZh": "牛油果放几天变软、适合吃时，就可以说它 is ripe。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "road-rage-anger",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 road rage；本条用单数形式，复数可说 road rages。",
+        "rootsZh": "由 road（道路）和 rage（暴怒）组成，指开车时的愤怒行为。",
+        "affixesZh": "没有明显前后缀；road 和 rage 都是独立词。",
+        "mnemonicZh": "堵车时司机在路上暴怒，正是 road rage。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "roadside-assistance-caa",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 roadside assistance，通常作不可数名词。",
+        "rootsZh": "由 roadside（路边的）和 assistance（帮助、援助）组成。",
+        "affixesZh": "assistance 含名词后缀 -ance，表示状态或行为；roadside 中无明显词缀。",
+        "mnemonicZh": "车在路边抛锚时，打电话求 assistance，就是 roadside assistance。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rolling-pin-dough",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 rolling pin；rolling 来自动词原形 roll。",
+        "rootsZh": "由 rolling（滚动的）和 pin（细长工具）组成，指滚动擀压面团的工具。",
+        "affixesZh": "rolling 的 -ing 是 roll 的现在分词形式，在此作修饰语，不是名词派生后缀。",
+        "mnemonicZh": "想象圆柱形的 pin 在面团上来回滚动，把派皮擀平。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "room-for-cream-leave-space",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "固定表达 room for cream，点咖啡时表示杯中留空间加奶。",
+        "rootsZh": "room 是空间，for cream 表示留给奶油或奶；按整个短语记忆。",
+        "affixesZh": "没有明显词缀；for 是独立介词，不是前缀或后缀。",
+        "mnemonicZh": "点咖啡时想象杯口少装一些，空出的 room 正好加 cream。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rotisserie-chicken-roast",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "整体名词短语为 rotisserie chicken；chicken 单复数形式相同。",
+        "rootsZh": "chicken 指鸡肉或鸡；rotisserie 指旋转烤制设备或烤法，整体指旋转烤鸡。",
+        "affixesZh": "没有明显词缀；rotisserie 整体记忆，不按字母硬拆。",
+        "mnemonicZh": "想象超市熟食区的整只鸡在烤架上旋转，外皮烤得金黄。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "round-of-drinks-for-group",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "round 作名词，round of drinks 指给一群人买的一轮饮料或酒。",
+        "rootsZh": "round 有“一轮、一圈”之意；此处表示轮到大家各喝一杯。",
+        "affixesZh": "没有明显词缀；of 是连接名词的独立介词。",
+        "mnemonicZh": "酒吧里一人给每位朋友买一杯，这一批就是一 round。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "roundabout-traffic-circle",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 roundabout，复数为 roundabouts。",
+        "rootsZh": "由 round（圆形）和 about（周围、绕行）组成，描述车辆绕圈通行的路口。",
+        "affixesZh": "没有明显词缀；round 和 about 是组合成词的词基，不是前后缀。",
+        "mnemonicZh": "把路口想成一个圆圈，车辆绕着中心行驶，再从出口离开。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rubberneck-gawk-driving",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 rubberneck；例句中的 rubbernecking 是现在分词。",
+        "rootsZh": "由 rubber（橡胶）和 neck（脖子）组成，形象地指伸长脖子看热闹。",
+        "affixesZh": "rubbernecking 的 -ing 是现在分词屈折形式；rubberneck 本身无明显词缀。",
+        "mnemonicZh": "开车经过事故时，有人伸长脖子张望，车流便因此慢下来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "run-by-someone-get-input",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 run something by someone；核心动词原形是 run，宾语可替换。",
+        "rootsZh": "run、by、someone 都是独立词；整个短语表示把想法拿给某人听并征求意见。",
+        "affixesZh": "没有词缀；by 是独立介词，不是动词的一部分词缀。",
+        "mnemonicZh": "先把方案拿到经理面前过一遍，听取意见后再回复对方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "run-late-behind-schedule",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 run late；run 是原形，例句 running 是现在分词。",
+        "rootsZh": "run 表示处于某种状态，late 表示晚；合起来指进度落后或会晚到。",
+        "affixesZh": "running 中 -ing 是现在分词屈折形式；late 中没有明显词缀。",
+        "mnemonicZh": "想象赴约时钟不停走，而你还在路上：行程正 run late。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "runners-athletic-shoes",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 runner，runners 是复数；加拿大口语常用来指运动鞋。",
+        "rootsZh": "run 表示跑，runner 通常指跑步者；作鞋名时是约定俗成的用法。",
+        "affixesZh": "runner 中 -er 构成名词；runners 末尾 -s 是复数屈折词尾。",
+        "mnemonicZh": "出门要走很多路时，穿上 runners——这里指适合运动的鞋。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "runny-too-liquid",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 runny；例句中作形容词，形式未变。",
+        "rootsZh": "由 run（流动）加 -y 构成，表示容易流动的状态。",
+        "affixesZh": "-y 是派生后缀，表示具有某种性质；不是屈折变化。",
+        "mnemonicZh": "想象蛋黄一戳就流动：runny 就是稀、会流的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rush-hour-peak",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 rush hour，整体指交通繁忙时段。",
+        "rootsZh": "由 rush（匆忙、涌动）和 hour（小时）组合。",
+        "affixesZh": "没有词缀；rush 和 hour 都是独立单词。",
+        "mnemonicZh": "上下班的人车匆忙涌上道路，就是 rush hour。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "saucepan-pot-handle",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 saucepan，单数名词，形式未变。",
+        "rootsZh": "由 sauce（酱汁）和 pan（锅）组成的复合词。",
+        "affixesZh": "没有明显词缀；复数形式为 saucepans。",
+        "mnemonicZh": "记作能在 pan 里加热酱汁的小锅，通常有长柄。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "saute-pan-fry-quickly",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 sauté；例句使用原形。",
+        "rootsZh": "借词，现代英语中没有适合教学的可靠拆分。",
+        "affixesZh": "没有明显词缀；sautéed、sautéing 中的词尾表示屈折变化。",
+        "mnemonicZh": "想象锅中少量油快速翻炒洋葱，炒到变软。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scenic-route-longer-way",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 scenic route，整体指风景优美的路线。",
+        "rootsZh": "scenic 由 scene（景色）加 -ic 构成；route 指路线。",
+        "affixesZh": "-ic 是形容词派生后缀；短语中的 route 不是词缀。",
+        "mnemonicZh": "选择 scenic route，是为了沿途看景，不一定走得快。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scramble-eggs-stir",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 scramble；Scrambled 是省略 eggs 的过去分词用法。",
+        "rootsZh": "scramble 在此整体记为“把蛋液炒散”，不作硬拆。",
+        "affixesZh": "Scrambled 的 -ed 是过去分词屈折词尾，不是派生后缀。",
+        "mnemonicZh": "想象边加热边搅散蛋液，做成一盘 scrambled eggs。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "screen-door-mesh",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 screen door，单数形式，指纱门。",
+        "rootsZh": "由 screen（纱网、屏障）和 door（门）组成。",
+        "affixesZh": "没有明显词缀；复数为 screen doors。",
+        "mnemonicZh": "门上装着细网，让空气进来，同时挡住蚊子。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "script-prescription-slang",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 script，单数名词；此处是处方的口语说法。",
+        "rootsZh": "在医疗语境中，script 是 prescription 的非正式缩略说法。",
+        "affixesZh": "没有明显词缀；不要把词尾 -t 当作后缀。",
+        "mnemonicZh": "医生把 script 发给药房，患者随后去取药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sear-brown-high-heat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 sear；例句使用原形。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记忆即可。",
+        "affixesZh": "没有明显词缀；seared、searing 的词尾是屈折变化。",
+        "mnemonicZh": "牛排每面用大火短煎，表面迅速变褐，就是 sear。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "season-add-flavor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 season；例句使用原形。",
+        "rootsZh": "与名词 season 同形，动词表示给食物加味。",
+        "affixesZh": "没有明显词缀；此处是名词转作动词，不加派生词尾。",
+        "mnemonicZh": "把盐和胡椒撒到鸡肉上，让味道更足，就是 season。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seat-yourself-no-host",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 seat yourself；例句中是祈使句，seat 用动词原形。",
+        "rootsZh": "seat 表示安排入座；yourself 是反身代词，指你自己。",
+        "affixesZh": "无明显词缀；yourself 是独立代词，不是后缀。",
+        "mnemonicZh": "看到牌子写 seat yourself，就自己找座位坐下。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seedless-no-seeds",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 seedless，本身没有屈折变化。",
+        "rootsZh": "由 seed（种子）和 less（缺少）组成，表示没有种子。",
+        "affixesZh": "后缀 -less 表示“无、缺少”，用于构成形容词。",
+        "mnemonicZh": "买 seedless grapes，不用担心吃到籽后还要吐出来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "self-checkout-machine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 self-checkout，通常作不可数或单数名词使用。",
+        "rootsZh": "self（自己）加 checkout（结账）；checkout 由 check out 组成。",
+        "affixesZh": "无明显词缀；self、check、out 都是独立词。",
+        "mnemonicZh": "在 self-checkout，顾客自己扫描商品并结账。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sell-by-date-store",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形为 sell-by date，例句中形式不变。",
+        "rootsZh": "sell（卖）、by（在……之前）和 date（日期）组成。",
+        "affixesZh": "无词缀；by 是短语中的介词，不是前缀。",
+        "mnemonicZh": "看到 sell-by date，理解为商店最迟应在这天前卖出。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "send-back-return-dish",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 send back；例句 sent back 是过去式。",
+        "rootsZh": "send 表示送；back 表示回去，合起来是把东西送回。",
+        "affixesZh": "无派生词缀；sent 是 send 的不规则过去式。",
+        "mnemonicZh": "牛排做得太老，就把它 send back 送回厨房。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "settle-up-pay-bill",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语动词原形为 settle up，例句中形式不变。",
+        "rootsZh": "settle 有结清、解决之意；up 在此表示把事情办妥。",
+        "affixesZh": "无明显词缀；up 是独立小品词，不是后缀。",
+        "mnemonicZh": "离开酒吧前 settle up，把各自的账都结清。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shallot-small-onion",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 shallot，单复数变化为 shallot、shallots。",
+        "rootsZh": "这是表示红葱头的独立词，没有适合教学的可靠拆分。",
+        "affixesZh": "无派生词缀；复数形式加屈折后缀 -s。",
+        "mnemonicZh": "切沙拉酱时记住拿一个 shallot，切成细末。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shoot-a-text-send-message",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语原形为 shoot someone a text；shoot 用原形，someone 可替换。",
+        "rootsZh": "shoot 是动词，a text 指一条短信；整体表示给某人发消息。",
+        "affixesZh": "无明显词缀；someone 和 text 是独立词。",
+        "mnemonicZh": "到家后 shoot me a text，像把一条简短消息发给朋友。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "short-staffed-not-enough-workers",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 short-staffed；例句中形式不变。",
+        "rootsZh": "short（不足的）加 staff（员工）；staffed 表示配有员工的。",
+        "affixesZh": "-ed 是 staff 的分词后缀，组成形容词；此处不是过去时。",
+        "mnemonicZh": "员工配得不够，团队就 short-staffed，人手紧张。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shotgun-front-seat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "口语喊语为 Shotgun!；shotgun 作名词时形式相同。",
+        "rootsZh": "shotgun 可拆作 shot（射击）和 gun（枪）；抢副驾义需整体记。",
+        "affixesZh": "无明显词缀；shot 和 gun 是复合词组成部分。",
+        "mnemonicZh": "上车时先喊 Shotgun!，就是先声称副驾驶座归自己。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shoulder-road-edge",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 shoulder；此处形式不变，指道路旁的路肩。",
+        "rootsZh": "现代英语中没有适合此义教学的可靠拆分，整体记忆。",
+        "affixesZh": "没有明显前缀或后缀；不是复数或其他屈折形式。",
+        "mnemonicZh": "把路边想成道路的“肩膀”，车辆可暂时停靠在旁边。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shower-caddy-organizer",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shower caddy；指放洗浴用品的篮架。",
+        "rootsZh": "由 shower（淋浴）和 caddy（收纳容器）组成。",
+        "affixesZh": "两个单词都没有明显词缀；shower 和 caddy 不是词缀。",
+        "mnemonicZh": "想象提着一个 caddy，装好洗浴用品去 shower。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shower-curtain-bath",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shower curtain；指浴帘。",
+        "rootsZh": "由 shower（淋浴）和 curtain（帘子）组成。",
+        "affixesZh": "没有明显前后缀；两个组成词都是独立单词。",
+        "mnemonicZh": "洗澡时拉起 curtain，挡住 shower 的水花。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shower-curtain-liner-waterproof",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shower curtain liner；指浴帘内衬。",
+        "rootsZh": "由 shower、curtain 和 liner（衬层）组成；liner 与 line 有关。",
+        "affixesZh": "liner 中 -er 构成表示衬层或物件的名词；短语无屈折词尾。",
+        "mnemonicZh": "记作浴帘后面的 liner：它贴近水，保护外层浴帘。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shower-head-spray",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shower head；指淋浴喷头。",
+        "rootsZh": "由 shower（淋浴）和 head（头部）组成，指淋浴装置的出水端。",
+        "affixesZh": "没有明显前后缀；shower 和 head 都是独立单词。",
+        "mnemonicZh": "想象淋浴管末端的“头”上布满出水小孔。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shred-tear-strips",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 shred；此处是祈使句中的原形，形式未变。",
+        "rootsZh": "现代英语中没有适合教学的可靠词根拆分，整体记忆。",
+        "affixesZh": "没有明显前后缀；此处也没有过去式或分词变化。",
+        "mnemonicZh": "想象用两把叉子把鸡肉拉成一条条细丝。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shut-off-valve-water",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 shut-off valve；其中 shut 是动词原形，off 与其搭配。",
+        "rootsZh": "由 shut（关闭）、off（分离副词）和 valve（阀门）组成。",
+        "affixesZh": "off 是独立单词，不是词缀；短语没有明显前后缀。",
+        "mnemonicZh": "想象转动水管阀门，让水流被 shut off（关掉）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "side-effects-medication",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形为 side effect；side effects 是其复数形式。",
+        "rootsZh": "由 side（旁的、次要的）和 effect（影响）组成，指附带影响。",
+        "affixesZh": "effects 末尾 -s 是名词复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "服药时除了预期效果，也留意可能出现的“额外影响”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sift-flour-sieve",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 sift；此处是祈使句中的原形，形式未变。",
+        "rootsZh": "没有适合教学的可靠拆分；不要仅凭拼写把它拆成词根。",
+        "affixesZh": "没有明显前后缀；此处也没有过去式或分词变化。",
+        "mnemonicZh": "想象面粉落过筛网，结块留在上面，这就是 sift。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "simmer-low-boil",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形为 simmer；此处形式未变，表示用小火慢炖。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，建议整体记忆。",
+        "affixesZh": "没有明显前后缀；词尾字母不应误认作后缀。",
+        "mnemonicZh": "水刚烧开后转小火，让锅里持续轻轻冒泡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sin-social-insurance-number",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "缩写形式不变，指加拿大社会保险号。",
+        "rootsZh": "由 Social Insurance Number 的首字母组成。",
+        "affixesZh": "没有词缀；SIN 是首字母缩写。",
+        "mnemonicZh": "办入职、报税等手续时会用到这个号码。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sketchy-untrustworthy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 sketchy；可作 sketchier、sketchiest。",
+        "rootsZh": "现代词基 sketch（草图、粗略描述）加上形容词后缀。",
+        "affixesZh": "-y 构成形容词，表示有某种特征；此处引申为可疑、不靠谱。",
+        "mnemonicZh": "把网站想成画得粗糙、细节不清的草图，先别填信用卡信息。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "skillet-frying-pan",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 skillet，单复数可为 skillet、skillets。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记作平底煎锅。",
+        "affixesZh": "没有明显词缀；词尾字母不是可确认的后缀。",
+        "mnemonicZh": "想象在 skillet 里放油，用中火煎食物。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sling-arm-support",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 sling，复数为 slings。",
+        "rootsZh": "整体记忆为吊带、悬挂支撑物；不作可靠的现代构词拆分。",
+        "affixesZh": "没有明显词缀；复数 -s 只用于 slings。",
+        "mnemonicZh": "受伤后把手臂托在胸前吊带里，记住 sling 的用途。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "slotted-spoon-draining",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条是 slotted spoon；此处作单数名词短语。",
+        "rootsZh": "slot（槽、狭缝）加 spoon（勺）；勺面有槽孔，便于沥水。",
+        "affixesZh": "slotted 中 -ed 表示带有槽孔的状态，不是过去时。",
+        "mnemonicZh": "捞饺子时，水从勺上的槽孔流走，饺子留在勺里。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "slush-melting-snow",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 slush，通常作不可数名词。",
+        "rootsZh": "没有适合教学的可靠拆分，整体记作半融雪泥。",
+        "affixesZh": "没有明显词缀；不要把词尾字母硬拆成后缀。",
+        "mnemonicZh": "想象靴子踩进雪水混成的泥泞路面，很快就湿透。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "small-plates-sharing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词条常作复数 small plates；单数是 small plate。",
+        "rootsZh": "由 small（小份的）和 plate（一道菜、盘中食物）组成。",
+        "affixesZh": "plates 的 -s 是复数屈折词尾，不是派生后缀。",
+        "mnemonicZh": "多人一起点几道小份菜，分着吃，记作 small plates。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "smoke-detector-alarm",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 smoke detector，复数为 smoke detectors。",
+        "rootsZh": "smoke（烟）加 detector（探测器）；detector 由 detect（探测）构成。",
+        "affixesZh": "detector 的 -or 构成表示器具的名词；detectors 的 -s 表复数。",
+        "mnemonicZh": "烤面包冒烟时，探测器发现烟雾便会响。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snag-a-table-get-seat",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语是 snag a table；核心动词原形为 snag。",
+        "rootsZh": "snag 表示抓住、弄到；a table 指餐厅的一张桌子。",
+        "affixesZh": "没有词缀；a 和 table 是独立单词，不是词缀。",
+        "mnemonicZh": "人多时先赶紧找到并占下靠窗桌位，就是 snag a table。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-shovel-winter",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原形是 snow shovel，复数为 snow shovels。",
+        "rootsZh": "由 snow（雪）和 shovel（铲子）组成，指铲雪用的铲子。",
+        "affixesZh": "没有明显派生词缀；shovels 的 -s 表复数。",
+        "mnemonicZh": "下雪后拿 shovel 把门口积雪铲开，记住这个复合词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowbank-roadside-pile",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 snowbank，本词没有屈折变化。",
+        "rootsZh": "由 snow“雪”和 bank“堆、隆起”组成，指积起的雪堆。",
+        "affixesZh": "没有明显词缀；snow 和 bank 是独立词组成的复合词。",
+        "mnemonicZh": "想象铲雪后，雪像土堤一样堆在路边：snow 加 bank。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowplow-truck",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 snowplow，本词没有屈折变化。",
+        "rootsZh": "由 snow“雪”和 plow“犁、铲雪”组成，指清除积雪的车辆或设备。",
+        "affixesZh": "没有明显词缀；snow 和 plow 是独立词组成的复合词。",
+        "mnemonicZh": "记成“用 plow 铲 snow”的车；例句中指开在街上的铲雪车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "soggy-wet-mushy",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "形容词原形为 soggy；比较级、最高级可作 soggier、 soggiest。",
+        "rootsZh": "不宜可靠地拆出常用词基，建议把 soggy 整体记作湿透后软塌的状态。",
+        "affixesZh": "词尾 -y 常构成形容词，但这里不宜据此硬拆词基；比较级变化为 -ier、-iest。",
+        "mnemonicZh": "想象薯条被蒸汽和水汽泡软，拿起来不再酥脆，就是 soggy。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sold-loose-unpackaged",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语为 sold loose；sold 是动词 sell 的不规则过去分词，loose 表示散装状态。",
+        "rootsZh": "由 sell 的过去分词 sold 与独立形容词 loose“未捆扎、散开的”组成。",
+        "affixesZh": "没有构成短语的词缀；sold 属于 sell 的屈折变化，loose 不是后缀。",
+        "mnemonicZh": "想象洋葱没有装进预先封好的袋子，而是可以逐个挑选：sold loose。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "space-heater-portable",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 space heater，本词没有屈折变化。",
+        "rootsZh": "由 space“空间、房间”和 heater“加热器”组成，指给局部房间取暖的设备。",
+        "affixesZh": "heater 中 heat 加名词后缀 -er，表示起加热作用的器具；space 无词缀。",
+        "mnemonicZh": "记成给一个 room-sized space 供暖的 heater；地下室房间冷时可用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spackle-wall-filler",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "spackle 可作名词或动词；所给形式是原形，无屈折变化。",
+        "rootsZh": "现代英语中宜整体记忆：名词指补墙用的腻子，动词指用腻子补墙。",
+        "affixesZh": "没有明显且适合教学的词缀；名词与动词同形，不要把词尾拆成后缀。",
+        "mnemonicZh": "退租前用 spackle 填住墙上的钉眼，记住它既是腻子，也可表示补墙。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spatula-turner-scraper",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 spatula，本词没有屈折变化。",
+        "rootsZh": "借词，现代英语中没有可靠、适合初学者的词根拆分，建议整体记忆。",
+        "affixesZh": "没有明显的现代英语词缀；词尾字母不宜当作后缀拆解。",
+        "mnemonicZh": "想象烧烤时用 spatula 把汉堡肉饼翻面，联系锅铲的具体用途。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "specialist-medical-doctor",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 specialist；复数形式为 specialists。",
+        "rootsZh": "由 special“专门的”加表示某类人士的 -ist 构成，指专门从事某领域的人。",
+        "affixesZh": "派生后缀 -ist 表示从事某领域的人；复数 -s 是屈折变化。",
+        "mnemonicZh": "specialist 是专攻某一领域的人；在医疗语境中，就是专科医生。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "specials-dishes-of-the-day",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "此处 specials 是名词复数；单数为 special，表示一道特色菜。",
+        "rootsZh": "special 表示“特别的”，在餐厅语境中省略 dishes，指特色菜或当日推荐菜。",
+        "affixesZh": "词尾 -s 是名词复数屈折变化，不是派生后缀；the 是独立冠词。",
+        "mnemonicZh": "点菜时问 tonight’s specials，就是问今晚特别推荐的那些菜。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "specimen-medical-sample",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形为 specimen；复数形式为 specimens。",
+        "rootsZh": "现代英语中没有可靠、适合教学的拆分；整体记作供观察或检验的样本。",
+        "affixesZh": "没有明显的构词词缀；复数词尾 -s 是屈折变化。",
+        "mnemonicZh": "化验时把样本放进 specimen cup，并标上姓名和出生日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "speed-bump-road",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 speed bump，形式固定。",
+        "rootsZh": "由 speed“速度”和 bump“凸起、隆起”组成。",
+        "affixesZh": "没有明显词缀；是复合名词。",
+        "mnemonicZh": "想象车轮遇到路面凸起，必须放慢速度。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "speeding-ticket-fine",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语 speeding ticket，形式固定。",
+        "rootsZh": "speed 是“速度”；ticket 是“罚单”，合起来指超速罚单。",
+        "affixesZh": "speeding 中 -ing 是 speed 的屈折形式，用作 ticket 的修饰语。",
+        "mnemonicZh": "开太快被拦下，收到一张标明超速的罚单。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spill-the-beans-reveal",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "习语 spill the beans，核心动词原形是 spill。",
+        "rootsZh": "由 spill“洒出”和 beans“豆子”组成；整体按习语记。",
+        "affixesZh": "没有明显词缀；the 是独立冠词，不是词缀。",
+        "mnemonicZh": "想象不小心把藏着秘密的豆子全倒出来，秘密也被说漏。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "splinter-skin-sliver",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 splinter，词形未变化。",
+        "rootsZh": "现代英语中不宜可靠拆分，整体记作细小尖刺或木片。",
+        "affixesZh": "没有明显词缀；词尾字母不是常见屈折后缀。",
+        "mnemonicZh": "木栏杆边缘翘起一小片，扎进手指就是 splinter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "split-the-check-pay-separately",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 split the check，核心动词原形是 split。",
+        "rootsZh": "split 是“分开”，check 在此指餐厅账单。",
+        "affixesZh": "没有明显词缀；the 是独立冠词，不是词缀。",
+        "mnemonicZh": "结账时把账单分开，各自付自己的菜，或分摊金额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spoiled-gone-bad",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "词典原形是 spoil；spoiled 是其过去式或过去分词，也可作形容词。",
+        "rootsZh": "现代词基 spoil 表示使变坏或宠坏；此处指食物变质。",
+        "affixesZh": "-ed 是规则动词的过去式／过去分词屈折后缀，不是派生词缀。",
+        "mnemonicZh": "牛奶闻起来不对，已经被 spoil 成不能安心食用的状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sprain-joint-injury",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "sprain 可作名词或动词；例句中是过去式 sprained。",
+        "rootsZh": "现代英语中没有适合教学的可靠拆分，整体记作扭伤。",
+        "affixesZh": "例句的 -ed 是规则动词过去式屈折后缀。",
+        "mnemonicZh": "脚踝滑倒后被扭到，想到 sprain my ankle。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "squeegee-window-wiper",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "squeegee 可作名词或动词；此处是动词原形。",
+        "rootsZh": "没有可靠、适合教学的拆分，整体记作橡胶刮水器或刮水动作。",
+        "affixesZh": "没有明显词缀；词尾字母不是常见屈折后缀。",
+        "mnemonicZh": "淋浴后用橡胶刮板沿玻璃刮水，避免留下水渍。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stall-engine-dies",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词原形是 stall；例句中的 stalled 是过去式。",
+        "rootsZh": "现代英语中不宜可靠拆分；结合汽车语境整体记作发动机熄火。",
+        "affixesZh": "-ed 是规则动词的过去式屈折后缀。",
+        "mnemonicZh": "上坡时离合或油门配合不好，车子突然熄火：the car stalls。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "start-a-tab-bar-pay-later",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "短语 start a tab，核心动词原形是 start。",
+        "rootsZh": "start 是“开始”；tab 在此指酒吧记下、稍后结算的账。",
+        "affixesZh": "没有明显词缀；a 是独立冠词，非词缀。",
+        "mnemonicZh": "先让酒保把饮品记在同一笔账上，离开时再一起付款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "steep-tea-soak",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "原形是 steep；例句中的 Let 后接动词原形。",
+        "rootsZh": "作为“浸泡”义，整体记忆更可靠，不作牵强拆分。",
+        "affixesZh": "本词没有明显派生词缀；此处是动词原形。",
+        "mnemonicZh": "泡茶时让茶叶在热水里待几分钟，就是 let the tea steep。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "step-stool-small",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语原样为 step stool，通常可数：a step stool。",
+        "rootsZh": "由 step“踏步、脚阶”和 stool“凳子”组成，指可踩的小凳。",
+        "affixesZh": "没有词缀；step 和 stool 是两个独立单词。",
+        "mnemonicZh": "够高处物品时，先踩上小凳多迈一步：step stool。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stepladder-folding",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词原形是 stepladder；复数为 stepladders。",
+        "rootsZh": "由 step“踏步”和 ladder“梯子”组成，指带踏级的梯子。",
+        "affixesZh": "没有明显词缀；复数形式在词尾加屈折后缀 -s。",
+        "mnemonicZh": "换灯泡时展开梯子，逐级踩上去；这种梯子叫 stepladder。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stick-shift-manual",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "名词短语是 stick shift；口语中也说 drive stick。",
+        "rootsZh": "由 stick“杆”和 shift“换挡”组成，指用挡杆手动换挡。",
+        "affixesZh": "没有词缀；stick、shift 是独立单词，短语中的介词也不是词缀。",
+        "mnemonicZh": "开手动挡时，手要拨动挡杆换挡，记住 stick shift。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "still-or-sparkling-water",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "点水时的选择问句片段：still or sparkling，通常省略 water。",
+        "rootsZh": "still 表示不含气；sparkling 表示有气泡，都是独立词。",
+        "affixesZh": "sparkling 来自 sparkle，去掉词尾 e 后加 -ing；这里作形容词，表示饮料含气泡。",
+        "mnemonicZh": "餐厅服务员问这句时，想象在无气水和冒泡水之间做选择。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stir-fry-wok-cooking",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "动词、名词原形均为 stir-fry；过去式 stir-fried，名词复数 stir-fries。",
+        "rootsZh": "由 stir“搅动”和 fry“煎炒”组成，表达边翻动边炒。",
+        "affixesZh": "连字符不是词缀；-ed、-ing 等用于动词屈折，复数加 -s。",
+        "mnemonicZh": "热锅里不停翻动蔬菜快炒，动作和成菜都可叫 stir-fry。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stitches-wound-closure",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "baseFormZh": "单数原形是 stitch；stitches 是复数，指伤口缝针。",
+        "rootsZh": "stitch 整体记作“缝线、针脚”，这里指缝合伤口的一针。",
+        "affixesZh": "-es 是名词复数屈折后缀；以 ch 结尾时通常加 -es。",
+        "mnemonicZh": "数伤口缝合了几针：一针是 a stitch，五针是 five stitches。"
+      }
+    }
+  ]
+}
