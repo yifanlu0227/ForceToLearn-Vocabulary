@@ -1,0 +1,663 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-mnemonic-audit-001",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "antihistamine-allergy-medicine",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "anti- 表示“对抗”，histamine 是“组胺”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "appetizer-starter-dish",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "appetizer 和 appetite（食欲）同词族。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bite-the-bullet-face-it",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成咬紧（bite）一颗子弹（bullet）忍住痛：再难受，也得硬着头皮做。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "block-heater-engine",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "这里的 block 指发动机缸体；heater 来自 heat（加热），指加热装置。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "booster-shot-extra-dose",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "core-remove-center",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cost-an-arm-and-a-leg-expensive",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成花掉 an arm and a leg（胳膊和腿）这么夸张的代价，表示贵得要命。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dehumidifier-moisture",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "humid 表示“潮湿”，de- 有“去除”之意；dehumidify 指除湿，-er 指设备。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-the-ball-slip-up",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成该接的球（the ball）掉了（drop），事情没接住，因此疏忽失职、把事搞砸。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eighty-six-out-of-stock",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "86 作动词时，过去式常写 86'd。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "extension-cord-electric",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "extension 是 extend（延长）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fender-bender-minor-crash",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成小剐蹭把 fender（挡泥板）撞得 bend（弯了）；fender、bender 押韵，顺口连着记。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "greasy-spoon-cheap-diner",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成小饭馆递来一把油乎乎的勺子：greasy（油腻的）＋ spoon（勺子），记住这种便宜的小店。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hang-in-there-persevere",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成人在困境中仍 hang in there（挂在那里不松手），借此记住“坚持住”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "have-a-lot-on-your-plate-busy",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成许多事情都堆在你的 plate（盘子）上，借此记住手头要处理的事很多。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "heads-up-advance-notice",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成有人喊 heads up 让你抬头留意前方，借此记住提前提醒。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-over-your-head-overwhelmed",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成水已经 over your head（没过头顶），人难以应付，借此记住“力不从心”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-the-same-boat-same-situation",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成大家挤在同一条船（the same boat）里，遇到风浪谁也躲不开：大家处境相同。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-brainer-obvious-choice",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "non-perishables-shelf-stable",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "non- 表示“不”，perishable 由 perish（腐坏）加 -able（可……的）构成。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-fence-undecided",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成骑在篱笆（fence）上，两边都不肯跳下去：on the fence，就是迟迟不选边。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-house-free-from-restaurant",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可把账记在 house（店家）名下，联想到由店家承担费用、免费招待。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-rocks-with-ice",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可把 rocks 联想成杯中像小石块的冰块，酒倒在冰块上就是加冰饮用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-same-page-aligned",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成开会的人终于翻到同一页（the same page），看到相同内容：理解和计划对齐了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "paring-knife-small",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "piece-of-cake-easy",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成一块蛋糕轻松就能吃完，用 piece of cake 联想到事情“小菜一碟”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "play-it-by-ear-decide-later",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成不看乐谱、听着现场声音演奏（play it by ear），边听边调整，因此不预先定计划。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pumped-excited",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成给自己打气（pump），气打足了，人也浑身是劲：pumped 就是兴奋、干劲十足。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scenic-route-longer-way",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "scenic 与 scene（景色）同词族，常形容沿途风景优美。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "send-back-return-dish",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "send 的过去式是不规则变化 sent。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sold-loose-unpackaged",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "sold 是 sell 的不规则过去分词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spill-the-beans-reveal",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成袋里的豆子（beans）全洒了（spill），藏着的东西一下露出来：秘密说漏了。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swollen-puffed-up",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tailgate-follow-closely",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可联想 tailgate（车尾门）：紧贴前车尾门开，便是跟车太近。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tied-up-busy",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成被绳子绑住（tied up），想走也走不开：手头的事让你暂时脱不开身。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "up-in-the-air-unsettled",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "可想成计划还悬在空中（up in the air），迟迟没落地：事情还没定下来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sublet",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "let 有“出租”义；sub- 表示次级关系，sublet 是在原租约下再出租。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "maintenance-request",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "maintenance 与 maintain（维护）同词族。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unopened",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-inspector",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "inspector 来自 inspect（检查）加表示“执行者”的 -or。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-disruption",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "disrupt（打断、扰乱）加名词后缀 -ion，构成 disruption。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stroller",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "由 stroll（散步、闲逛）加 -er 构成，指供婴幼儿外出散步时使用的车。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "registration-fee",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "registration 是 register（登记、报名）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "renew",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "newcomer-services",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "admission",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "admission 与 admit（允许进入）同词族。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "skate-rental",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "committee",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reimbursement",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "methodology",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "由 method（方法）和 -ology（研究、学说）构成，指方法论或研究方法体系。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employment-contract",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "employment 由 employ（雇用）加 -ment 构成，表示雇佣关系。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employee-badge",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "employee 由 employ（雇用）加 -ee 构成；-ee 表示动作的接受者，即受雇的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eligibility",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-registration",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "registration 是 register（登记、报名）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "citation-style",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "citation 是 cite（引用）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "withdrawal-limit",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "withdrawal 是 withdraw（取出）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "disinfect",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "disinfect 与 infect（感染）同词族，dis- 表示消除或解除感染状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "treadmill",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "tread（踩踏）＋ mill（磨机），组合起来指踏动式器械；健身房里指跑步机。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-spotter",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-renewal-limit",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "renewal 由 renew 加 -al 构成，表示续借。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circulation-desk",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "circulation 与 circulate（流通）同族，指馆藏资料的借还流通。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-subtotal",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "sub- 有“在下、次于”之意；subtotal 指尚未计入税费等项目的阶段性合计。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deadline-extension",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "extension 来自 extend（延长），指把原期限延长。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-blocker",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-dependency",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "与 depend（依赖）同词族，表示依赖关系或依赖项。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-absence",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "chargeback",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "charge（扣款）+ back（退回）构成 chargeback，指争议交易的退单处理。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "paperless-statement",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "headliner",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clothing-pullover",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "pullover 可理解为 pull over（把衣物从头上套过去）形成的名词，指套头衫。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-credit-utilization",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "utilization 与 utilize 同属词族，表示使用或利用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banking-amortization-period",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": "amortization 由 amortize（分期偿还）加 -ation 构成，表示分期摊还这一过程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-snowmaking",
+      "expectedRevision": 3,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-clogged-drain",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-clogged-toilet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-plumbing",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": "plumbing 指管道系统或工程，做这类工作的水管工叫 plumber。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-plumber",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-electrical-outlet",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-maintenance-staff",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": "maintenance 是 maintain（维护）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-building-superintendent",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-bedbugs",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-cockroach",
+      "expectedRevision": 1,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

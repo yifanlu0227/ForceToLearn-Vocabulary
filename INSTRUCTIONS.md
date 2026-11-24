@@ -57,6 +57,20 @@ python scripts/enrich_word_analysis.py --cache-dir /tmp/force-word-analysis-revi
 
 工具按输入内容缓存，可续跑；输入释义、例句、用法或旧解析变化使缓存失效。第二轮复核检查冗余与构词错误，但不等于全库词典核验。已有来源与缓存输出不覆盖；缺少任何目标词的缓存时，不写入部分纠错。生成后仍须完整校验再提交发布。
 
+### 全库质量审查
+
+上面的生成／复核命令只处理缺失或尚未迁移的解析，不代表已经审查现有全部内容。需要重新审查全库时，使用独立命令，覆盖每个有效词，包括已经精简和有意留空的词：
+
+```sh
+python scripts/audit_word_analysis.py --cache-dir /tmp/force-word-analysis-audit
+# 复查新增／修改的说明以及所有联想，确认准确、简洁且能帮助回想英文。
+python scripts/audit_word_analysis.py --cache-dir /tmp/force-word-analysis-audit --write-corrections --published-on YYYY-MM-DD
+```
+
+审查缓存绑定词条内容、修订号、模型部署与审查标准，可续跑。每词必须有明确结论：省略、构词／词族、不规则形式、易混区别或联想；联想必须记录具体英文线索，普通构词不能统计成助记。没有非空比例或改写数量目标，正确且有用的现有说明保留原文。
+
+全部词条的审查结果齐备后，才生成 `reviews/YYYY-MM-DD-mnemonic-audit.json` 和必要的 `analyze` 纠错文件；逐词记录包含原文、结果、理由和来源指纹，方便核对覆盖范围。只有内容实际改变的词增加修订号。审查记录与纠错一同提交，仍须运行完整校验；AI 审查记录不等于经过词典核验或已经验证学习效果。
+
 ## 查重与同义表达
 
 - 检查词条 ID 和主词 `term`；英文比较统一大小写、连续空格、常见 Unicode 引号和连字符。
