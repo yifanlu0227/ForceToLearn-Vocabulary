@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "correctionId": "fix-your-correction-id",
   "publishedOn": "2026-10-10",
   "changes": [
@@ -29,10 +29,7 @@
           "driving"
         ],
         "wordAnalysis": {
-          "baseFormZh": "blinker 是名词原形，复数是 blinkers。",
-          "rootsZh": "词基 blink 表示闪烁；转向灯通过闪烁提示车辆的行驶方向。",
-          "affixesZh": "-er 在这里是构成表示装置的名词的派生后缀。",
-          "mnemonicZh": "变道前先让灯 blink（闪烁），这个灯就是 blinker。"
+          "textZh": "blink 是闪烁，-er 在这里表示装置：一闪一闪提示转弯的灯就是 blinker。"
         }
       }
     }

@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-017",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "winter-blue-run",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-black-diamond",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-terrain-park",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-snowmaking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "snow（雪）＋ making（制造），合起来就是造雪。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-groomed-trail",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-fresh-powder",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-patrol",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-day-lodge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-warming-hut",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-goggles",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-ski-helmet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-cross-country-skiing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-sore-throat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-runny-nose",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-nasal-congestion",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "congest（堵塞、充血）加 -ion 构成 congestion，nasal 是表示“鼻部的”的形容词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-cough",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-dry-cough",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-fever",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-chills",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-body-aches",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-headache",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-common-cold",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-flu",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-over-the-counter-medication",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-prescription-medication",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pain-reliever",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-fever-reducer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-cough-syrup",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-throat-lozenge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pharmacist",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pharmacy 是药房，pharmacist 是药剂师；-ist 常表示从事某专业的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-pharmacy-counter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-medication-label",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-drug-interaction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-sick-note",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-stay-hydrated",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-get-some-rest",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "health-symptom-relief",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-centre",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-program-registration",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "registration 由 register（登记）派生，指登记或报名。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-registration-opens",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-registration-deadline",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-join-the-waitlist",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-drop-in-program",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-open-gym",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-public-swim",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-leisure-swim",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-family-swim",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-aquafit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "aqua 表示“水”，fit 表示健身，组合成水中健身。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-skating-session",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-public-skating",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-skate-sharpening",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-swimming-lessons",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-beginner-class",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-intermediate-class",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-trial-class",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-instructor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "instruct 是指导，instructor 就是教练或指导老师。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-class-schedule",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-session-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-equipment-included",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-bring-your-own",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-cancellation-policy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "recreation-refund-policy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-assistant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-principal-investigator",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-lab-meeting",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-one-on-one-meeting",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-progress-update",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-question",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-hypothesis",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-baseline",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-ablation-study",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "ablation 来自 ablate（切除、移除）加 -ion，指移除组件的分析实验。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-dataset",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-reproducibility",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "reproducibility 是 reproducible（可复现的）的名词形式，来自 reproduce（复现）。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-replication-study",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "replication 由 replicate（重复、复现）加 -ion 构成，study 指研究。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-preliminary-results",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-research-ethics",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-ethics-approval",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-consent-form",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-participant-recruitment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-data-collection",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-data-analysis",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-co-author",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-authorship",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "author 加 -ship 构成名词，表示作者身份、资格或关系。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-author-contribution",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-acknowledgement",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "acknowledge 加 -ment 构成名词，表示致谢行为或内容。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-preprint",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-camera-ready",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

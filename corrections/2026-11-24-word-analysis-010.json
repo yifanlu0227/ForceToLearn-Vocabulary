@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-010",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "quantity-limit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grocery-pickup",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grocery-substitution",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "delivery-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nutrition-facts-table",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ingredient-list",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "may-contain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dairy-free",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nut-free",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vegan",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vegetarian",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "vegetarian 与 vegetable（蔬菜）相关，-arian 表示相关身份；拼写有所变化。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "expiry-date",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "expiry 与 expire（到期）相关，expiry date 即到期日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "single-fare",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transfer-window",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reload",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 re-（再次）和 load（装入、添加）组成，指重新补充余额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "auto-load",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-card-balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "monthly-pass",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "day-pass",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-zone",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-fare",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reduced-fare",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exact-change",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ticket-machine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "card-reader",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "route-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-delay",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-suspended",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "replacement-bus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "replacement 由 replace（替代）加 -ment 构成，表示替代物；replacement bus 即替代巴士。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "last-train",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "packed",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "line-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "board-transit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-terminal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "terminal 含有表示“末端、终点”的 termin-，可指交通线路的终点或客运枢纽。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "train-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-gate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-posting",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "apply-job",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-application",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "application 是 apply（申请）的名词形式，指求职申请或申请材料。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "resume",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cover-letter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-interview",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "phone-screen",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hiring-manager",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "candidate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "job-offer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employment-start-date",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employment-contract",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "employment 由 employ（雇用）加 -ment 构成，表示雇佣关系；contract 是合同。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "full-time",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "part-time",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "permanent-position",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "temporary-position",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hourly-wage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "salary",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overtime",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-shift",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-schedule",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lunch-break",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "remote-work",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hybrid-work",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "employee-badge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "employee 由 employ（雇用）加 -ee 构成，指受雇者；badge 是员工识别卡。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "appointment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "walk-in",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "application-form",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "supporting-documents",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "government-issued-photo-id",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drivers-licence",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "licence-plate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "birth-certificate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "certified-copy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "original-document",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "photocopy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "processing-time",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "business-day",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reference-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "confirmation-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eligibility",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "eligibility 是 eligible（符合条件的）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "valid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "expired",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "replacement-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "replacement 由 replace（替换）加 -ment 构成，表示替换或补发。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "online-portal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "application-status",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "application 是 apply（申请）的名词形式。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-person",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mail-in",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pick-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-off",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-load",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-id",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-portal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-calendar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "reading-week",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-outline",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "grade",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gpa",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pass-fail",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "add-a-course",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-a-course",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-registration",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "registration 由 register 加 -ation 构成，表示登记或注册的过程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "enrolment-deadline",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "enrolment 由 enrol 加 -ment 构成，表示注册这件事。"
+      }
+    }
+  ]
+}

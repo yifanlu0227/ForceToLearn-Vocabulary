@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-011",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "group-project",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "study-group",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-database",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "citation-style",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "citation 来自 cite（引用），指引用或引文；style 表示格式规范。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-advisor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "advisor 来自 advise（建议、指导），指提供学业建议的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-department",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "university-faculty",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "undergraduate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "under- 有“未达到”的意思，这里指本科毕业之前的学习阶段。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "graduate-student",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "campus-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "student-services",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "accessibility-services",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "accessibility 是 accessible（可进入、可使用的）的名词形式，强调设施或服务是否方便使用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "atm",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-branch",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-teller",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "withdrawal-limit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "withdrawal 是 withdraw（取出）的名词形式，指取款；limit 表示额度上限。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "online-banking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mobile-banking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bill-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "automatic-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "billing-cycle",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "current-balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "outstanding-balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cash-advance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "annual-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "foreign-transaction-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "insufficient-funds",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "in- 表示否定，sufficient 表示“足够的”；insufficient 即“不足的”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nsf-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdraft-protection",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "joint-account",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-score",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-report",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "authorized-user",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cardholder",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unauthorized-transaction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "un- 表示否定，unauthorized 是在 authorized（获准的）前加否定前缀构成的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dispute-a-charge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "weather-forecast",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cold-snap",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "extreme-cold-warning",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-storm-warning",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-squall",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "whiteout",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blowing-snow",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "road-conditions",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parking-ban",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "road-salt",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ice-melt",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-removal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "power-outage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "outage 由 out 加名词后缀 -age 构成，表示中断；power outage 即供电中断。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "frozen-pipe",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "frozen 是 freeze 的不规则过去分词，在此作形容词修饰 pipe。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "burst-pipe",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drafty",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 draft（气流、穿堂风）加形容词后缀 -y 构成，表示容易进风的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "humidifier",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "humid（潮湿的）加 -ify 构成 humidify（加湿），再加 -er 指加湿设备。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dry-air",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "static-electricity",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "frostbite",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hypothermia",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "hypo- 表示“低”，therm 与“热”有关；hypothermia 指体温降到危险水平。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-warmers",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-pants",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "balaclava",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "emergency-kit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "disinfectant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 disinfect（消毒）加 -ant 构成，-ant 可构成表示物质或性质的词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "disinfect",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "可看作 dis-（去除）加 infect（感染），表示消除有害微生物。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-sanitizer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "sanitizer 来自 sanitize（消毒）加 -er，这里指消毒用品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-purpose-cleaner",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "glass-cleaner",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toilet-cleaner",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toilet-brush",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rubber-gloves",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cleaning-sponge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scrub-brush",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "microfiber-cloth",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "micro- 表示“微小”，microfiber 指由极细纤维构成的材料。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mop",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vacuum",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "household-dust",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wipe-down",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deep-clean",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "air-out",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mildew",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mould",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "soap-scum",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "limescale",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "lime 在这里指含钙物质，不是水果；scale 指沉积层。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hard-water",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "garbage-bag",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "take-out-the-garbage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cleaning-supplies",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-membership",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "membership 由 member 加 -ship 构成，表示会员身份或资格。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-in-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fitness-class",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "personal-trainer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "workout",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cool-down",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stretch",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exercise-rep",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exercise-set",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "resistance-band",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "resistance 来自 resist（抵抗），指弹力带拉伸时产生的阻力。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "treadmill",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 tread（踩踏）和 mill（机器）组成，指原地踏步的器械。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "elliptical-machine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "elliptical 与 ellipse（椭圆）相关，在健身语境中常省略 machine，指椭圆机。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stationary-bike",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

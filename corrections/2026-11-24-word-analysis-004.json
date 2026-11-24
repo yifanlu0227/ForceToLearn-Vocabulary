@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-004",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "loaf-bread",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "long-shot-unlikely",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 long（远）和 shot（射击）组成，可联想远距离射中目标不易，故指希望渺茫的事。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "long-story-short-summary",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "loonie-one-dollar-coin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "loyalty-card-points",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lukewarm-slightly-warm",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "marinate-soak-flavor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "marked-down-reduced",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mash-crush-soft",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mattress-topper-pad",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "measuring-cup-volume",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "meat-counter-service",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "median-road-divider",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "medium-rare-steak",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "merge-join-traffic",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mince-chop-finely",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mixing-bowl-large",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mocktail-non-alcoholic",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "money-order-prepaid-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mudroom-entry-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "my-bad-casual-apology",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "my-two-cents-opinion",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nasal-spray-medication",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "neat-no-ice",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nightcap-bedtime-drink",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nightstand-bedside-table",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-biggie-no-problem",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-brainer-obvious-choice",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "可以把它联想成‘不费脑筋’：no ＋ brain，表示答案显而易见的事。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "no-show-missed-appointment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "non-perishables-shelf-stable",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "non- 表示“不”，perishable（易腐坏的）由 perish（腐坏）加 -able 构成；此处指耐储存食品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "non-stick-coating",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notarize-certify-document",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "与 notary（公证员）同词基，-ize 构成动词，表示为文件办理公证或认证。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notary-public-official",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "numb-no-feeling",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nurse-a-drink-sip-slowly",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "nurse-practitioner-np",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oat-milk-plant-based",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "off-the-top-of-my-head-from-memory",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oil-change-maintenance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ointment-topical-medicine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-ball-sharp",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-fence-undecided",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-house-free-from-restaurant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-rocks-with-ice",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-same-page-aligned",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-the-side-separate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "open-enrollment-insurance-period",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "enroll（登记加入）加 -ment 构成名词 enrollment，指开放登记期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ottoman-footstool",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-pocket-self-paid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-stock-sold-out",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "outlet-electrical-socket",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "oven-mitt-heat-glove",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "over-easy-fried-egg",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "over-the-counter-no-prescription",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "p-trap-sink-drain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "painters-tape-masking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pantry-staples-basics",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parallel-park-curb",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parchment-paper-baking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "paring-knife-small",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "paring 来自动词 pare（削、修整），在此修饰 knife，指用于削切的小刀。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parkade-parking-garage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parking-meter-pay",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parking-ticket-fine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "party-of-group-size",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pat-dry-towel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "patio-outdoor-seating",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "peeler-vegetable-skin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "peel（削皮）＋-er（工具），peeler 就是用来削皮的工具。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "peephole-door-viewer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "peep（窥看）＋ hole（孔），就是从门上的小孔向外窥看的猫眼。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "physical-annual-checkup",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "此处是 physical examination（体检）的简略说法，physical 原本表示“身体的”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "piece-of-cake-easy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pileup-multi-car-crash",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pillow-sham-decorative",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pilot-light-gas-flame",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pint-berry-container",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "piping-hot-very-hot",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pit-pitted-stone",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pitcher-of-beer-jug",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plastic-wrap-cling-film",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "play-it-by-ear-decide-later",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plu-sticker-produce-code",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plunger-toilet-unclog",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "plunge（用力压）加 -er（工具），plunger 就是用来反复压吸疏通的工具。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "poach-gentle-simmer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pop-soft-drink",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pot-lights-recessed",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pothole-road-hole",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "potluck-shared-meal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pour-over-hand-brewed-coffee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "power-bar-strip-outlets",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-washed-ready-to-eat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pre- 表示“预先”，pre-washed 即“预先洗过的”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "preheat-oven-warm-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pre-（预先）加 heat（加热），表示提前加热。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "premium-insurance-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "price-check-verify",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "price-match-competitor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prior-authorization-insurance-approval",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "prior 表示“事先”；authorization 是 authorize（授权）加名词后缀 -ation 构成的“授权”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prix-fixe-set-menu",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "produce-fresh-fruit-veg",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "produce 本有“生产、产出”之意，作名词指生产出来的新鲜蔬果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "proof-of-address-document",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pumped-excited",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pumped 原有“打足气”的意思，口语中引申为兴奋、干劲十足。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "put-your-name-down-waitlist",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "putty-knife-scraper",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

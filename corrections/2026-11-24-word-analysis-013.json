@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-013",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "transit-get-on",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-move-to-the-back",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-let-passengers-off",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-give-up-your-seat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-lost-and-found",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "lost 和 found 分别是 lose、find 的不规则过去分词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-accessibility-ramp",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "accessibility 是 accessible（可进入、可使用的）的名词形式，这里强调无障碍通行。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-low-floor-bus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-stop-announcement",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-service-alert",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-platform-edge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-elevator-access",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-bus-shelter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "calendar-invite",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "meeting-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "video-call",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "join-a-call",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "screen-share",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mute-call",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unmute-call",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "connection-issue",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "follow-up-work",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circle-back",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deadline-extension",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "extension 来自 extend（延长），指延长期限；deadline 表示截止日期。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "status-update",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-blocker",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "block（阻挡）加 -er，指挡住项目推进的人或事；这里通常指问题或障碍。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-dependency",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 depend（依赖）加 -ency 构成，表示依赖关系或必须满足的条件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-milestone",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-timeline",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "project-scope",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-priority",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 prior（在先的）加 -ity 构成，表示优先事项或优先级。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "task-owner",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "point-person",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-handoff",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "take-over-task",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "work-bandwidth",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "schedule-conflict",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "out-of-office",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-311",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "municipal-service-request",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "report-a-problem",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "streetlight",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-sidewalk",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "road-closure",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "closure 由 close 加名词后缀 -ure 构成，表示关闭这一状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "construction-notice",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "construction 由 construct 加名词后缀 -ion 构成，表示建造或施工。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-main",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-shutoff",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "boil-water-advisory",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "advisory 由 advise 加 -ory 构成，表示提醒或建议性公告。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "street-curb",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "storm-drain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-washroom",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-playground",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "splash-pad",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "off-leash-area",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "warming-centre",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cooling-centre",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "municipal-public-notice",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-consultation",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "consultation 由 consult 加名词后缀 -ation 构成，表示征询意见的过程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bulky-item",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "bulky 由 bulk 加形容词后缀 -y 构成，表示体积大的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "yard-waste",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "household-hazardous-waste",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "hazardous 由 hazard 加形容词后缀 -ous 构成，表示有危险的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fallen-tree",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "fallen 是 fall 的不规则过去分词，表示树已经倒下。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-graffiti",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-board",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-catchment-area",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "catchment 由 catch 加 -ment 构成，指汇集或覆盖的范围；catchment area 即服务区域。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "public-school",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "elementary-school",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "elementary 与 element（基本要素）同词族，带有“基础的”之意。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "secondary-school",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-kindergarten",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-registration",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "registration 来自 register（登记），表示登记这一行为或过程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-report-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parent-teacher-interview",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-permission-form",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "permission 与 permit（允许）同词族，表示许可或同意。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-field-trip",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-bus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "packed-lunch",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-recess",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-homeroom",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "supply-teacher",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-attendance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "attendance 由 attend（出席）加 -ance 构成，表示出席或到场情况。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-absence",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "absence 与 absent（缺席的）同词族，表示缺席这一状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-late-slip",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "early-dismissal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-snow-day",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-pa-day",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-council",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "school-principal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "guidance-counsellor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "available-balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-authorized-debit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pre- 表示“预先”，authorized 来自 authorize（授权），表示扣款已事先获准。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "certified-cheque",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "monthly-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "autodeposit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "security-question",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stop-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transaction-history",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "payment-due-date",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interest-charge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mobile-deposit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hold-period",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "routing-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

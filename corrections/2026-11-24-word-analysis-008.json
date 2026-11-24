@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-008",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "collection-day",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "place-a-hold",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "renew",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "renew 可理解为 re-（再、重新）加 new（新的），表示更新或使之重新有效。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "due-date",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "late-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "community-garden",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "food-bank",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "newcomer-services",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "new（新的）＋ comer（来的人），newcomer 就是新来者。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "settlement-worker",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "settlement 来自 settle（安顿）加 -ment，这里指帮助新移民安顿下来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ward",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "city-councillor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "council 是议会，councillor 是议员；别和表示顾问的 counsellor 混淆。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "syllabus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "assignment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "assignment 由 assign（分派、布置）加 -ment（名词后缀）构成，指分派的任务。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lecture",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tutorial",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "tutorial 与 tutor（辅导者、辅导）相关，指辅导课或教学教程。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "seminar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lab",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "prerequisite",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pre- 表示“在前”，requisite 表示“必需的”，合指先决条件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "elective",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "elective 由 elect（选择）加 -ive 构成，表示可选择的；作名词指选修课。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transcript",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 trans-（转）和与书写有关的 script 构成，指转写或记录的内容。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "enrol",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tuition",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bursary",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scholarship",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "registrar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "与 register（登记、注册）同词基，指负责登记注册事务的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "office-hours",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "teaching-assistant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "campus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bookstore",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "submit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-in",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "extension",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "与动词 extend（延长、扩展）同词基，表示延长或扩展的结果、部分。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "plagiarism",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "与 plagiarize（抄袭）同词基，-ism 构成表示行为或做法的名词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "midterm",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "final-exam",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "chequing-account",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "savings-account",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "debit-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deposit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "withdraw",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "可联系 draw“拉、取”和 with-“向后、离开”，引申为取回、撤回。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-statement",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "statement 来自动词 state“陈述、说明”加 -ment，指书面说明或记录。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transaction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "transaction 由动词 transact“进行交易”加 -ion 构成，表示交易或交易事项。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pending-transaction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "posted-transaction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "credit-limit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "available-credit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "minimum-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "statement-balance",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interest",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdraft",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "service-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pre-authorized-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pre- 表示“预先”，authorized 来自 authorize“授权”；整词指预先获授权的付款。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "payee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "pay 表示“支付”，-ee 表示动作的接受者，因此 payee 是收款方。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "account-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "institution-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bank-draft",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wire-transfer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "scarf",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mittens",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gloves",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "earmuffs",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "ear（耳朵）＋ muff（保暖套），合起来就是护耳的耳罩。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thermal-underwear",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "base-layer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fleece",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "parka",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "down-jacket",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snow-boots",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "waterproof",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 water（水）和 -proof（能抵挡、耐受）组成，表示能防水。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "windproof",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 wind（风）和 -proof（能抵挡、耐受）组成，表示能防风。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "insulated",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "traction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "tract- 有“拉、牵引”的意思，traction 表示牵引力或抓地力。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "layer-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bundle-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zip-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shovel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "salt",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flurries",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sleet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "freezing-rain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowfall",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "icy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "snowstorm",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toothbrush",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toothpaste",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "floss",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "mouthwash",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shampoo",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "conditioner",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 condition（调理、改善状态）加 -er 构成，指用于调理头发的产品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "body-wash",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "hand-soap",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deodorant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "可联系 deodorize（除臭）；-ant 构成名词，表示起除臭作用的产品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "antiperspirant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "anti- 表示“对抗”，perspire 是“出汗”；antiperspirant 指抑制出汗的产品。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "razor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shaving-cream",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cotton-swab",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

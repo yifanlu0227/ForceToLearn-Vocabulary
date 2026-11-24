@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-012",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "rowing-machine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "free-weights",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dumbbell",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "barbell",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "weight-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-locker-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "change-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-fountain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "gym-spotter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "spot（在旁看护）加 -er，指执行看护的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "exercise-mat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cardio-exercise",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "strength-training",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-borrow",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-check-out",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-overdue",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 over（超过）和 due（到期的）构成，表示超过期限。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "overdue-fine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-renewal-limit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "renewal 由 renew 加 -al 构成，表示续借；limit 指上限。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-loan-period",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circulation-desk",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "circulation 来自 circulate（流通），在此指馆藏资料的借还流通；desk 是服务台。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "course-reserve",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-study-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "quiet-floor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-call-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-shelf",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-stacks",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "stack 有“堆、成排放置”之意，the stacks 在图书馆特指成排藏书的书库区域。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "library-book-drop",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "interlibrary-loan",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "inter- 表示“在……之间”，interlibrary 指图书馆之间；interlibrary loan 即馆际互借。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "database-full-text",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "database-search-term",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-keyword",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-bibliography",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "biblio- 表示书籍，-graphy 表示书写、列录，合指书目或文献目录。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "in-text-citation",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "citation 与 cite（引用）相关，-ation 构成名词，表示引用标注。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-paraphrase",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "可联系 phrase（措辞）：paraphrase 是用另一种说法表达原意。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "primary-source",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "secondary-source",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "literature-review",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "academic-proofread",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "housing-noise-complaint",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-quiet-hours",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-common-area",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-management",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "management-office",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-resident",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "resident 与动词 reside（居住）相关，指居住在某地的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-occupant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "occupant 与 occupy（占用、居住）相关，指占用或居住某处的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-guest-policy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-pet-policy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fob-access",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-buzzer-code",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-package-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-mailroom",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-bike-storage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "rental-storage-unit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-parking-garage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-visitor-pass",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-laundry-card",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "coin-laundry",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ensuite-laundry",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "apartment-balcony",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fire-alarm",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-fire-drill",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-intercom",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "building-party-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-price-adjustment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "adjustment 来自 adjust（调整），-ment 将动作构成名词，表示调整这一行为或结果。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-promo-code",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-loyalty-points",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-rewards-program",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-member-price",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-sales-tax",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-subtotal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "sub- 有“部分、低于总额”的意思；subtotal 是尚未计入税费等项目的小计。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-shipping-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-delivery-window",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-tracking-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-online-order",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-confirmation",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-pickup-window",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-pickup-location",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-in-store-pickup",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-return-label",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-prepaid-label",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "prepaid 由 pre-（预先）和 pay 的不规则过去分词 paid 构成，表示已预付邮资。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-original-payment-method",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-return-window",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-order-status",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-estimated-delivery",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-shipping-address",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-billing-address",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "shopping-free-shipping",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-station-exit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-exit-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-platform-number",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-northbound",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 north（北）和 bound（朝某方向的）组成，表示向北行驶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-southbound",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 south（南）和 bound（朝某方向的）组成，表示向南行驶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-eastbound",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 east（东）和 bound（朝某方向的）组成，表示向东行驶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-westbound",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 west（西）和 bound（朝某方向的）组成，表示向西行驶。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "railway-track",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-bus-bay",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "station-attendant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "attendant 来自 attend（照料、值守）加 -ant，表示执行这类工作的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-operator",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-passenger",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-rider",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

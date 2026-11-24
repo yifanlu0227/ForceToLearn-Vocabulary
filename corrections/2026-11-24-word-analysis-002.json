@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-002",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "clothespin-clothes-peg",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "co-insurance-percentage-share",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "co-pay-fixed-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "coffee-run-buy-for-group",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "colander-kitchen-strainer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cold-cuts-sliced-meat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "comforter-bed-quilt",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "comfort（舒适）加 -er，构成表示带来舒适之物的 comforter。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "commute-daily-travel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "comp-give-free",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "compost-bin-green-bin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "conveyor-belt-checkout",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "convey（运送）加 -or 构成 conveyor，指运送者或运送装置；belt 是传送带。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "core-remove-center",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "core 作名词是果心，转作动词就是“去掉果心”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "corkage-fee-own-wine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "corkage 由 cork 加 -age 构成，指开瓶相关费用；fee 是费用。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cortisone-cream-itch-relief",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cost-an-arm-and-a-leg-expensive",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cottage-cheese-curds",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cottage-lake-getaway",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cough-drop-throat-lozenge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "coupon-discount-voucher",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cover-charge-entry-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crack-an-egg-open",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crash-sleep-over",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cream-butter-sugar-beat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crisper-drawer-fridge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "crisp（脆）加 -er，指让蔬果保持脆嫩的抽屉；这里不是比较级。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crockpot-slow-cooker",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cruise-control-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crutches-walking-aid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "curbside-pickup-order",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "curdle-milk-sour",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "curdle 与 curd（凝乳）同词根，表示变成凝乳状。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "curtain-rod-hanging",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cut-someone-off-driving",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cut-to-the-chase-get-to-point",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cutting-board-chopping",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dairy-section-milk",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "day-old-bakery",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dead-battery-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deadbolt-door-lock",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "decaf-no-caffeine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "decongestant-nasal-relief",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 de-（减轻、去除）和 congest（充血、堵塞）构成，指减轻鼻塞的药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deductible-insurance-threshold",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 deduct（扣除）加 -ible（可……的）构成；保险中指需先自行承担的金额。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "defroster-windshield",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 de-（去除）加 frost（霜）构成 defrost，再加 -er 指除霜装置。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deglaze-pan-liquid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dehumidifier-moisture",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "humid 表示“潮湿”，de- 有“去除”之意，dehumidifier 指除湿设备。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "deli-counter-sliced",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "designated-driver-sober",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "detour-alternate-route",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dice-cut-cubes",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dimmer-switch-lighting",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dine-in-eat-at-restaurant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "direct-deposit-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dive-bar-cheap-bar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "doctors-note-sick-proof",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "doorstop-door-stopper",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dosage-medication-amount",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "dosage 由 dose（剂量）加 -age 构成，常指药物的整体用量安排。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "double-bag-heavy-items",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "double-double-tim-hortons",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "down-for-willing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "downspout-roof-drain-pipe",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "draft-cold-air",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drain-pour-off-liquid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drain-snake-auger-plumbing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drapes-heavy-curtains",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dredge-coat-flour",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drive-thru-car-ordering",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drizzle-pour-thin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-cloth-painting",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drop-the-ball-slip-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drowsy-sleepy-feeling",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 drowse（打瞌睡）加形容词后缀 -y 构成，表示昏昏欲睡的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dryer-sheet-softener",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "drywall-gypsum-board",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "duct-tape-repair",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dustpan-sweeping",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "dutch-oven-heavy-pot",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "duvet-insert-cover",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "e-transfer-interac-payment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 e-（electronic 的缩写，电子）和 transfer（转账）组成。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eavestrough-roof-gutter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "eaves 是屋檐，trough 是槽，合起来就是屋檐排水槽。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eggplant-aubergine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eh-canadian-tag",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eighty-six-out-of-stock",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "作动词时按数字读作 eighty-six，过去式常写 86'd。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "end-cap-display",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "entree-main-course",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eob-insurance-statement",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "EOB 是 Explanation of Benefits 的缩写，字面是“福利说明”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "er-emergency-room",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "ER 是 emergency room（急诊室）的缩写。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "expedite-speed-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "express-lane-few-items",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "extension-cord-electric",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "extension 是 extend（延长）的名词形式，cord 指电线，合起来指延长用的电线。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "eye-drops-medication",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fair-enough-accept-point",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "family-doctor-primary-care",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "family-pack-value-pack",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "family-style-shared-dishes",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "faucet-water-tap",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fed-up-had-enough",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fender-bender-minor-crash",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fill-up-gas-tank",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fitted-sheet-bed",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flag-down-get-attention",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flapper-toilet-valve",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "flap 是翻动，-er 在这里表示装置；flapper 就是可翻起的阀盖。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flare-up-symptom-worsening",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "flat-tire-puncture",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

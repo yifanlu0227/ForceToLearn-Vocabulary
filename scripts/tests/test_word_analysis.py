@@ -11,13 +11,15 @@ from urllib.error import HTTPError
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import build_vocabulary as wire
 from incremental_vocabulary import compile_sources, prepare_incremental_release
-from enrich_word_analysis import validate_response, save_result, cached_result, write_corrections, request_json, NoRedirect
+from enrich_word_analysis import validate_response, save_result, cached_result, write_corrections, request_json, NoRedirect, needs_analysis
 from word_analysis import wire_entry, render_analysis
 from test_incremental_vocabulary import initialize, write, batch, entry
 
 
-ANALYSIS = {"baseFormZh": "blinker 是名词原形。", "rootsZh": "blink 表示闪烁。",
+LEGACY_ANALYSIS = {"baseFormZh": "blinker 是名词原形。", "rootsZh": "blink 表示闪烁。",
             "affixesZh": "-er 在这里构成表示事物的名词。", "mnemonicZh": "想象转弯前一闪一闪的灯。"}
+
+ANALYSIS = {"textZh": "blink 是闪烁，-er 在这里表示装置：一闪一闪提示转弯的灯就是 blinker。"}
 
 
 class WordAnalysisTests(unittest.TestCase):
@@ -32,7 +34,7 @@ class WordAnalysisTests(unittest.TestCase):
 
     def correction(self, analysis=ANALYSIS, revision=1):
         write(self.root / "corrections/analysis.json", {
-            "schemaVersion": 2, "correctionId": "fix-analysis", "publishedOn": "2026-11-23",
+            "schemaVersion": 3, "correctionId": "fix-analysis", "publishedOn": "2026-11-23",
             "changes": [{"action": "analyze", "id": self.first["id"], "expectedRevision": revision,
                          "wordAnalysis": deepcopy(analysis)}]})
 
@@ -59,26 +61,81 @@ class WordAnalysisTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "修订版本已过期"):
             compile_sources(self.root)
 
-    def test_v2_batches_and_updates_require_all_four_analysis_fields(self):
-        value = batch(); value["schemaVersion"] = 2
-        with self.assertRaises(Exception):
+    def test_versioned_sources_enforce_their_analysis_shape(self):
+        for version, analysis in ((2, LEGACY_ANALYSIS), (3, ANALYSIS), (3, {"textZh": ""})):
+            value = batch(); value["schemaVersion"] = version
+            with self.assertRaises(Exception):
+                wire.validate_schema(value, "batch.schema.json")
+            value["entries"][0]["wordAnalysis"] = deepcopy(analysis)
             wire.validate_schema(value, "batch.schema.json")
-        value["entries"][0]["wordAnalysis"] = deepcopy(ANALYSIS)
-        wire.validate_schema(value, "batch.schema.json")
-        for field in ANALYSIS:
-            invalid = deepcopy(value)
-            invalid["entries"][0]["wordAnalysis"].pop(field)
-            with self.subTest(field=field), self.assertRaises(Exception):
-                wire.validate_schema(invalid, "batch.schema.json")
-        correction = {"schemaVersion": 2, "correctionId": "fix-test", "publishedOn": "2026-11-23",
-                      "changes": [{"action": "update", "id": "rain-date", "expectedRevision": 1, "entry": entry()}]}
-        with self.assertRaises(Exception):
-            wire.validate_schema(correction, "correction.schema.json")
+            for field in analysis:
+                invalid = deepcopy(value)
+                invalid["entries"][0]["wordAnalysis"].pop(field)
+                with self.subTest(version=version, field=field), self.assertRaises(Exception):
+                    wire.validate_schema(invalid, "batch.schema.json")
+            correction = {"schemaVersion": version, "correctionId": "fix-test", "publishedOn": "2026-11-23",
+                "changes": [{"action": "update", "id": "rain-date", "expectedRevision": 1, "entry": entry()}]}
+            with self.assertRaises(Exception):
+                wire.validate_schema(correction, "correction.schema.json")
+        for version, analysis in ((2, ANALYSIS), (3, LEGACY_ANALYSIS)):
+            value = batch(); value["schemaVersion"] = version
+            value["entries"][0]["wordAnalysis"] = deepcopy(analysis)
+            with self.assertRaises(Exception):
+                wire.validate_schema(value, "batch.schema.json")
+
+    def test_legacy_analysis_can_be_replaced_with_an_intentional_empty_note(self):
+        self.correction()
+        old = json.loads((self.root / "corrections/analysis.json").read_text())
+        old["schemaVersion"] = 2
+        old["changes"][0]["wordAnalysis"] = LEGACY_ANALYSIS
+        write(self.root / "corrections/analysis.json", old)
+        historical = compile_sources(self.root)
+        self.assertEqual(LEGACY_ANALYSIS, historical.records[self.first["id"]]["wordAnalysis"])
+        write(self.root / "corrections/concise.json", {"schemaVersion": 3,
+            "correctionId": "fix-concise", "publishedOn": "2026-11-24", "changes": [{
+                "action": "analyze", "id": self.first["id"], "expectedRevision": 2,
+                "wordAnalysis": {"textZh": ""}}]})
+        current = compile_sources(self.root)
+        actual = next(e for e in current.catalog["entries"] if e["id"] == self.first["id"])
+        self.assertEqual(self.first["usageNotesZh"], actual["usageNotesZh"])
+        self.assertEqual(3, actual["revision"])
+        self.assertNotIn("wordAnalysis", actual)
+        self.assertEqual(current.catalog, compile_sources(self.root).catalog)
+
+    def test_current_policy_accepts_reviewed_empty_content_but_rejects_legacy_content(self):
+        changes = [{"action": "analyze", "id": e["id"], "expectedRevision": 1,
+                    "wordAnalysis": {"textZh": ""}} for e in self.baseline["entries"]]
+        value = {"schemaVersion": 3, "correctionId": "fix-all", "publishedOn": "2026-11-23", "changes": changes}
+        write(self.root / "corrections/all.json", value)
+        write(self.root / "vocabulary/analysis-policy.json", {"schemaVersion": 2, "requireConciseWordAnalysis": True})
+        compile_sources(self.root)
+        value["schemaVersion"] = 2
+        for change in changes: change["wordAnalysis"] = LEGACY_ANALYSIS
+        write(self.root / "corrections/all.json", value)
+        with self.assertRaisesRegex(ValueError, "当前格式"):
+            compile_sources(self.root)
+
+    def test_empty_analysis_does_not_touch_ten_notes_or_add_a_blank_bullet(self):
+        item = deepcopy(self.first)
+        item["usageNotesZh"] = ["长" * 3000] * 10
+        item["wordAnalysis"] = {"textZh": ""}
+        actual = wire_entry(item)
+        self.assertEqual(item["usageNotesZh"], actual["usageNotesZh"])
+        self.assertEqual({"textZh": ""}, item["wordAnalysis"])
+
+    def test_generation_rejects_padding_headers_lists_and_overlong_text(self):
+        for text in (" ", " 内容", "内容 ", "一段\n另一段", "一段\r另一段", "一段\n", "字" * 181,
+                     "构词与记忆（AI 辅助整理）", "原形：blinker", "词缀：-er"):
+            with self.subTest(text=text), self.assertRaises(Exception):
+                validate_response({"entries": [{"id": self.first["id"],
+                    "wordAnalysis": {"textZh": text}}]}, [self.first])
+        self.assertEqual({self.first["id"]: {"textZh": ""}}, validate_response({"entries": [{
+            "id": self.first["id"], "wordAnalysis": {"textZh": ""}}]}, [self.first]))
 
     def test_policy_prevents_new_words_without_analysis_even_in_legacy_batches(self):
         changes = [{"action": "analyze", "id": e["id"], "expectedRevision": 1, "wordAnalysis": ANALYSIS}
                    for e in self.baseline["entries"]]
-        write(self.root / "corrections/all.json", {"schemaVersion": 2, "correctionId": "fix-all",
+        write(self.root / "corrections/all.json", {"schemaVersion": 3, "correctionId": "fix-all",
                                                    "publishedOn": "2026-11-23", "changes": changes})
         write(self.root / "vocabulary/analysis-policy.json", {"schemaVersion": 1, "requireWordAnalysis": True})
         compile_sources(self.root)
@@ -110,10 +167,27 @@ class WordAnalysisTests(unittest.TestCase):
     def test_generation_rejects_missing_duplicate_unknown_and_invalid_outputs(self):
         valid = {"id": self.first["id"], "wordAnalysis": ANALYSIS}
         for values in ([], [valid, valid], [{**valid, "id": "unknown"}],
-                       [{**valid, "wordAnalysis": {**ANALYSIS, "rootsZh": " "}}],
-                       [{**valid, "wordAnalysis": {**ANALYSIS, "rootsZh": "字" * 401}}]):
+                       [{**valid, "wordAnalysis": {**ANALYSIS, "textZh": " "}}],
+                       [{**valid, "wordAnalysis": {**ANALYSIS, "textZh": "字" * 181}}]):
             with self.subTest(values=values), self.assertRaises(Exception):
                 validate_response({"entries": values}, [self.first])
+
+    def test_intentional_omission_is_complete_and_context_changes_invalidate_cache(self):
+        item = deepcopy(self.first)
+        self.assertTrue(needs_analysis(item))
+        item["wordAnalysis"] = LEGACY_ANALYSIS
+        self.assertTrue(needs_analysis(item))
+        cache = Path(self.temp.name) / "cache"; cache.mkdir()
+        save_result(cache, item, "deployment", {"textZh": ""})
+        for field in ("usageNotesZh", "explanationZh", "wordAnalysis"):
+            changed = deepcopy(item)
+            if field == "usageNotesZh": changed[field] = ["新的说明"]
+            elif field == "explanationZh": changed[field] = "新的解释"
+            else: changed[field] = {**LEGACY_ANALYSIS, "rootsZh": "修正词基"}
+            with self.subTest(field=field):
+                self.assertIsNone(cached_result(cache, changed, "deployment"))
+        item["wordAnalysis"] = {"textZh": ""}
+        self.assertFalse(needs_analysis(item))
 
     def test_cache_changes_with_context_and_corrections_need_full_coverage(self):
         cache = Path(self.temp.name) / "cache"; cache.mkdir()
@@ -138,6 +212,19 @@ class WordAnalysisTests(unittest.TestCase):
             self.assertIn("401", str(raised.exception))
             self.assertEqual(1, opener.return_value.open.call_count)
         self.assertIsNone(NoRedirect().redirect_request(None, None, 302, None, None, "https://another.test"))
+
+    def test_rate_limit_retries_wait_before_accepting_a_complete_response(self):
+        from unittest.mock import MagicMock
+        error = HTTPError("https://example.test", 429, "limited", {"Retry-After": "45"}, io.BytesIO(b"{}"))
+        success = MagicMock()
+        success.__enter__.return_value.read.return_value = json.dumps({
+            "choices": [{"finish_reason": "stop", "message": {"content": '{"entries":[]}'}}]
+        }).encode()
+        with patch("enrich_word_analysis.build_opener") as opener, patch("enrich_word_analysis.time.sleep") as sleep:
+            opener.return_value.open.side_effect = [error, success]
+            self.assertEqual(({"entries": []}, {}), request_json({}, "https://example.test/openai/v1", "test-key"))
+            sleep.assert_called_once_with(45)
+            self.assertEqual(2, opener.return_value.open.call_count)
 
     def test_truncated_model_output_is_not_treated_as_complete(self):
         body = {"choices": [{"finish_reason": "length", "message": {"content": '{"entries":[]}'}}]}

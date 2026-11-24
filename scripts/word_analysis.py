@@ -1,19 +1,24 @@
 """Source-only word analysis, rendered into the existing offline catalog protocol."""
 from copy import deepcopy
 
-FIELDS = ("baseFormZh", "rootsZh", "affixesZh", "mnemonicZh")
-LABELS = ("原形", "词根／词基", "词缀", "记忆方法（联想）")
+LEGACY_FIELDS = ("baseFormZh", "rootsZh", "affixesZh", "mnemonicZh")
+FIELDS = ("textZh",)
 SCHEMA = {
     "type": "object", "additionalProperties": False,
     "required": list(FIELDS),
-    "properties": {name: {"type": "string", "minLength": 1, "maxLength": 400, "pattern": r"\S"}
-                   for name in FIELDS},
+    "properties": {"textZh": {
+        "type": "string", "maxLength": 180,
+        "anyOf": [{"const": ""}, {"pattern": r"^\S(?:[^\r\n]*\S)?$"}],
+        "not": {"pattern": r"构词与记忆|AI\s*辅助整理|(?:原形|词根|词缀|记忆方法)[：:]|[\r\n]"},
+    }},
 }
 
 
 def render_analysis(analysis):
-    return "构词与记忆（AI 辅助整理）\n" + "\n".join(
-        f"{label}：{analysis[name]}" for name, label in zip(FIELDS, LABELS))
+    if "textZh" in analysis:
+        return analysis["textZh"]
+    # Historical v2 sources stay readable; current sources use one concise paragraph.
+    return " ".join(analysis[name] for name in LEGACY_FIELDS)
 
 
 def wire_entry(entry):
@@ -23,6 +28,8 @@ def wire_entry(entry):
     if analysis is not None:
         notes = result["usageNotesZh"]
         text = render_analysis(analysis)
+        if not text:
+            return result
         if len(notes) < 10:
             notes.append(text)
         else:

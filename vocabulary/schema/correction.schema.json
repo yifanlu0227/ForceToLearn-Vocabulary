@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Force to Learn explicit corrections v1/v2",
+  "title": "Force to Learn explicit corrections v1/v2/v3",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -13,7 +13,8 @@
     "schemaVersion": {
       "enum": [
         1,
-        2
+        2,
+        3
       ]
     },
     "correctionId": {
@@ -226,6 +227,16 @@
       }
     },
     "wordAnalysis": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/legacyWordAnalysis"
+        },
+        {
+          "$ref": "#/$defs/conciseWordAnalysis"
+        }
+      ]
+    },
+    "legacyWordAnalysis": {
       "type": "object",
       "additionalProperties": false,
       "required": [
@@ -260,9 +271,62 @@
           "pattern": "\\S"
         }
       }
+    },
+    "conciseWordAnalysis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "textZh"
+      ],
+      "properties": {
+        "textZh": {
+          "type": "string",
+          "maxLength": 180,
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "pattern": "^\\S(?:[^\\r\\n]*\\S)?$"
+            }
+          ],
+          "not": {
+            "pattern": "构词与记忆|AI\\s*辅助整理|(?:原形|词根|词缀|记忆方法)[：:]|[\\r\\n]"
+          }
+        }
+      }
     }
   },
   "allOf": [
+    {
+      "if": {
+        "properties": {
+          "schemaVersion": {
+            "const": 1
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "changes": {
+            "items": {
+              "properties": {
+                "wordAnalysis": {
+                  "$ref": "#/$defs/legacyWordAnalysis"
+                },
+                "entry": {
+                  "properties": {
+                    "wordAnalysis": {
+                      "$ref": "#/$defs/legacyWordAnalysis"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     {
       "if": {
         "properties": {
@@ -275,20 +339,51 @@
         "properties": {
           "changes": {
             "items": {
-              "if": {
-                "properties": {
-                  "action": {
-                    "const": "update"
-                  }
+              "properties": {
+                "wordAnalysis": {
+                  "$ref": "#/$defs/legacyWordAnalysis"
+                },
+                "entry": {
+                  "properties": {
+                    "wordAnalysis": {
+                      "$ref": "#/$defs/legacyWordAnalysis"
+                    }
+                  },
+                  "required": [
+                    "wordAnalysis"
+                  ]
                 }
-              },
-              "then": {
-                "properties": {
-                  "entry": {
-                    "required": [
-                      "wordAnalysis"
-                    ]
-                  }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "schemaVersion": {
+            "const": 3
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "changes": {
+            "items": {
+              "properties": {
+                "wordAnalysis": {
+                  "$ref": "#/$defs/conciseWordAnalysis"
+                },
+                "entry": {
+                  "properties": {
+                    "wordAnalysis": {
+                      "$ref": "#/$defs/conciseWordAnalysis"
+                    }
+                  },
+                  "required": [
+                    "wordAnalysis"
+                  ]
                 }
               }
             }

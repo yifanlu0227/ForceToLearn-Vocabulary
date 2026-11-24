@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-006",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "stock-up-buy-lots",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "store-brand-private-label",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "streetcar-tram",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stud-wall-framing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "stuffy-nose-congestion",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "stuffy 由 stuff（塞住）加 -y 构成，表示堵塞、不通气；nose 是鼻子。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sub-substitute-item",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sump-pump-basement",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sunny-side-up-fried-egg",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "superintendent-building-super",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "superintend 表示监督、管理，superintendent 就是负责管理的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "surcharge-extra-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "surcharge 可看作 sur-（额外、在……之上）加 charge（收费），指额外收费。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swab-sample-collection",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swamped-overloaded",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "swamp 本义是“沼泽、淹没”；swamped with work 有被工作淹没、忙不过来的感觉。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swiffer-floor-mop",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swing-by-drop-in",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "swollen-puffed-up",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "swollen 是 swell（肿起、膨胀）的不规则过去分词，也常作形容词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tailgate-follow-closely",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "take-a-number-queue",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "takeout-food-to-go",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tap-contactless-pay",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tarp-waterproof-cover",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tea-towel-dish-towel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenderize-meat-soften",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "tender 是“嫩的”，-ize 表示“使变得……”，所以 tenderize 就是“使变嫩”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thaw-defrost-frozen",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "the-usual-regular-order",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "the-works-all-toppings",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "thermostat-temperature-control",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "thermo- 表示“热”，-stat 有调节、保持稳定的意思，合起来指温控装置。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "threshold-door-sill",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "throw-blanket-sofa",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tied-up-busy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "timmies-tim-hortons",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "to-go-box-leftovers",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toll-road-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tongs-grabbing-tool",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toonie-two-dollar-coin",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "top-up-refill-drink",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toque-knit-winter-hat",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "toss-mix-lightly",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "total-write-off-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "touch-base-check-in",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tow-truck-vehicle",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "trailhead-hiking-start",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 trail（步道）和 head（起始端）组成，指步道起点。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transfer-transit-ticket",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "trans- 有“跨越、转移”之意，可帮助理解 transfer 从一处转到另一处。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "transit-pass-monthly",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "triage-emergency-priority",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "trivet-hot-pot-stand",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tub-plastic-container",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tupperware-food-container",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "twist-tie-closure",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "two-four-case-of-beer",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tylenol-acetaminophen-pain-reliever",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "u-turn-reverse-direction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "under-the-weather-unwell",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unit-price-comparison",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "up-in-the-air-unsettled",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "urgent-care-clinic",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "utility-knife-box-cutter",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "valance-window-topper",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "vent-let-off-steam",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "vent 可指通风口，也可作动词表示发泄，像把憋着的情绪释放出来。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "void-cheque-banking-info",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "waive-fee-cancel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "walk-in-clinic-no-appointment",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wall-anchor-drywall-plug",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "washer-fluid-windshield",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "washroom-public-toilet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "water-heater-hot-water-tank",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "watered-down-diluted",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "weatherstripping-door-seal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 weather（风雨侵袭）和 stripping（条状材料）组成，指用于挡风雨的密封条。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "well-done-steak",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "这里 done 是 do 的不规则过去分词，well done 表示肉类已经充分做熟。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "whip-cream-beat-air",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "whisk-beat-tool",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wilted-limp-greens",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wind-chill-feels-like",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "window-screen-mesh",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "window-sill-ledge",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "windshield-wipers-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wing-it-improvise",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "winter-tires-snow",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wok-stir-fry-pan",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "wrap-up-finish",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "yield-give-way",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "you-bet-certainly",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zest-citrus-peel",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zip-tie-cable-tie",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zone-out-lose-focus",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "zucchini-summer-squash",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "lease",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "landlord",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "tenancy",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "tenancy 与 tenant（租客）同词基，表示租客的租赁关系或状态。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "sublet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "let 可表示“出租”，sublet 是把自己租来的房子再转租给别人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "roommate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "guarantor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "与 guarantee（担保）同词基，-or 表示承担担保的人。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "furnished",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "unfurnished",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "un- 表示“没有”，furnished 是“配好家具的”；unfurnished 就是未配家具的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "utilities",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "maintenance-request",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "maintenance 与 maintain（维护）同词基；maintenance request 指维护或维修请求。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "move-in-inspection",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "inspection 与 inspect（检查）同词基；move-in 表示入住时。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "security-deposit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "last-months-rent",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "notice-period",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}

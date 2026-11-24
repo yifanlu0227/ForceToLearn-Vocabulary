@@ -185,11 +185,13 @@ def compile_sources(root):
     policy_path = root / "vocabulary/analysis-policy.json"
     if policy_path.exists():
         policy = load_json(policy_path)
-        if policy != {"schemaVersion": 1, "requireWordAnalysis": True}:
+        if policy not in ({"schemaVersion": 1, "requireWordAnalysis": True},
+                          {"schemaVersion": 2, "requireConciseWordAnalysis": True}):
             raise ValueError("vocabulary/analysis-policy.json: 不支持的解析策略")
-        missing = [entry_id for entry_id in active if "wordAnalysis" not in records[entry_id]]
+        missing = [entry_id for entry_id in active if "wordAnalysis" not in records[entry_id]
+                   or (policy["schemaVersion"] == 2 and "textZh" not in records[entry_id]["wordAnalysis"])]
         if missing:
-            raise ValueError(f"以下有效词条缺少 wordAnalysis 原形、词根、词缀和记忆方法：{', '.join(sorted(missing)[:20])}")
+            raise ValueError(f"以下有效词条缺少当前格式的 wordAnalysis；精简格式允许 textZh 为空字符串：{', '.join(sorted(missing)[:20])}")
     catalog["entries"] = [wire_entry(entry) for entry_id, entry in records.items() if entry_id in active]
     for entry in catalog["entries"]:
         entry["confusableEntryIds"] = [entry_id for entry_id in entry["confusableEntryIds"] if entry_id in active]

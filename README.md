@@ -4,7 +4,7 @@
 
 ## 新增词条
 
-日常只需要新增一个 JSON 文件。先读 [维护说明](INSTRUCTIONS.md)、[主词索引](terms.txt) 和 [固定模板](templates/batch.json)，然后在 `batches/` 放入本次新增词条。新批次使用 schemaVersion 2，九个字段全部必填，包括原形、词根／词基、词缀和记忆方法的 `wordAnalysis`。
+日常只需要新增一个 JSON 文件。先读 [维护说明](INSTRUCTIONS.md)、[主词索引](terms.txt) 和 [固定模板](templates/batch.json)，然后在 `batches/` 放入本次新增词条。新批次使用 schemaVersion 3，九个字段全部必填；`wordAnalysis` 固定为 `{"textZh":"一小段中文或空字符串"}`。简单词不强加解释。
 
 同义表达可以分别收录，例如 blinker 与 turn signal，各自记录学习进度。只检查主词 term 和 ID，不把历史 forms 当成重复主词。主词列表不包含释义和例句；需要查询详情时使用 lookup。
 
@@ -48,8 +48,8 @@ App 启动、后台约每 24 小时及手动操作检查更新；下载完整 JS
 
 ## 构词与记忆
 
-词条源文件保存 `wordAnalysis`，固定包含 `baseFormZh`、`rootsZh`、`affixesZh`、`mnemonicZh`。每日新增时同步编写，修改词义或例句时同步核对。`vocabulary/analysis-policy.json` 要求全部有效词覆盖；历史原始文件保持不变，已有词通过 `analyze` 纠错补齐。
+词条源文件保存 `wordAnalysis.textZh`：只有值得补充的构词、不规则变化或易误解之处才写一小段；简单词或已有解释足够时填空字符串。不重复未变化的原形、普通屈折或泛泛的记忆法。每日新增和词义修改时同步判断。`vocabulary/analysis-policy.json` 要求全部有效词明确使用精简格式；历史原始文件保留，通过新的 `analyze` 纠错迁移。
 
-发布脚本把解析渲染为旧协议的使用说明，当前 App 更新词库即可在「生活里怎么说」阅读四项内容，无需安装新版、运行时联网请求或保存 API key。解析是 AI 辅助整理；联想记忆与真实构词分开，不把模型解释冒充词典核验。
+发布脚本把非空解析直接追加为一条使用说明，去掉标题、AI 署名和四项标签；留空则不追加。当前 App 更新词库即可在「生活里怎么说」离线阅读，无需安装新版或保存 API key。内容由 AI 协助整理并经过复核、抽查，不能冒充全库词典核验。
 
 批量生成与第二轮复核工具见 [维护说明](INSTRUCTIONS.md)。密钥仅通过环境变量或隐藏输入提供，缓存置于仓库之外；工具不会自动发布。

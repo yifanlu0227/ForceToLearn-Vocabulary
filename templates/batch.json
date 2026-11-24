@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "batchId": "life-your-batch-id",
   "title": "替换为本批次主题",
   "publishedOn": "2026-10-10",
@@ -27,10 +27,7 @@
         "weather"
       ],
       "wordAnalysis": {
-        "baseFormZh": "rain date 是名词短语，rain 和 date 在这里都用原形。",
-        "rootsZh": "rain 表示雨，date 表示日期；合起来指因下雨而启用的备用日期。",
-        "affixesZh": "没有明显词缀；rain 和 date 是两个独立单词。",
-        "mnemonicZh": "记住活动通知上的两天：晴天按原计划，下雨就用 rain date。"
+        "textZh": ""
       }
     }
   ]

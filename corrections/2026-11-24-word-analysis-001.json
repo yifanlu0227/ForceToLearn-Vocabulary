@@ -1,0 +1,807 @@
+{
+  "schemaVersion": 3,
+  "correctionId": "word-analysis-2026-11-24-001",
+  "publishedOn": "2026-11-24",
+  "changes": [
+    {
+      "action": "analyze",
+      "id": "blinker-turn-signal",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "blink 是闪烁，-er 在这里表示装置：一闪一闪提示转弯的灯就是 blinker。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bumper-to-bumper-traffic",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "carsick-motion",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "crosswalk-pedestrian",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cul-de-sac-residential",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "fare-transit-price",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "off-ramp-highway-exit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "on-ramp-highway-entry",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "one-way-street-direction",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "pull-over-stop-car",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "由 pull（移动车辆）和 over（到一旁）组成，表示把车移到路边停下。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "spare-tire-backup",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "a-dollop-of-spoonful",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "a-pinch-of-small-amount",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "a-splash-of-small-liquid",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "advil-ibuprofen-pain-reliever",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "air-filter-furnace",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "aisle-store-walkway",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "al-dente-firm-pasta",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-ears-listening",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-set-finished-ready",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "all-you-can-eat-buffet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "allen-key-hex-wrench",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "aluminum-foil-tinfoil",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "antibiotics-bacterial-infection",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "anti- 表示“对抗”，biotic 与生命有关。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "antihistamine-allergy-medicine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "anti- 表示“对抗”，histamine 是“组胺”，antihistamine 就是抑制组胺作用的药。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "appetizer-starter-dish",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "appetizer 和 appetite（食欲）同词族，指正餐前开胃的小菜。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "area-rug-floor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "as-needed-prn-dosing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "backseat-driver-critic",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "backsplash-kitchen-wall",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bag-of-milk-canada",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bagging-area-checkout",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bail-on-cancel-plans",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "baking-sheet-tray",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ballpark-rough-estimate",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "band-aid-adhesive-bandage",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "banister-stair-railing",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "baseboard-wall-trim",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "baste-moisten-roast",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "batter-liquid-mix",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "beat-exhausted",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bell-pepper-sweet",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "bell（铃铛）形容甜椒像铃铛的外形，pepper 是“椒”。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "best-before-date-quality",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bite-the-bullet-face-it",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "black-ice-road",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blanch-quick-boil",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bleach-disinfectant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blind-spot-driving",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blinds-window-slats",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blister-skin-bubble",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "block-heater-engine",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "block 指发动机缸体，heater 是加热器，合起来指发动机预热器。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "blood-work-lab-tests",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bogo-buy-one-get-one",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "boil-over-spill",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bok-choy-greens",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "booster-shot-extra-dose",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "booster 来自 boost（增强），shot 指一针，合起来指增强保护的一针。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "booth-restaurant-seating",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bottle-deposit-fee",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bottle-return-refund",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bottomless-unlimited-refills",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "bottom（底）＋ -less（没有……的），字面是“没有底的”，引申为不限量。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "box-spring-bed-base",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "broil-top-heat-oven",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "broke-out-of-money",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "此处 broke 是“没钱”的形容词，虽与 break 的过去式同形，句中不是动词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bruised-damaged-fruit",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "brutal-very-bad",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "buck-dollar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bug-spray-repellent",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bulk-bins-self-serve",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bunch-bananas-herbs",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bungee-cord-strap",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "burner-stove-element",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "bus-a-table-clear-dishes",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "butcher-meat-shop",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "buzz-in-intercom-entry",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "buzzed-slightly-drunk",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "buzzer-intercom-button",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "buzz 加 -er 构成表示发出蜂鸣声的装置的名词 buzzer。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "by-the-pound-weight-price",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "byob-bring-own-alcohol",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cage-free-indoor",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "call-it-a-day-stop-work",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "caramelize-brown-sugar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "caramel（焦糖）加 -ize（使成为），构成表示“使焦糖化”的动词。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "carpool-lane-hov",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cart-corral-parking",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "carton-milk-eggs",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cash-back-debit-checkout",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cast-broken-bone",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "casters-furniture-wheels",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "catch-a-break-get-lucky",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "catch 的过去式是不规则的 caught，过去时说 caught a break。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "catch-up-reconnect",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "catch 的过去式是不规则的 caught；catch up 的过去式是 caught up。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "caulk-sealant",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "ceiling-fan-cooling",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "checkout-divider-bar",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "divider 由 divide（分开）加 -er 构成，指起分隔作用的物件。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "childproof-cap-bottle",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "childproof 由 child（儿童）和 -proof（防护）组成，表示防止儿童开启的。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "chip-in-contribute",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "cilantro-herb-leaves",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "circuit-breaker-electrical",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "breaker 由 break（断开）加 -er 构成，指能断开电路的装置。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "claim-insurance-request",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clamshell-produce-container",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clearance-sale-discount",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": "clearance 由 clear（清理、腾空）加 -ance 构成，指清理库存的处理。"
+      }
+    },
+    {
+      "action": "analyze",
+      "id": "clog-blocked-drain",
+      "expectedRevision": 2,
+      "wordAnalysis": {
+        "textZh": ""
+      }
+    }
+  ]
+}
