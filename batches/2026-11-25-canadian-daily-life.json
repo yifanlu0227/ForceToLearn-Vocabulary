@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 3,
+  "batchId": "life-2026-11-25-canadian-daily-life",
+  "title": "加拿大日常生活：黑五促销、库存提示与售后问题",
+  "publishedOn": "2026-11-25",
+  "entries": [
+    {
+      "id": "shopping-clearance-rack",
+      "term": "clearance rack",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "清仓货架；特价处理区",
+      "explanationZh": "商店集中摆放换季、断码或准备下架商品的货架，价格通常已降低，但退换条件可能比普通商品严格。",
+      "examples": [{"en": "I found this winter jacket on the clearance rack for half price.", "zh": "我在清仓货架上找到这件冬季夹克，只要半价。", "scenarioZh": "在商场寻找换季折扣服装"}],
+      "usageNotesZh": ["on the clearance rack 表示放在清仓货架上。", "结账前应确认商品是否属于 final sale，以及能否退换。"],
+      "tags": ["shopping", "sales", "clearance", "clothing"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-door-crasher",
+      "term": "door crasher",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "限量超低价促销品；引流特价",
+      "explanationZh": "加拿大零售广告中常见的限时、限量超低价商品，目的是吸引顾客尽早到店或上线抢购，卖完通常不补。",
+      "examples": [{"en": "The laptop is a Black Friday door crasher, so the store only has a few at that price.", "zh": "这台笔记本电脑是黑五限量引流特价，因此店里只有少量能按这个价格出售。", "scenarioZh": "查看黑五广告中的限量优惠"}],
+      "usageNotesZh": ["door crasher deal 也是常见说法；美国广告中更常见 doorbuster。", "这类优惠常附带每位顾客限购数量和开始时间。"],
+      "tags": ["shopping", "black-friday", "sales", "canadian-english"],
+      "wordAnalysis": {"textZh": "可联想顾客为抢特价冲向店门（door）：door crasher 就是吸引人一开门便来抢的限量低价商品。"}
+    },
+    {
+      "id": "shopping-online-exclusive",
+      "term": "online exclusive",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "线上专享商品或优惠",
+      "explanationZh": "只在商家网站或 App 提供的款式、颜色、组合或价格，实体店可能无法按同样条件出售。",
+      "examples": [{"en": "This colour is an online exclusive and is not available in stores.", "zh": "这个颜色是线上专享款，实体店没有。", "scenarioZh": "比较品牌网站与门店库存"}],
+      "usageNotesZh": ["online-only deal 意思相近，强调优惠只在线上有效。", "线上专享商品能否到店退货，应以商家的退货政策为准。"],
+      "tags": ["shopping", "online-shopping", "sales", "inventory"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-back-order",
+      "term": "back order",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "缺货待补订单；延期供货订单",
+      "explanationZh": "商品当前没有现货，但商家仍接受订单，等补货后再发出。预计发货时间可能变化，也可能最终取消。",
+      "examples": [{"en": "The boots are on back order and may not ship for three weeks.", "zh": "这双靴子正在缺货待补，可能三周后才能发货。", "scenarioZh": "查看网购订单的延迟发货状态"}],
+      "usageNotesZh": ["on back order 表示已下单但等待补货；back-ordered 常作形容词。", "它不同于 pre-order：后者通常是尚未正式上市的商品。"],
+      "tags": ["shopping", "online-shopping", "orders", "inventory"],
+      "wordAnalysis": {"textZh": "名词常写 back order；作形容词时常写 back-ordered，如 a back-ordered item。"}
+    },
+    {
+      "id": "shopping-limited-stock",
+      "term": "limited stock",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "库存有限；少量现货",
+      "explanationZh": "系统显示某件商品只剩少量库存，可能很快售罄。线上数量有时会延迟更新，不保证到店后仍有货。",
+      "examples": [{"en": "The website shows limited stock at the Eaton Centre location.", "zh": "网站显示伊顿中心门店只剩少量库存。", "scenarioZh": "出门前查询附近门店库存"}],
+      "usageNotesZh": ["limited stock 和 low stock 都表示库存不多，但不代表商品已经售罄。", "需要专程前往时，可以先打电话请店员确认。"],
+      "tags": ["shopping", "inventory", "stores", "availability"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-sale-price",
+      "term": "sale price",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "促销价；折后售价",
+      "explanationZh": "商品在促销期间实际收取的价格，通常会与 regular price 原价并列显示。",
+      "examples": [{"en": "The sale price did not appear when the cashier scanned the item.", "zh": "收银员扫描商品时没有显示促销价。", "scenarioZh": "结账时发现系统价格与货架标价不符"}],
+      "usageNotesZh": ["at the sale price 表示按促销价购买。", "比较价格时要看优惠是否需要会员身份、优惠码或最低消费。"],
+      "tags": ["shopping", "pricing", "sales", "checkout"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-discount-code",
+      "term": "discount code",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "折扣码；优惠代码",
+      "explanationZh": "网购结账时输入、用于降低价格或免除部分费用的一串字符，可能有有效期、适用商品或最低消费限制。",
+      "examples": [{"en": "Enter the discount code before you place the order.", "zh": "请在提交订单前输入折扣码。", "scenarioZh": "在网购结账页使用邮件优惠"}],
+      "usageNotesZh": ["apply a discount code 表示使用折扣码。", "一个订单通常不能同时叠加多个代码，但具体规则由商家决定。"],
+      "tags": ["shopping", "online-shopping", "discounts", "checkout"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-delivery-estimate",
+      "term": "delivery estimate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预计送达时间",
+      "explanationZh": "商家或承运方根据库存、处理速度和运输情况给出的预计到货日期或时间范围，不等于保证送达日。",
+      "examples": [{"en": "The delivery estimate changed after the order was shipped.", "zh": "订单发货后，预计送达时间发生了变化。", "scenarioZh": "跟踪黑五期间延迟的包裹"}],
+      "usageNotesZh": ["estimated delivery date 是更完整的说法。", "下单前显示的 estimate 可能在承运方收到包裹后更新。"],
+      "tags": ["shopping", "delivery", "online-shopping", "orders"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-pre-order",
+      "term": "pre-order",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "预购；预订尚未发售的商品",
+      "explanationZh": "在商品正式上市或到货前先下单预留。商家可能立即收费，也可能等发货时才扣款。",
+      "examples": [{"en": "The new game is available for pre-order, but it will not ship until January.", "zh": "这款新游戏现已开放预购，但要到一月才发货。", "scenarioZh": "购买尚未正式发售的新品"}],
+      "usageNotesZh": ["作名词或定语常写 pre-order；作动词可说 pre-order the item。", "下单前应确认预计发售日、取消规则和扣款时间。"],
+      "tags": ["shopping", "preorders", "online-shopping", "new-products"],
+      "wordAnalysis": {"textZh": "pre- 表示“在……之前”，pre-order 就是在商品正式发售或到货前先下单。"}
+    },
+    {
+      "id": "shopping-back-in-stock",
+      "term": "back in stock",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "重新有货；已经补货",
+      "explanationZh": "先前售罄或缺货的商品重新出现可购买库存，常见于补货邮件和商品页面提示。",
+      "examples": [{"en": "The headphones are back in stock, but only in black.", "zh": "这款耳机已经重新有货，但只有黑色。", "scenarioZh": "收到商品补货通知后查看颜色选择"}],
+      "usageNotesZh": ["back-in-stock alert 表示补货提醒。", "收到通知不等于已为你预留商品，热门款仍可能很快售罄。"],
+      "tags": ["shopping", "inventory", "restock", "online-shopping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-low-stock",
+      "term": "low stock",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "库存不足；库存量低",
+      "explanationZh": "商品剩余数量不多的库存状态，网站可能用它提醒顾客尽快决定，但实际数量未必公开。",
+      "examples": [{"en": "The size medium is marked as low stock online.", "zh": "中码在网站上被标为库存不足。", "scenarioZh": "挑选促销服装尺码"}],
+      "usageNotesZh": ["low-stock item 表示库存量很低的商品。", "它是库存提示，不一定代表商家会立即补货。"],
+      "tags": ["shopping", "inventory", "clothing", "availability"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-extended-warranty",
+      "term": "extended warranty",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "延长保修；额外保修服务",
+      "explanationZh": "在厂家标准保修之外额外购买的保障计划，期限、承保故障、免赔额和理赔方式各不相同。",
+      "examples": [{"en": "The cashier asked whether I wanted an extended warranty for the television.", "zh": "收银员问我要不要为电视购买延长保修。", "scenarioZh": "在电器店结账时评估额外保障"}],
+      "usageNotesZh": ["buy 或 purchase an extended warranty 表示购买延长保修。", "购买前应与信用卡保障、厂家保修和商店退换期比较，避免重复保障。"],
+      "tags": ["shopping", "warranty", "electronics", "consumer-protection"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-markdown",
+      "term": "markdown",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "降价；商品减价",
+      "explanationZh": "零售语境中指商家把商品价格调低，也可以指降价后的金额。它常用于换季、清仓或处理临近日期商品。",
+      "examples": [{"en": "The store took another markdown on its remaining winter coats.", "zh": "商店把剩余冬季外套又降了一次价。", "scenarioZh": "观察换季商品连续降价"}],
+      "usageNotesZh": ["take a markdown 表示进行降价；second markdown 表示第二轮降价。", "不要与写文档用的 Markdown 标记语言混淆。"],
+      "tags": ["shopping", "pricing", "clearance", "retail"],
+      "wordAnalysis": {"textZh": "零售中的 markdown 指价格向下调；首字母大写的 Markdown 通常指标记语言。"}
+    },
+    {
+      "id": "shopping-rebate",
+      "term": "rebate",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "返现优惠；购买后返款",
+      "explanationZh": "先按规定价格购买，再通过申请、账单抵扣或其他方式返还部分金额的优惠，通常不是结账时直接降价。",
+      "examples": [{"en": "The appliance comes with a one-hundred-dollar mail-in rebate.", "zh": "这台家电附带一百加元的邮寄申请返现。", "scenarioZh": "比较家电促销的实际到手价"}],
+      "usageNotesZh": ["mail-in rebate 需要按要求提交表格和购买证明。", "申请前应查看截止日期、处理时间和符合条件的型号。"],
+      "tags": ["shopping", "rebates", "pricing", "appliances"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-bundle-deal",
+      "term": "bundle deal",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "组合优惠；套装促销",
+      "explanationZh": "把两件或多件商品一起购买时提供的优惠价，适合确实需要整套商品的人，但不一定比单买最便宜。",
+      "examples": [{"en": "The camera bundle deal includes a lens, a bag, and a memory card.", "zh": "这个相机组合优惠包含镜头、相机包和存储卡。", "scenarioZh": "比较电子产品套装与单品价格"}],
+      "usageNotesZh": ["bundle price 表示组合价；bundle deal 强调成套购买的优惠。", "应核对套装内每件商品的型号、保修和退货方式。"],
+      "tags": ["shopping", "sales", "bundles", "electronics"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-buy-one-get-one-free",
+      "term": "buy one get one free",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "买一送一",
+      "explanationZh": "购买一件符合条件的商品后，第二件免费获得的促销。两件商品是否必须相同、免费品如何计算，以活动细则为准。",
+      "examples": [{"en": "These vitamins are buy one get one free this week.", "zh": "这些维生素本周买一送一。", "scenarioZh": "查看药房每周促销标签"}],
+      "usageNotesZh": ["广告中常缩写为 BOGO 或 BOGO free。", "如果两件价格不同，免费商品通常是价格较低的一件。"],
+      "tags": ["shopping", "sales", "promotions", "pharmacy"],
+      "wordAnalysis": {"textZh": "常见缩写 BOGO 取自 Buy One, Get One；看到 BOGO free 就是买一送一。"}
+    },
+    {
+      "id": "shopping-while-supplies-last",
+      "term": "while supplies last",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "售完即止；数量有限",
+      "explanationZh": "优惠或赠品只在现有库存尚未用完时提供，商家不保证活动期间每位顾客都能买到或领到。",
+      "examples": [{"en": "The free gift is available while supplies last.", "zh": "赠品数量有限，送完即止。", "scenarioZh": "阅读促销活动的小字说明"}],
+      "usageNotesZh": ["常放在广告末尾，用来说明库存售罄后活动可提前结束。", "它不表示商家会为缺货商品提供 rain check。"],
+      "tags": ["shopping", "sales", "inventory", "promotions"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-per-customer",
+      "term": "per customer",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "每位顾客；按每位顾客计算",
+      "explanationZh": "用于说明限购数量、优惠次数或赠品数量以每名顾客为单位计算。",
+      "examples": [{"en": "The store is limiting the door crasher to one per customer.", "zh": "商店规定这款限量特价商品每位顾客只能买一件。", "scenarioZh": "确认黑五商品的限购规则"}],
+      "usageNotesZh": ["one per customer 表示每位顾客限一件。", "商家可能按会员账户、订单或家庭地址执行限制。"],
+      "tags": ["shopping", "purchase-limits", "sales", "stores"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-customer-service-desk",
+      "term": "customer service desk",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "顾客服务台；客服柜台",
+      "explanationZh": "商店内处理退换货、价格问题、取货、投诉或一般咨询的柜台，通常位于入口或收银区附近。",
+      "examples": [{"en": "Please take the damaged item and your receipt to the customer service desk.", "zh": "请把损坏的商品和收据带到顾客服务台。", "scenarioZh": "在大型商店办理售后"}],
+      "usageNotesZh": ["service desk 是常见简称。", "有些门店的退货、网购取货和普通咨询设在不同柜台。"],
+      "tags": ["shopping", "customer-service", "returns", "stores"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-price-drop",
+      "term": "price drop",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "降价；价格下调",
+      "explanationZh": "商品价格相较之前降低，可能来自临时促销、清仓或厂家调价，不一定会长期维持。",
+      "examples": [{"en": "I noticed a price drop two days after I bought the headphones.", "zh": "我买耳机两天后发现它降价了。", "scenarioZh": "判断是否可以申请价格调整"}],
+      "usageNotesZh": ["a sudden price drop 表示突然降价。", "购买后遇到降价，可查看商家是否提供 price adjustment。"],
+      "tags": ["shopping", "pricing", "sales", "consumer-advice"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-flash-sale",
+      "term": "flash sale",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "限时抢购；短时促销",
+      "explanationZh": "只持续很短时间的促销，常见于网店和购物 App，结束时间可能精确到小时。",
+      "examples": [{"en": "The flash sale ends at midnight Eastern Time.", "zh": "这场限时抢购在东部时间午夜结束。", "scenarioZh": "确认跨时区网购促销截止时间"}],
+      "usageNotesZh": ["flash sale 强调时间短，不一定代表库存也有限。", "下单前仍应确认退货政策，不要只因倒计时仓促购买。"],
+      "tags": ["shopping", "sales", "online-shopping", "limited-time"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-minimum-purchase",
+      "term": "minimum purchase",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "最低消费金额；最低购买要求",
+      "explanationZh": "使用优惠、免运费或获得赠品前必须达到的最低订单金额，税费和礼品卡是否计入要看活动规则。",
+      "examples": [{"en": "Free shipping requires a minimum purchase of seventy-five dollars.", "zh": "订单至少消费七十五加元才能免运费。", "scenarioZh": "计算网购订单是否达到免邮门槛"}],
+      "usageNotesZh": ["minimum purchase requirement 表示最低消费要求。", "常见小字说明是 before tax，表示税前金额需达到门槛。"],
+      "tags": ["shopping", "pricing", "shipping", "promotions"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-limited-time-offer",
+      "term": "limited-time offer",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "限时优惠",
+      "explanationZh": "只在指定时间段有效的价格、赠品或其他促销条件，到期后通常自动恢复原价或停止提供。",
+      "examples": [{"en": "This limited-time offer is valid until Friday at eleven fifty-nine p.m.", "zh": "这项限时优惠有效至周五晚上十一点五十九分。", "scenarioZh": "阅读促销邮件中的截止时间"}],
+      "usageNotesZh": ["注意连字符：limited-time 作定语共同修饰 offer。", "确认截止时间使用的时区，以及优惠是否仅限线上。"],
+      "tags": ["shopping", "sales", "promotions", "limited-time"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-defective-item",
+      "term": "defective item",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "有缺陷的商品；故障商品",
+      "explanationZh": "因制造、材料或功能问题而无法正常使用或不符合合理质量预期的商品，不一定有明显外观损坏。",
+      "examples": [{"en": "The coffee maker appears to be defective because it will not turn on.", "zh": "这台咖啡机似乎有故障，因为完全无法开机。", "scenarioZh": "向商店说明新买电器不能工作"}],
+      "usageNotesZh": ["defective 强调商品本身存在缺陷；damaged 强调受到损坏。", "联系客服时可提供故障表现、订单号、照片或视频。"],
+      "tags": ["shopping", "returns", "product-quality", "customer-service"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "shopping-damaged-item",
+      "term": "damaged item",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "受损商品；损坏的货品",
+      "explanationZh": "在包装、运输、存放或使用前已经出现破裂、凹陷、刮伤或其他损坏的商品。",
+      "examples": [{"en": "The retailer asked me to send photos of the damaged item and the shipping box.", "zh": "零售商让我发送受损商品和运输箱的照片。", "scenarioZh": "报告网购包裹到货时已经损坏"}],
+      "usageNotesZh": ["arrive damaged 表示到货时已损坏。", "发现问题后应保留包装并尽快拍照，避免影响退换或运输索赔。"],
+      "tags": ["shopping", "delivery", "returns", "product-quality"],
+      "wordAnalysis": {"textZh": ""}
+    }
+  ]
+}
