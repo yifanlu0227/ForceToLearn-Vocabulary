@@ -79,6 +79,8 @@ available balance
 available credit
 available to start
 bachelor apartment
+back in stock
+back order
 background check
 backorder
 backseat driver
@@ -175,6 +177,7 @@ bulk bins
 bulky item
 bumper-to-bumper
 bunch
+bundle deal
 bundle up
 bungee cord
 bunny hill
@@ -188,6 +191,7 @@ bus stop
 business day
 butcher
 buy one get one
+buy one get one free
 buzz in
 buzzed
 buzzer
@@ -260,6 +264,7 @@ clean up a spill
 cleaning fee
 cleaning supplies
 clearance
+clearance rack
 clock in
 clock out
 clog
@@ -360,6 +365,7 @@ curbside pickup
 curdle
 current balance
 curtain rod
+customer service desk
 cut someone off
 cut to the chase
 cutting board
@@ -367,6 +373,7 @@ dairy section
 dairy-free
 damage charge
 damaged
+damaged item
 data analysis
 data collection
 dataset
@@ -385,6 +392,7 @@ decongestant
 deductible
 deep clean
 defective
+defective item
 deferred exam
 defog
 defrost
@@ -397,6 +405,7 @@ delay
 deli
 deli counter
 deliverable
+delivery estimate
 delivery fee
 delivery window
 deodorant
@@ -412,6 +421,7 @@ dig out
 dimmer switch
 dine-in
 direct deposit
+discount code
 dish rack
 dish soap
 dish towel
@@ -426,6 +436,7 @@ doctor's note
 donate
 donation bin
 donation drive
+door crasher
 doors open
 doorstop
 dosage
@@ -519,6 +530,7 @@ expired
 expiry date
 express bus
 express lane
+extended warranty
 extension
 extension cord
 exterminator
@@ -560,6 +572,7 @@ fixed-term lease
 flag down
 flapper
 flare-up
+flash sale
 flat tire
 flat white
 fleece
@@ -815,6 +828,8 @@ light fixture
 light rail
 lightheaded
 limescale
+limited stock
+limited-time offer
 line of credit
 line up
 linen closet
@@ -836,6 +851,7 @@ long shot
 long story short
 loonie
 lost and found
+low stock
 low-floor bus
 loyalty card
 loyalty points
@@ -852,6 +868,7 @@ make-up exam
 management office
 manuscript
 marinate
+markdown
 marked down
 marking scheme
 mash
@@ -875,6 +892,7 @@ mildew
 milestone
 mince
 minimum payment
+minimum purchase
 minor
 minor revision
 minutes
@@ -956,6 +974,7 @@ one-on-one meeting
 one-way street
 online banking
 online course
+online exclusive
 online order
 online portal
 open enrollment
@@ -1034,6 +1053,7 @@ peeler
 peephole
 peer review
 pending transaction
+per customer
 performance review
 permanent position
 permission form
@@ -1089,6 +1109,7 @@ power outage
 pre-approved
 pre-authorized debit
 pre-authorized payment
+pre-order
 pre-washed
 preheat
 preliminary results
@@ -1101,6 +1122,7 @@ prescription medication
 presentation
 price adjustment
 price check
+price drop
 price match
 price tag
 primary source
@@ -1155,6 +1177,7 @@ razor
 reading week
 real-time arrival
 rear-end
+rebate
 rebuttal
 receipt
 recess
@@ -1279,6 +1302,7 @@ rush hour
 salary
 salary expectations
 salary range
+sale price
 sales tax
 salt
 salt truck
@@ -1670,6 +1694,7 @@ weight room
 well done
 westbound
 wet wipes
+while supplies last
 whip
 whisk
 whiteout
