@@ -73,6 +73,7 @@ authorized user
 authorship
 auto-load
 Autodeposit
+automatic gratuity
 automatic payment
 availability
 available balance
@@ -123,6 +124,7 @@ best-before date
 bibliography
 bike rack
 bike storage
+bill
 bill payment
 billing address
 billing cycle
@@ -288,6 +290,7 @@ cold snap
 collaborate
 collateral
 collection day
+combo
 comforter
 committee
 common area
@@ -327,6 +330,7 @@ cotton swab
 cough
 cough drop
 cough syrup
+counter service
 coupon
 course load
 course outline
@@ -369,6 +373,7 @@ customer service desk
 cut someone off
 cut to the chase
 cutting board
+daily special
 dairy section
 dairy-free
 damage charge
@@ -386,6 +391,7 @@ deadbolt
 deadline
 deadline extension
 debit card
+debit machine
 decaf
 decision letter
 decongestant
@@ -417,6 +423,7 @@ designated driver
 desk rejection
 detour
 dice
+dietary restriction
 dig out
 dimmer switch
 dine-in
@@ -452,6 +459,7 @@ drain
 drain snake
 drapes
 dredge
+dressing on the side
 drive-thru
 driver's licence
 drizzle
@@ -587,8 +595,10 @@ fold in
 follow up
 follow-up appointment
 following distance
+food allergy
 food bank
 food coma
+food court
 food poisoning
 food residue
 food scraps
@@ -884,6 +894,7 @@ medium rare
 meeting invite
 meeting room
 member price
+menu item
 merge
 methodology
 microfiber cloth
@@ -935,6 +946,7 @@ no biggie
 no heat
 no-brainer
 no-show
+no-show fee
 noise complaint
 non-perishables
 non-stick
@@ -1042,6 +1054,7 @@ pass/fail
 passenger
 pat dry
 patio
+patio seating
 pay rent
 pay stub
 payee
@@ -1242,6 +1255,7 @@ research
 research assistant
 research ethics
 research question
+reservation
 reserve
 resident
 resistance band
@@ -1347,14 +1361,18 @@ self-checkout
 sell-by date
 seminar
 send back
+separate bills
 separate entrance
+server
 service alert
+service charge
 service disruption
 service fee
 service request
 service suspended
 session fee
 set
+set menu
 setlist
 settle up
 settlement worker
@@ -1385,6 +1403,7 @@ shut-off valve
 shuttle bus
 sick day
 sick note
+side dish
 side effects
 sidewalk
 sidewalk clearing
@@ -1446,6 +1465,7 @@ souvenir
 space heater
 spackle
 spare tire
+sparkling water
 spatula
 specialist
 specials
@@ -1456,6 +1476,7 @@ spill the beans
 spin out
 splash pad
 splinter
+split the bill
 split the check
 spoiled
 sponge
@@ -1538,14 +1559,17 @@ swollen
 syllabus
 symptom relief
 system map
+table for two
 tailgate
 take a number
 take out the garbage
 take over
 takeout
+takeout container
 tap
 tap off
 tap on
+tap water
 tapered leg
 tarp
 task owner
@@ -1577,6 +1601,7 @@ timeline
 timesheet
 timetable
 Timmies
+tip
 tire pressure
 tissue
 to-go box
