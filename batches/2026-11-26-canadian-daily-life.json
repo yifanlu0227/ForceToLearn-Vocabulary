@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 3,
+  "batchId": "life-2026-11-26-canadian-daily-life",
+  "title": "加拿大日常生活：餐厅订位、点餐与结账沟通",
+  "publishedOn": "2026-11-26",
+  "entries": [
+    {
+      "id": "dining-reservation",
+      "term": "reservation",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "预订；餐厅订位",
+      "explanationZh": "提前让餐厅保留指定日期、时间和人数的座位。周末、节假日或热门餐厅通常需要尽早预订。",
+      "examples": [{"en": "I have a reservation for two at seven under the name Lu.", "zh": "我以 Lu 的名字订了晚上七点的两人位。", "scenarioZh": "到餐厅前台确认订位"}],
+      "usageNotesZh": ["make、change 或 cancel a reservation 都是常见搭配。", "报姓名时常说 The reservation is under Lu."],
+      "tags": ["dining", "restaurants", "reservations", "scheduling"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-table-for-two",
+      "term": "table for two",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "两人桌；两位用餐的座位",
+      "explanationZh": "进餐厅时说明一共有两位客人、需要一张两人桌的自然说法，也可将 two 换成实际人数。",
+      "examples": [{"en": "Could we get a table for two by the window?", "zh": "我们可以要一张靠窗的两人桌吗？", "scenarioZh": "没有订位时向前台询问座位"}],
+      "usageNotesZh": ["A table for two, please. 是简洁自然的表达。", "for two 表示供两人使用，不是“两张桌子”。"],
+      "tags": ["dining", "restaurants", "seating", "requests"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-patio-seating",
+      "term": "patio seating",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "露台座位；户外用餐区座位",
+      "explanationZh": "餐厅在人行道、庭院或露台设置的户外座位。多伦多天气合适时很常见，但可能受降雨或季节限制。",
+      "examples": [{"en": "Is patio seating available this evening?", "zh": "今晚还有露台座位吗？", "scenarioZh": "夏季订位时选择室内或户外"}],
+      "usageNotesZh": ["on the patio 表示坐在露台用餐。", "有些餐厅不接受指定区域，只会记录 seating preference。"],
+      "tags": ["dining", "restaurants", "patio", "seating"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-server",
+      "term": "server",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "餐厅服务员",
+      "explanationZh": "负责介绍菜单、记录点单、送餐和处理账单的工作人员，是加拿大餐厅里常见且中性的称呼。",
+      "examples": [{"en": "Our server explained which dishes contain nuts.", "zh": "我们的服务员说明了哪些菜含有坚果。", "scenarioZh": "点餐前确认过敏原"}],
+      "usageNotesZh": ["server 比 waiter 或 waitress 更中性。", "需要帮助时可礼貌地说 Excuse me，而不要大声呼喊。"],
+      "tags": ["dining", "restaurants", "staff", "customer-service"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-menu-item",
+      "term": "menu item",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "菜单上的一道菜或一个品项",
+      "explanationZh": "菜单中可单独点选的菜品、饮料或组合项目，常用于询问配料、价格或供应情况。",
+      "examples": [{"en": "This menu item is not available after four p.m.", "zh": "这道菜单品项下午四点后不再供应。", "scenarioZh": "询问某道菜的供应时段"}],
+      "usageNotesZh": ["item 在这里指一个可点的品项，不一定是实体商品。", "new menu item 表示新加入菜单的菜品。"],
+      "tags": ["dining", "menus", "restaurants", "ordering"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-daily-special",
+      "term": "daily special",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "今日特餐；当日特色菜",
+      "explanationZh": "餐厅当天特别供应的菜品或套餐，可能不印在固定菜单上，价格和数量也可能仅当日有效。",
+      "examples": [{"en": "What is the daily special today?", "zh": "今天的特餐是什么？", "scenarioZh": "点餐前询问黑板上的当日菜品"}],
+      "usageNotesZh": ["today's special 意思相同，也非常常见。", "special 不一定代表打折，也可能只是当天限定菜。"],
+      "tags": ["dining", "menus", "restaurants", "specials"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-side-dish",
+      "term": "side dish",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "配菜；佐餐小菜",
+      "explanationZh": "与主菜一起食用的较小份菜品，例如薯条、沙拉、蔬菜或米饭，有时包含在主菜价格中。",
+      "examples": [{"en": "The burger comes with your choice of one side dish.", "zh": "这份汉堡可以任选一种配菜。", "scenarioZh": "在薯条和沙拉之间选择配菜"}],
+      "usageNotesZh": ["on the side 还可表示把酱料另外装，不要与 side dish 混淆。", "substitute a salad for fries 表示用沙拉替换薯条。"],
+      "tags": ["dining", "menus", "food", "ordering"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-combo",
+      "term": "combo",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "组合餐；套餐",
+      "explanationZh": "把主食、配菜和饮料等组合在一起出售的餐点，常见于快餐店和美食广场。",
+      "examples": [{"en": "The combo includes fries and a medium drink.", "zh": "这份套餐包含薯条和一杯中杯饮料。", "scenarioZh": "在快餐柜台比较单点与套餐"}],
+      "usageNotesZh": ["make it a combo 表示把单点升级成套餐。", "确认套餐是否允许更换配菜，以及更换是否加价。"],
+      "tags": ["dining", "fast-food", "menus", "ordering"],
+      "wordAnalysis": {"textZh": "combo 是 combination 的口语缩写，在餐厅里通常指把几样食品组合出售的套餐。"}
+    },
+    {
+      "id": "dining-food-allergy",
+      "term": "food allergy",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "食物过敏",
+      "explanationZh": "身体对某种食物成分产生免疫反应的情况，可能很严重。点餐时应明确说明具体过敏原，而不只说不喜欢。",
+      "examples": [{"en": "I have a severe food allergy to peanuts.", "zh": "我对花生有严重的食物过敏。", "scenarioZh": "点餐前向服务员说明过敏风险"}],
+      "usageNotesZh": ["allergic to peanuts 表示对花生过敏。", "如需避免交叉接触，应询问厨房能否安全处理，而不要自行假定。"],
+      "tags": ["dining", "allergies", "health", "food-safety"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-dietary-restriction",
+      "term": "dietary restriction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "饮食限制；饮食禁忌",
+      "explanationZh": "因健康、宗教、伦理或个人选择而需要避开的食物或配料，例如不吃猪肉、乳制品或动物制品。",
+      "examples": [{"en": "Please let us know about any dietary restrictions when you book.", "zh": "预订时请告知我们任何饮食限制。", "scenarioZh": "为聚餐收集参加者的饮食需求"}],
+      "usageNotesZh": ["dietary restrictions 常用复数，泛指多项饮食要求。", "它比 food allergy 范围更广，但不能替代对严重过敏的明确说明。"],
+      "tags": ["dining", "diet", "restaurants", "accessibility"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-split-the-bill",
+      "term": "split the bill",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "分摊账单；大家共同付账",
+      "explanationZh": "多人用餐后把总账单分开支付，可以平均分，也可以各自支付自己点的项目。",
+      "examples": [{"en": "Can we split the bill evenly among four people?", "zh": "我们可以把账单由四个人平均分摊吗？", "scenarioZh": "朋友聚餐后商量付款方式"}],
+      "usageNotesZh": ["split the bill evenly 表示平均分账。", "若要各付各的，可提前说明 separate bills 或按菜品拆分。"],
+      "tags": ["dining", "billing", "payments", "group-dining"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-separate-bills",
+      "term": "separate bills",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "分开结账；各自账单",
+      "explanationZh": "同桌客人的消费分别列在不同账单上，各自完成付款。人数较多时，餐厅可能限制拆单方式。",
+      "examples": [{"en": "Could we have separate bills for each couple?", "zh": "可以按每对情侣分别结账吗？", "scenarioZh": "点餐前告知服务员需要拆单"}],
+      "usageNotesZh": ["separate cheques 在加拿大也能听到，但 bills 更直白。", "最好在点餐前说明，方便服务员分别记录。"],
+      "tags": ["dining", "billing", "payments", "group-dining"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-tip",
+      "term": "tip",
+      "partsOfSpeech": ["noun", "verb"],
+      "definitionZh": "小费；给小费",
+      "explanationZh": "在餐厅服务后自愿支付给服务人员的额外金额。刷卡机常提供百分比选项，也通常可以选择自定义金额。",
+      "examples": [{"en": "You can enter the tip on the payment terminal.", "zh": "你可以在付款终端上输入小费。", "scenarioZh": "使用刷卡机结账"}],
+      "usageNotesZh": ["leave a tip 和 tip the server 都表示给小费。", "先检查账单是否已经包含 automatic gratuity，避免重复支付。"],
+      "tags": ["dining", "tips", "payments", "restaurants"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-service-charge",
+      "term": "service charge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "服务费",
+      "explanationZh": "餐厅在账单中另外收取的费用，可能按固定金额或比例计算。它是否等同小费、如何分配给员工，要看餐厅说明。",
+      "examples": [{"en": "A service charge has already been added to the bill.", "zh": "账单里已经加收了服务费。", "scenarioZh": "付款前核对账单附加费用"}],
+      "usageNotesZh": ["service charge 和 gratuity 不一定完全相同，应阅读账单说明。", "如不清楚是否还需给小费，可以礼貌询问服务员。"],
+      "tags": ["dining", "fees", "billing", "restaurants"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-tap-water",
+      "term": "tap water",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自来水；普通饮用水",
+      "explanationZh": "直接来自供水系统的水。餐厅询问饮用水种类时，可以用它明确表示不要瓶装水或气泡水。",
+      "examples": [{"en": "Tap water is fine for me, thank you.", "zh": "给我普通自来水就可以，谢谢。", "scenarioZh": "服务员询问要哪种饮用水"}],
+      "usageNotesZh": ["tap water 通常按不可数名词使用。", "如果只说 water，服务员有时会继续询问 still、sparkling 或 tap。"],
+      "tags": ["dining", "drinks", "water", "restaurants"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-sparkling-water",
+      "term": "sparkling water",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "气泡水；含气矿泉水",
+      "explanationZh": "含有二氧化碳气泡的水，餐厅可能按瓶收费。它一般不等同于加糖的汽水。",
+      "examples": [{"en": "Would you like still or sparkling water?", "zh": "您想要无气水还是气泡水？", "scenarioZh": "入座后选择饮用水"}],
+      "usageNotesZh": ["still water 指不含气泡的水。", "如果不想付瓶装水费用，可以明确说 tap water。"],
+      "tags": ["dining", "drinks", "water", "restaurants"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-takeout-container",
+      "term": "takeout container",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "外带餐盒；打包盒",
+      "explanationZh": "用来装走剩余食物或外带餐点的盒子。部分地区或餐厅可能对一次性容器收取费用。",
+      "examples": [{"en": "Could I get a takeout container for the rest of this pasta?", "zh": "可以给我一个外带餐盒装剩下的意面吗？", "scenarioZh": "堂食后打包未吃完的食物"}],
+      "usageNotesZh": ["to-go container 意思相同，在口语中也很常见。", "汤或带酱食物可询问容器是否防漏。"],
+      "tags": ["dining", "takeout", "leftovers", "containers"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-bill",
+      "term": "bill",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "餐厅账单",
+      "explanationZh": "列出所点菜品、饮料、税费和其他收费的付款清单。在加拿大餐厅里，ask for the bill 是自然说法。",
+      "examples": [{"en": "Could we have the bill when you have a moment?", "zh": "您方便的时候可以把账单给我们吗？", "scenarioZh": "用餐结束后请服务员结账"}],
+      "usageNotesZh": ["check the bill 表示核对账单；pay the bill 表示付款。", "美式英语常说 check，加拿大两种说法都能理解。"],
+      "tags": ["dining", "billing", "payments", "restaurants"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-debit-machine",
+      "term": "debit machine",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "刷卡机；借记卡付款终端",
+      "explanationZh": "加拿大口语中常用来指餐厅或商店的电子付款终端，即使实际也支持信用卡和手机感应支付。",
+      "examples": [{"en": "The server brought the debit machine to our table.", "zh": "服务员把刷卡机拿到了我们桌边。", "scenarioZh": "在座位上完成刷卡付款"}],
+      "usageNotesZh": ["payment terminal 是更通用的正式说法。", "机器上的 tip 提示通常出现在选择账户或感应付款之前。"],
+      "tags": ["dining", "payments", "debit-cards", "canadian-english"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-set-menu",
+      "term": "set menu",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "固定套餐菜单；定制式菜单",
+      "explanationZh": "按固定价格提供预先组合好的多道菜菜单，通常只能在有限选项中选择，节日和团体用餐时常见。",
+      "examples": [{"en": "The restaurant is offering a three-course set menu for New Year's Eve.", "zh": "餐厅在跨年夜提供三道式固定套餐。", "scenarioZh": "预订节日聚餐前查看菜单形式"}],
+      "usageNotesZh": ["three-course set menu 表示包含三道菜的固定套餐。", "set menu 与 à la carte 单点菜单相对，但具体选择数量因餐厅而异。"],
+      "tags": ["dining", "menus", "restaurants", "special-events"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-no-show-fee",
+      "term": "no-show fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "爽约费；未到店费用",
+      "explanationZh": "顾客订位后未出现、也未在规定时间前取消时，餐厅可能收取的费用。",
+      "examples": [{"en": "The restaurant charges a no-show fee if you do not cancel by noon.", "zh": "如果您没有在中午前取消订位，餐厅会收取爽约费。", "scenarioZh": "确认订位取消截止时间"}],
+      "usageNotesZh": ["no-show 指预约后没有出现的人或情况。", "订位时可能要求提供信用卡，用于执行取消或爽约政策。"],
+      "tags": ["dining", "reservations", "fees", "cancellations"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-automatic-gratuity",
+      "term": "automatic gratuity",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "自动计入的小费",
+      "explanationZh": "餐厅按规定比例直接加到账单中的小费，常用于人数较多的团体，不需要顾客再手动输入同一笔小费。",
+      "examples": [{"en": "An automatic gratuity of eighteen percent applies to groups of six or more.", "zh": "六人及以上团体会自动加收百分之十八的小费。", "scenarioZh": "预订多人聚餐时查看收费规则"}],
+      "usageNotesZh": ["账单上也可能写 gratuity included。", "付款前核对百分比和税费计算方式，以免重复给小费。"],
+      "tags": ["dining", "tips", "billing", "group-dining"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-counter-service",
+      "term": "counter service",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "柜台点餐服务",
+      "explanationZh": "顾客在柜台点单并付款，之后自行取餐或等待工作人员送餐的服务模式，常见于咖啡店和快餐店。",
+      "examples": [{"en": "This café has counter service, so you order before finding a seat.", "zh": "这家咖啡店是柜台点餐，所以要先点单再找座位。", "scenarioZh": "第一次进入咖啡店时确认点餐流程"}],
+      "usageNotesZh": ["counter service 与由服务员全程到桌服务的 table service 相对。", "取餐方式可能是叫名字、叫号码或使用震动提示器。"],
+      "tags": ["dining", "cafes", "service", "ordering"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-food-court",
+      "term": "food court",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "美食广场；集中餐饮区",
+      "explanationZh": "商场、办公楼或交通枢纽中由多家餐饮柜台围绕公共座位组成的区域。",
+      "examples": [{"en": "Let's meet near the entrance to the food court at noon.", "zh": "我们中午在美食广场入口附近见面吧。", "scenarioZh": "与同事约在商场吃午饭"}],
+      "usageNotesZh": ["in the food court 表示在美食广场内。", "不同柜台通常分别结账，座位则由顾客共用。"],
+      "tags": ["dining", "shopping-malls", "fast-food", "public-spaces"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "dining-dressing-on-the-side",
+      "term": "dressing on the side",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "沙拉酱另放；酱汁分开装",
+      "explanationZh": "点沙拉时要求不要提前拌入酱汁，而是把酱汁装在旁边的小容器里，方便自己控制用量。",
+      "examples": [{"en": "Could I have the salad with the dressing on the side?", "zh": "这份沙拉可以把沙拉酱另外装吗？", "scenarioZh": "点餐时要求控制沙拉酱用量"}],
+      "usageNotesZh": ["on the side 表示与主食分开提供。", "如果想完全不要酱，应说 no dressing，而不是 on the side。"],
+      "tags": ["dining", "salads", "ordering", "requests"],
+      "wordAnalysis": {"textZh": ""}
+    }
+  ]
+}
