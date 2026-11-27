@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 3,
+  "batchId": "life-2026-11-27-canadian-daily-life",
+  "title": "加拿大日常生活：邮寄包裹、投递通知与跨境收件",
+  "publishedOn": "2026-11-27",
+  "entries": [
+    {
+      "id": "mail-mailbox",
+      "term": "mailbox",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮箱；信箱",
+      "explanationZh": "住宅或大楼中用来接收信件和小件邮件的箱子，可以位于门口、大堂或集中邮件区。",
+      "examples": [{"en": "I check the mailbox in the lobby every evening.", "zh": "我每天晚上都会查看大堂里的信箱。", "scenarioZh": "下班回家后检查住宅邮件"}],
+      "usageNotesZh": ["check the mailbox 表示查看信箱里是否有邮件。", "较大的包裹通常会放进包裹柜、前台或指定收件区。"],
+      "tags": ["mail", "housing", "delivery", "daily-life"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-community-mailbox",
+      "term": "community mailbox",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "社区集中邮箱",
+      "explanationZh": "加拿大一些社区设置的集中式锁闭邮箱，多户居民在同一地点用各自钥匙领取信件和小包裹。",
+      "examples": [{"en": "The community mailbox is across the street from our townhouse complex.", "zh": "社区集中邮箱在我们联排住宅区的马路对面。", "scenarioZh": "搬家后寻找社区收信地点"}],
+      "usageNotesZh": ["每户通常有独立格口，包裹可能放在旁边更大的专用格口。", "丢失钥匙时应联系负责该邮箱的邮政服务方或物业。"],
+      "tags": ["mail", "community", "housing", "canada"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-pickup-notice",
+      "term": "pickup notice",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取件通知",
+      "explanationZh": "通知收件人某件邮件或包裹需要到指定地点领取的纸条、邮件或电子消息，通常会注明地址和可取时间。",
+      "examples": [{"en": "The pickup notice says the parcel will be ready after one p.m. tomorrow.", "zh": "取件通知写着包裹明天下午一点后可以领取。", "scenarioZh": "查看投递失败后留下的通知"}],
+      "usageNotesZh": ["bring the pickup notice 表示携带取件通知。", "领取时通常还需要政府签发的身份证件，并核对地址或姓名。"],
+      "tags": ["mail", "pickup", "parcels", "notifications"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-delivery-attempt",
+      "term": "delivery attempt",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "投递尝试；尝试送货",
+      "explanationZh": "配送人员到达地址并尝试交付包裹，但因无人接收、无法进入大楼或其他原因而没有完成投递。",
+      "examples": [{"en": "The tracking page shows a delivery attempt at ten this morning.", "zh": "物流页面显示今天上午十点尝试投递过一次。", "scenarioZh": "查看未收到包裹的物流记录"}],
+      "usageNotesZh": ["failed delivery attempt 表示未成功的投递尝试。", "记录显示 attempt 后，应查看是否会再次投递或需要自行取件。"],
+      "tags": ["mail", "delivery", "tracking", "parcels"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-missed-delivery",
+      "term": "missed delivery",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "错过投递；未能收货",
+      "explanationZh": "包裹送到时没有符合要求的人接收，或配送人员无法完成交付的情况。",
+      "examples": [{"en": "I received an email about a missed delivery while I was at work.", "zh": "我上班时收到了一封关于错过投递的邮件。", "scenarioZh": "白天不在家时收到配送提醒"}],
+      "usageNotesZh": ["missed delivery notice 表示未成功投递通知。", "不要只点击陌生短信中的链接，应从订单或承运方官方页面核实状态。"],
+      "tags": ["mail", "delivery", "notifications", "online-shopping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-signature-required",
+      "term": "signature required",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "需要签收",
+      "explanationZh": "包裹不能直接放下，必须由符合要求的人当面签名确认收货，常用于贵重物品或重要文件。",
+      "examples": [{"en": "The shipment is marked signature required, so someone must be home.", "zh": "这票货标注为需要签收，所以必须有人在家。", "scenarioZh": "安排贵重包裹的收货时间"}],
+      "usageNotesZh": ["adult signature required 表示必须由达到规定年龄的成年人签收。", "能否改送取件点或授权他人签收，要看寄件方和承运方规则。"],
+      "tags": ["mail", "delivery", "signatures", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-tracking-status",
+      "term": "tracking status",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "物流状态；追踪状态",
+      "explanationZh": "物流系统显示的包裹当前处理阶段，例如已收件、运输中、派送中或已送达。",
+      "examples": [{"en": "The tracking status has not changed for three business days.", "zh": "物流状态已经三个工作日没有更新了。", "scenarioZh": "联系商家查询延迟包裹"}],
+      "usageNotesZh": ["in transit 表示运输中；out for delivery 表示正在派送。", "扫描更新可能延迟，预计日期也可能随运输情况变化。"],
+      "tags": ["mail", "tracking", "delivery", "online-shopping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-sender",
+      "term": "sender",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "寄件人；发送方",
+      "explanationZh": "寄出信件、包裹或电子消息的个人或机构，寄件信息通常写在邮件或标签的指定位置。",
+      "examples": [{"en": "The sender forgot to include a return address on the envelope.", "zh": "寄件人忘了在信封上写退信地址。", "scenarioZh": "检查准备寄出的信件"}],
+      "usageNotesZh": ["sender information 表示寄件人信息。", "网购包裹上的 sender 可能显示仓库或物流合作方，而不是商店名称。"],
+      "tags": ["mail", "shipping", "addresses", "people"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-recipient",
+      "term": "recipient",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "收件人；接收方",
+      "explanationZh": "信件、包裹或其他物品的指定接收者，姓名和地址需要与投递要求一致。",
+      "examples": [{"en": "Only the recipient named on the notice can pick up this registered letter.", "zh": "只有通知上写明的收件人才能领取这封挂号信。", "scenarioZh": "在邮政网点确认代领限制"}],
+      "usageNotesZh": ["recipient name 表示收件人姓名。", "它与 sender 寄件人相对，常见于邮寄表格和物流页面。"],
+      "tags": ["mail", "shipping", "addresses", "people"],
+      "wordAnalysis": {"textZh": "recipient 与 receive 都有“接收”含义，但拼写不是 receive 直接加后缀，注意中间写作 -cipi-。"}
+    },
+    {
+      "id": "mail-return-address",
+      "term": "return address",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "退信地址；寄件人地址",
+      "explanationZh": "邮件无法投递时用于退回给寄件人的地址，通常写在信封正面左上角或包裹标签的寄件人栏。",
+      "examples": [{"en": "Please write your return address in the top-left corner of the envelope.", "zh": "请把退信地址写在信封左上角。", "scenarioZh": "准备邮寄纸质申请材料"}],
+      "usageNotesZh": ["return address 通常是寄件人可接收退件的地址。", "跨境包裹应确保国家、邮编和联系方式填写完整。"],
+      "tags": ["mail", "addresses", "shipping", "letters"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-postal-code",
+      "term": "postal code",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮政编码",
+      "explanationZh": "加拿大地址中由字母和数字交替组成的六位编码，用于帮助邮件和包裹准确分拣与投递。",
+      "examples": [{"en": "Please enter the postal code with a space in the middle.", "zh": "请输入邮政编码，并在中间留一个空格。", "scenarioZh": "填写加拿大网购配送地址"}],
+      "usageNotesZh": ["加拿大格式通常写作 A1A 1A1。", "ZIP code 是美国常用说法，加拿大表格通常写 postal code。"],
+      "tags": ["mail", "addresses", "canada", "forms"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-postage",
+      "term": "postage",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮资；邮费",
+      "explanationZh": "寄送信件或包裹所需支付的费用，金额取决于尺寸、重量、目的地和服务速度。",
+      "examples": [{"en": "The postage will cost more because the envelope is oversized.", "zh": "因为信封尺寸超标，邮资会更高。", "scenarioZh": "在邮局柜台计算寄信费用"}],
+      "usageNotesZh": ["postage paid 表示邮资已付；insufficient postage 表示邮资不足。", "邮票是支付邮资的一种方式，但 postage 指费用本身。"],
+      "tags": ["mail", "fees", "shipping", "letters"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-stamp",
+      "term": "stamp",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮票",
+      "explanationZh": "贴在信封或明信片上、用于证明已支付相应邮资的小型凭证。不同目的地和邮件规格需要的邮资可能不同。",
+      "examples": [{"en": "Do I need one stamp or extra postage for this envelope?", "zh": "这个信封贴一张邮票就够，还是需要补邮资？", "scenarioZh": "寄出较厚信封前确认邮资"}],
+      "usageNotesZh": ["put a stamp on the envelope 表示在信封上贴邮票。", "不要只按邮票张数判断，超重或超尺寸邮件可能需要补差额。"],
+      "tags": ["mail", "letters", "postage", "shipping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-envelope",
+      "term": "envelope",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信封",
+      "explanationZh": "用于装信件、文件或卡片的纸质封套，邮寄时需要正确书写收件地址并封好开口。",
+      "examples": [{"en": "I used a padded envelope to protect the document.", "zh": "我用了一个带衬垫的信封来保护文件。", "scenarioZh": "邮寄不宜折叠的重要材料"}],
+      "usageNotesZh": ["padded envelope 表示带缓冲衬垫的信封。", "尺寸、厚度或硬度超过普通信件标准时，邮资可能按其他类别计算。"],
+      "tags": ["mail", "letters", "packaging", "shipping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-registered-mail",
+      "term": "registered mail",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "挂号邮件；可追踪签收邮件",
+      "explanationZh": "提供寄件凭证、追踪记录和签收确认的邮件服务，适合寄送需要证明已发出或已送达的重要文件。",
+      "examples": [{"en": "I sent the signed form by registered mail so I would have proof of delivery.", "zh": "我用挂号邮件寄出了签字表格，以便保留送达证明。", "scenarioZh": "邮寄有截止日期的重要文件"}],
+      "usageNotesZh": ["send something by registered mail 表示以挂号方式寄送。", "保留收据和追踪号码，直到确认对方已经收到。"],
+      "tags": ["mail", "tracking", "documents", "signatures"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-regular-mail",
+      "term": "regular mail",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "普通邮件；常规邮寄",
+      "explanationZh": "使用标准速度和基本服务寄送的邮件，通常费用较低，但可能没有逐件追踪或签收证明。",
+      "examples": [{"en": "The replacement card was sent by regular mail.", "zh": "补发的卡片通过普通邮件寄出。", "scenarioZh": "等待银行邮寄的新卡"}],
+      "usageNotesZh": ["by regular mail 表示通过普通邮寄。", "重要或有截止日期的文件，应确认是否需要可追踪服务。"],
+      "tags": ["mail", "letters", "delivery", "shipping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-mail-forwarding",
+      "term": "mail forwarding",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮件转寄；信件改寄",
+      "explanationZh": "搬家后在一段时间内把寄往旧地址的合资格邮件转送到新地址的服务。",
+      "examples": [{"en": "We arranged mail forwarding before moving to the new apartment.", "zh": "搬到新公寓前，我们办理了邮件转寄。", "scenarioZh": "更换住址时避免漏收重要信件"}],
+      "usageNotesZh": ["set up mail forwarding 表示办理邮件转寄。", "并非所有包裹和政府邮件都一定包含在服务范围内，仍应主动更新地址。"],
+      "tags": ["mail", "moving", "addresses", "services"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-hold-mail",
+      "term": "hold mail",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "暂停投递并代为保管邮件",
+      "explanationZh": "短期外出时请求邮政服务在指定期间暂存邮件，待返回后恢复投递或按规定领取。",
+      "examples": [{"en": "We need to hold mail while we are away for two weeks.", "zh": "我们外出两周期间需要暂停投递并保管邮件。", "scenarioZh": "长途旅行前安排住宅收信"}],
+      "usageNotesZh": ["hold mail 可作服务名称或办理动作使用。", "它与 mail forwarding 不同：前者暂存，后者转送到另一个地址。"],
+      "tags": ["mail", "travel", "services", "delivery"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-po-box",
+      "term": "PO box",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "邮政信箱；邮局专用信箱",
+      "explanationZh": "设在邮政网点、由用户租用并自行领取邮件的锁闭信箱，可作为部分邮件的收件地址。",
+      "examples": [{"en": "The organization uses a PO box instead of a street address for mail.", "zh": "这个机构使用邮政信箱而不是街道地址收信。", "scenarioZh": "填写机构的纸质通信地址"}],
+      "usageNotesZh": ["PO 是 post office 的缩写，完整写法是 post office box。", "部分快递或需要上门交付的商品不接受 PO box 地址。"],
+      "tags": ["mail", "addresses", "post-office", "privacy"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-shipping-label",
+      "term": "shipping label",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "运输标签；快递面单",
+      "explanationZh": "贴在包裹外部、包含收寄地址、条码和运输服务信息的标签，承运方通过它分拣和追踪包裹。",
+      "examples": [{"en": "Print the shipping label and attach it flat to the box.", "zh": "请打印运输标签，并平整地贴在箱子上。", "scenarioZh": "在线办理商品退货寄送"}],
+      "usageNotesZh": ["prepaid shipping label 表示邮资已经支付的运输标签。", "应覆盖或移除箱子上旧的条码和地址标签，避免误扫。"],
+      "tags": ["mail", "shipping", "labels", "returns"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-customs-declaration",
+      "term": "customs declaration",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "海关申报；海关申报单",
+      "explanationZh": "跨境寄件时向海关说明包裹内容、数量、价值和用途的申报信息或表格。",
+      "examples": [{"en": "List each item accurately on the customs declaration.", "zh": "请在海关申报单上准确列出每件物品。", "scenarioZh": "从加拿大向海外邮寄礼物"}],
+      "usageNotesZh": ["填写 gift 不代表一定免税，仍需如实申报内容和价值。", "模糊或不实申报可能导致延误、退件或处罚。"],
+      "tags": ["mail", "customs", "international-shipping", "forms"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-customs-duties",
+      "term": "customs duties",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "关税",
+      "explanationZh": "进口商品进入加拿大或其他国家时，海关可能依据品类、来源和申报价值征收的税费。",
+      "examples": [{"en": "The recipient may have to pay customs duties before the parcel is released.", "zh": "包裹放行前，收件人可能需要支付关税。", "scenarioZh": "接收海外网购商品时查看缴费通知"}],
+      "usageNotesZh": ["duties and taxes 常一起出现，表示关税及其他进口税费。", "是否收费和金额由海关规则决定，不应只依赖商家估算。"],
+      "tags": ["mail", "customs", "fees", "international-shipping"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-brokerage-fee",
+      "term": "brokerage fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "报关代理费；清关服务费",
+      "explanationZh": "承运方或报关代理为处理进口清关手续而收取的服务费，通常与政府征收的关税和税款分开。",
+      "examples": [{"en": "The courier charged a brokerage fee in addition to the import taxes.", "zh": "除了进口税外，快递公司还收取了报关代理费。", "scenarioZh": "核对跨境包裹到货时的额外费用"}],
+      "usageNotesZh": ["brokerage fee 不是海关本身征收的 customs duty。", "下单前可查看商家是否预收税费，以及所用运输方式的清关收费。"],
+      "tags": ["mail", "customs", "fees", "couriers"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-delivery-instructions",
+      "term": "delivery instructions",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "投递说明；送货指示",
+      "explanationZh": "提供给配送人员的进入方式、放置位置或联系要求，例如门禁、入口方向和前台安排。",
+      "examples": [{"en": "I added delivery instructions asking the driver to leave the parcel with the concierge.", "zh": "我添加了投递说明，请司机把包裹交给礼宾台。", "scenarioZh": "为公寓网购订单填写送货要求"}],
+      "usageNotesZh": ["add delivery instructions 表示添加投递说明。", "不要在公开可见的说明中填写长期门禁密码或其他敏感信息。"],
+      "tags": ["mail", "delivery", "apartments", "instructions"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "mail-return-to-sender",
+      "term": "return to sender",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "退回寄件人",
+      "explanationZh": "邮件因地址错误、无人认领、拒收或其他原因无法交付，按流程退回原寄件方。",
+      "examples": [{"en": "The parcel was returned to sender because the unit number was missing.", "zh": "因为缺少房间号，包裹被退回寄件人。", "scenarioZh": "查询包裹未送达并开始退回的原因"}],
+      "usageNotesZh": ["tracking 页面可能缩写或显示为 returned to sender。", "发现地址问题后应尽快联系商家，确认退款或重新寄送安排。"],
+      "tags": ["mail", "returns", "delivery", "addresses"],
+      "wordAnalysis": {"textZh": ""}
+    }
+  ]
+}
