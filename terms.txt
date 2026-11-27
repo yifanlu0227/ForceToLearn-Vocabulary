@@ -168,6 +168,7 @@ braking distance
 bring your own
 broil
 broke
+brokerage fee
 bruised
 brutal
 buck
@@ -298,6 +299,7 @@ common cold
 community centre
 community event
 community garden
+community mailbox
 commute
 commuter train
 comp
@@ -370,6 +372,8 @@ curdle
 current balance
 curtain rod
 customer service desk
+customs declaration
+customs duties
 cut someone off
 cut to the chase
 cutting board
@@ -411,8 +415,10 @@ delay
 deli
 deli counter
 deliverable
+delivery attempt
 delivery estimate
 delivery fee
+delivery instructions
 delivery window
 deodorant
 department
@@ -516,6 +522,7 @@ enrol
 enrolment deadline
 entry-level position
 entrée
+envelope
 EOB
 equipment included
 equipment rental
@@ -723,6 +730,7 @@ hit the road
 hit the sack
 hit the spot
 hit up
+hold mail
 hold period
 hold the
 hole in the wall
@@ -868,7 +876,9 @@ loyalty points
 lukewarm
 lunch break
 machine washable
+mail forwarding
 mail in
+mailbox
 mailroom
 maintenance request
 maintenance staff
@@ -908,6 +918,7 @@ minor
 minor revision
 minutes
 miss a connection
+missed delivery
 missed payment
 mittens
 mixing bowl
@@ -1084,6 +1095,7 @@ photocopy
 physical
 pick up
 pickup location
+pickup notice
 pickup window
 piece of cake
 pileup
@@ -1106,11 +1118,14 @@ PLU sticker
 plumber
 plumbing
 plunger
+PO box
 poach
 point person
 pop
 portfolio
 post-credit scene
+postage
+postal code
 posted transaction
 poster
 pot lights
@@ -1194,6 +1209,7 @@ rebate
 rebuttal
 receipt
 recess
+recipient
 recreation centre
 recreation program
 recruiter
@@ -1212,12 +1228,14 @@ refund
 refund policy
 regional transit
 register
+registered mail
 registrar
 registration deadline
 registration fee
 registration opens
 regular
 regular fit
+regular mail
 regular price
 reheat
 reimburse
@@ -1265,9 +1283,11 @@ restock
 restocking fee
 resubmit
 resume
+return address
 return label
 return policy
 return the keys
+return to sender
 return window
 reusable bag
 review comments
@@ -1361,6 +1381,7 @@ self-checkout
 sell-by date
 seminar
 send back
+sender
 separate bills
 separate entrance
 server
@@ -1384,6 +1405,7 @@ shelf
 shift
 shipping address
 shipping fee
+shipping label
 shoe size
 shoot someone a text
 shopping cart
@@ -1409,6 +1431,7 @@ sidewalk
 sidewalk clearing
 sift
 sign up
+signature required
 simmer
 SIN
 single fare
@@ -1487,6 +1510,7 @@ stacks
 stain
 stain remover
 stall
+stamp
 start a tab
 start date
 statement balance
@@ -1622,6 +1646,7 @@ tow truck
 town hall
 track
 tracking number
+tracking status
 traction
 traction control
 trail map
