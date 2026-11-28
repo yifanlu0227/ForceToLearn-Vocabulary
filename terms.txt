@@ -17,8 +17,10 @@ accessibility ramp
 accessibility services
 account holder
 account number
+account statement
 acknowledgement
 action item
+activate a card
 add a course
 admission
 Advil
@@ -128,6 +130,7 @@ bill
 bill payment
 billing address
 billing cycle
+billing dispute
 birth certificate
 bite the bullet
 black diamond
@@ -218,6 +221,8 @@ caramelize
 carbon monoxide detector
 card activation
 card balance
+card lock
+card number
 card reader
 cardholder
 cardio
@@ -251,6 +256,7 @@ cheque deposit
 chequing account
 childproof cap
 chills
+chip and PIN
 chip in
 cilantro
 circle back
@@ -304,6 +310,7 @@ commute
 commuter train
 comp
 compost bin
+compromised card
 concession stand
 concierge
 conditioner
@@ -377,6 +384,8 @@ customs duties
 cut someone off
 cut to the chase
 cutting board
+CVV
+daily limit
 daily special
 dairy section
 dairy-free
@@ -398,6 +407,7 @@ debit card
 debit machine
 decaf
 decision letter
+declined transaction
 decongestant
 deductible
 deep clean
@@ -434,6 +444,7 @@ dig out
 dimmer switch
 dine-in
 direct deposit
+direct deposit alert
 discount code
 dish rack
 dish soap
@@ -488,6 +499,7 @@ dubbed
 duct tape
 due date
 dumbbell
+duplicate charge
 dust
 dustpan
 Dutch oven
@@ -754,6 +766,7 @@ ice pellets
 ice scraper
 Iced Capp
 icy
+identity verification
 idle
 impulse buy
 in bulk
@@ -869,6 +882,7 @@ long shot
 long story short
 loonie
 lost and found
+low balance alert
 low stock
 low-floor bus
 loyalty card
@@ -905,6 +919,7 @@ meeting invite
 meeting room
 member price
 menu item
+merchant dispute
 merge
 methodology
 microfiber cloth
@@ -924,6 +939,7 @@ mittens
 mixing bowl
 mobile banking
 mobile deposit
+mobile wallet
 mocktail
 money order
 month-to-month
@@ -994,6 +1010,7 @@ on time
 on-ramp
 onboarding
 one-on-one meeting
+one-time passcode
 one-way street
 online banking
 online course
@@ -1022,6 +1039,7 @@ over easy
 over-the-counter
 over-the-counter medication
 overdraft
+overdraft fee
 overdraft protection
 overdue
 overdue fine
@@ -1102,6 +1120,7 @@ pileup
 pillow sham
 pilot light
 PIN
+PIN change
 pint
 piping hot
 pit
@@ -1178,6 +1197,7 @@ proofread
 property manager
 property tax
 proposal
+provisional credit
 public consultation
 public notice
 public school
@@ -1495,6 +1515,7 @@ specials
 specimen
 speed bump
 speeding ticket
+spending limit
 spill the beans
 spin out
 splash pad
@@ -1573,6 +1594,7 @@ supply teacher
 support group
 supporting documents
 surcharge
+suspicious transaction
 swab
 swamped
 Swiffer
@@ -1654,6 +1676,7 @@ trailer
 trailhead
 train car
 transaction
+transaction alert
 transaction history
 transcript
 transfer
@@ -1706,6 +1729,7 @@ vegan
 vegetarian
 vent
 venue
+verification code
 video call
 visitor parking
 visitor pass
@@ -1766,6 +1790,7 @@ wiper blades
 wire transfer
 withdraw
 withdraw from a course
+withdrawal alert
 withdrawal deadline
 withdrawal limit
 wok
