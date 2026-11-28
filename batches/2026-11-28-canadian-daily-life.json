@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 3,
+  "batchId": "life-2026-11-28-canadian-daily-life",
+  "title": "加拿大日常生活：银行卡安全、账户提醒与交易争议",
+  "publishedOn": "2026-11-28",
+  "entries": [
+    {
+      "id": "banking-transaction-alert",
+      "term": "transaction alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "交易提醒",
+      "explanationZh": "账户发生付款、转账、取款等活动时发送的通知，便于及时发现不认识的交易。",
+      "examples": [{"en": "A transaction alert appeared on my phone right after I paid for groceries.", "zh": "我付完买菜的钱后，手机马上弹出了交易提醒。", "scenarioZh": "刷卡购物后核对即时通知"}],
+      "usageNotesZh": ["transaction alert 可设置金额门槛，只提醒超过指定数额的交易。", "提醒本身不一定代表交易已经最终入账，还要查看账户中的实际状态。"],
+      "tags": ["banking", "transactions", "notifications", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-low-balance-alert",
+      "term": "low balance alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "低余额提醒",
+      "explanationZh": "当账户可用余额低于自定金额时发出的通知，可帮助避免付款失败或产生透支费用。",
+      "examples": [{"en": "My low balance alert reminded me to transfer money before the rent payment came out.", "zh": "低余额提醒让我在房租扣款前及时转了钱。", "scenarioZh": "自动扣款前检查支票账户余额"}],
+      "usageNotesZh": ["set the alert at $200 表示把提醒门槛设为 200 加元。", "提醒可能有延迟，安排重要扣款时仍应主动查看可用余额。"],
+      "tags": ["banking", "balance", "notifications", "budgeting"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-suspicious-transaction",
+      "term": "suspicious transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "可疑交易",
+      "explanationZh": "因地点、金额、频率或消费模式异常而被银行或持卡人认为需要核实的交易。",
+      "examples": [{"en": "The bank texted me to confirm a suspicious transaction from another province.", "zh": "银行发短信让我确认一笔来自外省的可疑交易。", "scenarioZh": "旅行期间收到异常消费核实"}],
+      "usageNotesZh": ["flag a transaction as suspicious 表示把某笔交易标记为可疑。", "可疑不等于已经确定是诈骗；先通过官方渠道核实，再按银行指示处理。"],
+      "tags": ["banking", "transactions", "fraud-prevention", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-card-lock",
+      "term": "card lock",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行卡临时锁定功能",
+      "explanationZh": "持卡人暂时阻止银行卡进行部分或全部交易的功能，常用于卡片一时找不到但尚未确认遗失的情况。",
+      "examples": [{"en": "I turned on the card lock while I searched for my debit card.", "zh": "我找借记卡时先开启了银行卡锁定功能。", "scenarioZh": "暂时找不到钱包时保护账户"}],
+      "usageNotesZh": ["turn on the card lock 表示启用锁卡功能；unlock the card 表示解除锁定。", "锁卡不一定能阻止已经授权的付款或所有类型的交易，长期遗失应立即联系发卡机构。"],
+      "tags": ["banking", "cards", "security", "fraud-prevention"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-compromised-card",
+      "term": "compromised card",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "信息可能已泄露的银行卡",
+      "explanationZh": "卡号、安全码或其他支付资料可能被他人获取，因而存在未经授权使用风险的银行卡。",
+      "examples": [{"en": "The bank cancelled my compromised card and mailed a new one.", "zh": "银行注销了那张信息可能已泄露的卡，并邮寄了一张新卡。", "scenarioZh": "发现异常消费后办理换卡"}],
+      "usageNotesZh": ["card details may be compromised 表示卡片资料可能已经泄露。", "不要继续使用被确认存在风险的卡，应按发卡机构指示换卡并检查近期交易。"],
+      "tags": ["banking", "cards", "data-security", "fraud-prevention"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-activate-a-card",
+      "term": "activate a card",
+      "partsOfSpeech": ["phrase"],
+      "definitionZh": "激活银行卡",
+      "explanationZh": "按照发卡机构要求完成验证，使新卡或补发卡可以开始使用。",
+      "examples": [{"en": "You need to activate the card before using it at a store.", "zh": "你需要先激活这张卡，才能在商店使用。", "scenarioZh": "收到邮寄的新信用卡"}],
+      "usageNotesZh": ["activate a debit card 表示激活借记卡；activate a credit card 表示激活信用卡。", "只使用卡片背面、银行官方应用或官网提供的激活渠道。"],
+      "tags": ["banking", "cards", "setup", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-pin-change",
+      "term": "PIN change",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "个人密码更改",
+      "explanationZh": "为银行卡更换用于自动柜员机或刷卡终端身份验证的数字密码。",
+      "examples": [{"en": "I completed the PIN change at my bank's ATM.", "zh": "我在银行的自动柜员机上完成了密码更改。", "scenarioZh": "怀疑银行卡密码被他人看到后改密"}],
+      "usageNotesZh": ["change your PIN 表示更改银行卡密码。", "不同银行允许改密的渠道不同；不要使用生日或容易猜到的连续数字。"],
+      "tags": ["banking", "cards", "passwords", "security"],
+      "wordAnalysis": {"textZh": "PIN 是 personal identification number 的缩写；PIN number 会重复表达 number。"}
+    },
+    {
+      "id": "banking-one-time-passcode",
+      "term": "one-time passcode",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "一次性验证码",
+      "explanationZh": "只在短时间内或单次验证中有效的数字或字符代码，用来确认登录、付款或敏感操作。",
+      "examples": [{"en": "The bank sent a one-time passcode to confirm the online purchase.", "zh": "银行发来一次性验证码，以确认这笔网上购物。", "scenarioZh": "网上刷卡时完成额外验证"}],
+      "usageNotesZh": ["enter the one-time passcode 表示输入一次性验证码。", "银行工作人员通常不会来电索要你刚收到的验证码；不要把代码告诉他人。"],
+      "tags": ["banking", "verification", "online-security", "payments"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-verification-code",
+      "term": "verification code",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "验证码；验证代码",
+      "explanationZh": "系统用来确认用户身份、联系方式或某项操作的代码，可能通过短信、电子邮件或验证应用发送。",
+      "examples": [{"en": "I did not request this verification code, so I changed my password.", "zh": "我没有请求这个验证码，所以我更改了密码。", "scenarioZh": "收到意外登录验证消息"}],
+      "usageNotesZh": ["request a verification code 表示请求发送验证码。", "若没有发起相关操作却收到代码，应检查账户安全，不要转发代码。"],
+      "tags": ["banking", "verification", "accounts", "online-security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-identity-verification",
+      "term": "identity verification",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "身份验证",
+      "explanationZh": "银行通过身份证件、个人资料或安全步骤确认客户确为本人的过程。",
+      "examples": [{"en": "The teller asked for two pieces of identification for identity verification.", "zh": "柜员要求提供两份身份证明来进行身份验证。", "scenarioZh": "到银行网点办理敏感业务"}],
+      "usageNotesZh": ["complete identity verification 表示完成身份验证。", "银行可能要求政府签发的身份证件，但不应通过不明链接随意上传证件照片。"],
+      "tags": ["banking", "identification", "verification", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-billing-dispute",
+      "term": "billing dispute",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账单争议",
+      "explanationZh": "客户对账单金额、收费项目或付款责任提出异议，并要求商家或金融机构调查处理。",
+      "examples": [{"en": "I opened a billing dispute because the final amount was higher than the receipt.", "zh": "因为最终扣款高于收据金额，我提出了账单争议。", "scenarioZh": "核对信用卡账单时发现收费不符"}],
+      "usageNotesZh": ["open a billing dispute 表示发起账单争议。", "保存收据、订单确认和与商家的沟通记录，以便说明争议原因。"],
+      "tags": ["banking", "billing", "disputes", "consumer-protection"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-declined-transaction",
+      "term": "declined transaction",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "被拒绝的交易；交易失败",
+      "explanationZh": "发卡机构或支付系统没有批准的付款或取款，原因可能包括余额不足、卡片锁定或安全拦截。",
+      "examples": [{"en": "The declined transaction went through after I confirmed it was mine.", "zh": "我确认是本人交易后，那笔先前被拒的付款成功了。", "scenarioZh": "外地消费触发银行安全检查"}],
+      "usageNotesZh": ["the transaction was declined 表示交易被拒绝。", "不要连续多次重试；先确认余额、卡片状态和银行通知。"],
+      "tags": ["banking", "transactions", "cards", "payments"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-duplicate-charge",
+      "term": "duplicate charge",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "重复扣款",
+      "explanationZh": "同一笔购买看起来被收取两次或多次费用的情况，需要先确认是否只是尚未结算的临时记录。",
+      "examples": [{"en": "I contacted the restaurant after noticing a duplicate charge on my card.", "zh": "发现卡上有重复扣款后，我联系了那家餐厅。", "scenarioZh": "用餐后核对信用卡交易记录"}],
+      "usageNotesZh": ["report a duplicate charge 表示报告重复扣款。", "先比较日期、金额和商户名称，并等待未结算记录更新，再按银行流程提出争议。"],
+      "tags": ["banking", "transactions", "billing", "disputes"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-merchant-dispute",
+      "term": "merchant dispute",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "与商家的交易争议",
+      "explanationZh": "持卡人与商家对商品、服务、退款或收费存在分歧，并通过商家或发卡机构寻求解决的情况。",
+      "examples": [{"en": "The bank asked whether I had tried to resolve the merchant dispute directly with the store.", "zh": "银行询问我是否已尝试直接与商店解决这起交易争议。", "scenarioZh": "申请银行卡交易争议处理"}],
+      "usageNotesZh": ["许多争议流程会先要求客户联系商家。", "merchant dispute 与盗刷不同：前者通常认识该商家，但对交易结果有异议。"],
+      "tags": ["banking", "merchants", "disputes", "consumer-protection"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-provisional-credit",
+      "term": "provisional credit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "临时贷记；争议调查期间的暂时退款",
+      "explanationZh": "金融机构在争议调查完成前暂时退回账户的金额，调查结果不同，这笔金额可能保留或被撤回。",
+      "examples": [{"en": "The provisional credit will remain in my account while the bank reviews the dispute.", "zh": "银行审查争议期间，这笔临时贷记会留在我的账户里。", "scenarioZh": "查看争议交易的暂时退款"}],
+      "usageNotesZh": ["receive provisional credit 表示收到临时贷记。", "provisional 表示暂定，并不代表争议已经最终裁定。"],
+      "tags": ["banking", "disputes", "credits", "transactions"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-account-statement",
+      "term": "account statement",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "账户对账单",
+      "explanationZh": "按一定周期汇总账户余额、交易、费用和利息等信息的正式记录，可为纸质或电子版本。",
+      "examples": [{"en": "I downloaded the account statement for my rental application.", "zh": "我下载了账户对账单，用于租房申请。", "scenarioZh": "向房东提供资金证明材料"}],
+      "usageNotesZh": ["monthly account statement 表示月度账户对账单。", "分享对账单前，应确认接收方是否需要完整账号，并妥善遮盖无关敏感信息。"],
+      "tags": ["banking", "statements", "documents", "records"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-overdraft-fee",
+      "term": "overdraft fee",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "透支费",
+      "explanationZh": "账户余额不足却仍获准完成付款时，银行可能收取的费用；具体规则取决于账户和透支安排。",
+      "examples": [{"en": "I was charged an overdraft fee when the automatic payment exceeded my balance.", "zh": "自动扣款超过账户余额时，我被收取了透支费。", "scenarioZh": "查看支票账户的月度费用"}],
+      "usageNotesZh": ["be charged an overdraft fee 表示被收取透支费。", "它与付款被拒后可能产生的其他费用不同，应查看账户协议中的收费条件。"],
+      "tags": ["banking", "fees", "overdraft", "budgeting"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-direct-deposit-alert",
+      "term": "direct deposit alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "直接存款到账提醒",
+      "explanationZh": "工资、福利或其他直接存入账户的款项到账时发出的通知。",
+      "examples": [{"en": "My direct deposit alert confirmed that my pay had arrived this morning.", "zh": "直接存款到账提醒确认我的工资今天早上已经到账。", "scenarioZh": "发薪日确认工资入账"}],
+      "usageNotesZh": ["direct deposit 常用于工资和政府款项自动入账。", "提醒没有按时出现时，应查看账户记录，并分别向付款方和银行核实。"],
+      "tags": ["banking", "direct-deposit", "income", "notifications"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-withdrawal-alert",
+      "term": "withdrawal alert",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "取款提醒；资金转出提醒",
+      "explanationZh": "账户发生现金提取或符合设定条件的资金转出时发送的通知。",
+      "examples": [{"en": "I received a withdrawal alert for an ATM I had never used.", "zh": "我收到了一条取款提醒，地点是一台我从未使用过的自动柜员机。", "scenarioZh": "发现可能存在的异常取现"}],
+      "usageNotesZh": ["ATM withdrawal alert 特指自动柜员机取款提醒。", "不认识该笔取款时，应立即锁卡并通过官方渠道联系银行。"],
+      "tags": ["banking", "withdrawals", "notifications", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-spending-limit",
+      "term": "spending limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "消费限额",
+      "explanationZh": "卡片或账户在特定时间、交易类型或金额范围内允许用于消费的上限。",
+      "examples": [{"en": "I lowered the spending limit on the extra card used by my teenager.", "zh": "我调低了孩子使用的附属卡消费限额。", "scenarioZh": "管理家庭附属卡的消费权限"}],
+      "usageNotesZh": ["set or change a spending limit 表示设置或更改消费限额。", "消费限额不一定等于信用额度，某些交易还可能受单笔或每日限制。"],
+      "tags": ["banking", "cards", "limits", "budgeting"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-daily-limit",
+      "term": "daily limit",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "每日限额",
+      "explanationZh": "某类操作在一天内允许累计达到的最高金额或次数，例如取款、转账或刷卡消费上限。",
+      "examples": [{"en": "The transfer failed because I had already reached my daily limit.", "zh": "转账失败了，因为我已经达到每日限额。", "scenarioZh": "支付大额押金时遇到转账限制"}],
+      "usageNotesZh": ["reach the daily limit 表示达到每日限额。", "临时提高限额可能需要额外身份验证，而且不会对所有交易类型同时生效。"],
+      "tags": ["banking", "limits", "transfers", "payments"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-card-number",
+      "term": "card number",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行卡号",
+      "explanationZh": "印在或显示于银行卡上的主要识别号码，用于处理付款，但不能单独证明持卡人身份。",
+      "examples": [{"en": "Do not send your full card number in an unencrypted email.", "zh": "不要在未加密的电子邮件中发送完整银行卡号。", "scenarioZh": "向商家客服说明付款问题"}],
+      "usageNotesZh": ["last four digits of the card number 表示卡号末四位。", "客服核对时通常不应要求你通过短信或邮件提供完整卡号和密码。"],
+      "tags": ["banking", "cards", "payments", "data-security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-cvv",
+      "term": "CVV",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "银行卡安全码",
+      "explanationZh": "银行卡上用于无卡支付验证的短数字代码，通常与卡号和有效期一起用于网上或电话付款。",
+      "examples": [{"en": "The checkout page asks for the CVV after the card number and expiry date.", "zh": "结账页面在卡号和有效期之后要求填写银行卡安全码。", "scenarioZh": "在可信网站上使用信用卡付款"}],
+      "usageNotesZh": ["不要把安全码与银行卡密码混淆，也不要向主动来电者透露。", "正规商家处理付款时可能要求输入该代码，但不应在聊天消息中长期保存它。"],
+      "tags": ["banking", "cards", "online-shopping", "security"],
+      "wordAnalysis": {"textZh": "CVV 是 card verification value 的缩写，用于无卡支付时的附加验证。"}
+    },
+    {
+      "id": "banking-chip-and-pin",
+      "term": "chip and PIN",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "插卡并输入密码的付款方式",
+      "explanationZh": "把带芯片的银行卡插入终端，并输入个人密码来完成身份验证和付款的方式。",
+      "examples": [{"en": "The terminal asked me to use chip and PIN instead of tapping.", "zh": "付款终端让我插卡输密码，而不是感应支付。", "scenarioZh": "感应支付未通过后改用插卡"}],
+      "usageNotesZh": ["use chip and PIN 表示使用芯片卡并输入密码付款。", "输入密码时应遮挡键盘；终端异常或卡片被吞时要立即联系商家和银行。"],
+      "tags": ["banking", "cards", "payments", "security"],
+      "wordAnalysis": {"textZh": ""}
+    },
+    {
+      "id": "banking-mobile-wallet",
+      "term": "mobile wallet",
+      "partsOfSpeech": ["noun"],
+      "definitionZh": "手机电子钱包；移动钱包",
+      "explanationZh": "在手机或其他移动设备中安全保存付款凭据，并通过设备进行感应或线上支付的功能。",
+      "examples": [{"en": "I added my new credit card to my mobile wallet after activating it.", "zh": "激活新信用卡后，我把它添加到了手机电子钱包。", "scenarioZh": "换卡后更新手机付款方式"}],
+      "usageNotesZh": ["add a card to a mobile wallet 表示把银行卡加入手机电子钱包。", "启用设备锁和远程查找功能；手机遗失时应及时保护设备和钱包账户。"],
+      "tags": ["banking", "mobile-payments", "cards", "technology"],
+      "wordAnalysis": {"textZh": ""}
+    }
+  ]
+}
